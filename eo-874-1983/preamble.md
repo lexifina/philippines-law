@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, in the implementation of its Export Industry Modernization Program, the Technology Resource Center conceived with the Province of Cavite and the Municipality of Carmona and agreed on the development and subdivision of a parcel of land in Carmona, Cavite into a manufacturing site/complex for light export-oriented industries known as the People's Technology Complex ("PTC") which land has a development area of 52.9894 hectares, more particularly described in Annex "A" hereto attached and made part hereof and hereinafter referred to as the "PTC Area." The said parcel of land has been originally registered under the name of the Municipality of Carmona, Cavite, Province of Cavite under Original Certificate of Title No. 0-2018 and subsequently under Transfer Certificate of Title No. T-131298 of the Registry of Deeds of Trece Martires City.
+WHEREAS, the PTC Area is designed as a technology terminal for the application of improved production technologies and for the location of service facilities common to the said industries, and thus:
+(1) generate employment opportunities and upgrade the manpower and livelihood skills for the residents of the Municipality of Carmona and the Province of Cavite;
+(2) generate investments in the area in the amount of P500 million;
+(3) accelerate the growth of labor-intensive and export oriented small and medium scale industries utilizing substantial domestic raw materials;
+(4) promote the relocation and dispersal of industrial firms from the Metro Manila Centers to regional locations with access to necessary infrastructure facilities.
+WHEREAS, under the provisions of Presidential Decree No. 526 and Executive Order No. 708 the disposal of real properties belonging to the Government is subject to the approval of the President.
+NOW, THEREFORE, by virtue of the powers vested in me by the Constitution and the laws, I, FERDINAND E. MARCOS, President of the Philippines do hereby order and direct:
