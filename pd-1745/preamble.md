@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, numerous cases of simple illegal possession of firearm, ammunition or explosive either are under investigation, or have been filed in court, or have resulted in conviction and sentence;
+WHEREAS, reports from the law enforcement agencies further reveal that there are still a big number of loose or unlicensed firearms, ammunition or explosives in the possession of individuals a majority of whom, not having used such contraband for the commission of any other offense or offenses, may be desirous of surrendering the same but are prevented from doing so for fear of being punished in accordance with current laws;
+WHEREAS, in order to give the aforementioned holders of loose or unlicensed firearms, ammunition or explosives the opportunity to dispose of the same without incurring criminal liability, it is necessary to adopt a liberal scheme for the purpose;
+NOW, THEREFORE, 1, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:
