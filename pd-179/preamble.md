@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the Cultural Center of the Philippines was created by Presidential Decree No. 15 dated October 5, 1972, to implement more effectively and vigorously the constitutional injunction that arts and letters shall be under the patronage of the State; and
+WHEREAS, to enable the Center to carry out these cultural objectives, it must have the authority to raise funds by public patronage through the medium of flotation of bonds or other forms of indebtedness;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, in order to promote, enhance and develop Philippine culture, do hereby order and decree as follows:
