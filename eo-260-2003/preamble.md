@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Philippines is a Contracting Party to the Basic Agreement on the ASEAN Industrial Cooperation Scheme (AICO) signed in Singapore on 27 April 1996;
+WHEREAS, the Philippines is a participating country in the approved AICO Arrangements of Honda Cars Philippines, Inc. (HCPI) along with Thailand and Malaysia;
+WHEREAS, under the Honda AICO Arrangement, the Philippines (Honda Cars Philippines, Inc.) will import from Thailand (Honda Automobile (Thailand) Co. Ltd.) and Malaysia (Honda Malaysia Sdn. Bhd.) certain original equipment manufacture (OEM) automotive parts/components for Honda Civic passenger cars (HS 8703.90.10). In exchange, Thailand and Malaysia will import from the Philippines complementary parts/components for the (OEM) of Honda Civic, Honda City, Honda Accord and CR-V;
+WHEREAS, AICO Certificate of Eligibility Nos. Honda/2003/27 and Honda/2003/29 were issued on 11 and 29 August 2003, respectively, in favor of the participating companies in the Honda AICO Arrangement;
+WHEREAS, in consonance with Articles 5 and 7 of the Basic Agreement of the AICO Scheme, participating companies in the approved Honda AICO Arrangements shall qualify for 0-5% preferential tariff rates to be extended by Thailand, Malaysia and the Philippines as participating countries
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, pursuant to the powers vested in me by law, do hereby order::
