@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, it is declared policy of the state to promote the integrated growth and development of the grains industry so as to provide adequate and continuous food supply to the nation and contribute to the national economy;
+WHEREAS, to carry out and implement the foregoing policy, Presidential Decree No. 4 was promulgated creating the National Grains Industry Development Administration, otherwise known as the National Grains Authority, hereafter referred to as the Authority;
+WHEREAS, despite the various measures adopted to attain self-sufficiency in rice, corn and other grains, it appears that the private sector is somewhat lukewarm or slow to engage in the production of such grains, especially so in the light of the problems and difficulties arising from the large-scale production of such grains and the development of virgin and undeveloped lands;
+WHEREAS, the government spends a big sum of money every year in the importation of rice and/or corn, which amount could be used to accelerate the integrated growth and development of the grains industry in the country;
+WHEREAS, it is deemed necessary that the Authority take a more active and dynamic part in the current national effort to attain self-sufficiency in rice, corn and other grains; and
+WHEREAS, recent developments and continuing scientific and technological studies on grains production, processing and marketing have revealed that the foregoing policy will best be attained by vesting the Authority with supplementary responsibilities and powers;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree that Presidential Decree No. 4 be amended as follows:
