@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Special Provisions in the GAA for the National Stud Farm for FY 2000 mandates that the amounts appropriated for the NSF shall be used to wind up its activities and operations, including the separation and retirement benefits of all affected officials and employees; and, that any deficiency in the amount for payment of terminal leave and retirement gratuity benefits shall be taken from the Miscellaneous Personnel Benefits Fund;
+WHEREAS, Republic Act No. 6656 recognizes the need to protect the security of tenure of civil service officers and employees in the reorganization process without sacrificing the promotion of morale, efficiency, integrity, responsiveness, progressiveness, and courtesy in the civil service, pursuant to Article IX, B, Section 3 of the Constitution;
+WHEREAS, the winding up of the NSF and the final disposition of its personnel, assets and liabilities require inter-agency coordination for its smooth and orderly implementation;
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by law do hereby order:
