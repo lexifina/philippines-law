@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, it is the Government's policy to rationalize and streamline the livelihood sector to be able to provide a comprehensive livelihood program and services to the poor;
+WHEREAS, the Department of Agriculture (DA), created primarily to improve farm income and generate work opportunities for farmers, fishermen and other rural workers, is the lead agency for the Government's food security program;
+WHEREAS, the Livelihood Corporation (Executive Order No. 866, s. 1983), the Human Settlements Development Corporation (Presidential Decree No. 1386, s. 1973) and their subsidiaries (i.e. National Agri-Business Corporation, Northern Foods Corp., Philippine Genetics, Inc., etc.) are all engaged in agri-related livelihood undertakings catering to the needs of the underprivilege sector;
+WHEREAS, the transfer of LIVECOR AND HSDC including their subsidiaries under the direct supervision and control of the DA shall strengthen government's capability to provide livelihood and other support services to the farmers, fishermen and other rural workers through a more cohesive coordination among these agencies;
+WHEREAS, LIVECOR and HSDC are attached to the Office of the Executive Secretary by virtue of Executive Order No. 21 dated 27 August 1998;
+WHEREAS, one of the offices under LIVECOR is the Guarantee Fund for Small and Medium Enterprises (GFSME);
+WHEREAS, the GFSME of LIVECOR and the Small Business Guarantee and Finance Corporation (SBGFC) which is attached to the Department of Trade and Industry undertake homogeneous functions;
+WHEREAS, under Section 31, Chapter 10, Book III of the Administrative Code of 1987, the President of the Philippines has continuing authority to reorganize the administrative structure of the Office of the President and may transfer any agency under the Office of the President to any other department or agency.
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
