@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, the periods within which arrested persons shall be delivered to the judicial authorities as provided in Article 125 of the Revised Penal Code, as amended, are on occasions inadequate to enable the government to file within the said periods the criminal information against persons arrested for certain crimes against national security and public order and allied offenses;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, and in the interest of national security as well as of public safety and order, do hereby decree and order as part of the law of the land the following further amendment to Article 125 of the Revised Penal Code, as amended:
