@@ -1,0 +1,2 @@
+# Preamble
+By virtue of the powers vested in me by section 3 of Republic Act No. 509, entitled "An Act declaring national policy, authorizing the President of the Philippines for a limited period to fix ceilings prices of commodities and to promulgate rules and regulations regarding prices of commodities to effectuate such policy, and authorizing the appropriation of a certain sum for the purpose," and upon the recommendation of the Price Administration Board, I, Elpidio Quirino, President of the Philippines, do hereby order:
