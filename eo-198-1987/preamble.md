@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, Section 5(2), Article VI of the 1987 Constitution provides, that: "The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list. For three consecutive terms after the ratification of this Constitution, one-half of the seats allocated to party-list representatives shall be filled, as provided by law, by selection or election from the labor, peasant, urban poor, indigenous cultural communities, women, youth, and such other sectors as may be provided by law, except the religious sectors";
+WHEREAS, Section 7, Article XVIII of the 1987 Constitution states, "Until a law is passed, the President may fill by appointment from list of nominees by the respective sectors the seats reserved for sectoral representation in paragraph (2), Section 5 of Article VI of this Constitution";
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:
