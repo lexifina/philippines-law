@@ -1,0 +1,3 @@
+# Preamble
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+SECTION l. Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution there is granted to the Community Cooperative Service Association, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system in the Municipality of Cabatuan, Province of Iloilo.
