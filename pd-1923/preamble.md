@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is the declared national policy that slum improvement and sites and services program is the primary strategy for dealing with slums, squatter areas and other blighted communities in urban areas in order to achieve affordable and replicable housing schemes for the urban poor;
+WHEREAS, the National Housing Authority, as the lead agency of the Ministry of Human Settlements in the implementation of slum improvement and sites and services program, has disposed either by sale with mortgage, lease/ award or by other modes of disposition, residential lots/ dwelling units to qualified marginal and low-income beneficiaries;
+WHEREAS, these qualified beneficiaries have suffered economic dislocation as a consequence of the prevailing recession;
+WHEREAS, under a compassionate society, humanization of laws through government intervention is necessary to alleviate the suffering of the poor and allow them, a fair chance to stabilize their economic situations so that they can eventually meet their financial obligations;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution of the Philippines, do hereby order and decree:
