@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is the policy of the state that the national interest in both the maintenance of economic stability and the promotion of economic development is best served by a system of financial intermediation that places primary reliance on the private sector, on the market mechanism, and on the maintenance of conditions of compensation;
+WHEREAS, within the context of the general policy there nevertheless exists a clear role for direct government participation in the banking system, particularly in servicing the requirements of agriculture, small and medium scale industry, export development, and the government sector;
+WHEREAS, in pursuit of this national policy there is need to restructure the government financial institutions, particularly the Philippines National Bank, to achieve a more efficient and effective use of available scarce resources, to improve its viability, and to avoid unfair competition with the private sector; and
+WHEREAS, the reorganization and rehabilitation of the Philippine National Bank into a smaller but stronger and more operationally viable bank is an important component of the nationalization programs for both the financial system and the government corporate sector;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, do hereby order:
