@@ -1,0 +1,5 @@
+# Preamble
+Whereas L. M. Maus, lieutenant-colonel, United States Army, when Commissioner of Public Health for the Philippine Islands, became accountable for certain public civil property; and
+Whereas said property was used for the purpose of combating bubonic plague and Asiatic cholera and in the interest of the public service; and in view of the fact that a committee convened by direction of the Civil Governor, under date of August twenty-fifth, nineteen hundred and two, for the purpose of investigating, reporting upon, and making an inventory of all public civil property for which L. M. Maus, late Commissioner of Public Health, was chargeable, has recommended that he be held accountable for the loss of certain nonexpendable public civil property; and
+Whereas in the opinion of the Commission the loss of the property was incident to a cholera epidemic and to conditions over which the said L. M. Maus had no control, and that the circumstances justify specific authorization for a credit in his accounts: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
