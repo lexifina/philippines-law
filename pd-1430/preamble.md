@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, national development in the context of the New Society is measured in terms of the fulfillment of each Filipino's aspiration for a better life;
+WHEREAS, the enjoyment of a decent and adequate shelter with the appropriate community services and facilities has been and continues to be the aspiration of the mass of Filipino families;
+WHEREAS, the Government is committed to bring the benefits of the New Society to the people through the provision of adequate housing and in this direction, the Government has formulated a National Housing Program under the Five-Year Philippine Development Plan, otherwise known as the Presidential Decree No. 1200, to deliver and answer this commitment;
+WHEREAS, the meaningful fulfillment of this commitment demands investments of funds, and other resources of government, as well as the concerted effort of government agencies;
+WHEREAS, pursuant to Presidential Decree No. 757, the National Housing Authority is the principal agency tasked with providing and maintaining adequate housing for the greatest number of people, undertaking housing development and resettlement and harnessing and promoting private participation in housing;
+WHEREAS, the National Housing Program as mandated by Presidential Decree No. 757 and as formulated in the Five-Year Philippine Development Plan is slanted toward the provision of adequate housing for the marginal and low-income families in the slums, squatter areas and other blighted communities in urban centers of the country, which families require government subsidies to have access to even minimum community services and facilities;
+WHEREAS, the primary approach to housing development particularly for the marginal and low-income families, is toward the participation of all national and local government agencies concerned;
+WHEREAS, there is a need to provide a source of funds for the participation of such national and local government agencies in housing;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
