@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Presidential Decree No. 187 prescribed the metric system as the sole standard of weights and measures to be used throughout the Philippines starting January 1, 1975 for all products, commodities, materials, utilities, services and in all business and legal transactions;
+WHEREAS, while metric conversion is already being done in areas where it is readily feasible, many industrial, agricultural, trade, educational and other economic, social and cultural sectors require more time to adjust their machinery, equipment, inventories, supplies, products, operational, administrative and marketing systems;
+WHEREAS, metrication involves not merely conversion from the English and other systems of weights and measures to the metric system but also standardization in metric packaging patterns for better consumer protection and facility in manufacturing and international and domestic trading;
+WHEREAS, it is desirable to effect such reforms in our way of life in an expeditious but orderly and inexpensive manner;
+WHEREAS, there is need to extend the operations of the Metric System Board and to provide adequate administrative, financial and other support for country-wide metrication;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following amendments to Presidential Decree No. 187:
