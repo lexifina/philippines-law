@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the results of the general revision of real property assessments undertaken by Provincial and City Assessor throughout the country in 1973 pursuant to Presidential Decree No. 76, which took effect on January 1, 1974, showed marked increases in the assessed valuations of such properties as compared to those subsisting in 1973;
+WHEREAS, the consequence of such increases in real property assessments was a concommitant increase in real property taxes which property owners, especially those belonging to, the low and middle-income groups, find burdensome in the face of the rising costs of living precipitated by worldwide inflation;
+WHEREAS, confronted with such a dilemma, the taxpayers expect the government to adopt measures which would ease the burden of taxation and thereby alleviate the financial difficulties of the great majority;
+WHEREAS, not unmindful of the situation, the financial and economic advisers of the country consider it imperative to recommend a gradual increase of the real property tax by delimiting the yearly maximum increase of real property assessments beginning with the third quarter of calendar year 1974;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me under the Constitution do hereby decree and order as part of the law of the land the following:
