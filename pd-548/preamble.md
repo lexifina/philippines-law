@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, under Section 2 of Presidential Decree No. 458, only three (3) major services were provided as services units under the Office of the Secretary of Public Highways, namely: the Planning Service, the Administrative Service, and the Financial and Management Service;
+WHEREAS, it is deemed necessary to create a Project Execution Service, which shall undertake the evaluation of the performance of the different offices and units under the Department, check the progress of work on projects, undertake fiscal analysis of the expenditures of public works funds, as well as monitor and update necessary and relevant data on construction work in order to keep the Secretary well posted on the current status of on-going projects;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order:
