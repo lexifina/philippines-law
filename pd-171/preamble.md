@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Presidential Decree No. 5 of September 27, 1972 amending the Charter of the Philippine National Bank, adopted and approved into law, House Bill No. 2483, which was pending before Congress at the time of the promulgation of the Proclamation No. 1081 dated September 21, 1972;
+WHEREAS, Presidential Decree No. 5 was amended by Presidential Decree No. 64 to incorporate certain changes and modifications, particularly certain proposals recommended in the report of an official banking survey commission;
+WHEREAS, the Bank Charter needs further amendment and modification in order that it can carry out its assigned role in the economic development of the country under the program of the New Society;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, Commander-in-Chief of all the Armed Forces of the Philippines, pursuant to Proclamation No. 1081, dated September 21, 1972, as amended and in order to effect desired changes and reforms in the social, economic and political structures of our society, do hereby order and decree as follows:
