@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, under Section 1, paragraph 2, Article XVIII of the 1987 Constitution, the first local elections shall be held on a date to be determined by the President;
+WHEREAS, in Proclamation No. 94, dated April 14, 1987, the date of the first local elections under the 1987 Constitution has been set on August 24, 1987; and
+WHEREAS, after conducting a public hearing and consultations on the matter, and considering that up to the present, the Commission on Elections is still occupied with the national canvass of the result of the May 11, 1987 elections for Senators and Representatives, leaving less than two (2) months for the extensive preparations required for said local elections, involving more than 16,000 local officials, the Commission on Elections has recommended that said date of the local elections be reset to November, 1987;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby amend Proclamation No. 94 and hereby order that:
