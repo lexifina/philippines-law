@@ -1,0 +1,3 @@
+# Preamble
+Be it enacted by the National Assembly of the Philippines:
+SECTION l. The provisions of Act Numbered One thousand six hundred and thirty-eight, as amended, are hereby declared inoperative as of November first, nineteen hundred and thirty-six. The Government Service Insurance Board is hereby authorized and directed to liquidate the Pension and Retirement Fund of the Philippine Constabulary created by said Act Numbered One thousand six hundred and thirty-eight, as amended, immediately upon the approval of this Act, or as soon thereafter as may be practicable, but for the purposes of this Act, said liquidation shall be deemed to have been effected as of November first, nineteen hundred and thirty-six.
