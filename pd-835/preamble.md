@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, Presidential Decree No. 823 was intended, among other things, to regulate, in the interest of national security and sovereignty, the. activities of aliens and foreign organizations in relation to trade union activities, including friends of the country whose concern for the welfare of Filipino workers is deeply appreciated; and
+WHEREAS, it has been found necessary on the basis of tripartite consensus of government, labor and management, to reflect more clearly the spirit and intention of Presidential Decree No. 823 in this regard and to provide in unequivocal terms the appropriate punitive sanctions to be imposed for violations of the provisions of said Presidential Decree.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows:
