@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, it is the avowed aim of the government to promote Philippine Tourism and work for its accelerated and balanced growth as well as for economy and expediency in the development of the tourism plant of the country;
+WHEREAS, in pursuit of this aim the Department of Tourism was created under Presidential Decree No. 189 as the primary policy, planning, programming, coordinating and administrative entity of the government in the development of the tourism industry, with the Philippine Tourism Authority attached to it to plan and implement specific tourism development projects; and
+WHEREAS, there is urgent need to restructure and strengthen the Philippine Tourism Authority to place it in a better position to effectively unify and integrate related activities and services of both government and private entities pertaining to tourism development projects.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, de hereby decree and order the following to be the Revised Charter of the Philippine Tourism Authority:
