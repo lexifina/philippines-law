@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the resources of government institutions such as the Philippine National Bank, Philippine Veterans Bank, Development Bank of the Philippines, National Development Company, and the Philippine Export and Foreign Loan Guarantee Corporation among others have been dissipated by "behest" loan guarantees, credits and other financial accommodations obtained by persons and corporations associated with former President Ferdinand E. Marcos.
+WHEREAS, it is imperative that a thorough investigation be conducted to determine the liability, whether civil of criminal, of individuals and corporations involved in the grant and/or acquisition of these loans and to prosecute those responsible therefore:
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution of the Republic, do hereby order:
