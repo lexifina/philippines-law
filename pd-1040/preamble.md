@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, under the provisions of the Code of Agrarian Reforms, agricultural share tenancy in private agricultural lands covered by Presidential Decree No. 27 with the exceptions and/or qualifications provided for therein, has been declared contrary to public policy and automatically converted into agricultural leasehold;
+WHEREAS, Presidential Decree No. 2 proclaimed the whole country as a land reform area;
+WHEREAS, notwithstanding such provisions in the Code of Agrarian Reforms and Presidential Decree No. 2, many landowners landholders, civil law lessees, legal possessors, usufructuaries of tenanted private agricultural lands, including persons acting for and in their behalf still insist that the cropsharing system govern the tenancy relationship between them and their tenants;
+WHEREAS, the penal provisions of the Code of Agrarian Reforms are inadequate to enforce full compliance with the declared policy on leasehold, and therefore, it is imperative to strengthen said penal provisions by including therein, landholders, civil law lessees, legal possessors, usufructuaries, or persons acting for and in their behalf, and by imposing stiffer penalties;
+WHEREAS, the continuation of the feudal agricultural share tenancy system adversely impedes and obstructs the implementation of the Agrarian Reform Program of the New Society.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:
