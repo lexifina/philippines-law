@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the primary responsibility for the preservation of peace, order and security of the country rests on the members of the Armed Forces of the Philippines and the Integrated National Police who are increasingly exposed to dangers to life and limb in their tasks of suppressing the activities of insurgents and lawless elements;
+WHEREAS, it is necessary to provide increased group insurance coverage for members of the Armed Forces of the Philippines and the Integrated National Police as a measure of financial amelioration for their dependents and to maintain their efficiency while performing their aforementioned tasks;
+WHEREAS, the Special Group Term Insurance coverage for members of the Armed Forces of P6.000.00 is very inadequate for the protection and security of the members and their family in view of the present high cost of living.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
