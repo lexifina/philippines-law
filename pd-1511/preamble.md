@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the New Constitution mandates the standardization of compensation of government officials taking into account the nature of the responsibilities pertaining to, and the qualifications required for, the positions concerned;
+WHEREAS, in line with the provisions of the Constitution, the policy of the government, within the limitation of available funds, has been to update compensation schemes of officials and employees so as to maximize efficiency and to enable them to cope with increasing costs of living;
+WHEREAS, the present salaries of the Chairman of the Civil Service Commission, Commission on Elections, and the Commission on Audit at P60,000, P62,400 and P60,000 per annum, respectively, have become obsolete and unrealistic considering that the activities and responsibilities of these Constitutional Commission have increased in volume and significance, in consonance with the increasing complexity of the activities of the government as a whole;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:
