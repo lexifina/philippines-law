@@ -1,0 +1,2 @@
+# Section 5-A
+SEC. 5-A. Qualifications of the members of the provincial board other than the governor and vice-governor.— person shall fee elected member of the provincial board other than the governor and the vice-governor unless, at the time of his election, he is a qualified voter of the province and has been a bona-fide resident therein for at least one year prior to his election and not less than twenty-three years of age.
