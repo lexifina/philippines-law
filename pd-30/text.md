@@ -1,0 +1,6 @@
+# Text
+WHEREAS, there is a need to ensure the continuous and even flow of revenue collection in order to provide ready financing for essential Government operations and projects;
+WHEREAS, in order to achieve that desired end it is necessary to introduce a new system of income tax payment on a quarterly basis that is both advantageous to the Government and to the taxpayer; and
+WHEREAS, there was pending before Congress before the promulgation of Proclamation No. 1081, dated September 21, 1972, a bill on the subject, entitled "AN ACT AMENDING THE NATIONAL REVENUE CODE, AS AMENDED, BY ADDING ANOTHER SUPPLEMENT, TO BE KNOWN AS "SUPPLEMENT B," TO TITLE II (INCOME TAX), BY PLACING CORPORATIONS ON A TAX WITHHOLDING SYSTEM" and denominated as H. B. No. 5480;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby decree that H. B. No. 5480 is hereby adopted, approved and made as part of the law of the land.
+This Decree shall take effect immediately,
