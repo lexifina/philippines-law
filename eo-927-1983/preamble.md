@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the land and the waters of the Laguna Lake Region are limited natural resources requiring judicious management for their optimal utilization to insure renewability and to preserve the ecological balance;
+WHEREAS, the increasing pressure of urban growth and development dictate the need for a more rational allocation of the limited land and lake resources of the region responsive to the demands of the various beneficial users thereof;
+WHEREAS, the competing options for the use of such resources and conflicting jurisdictions over such uses are creating undue constraints on the institutional capabilities of LLDA in the light of the limited powers vested in it by its charter;
+WHEREAS, for LLDA to effectively perform its role, a thorough corporate reorganization aimed at: regrouping its various units for better administrative control and direction; expansion of its field offices; strengthening of its linkages with other government and private institutions; broadening of its financial base and revenue generations; and, enlarging its prerogatives of monitoring, licensing and enforcement, would be necessary.
+NOW, THEREFOR, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by the Presidential Decree No. 1416, do hereby order and ordain:
