@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, in pursuit of the government's decentralization policy, efforts are directed to make institutions more effective and more responsive to the needs and conditions of local communities by bringing decision making and action at the local level;
+WHEREAS, decentralization shall be effected meaningfully in all aspects of plan implementation;
+WHEREAS, it is imperative to synchronize planning, programming and budgeting and to complement the devolution efforts already ongoing in the institutional processes for development planning and policy formulation, programming, budgeting, with decentralization efforts in plan and project monitoring and evaluation;
+WHEREAS, as a consequence of said policies on decentralization and administrative delegation, Executive Order No. 308, as amended, mandates the Regional Development Councils (RDCs) to monitor, evaluate, and formulate recommendations on the implementation of development plans and programs in the region;
+WHEREAS, there is an urgent need to institutionalize a comprehensive and decentralized project monitoring and evaluation system with the kind of timeliness that is necessary in order to take quick action on problems that are confronted in the implementation of projects at the lowest level;
+WHEREAS, this has been initially effected through the creation of Project Monitoring Committees in the provincial and municipal levels under Memorandum Order No. 175, as amended;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in we by the Constitution, do hereby order the establishment and adoption of the Regional Project Monitoring and Evaluation System (RPMES).
