@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, under Presidential Decree No. 1269, the territorial jurisdiction of the Metropolitan Waterworks and Sewerage System has been extended to Lungsod Silangan, Muntinlupa, and other areas that may come within the development path of the expanding Metropolitan Manila;
+WHEREAS, the continuous growth in terms of population, economic activity, and geographical extent of Metropolitan Manila demands a massive program for the expansion and improvement of its public water supply and sewerage services;
+WHEREAS, there is a consequent need for the Metropolitan Waterworks and Sewerage System to enhance its focus on the premier metropolis of the country and to expand its financial base;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby amend certain sections of the Revised Charter of the Metropolitan Waterworks and Sewerage Authority under Republic Act No. 6234, as .amended by Presidential Decrees No. 425 and 1269, and do hereby decree as part of the law of the land the following:
