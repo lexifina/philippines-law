@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the Medal of Valor is the highest award that may be given a Filipino soldier in recognition of conspicuous acts of gallantry above and beyond the call of duty and in total disregard of personal safety;
+WHEREAS, an awardee of the Medal of Valor, for his supreme self-sacrifice and distinctive act of gallantry, performed more than ordinarily hazardous service and deserves due recognition from a grateful government and people;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended do hereby promulgate this Decree as part of the law of the land.
