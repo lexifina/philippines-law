@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, on April 30, 1986 the Cabinet decided not to operate the Philippine Nuclear Power Plant (PNPP) and created a Committee to study the legal options available to the Philippine Government in connection with such decision;
+WHEREAS, the Senate has created an Ad Hoc Bataan Nuclear Power Plant Committee to study and oversee the policy considerations bearing on any action on the PNPP, in close consultation and coordination with the Cabinet on the PNPP and the House Committee on Energy.
+WHEREAS, Executive Order No. 55, as amended by Executive Order No. 98, transferred the ownership of the PNPP, its equipment, materials, facilities, records and uranium fuel from the National Power Corporation to the National Government, subject to such obligations as may be legally enforceable against the National Government;
+WHEREAS, the statute of limitations, the huge interest payments, and other pressing factors render it imperative and urgent that the Government accelerate, systematize and integrate all its actions in respect to the PNPP; and
+WHEREAS, it is necessary to define the structure, powers and functions of the Cabinet Committee on the PNPP to enable it to implement more effectively and immediately its mandate to study the legal options available to the Philippine Government;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
