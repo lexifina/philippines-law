@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, on July 24, 1964, upon request of the Government of South Vietnam, and in consonance with the stand taken by the Philippine Delegation in the Ninth SEATO Council Meeting held in Manila from April 13 to 15, 1964, the Congress of the Philippines enacted Republic Act Numbered Forty-one hundred sixty-two, authorizing the President of the Philippine to send economic and technical assistance to South Vietnam;
+WHEREAS, the Government of South Vietnam has requested the Philippine Government for more assistance with a view to carrying out socio-economic projects calculated to improve the living conditions of the people in the areas recovered from Communist control;
+WHEREAS, the Government of the Philippine views the said request for more assistance with the utmost sympathy and, in consonance with the stand taken by the Philippine Delegation in the Tenth SEATO Council meeting held in London from May 3 to 5, 1965, is ready within the limits of its capability to continue extending economic and technical assistance to South Vietnam: Now therefore,
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
