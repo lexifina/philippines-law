@@ -1,0 +1,4 @@
+# Preamble
+Whereas by the terms of paragraph two hundred and seventy-six of the Act of Congress of March third, nineteen hundred and five, entitled "An Act to revise and amend the tariff laws of the Philippine Islands, and for other purposes," it is provided that the Philippine Commission may, in its discretion, continue in force the rate of duty first therein stated, until in its opinion the conditions in the Philippine Islands may warrant, the higher rates therein provided; and
+Whereas it appears to the Philippine Commission that the existing conditions in the Philippine Islands do not warrant the higher rates of duty therein provided to take effect on and after January first, nineteen hundred and seven: Therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
