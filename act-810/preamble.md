@@ -1,0 +1,7 @@
+# Preamble
+Whereas David P. Barrows, when superintendent of the public schools of the city of Manila and acting principal of the Normal School, directed the expenditure of one hundred and thirty-two dollars and eighty cents, United States currency, for lunches to be served to six hundred Normal School pupils during the summer vacation term in Manila in order to secure and maintain discipline and attendance and prevent the loss of time in the study of such pupils, believing in good faith that under the general terms of the appropriation for the support of the Normal School he had such authority; and
+Whereas the sum above mentioned was expended in fact and used for the purposes stated and in the interests of the public service; and
+Whereas the Auditor has held that the general terms of the appropriation for the support of the Normal School were not sufficiently broad to authorize such expenditure; and
+Whereas the money for such expenditure was advanced to said David P. Barrows on memorandum receipt by Fred W. Atkinson, then General Superintendent: of Public Instruction, who approved such expenditure and paid the same in his accounts as disbursing officer; and
+Whereas, in the opinion of the Commission, the circumstances justify special authorization and ratification of the expenditure: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
