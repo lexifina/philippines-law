@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, it is essential to grant the monetary authority adequate prerogatives in the management of the country's banking and credit system in the interest of orderly and sustained economic growth;
+WHEREAS, while the Monetary Board of the Central Bank already has the authority under existing law to prescribe interest rate ceilings on the lending operations of banks and non-bank financial intermediaries, it is deemed appropriate to invest it with express authority to also prescribe ceilings on the financial yield from the purchase of receivable or other obligations by the said institutions in the course of their quasi-banking functions;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order to be part of the laws of the land the following:
