@@ -1,0 +1,3 @@
+# Article VI, Section 26
+SECTION 26. (1) Every bill passed by the Congress shall embrace only one subject which shall be expressed in the title thereof.
+(2) No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal.

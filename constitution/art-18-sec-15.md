@@ -1,0 +1,2 @@
+# Article XVIII, Section 15
+SECTION 15. The incumbent Members of the Civil Service Commission, the Commission on Elections, and the Commission on Audit shall continue in office for one year after the ratification of this Constitution, unless they are sooner removed for cause or become incapacitated to discharge the duties of their office or appointed to a new term thereunder. In no case shall any Member serve longer than seven years including service before the ratification of this Constitution.

@@ -1,0 +1,2 @@
+# Article VI, Section 6
+SECTION 6. No person shall be a Member of the House of Representatives unless he is a natural-born citizen of the Philippines and, on the day of the election, is at least twenty-five years of age, able to read and write, and, except the party-list representatives, a registered voter in the district in which he shall be elected, and a resident thereof for a period of not less than one year immediately preceding the day of the election.

@@ -1,0 +1,2 @@
+# Article X, Section 11
+SECTION 11. The Congress may, by law, create special metropolitan political subdivisions, subject to a plebiscite as set forth in Section 10 hereof. The component cities and municipalities shall retain their basic autonomy and shall be entitled to their own local executives and legislative assemblies. The jurisdiction of the metropolitan authority that will hereby be created shall be limited to basic services requiring coordination.

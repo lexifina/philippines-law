@@ -1,0 +1,2 @@
+# Article XII, Section 6
+SECTION 6. The use of property bears a social function, and all economic agents shall contribute to the common good. Individuals and private groups, including corporations, cooperatives, and similar collective organizations, shall have the right to own, establish, and operate economic enterprises, subject to the duty of the State to promote distributive justice and to intervene when the common good so demands.

@@ -1,0 +1,2 @@
+# Article VI, Section 32
+SECTION 32. The Congress shall, as early as possible, provide for a system of initiative and referendum, and the exceptions therefrom, whereby the people can directly propose and enact laws or approve or reject any act or law or part thereof passed by the Congress or local legislative body after the registration of a petition therefor signed by at least ten per centum of the total number of registered voters, of which every legislative district must be represented by at least three per centum of the registered voters thereof.

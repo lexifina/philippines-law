@@ -1,0 +1,2 @@
+# Article XII, Section 4
+SECTION 4. The Congress shall, as soon as possible, determine by law the specific limits of forest lands and national parks, marking clearly their boundaries on the ground. Thereafter, such forest lands and national parks shall be conserved and may not be increased nor diminished, except by law. The Congress shall provide, for such period as it may determine, measures to prohibit logging in endangered forests and watershed areas.

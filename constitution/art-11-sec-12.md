@@ -1,0 +1,2 @@
+# Article XI, Section 12
+SECTION 12. The Ombudsman and his Deputies, as protectors of the people, shall act promptly on complaints filed in any form or manner against public officials or employees of the Government, or any subdivision, agency or instrumentality thereof, including government-owned or controlled corporations, and shall, in appropriate cases, notify the complainants of the action taken and the result thereof.

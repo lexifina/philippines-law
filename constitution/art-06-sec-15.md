@@ -1,0 +1,2 @@
+# Article VI, Section 15
+SECTION 15. The Congress shall convene once every year on the fourth Monday of July for its regular session, unless a different date is fixed by law, and shall continue to be in session for such number of days as it may determine until thirty days before the opening of its next regular session, exclusive of Saturdays, Sundays, and legal holidays. The President may call a special session at any time.
