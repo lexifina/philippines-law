@@ -1,0 +1,13 @@
+# Preamble
+WHEREAS, Section 15, Article II, of the Philippine Constitution provides that, "the State shall protect and promote the right to health of the people and instill health consciousness among them";
+WHEREAS, Section 3, Article XV, of the Philippine Constitution provides that, "the State shall defend:
+1. The right of spouses to found a family in accordance with their religious convictions and demands of responsible parenthood;
+2. The right of children to assistance, including proper care and nutrition, and special protection from all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development;
+3. The right of the family to a family wage and income; and
+4. The right of families or family associations to participate in planning and implementation of policies and programs that affect them".
+WHEREAS, to arrest the problem of high infant and maternal mortality, there is a need to implement an earnest Philippine Family Planning Program, emphasizing safe motherhood and child survival;
+WHEREAS, the Philippine Family Planning Program recognizes the constitutional right of all Filipinos to exercise their freedom of conscience as to the number and spacing of their children, as well as the family planning method that is right for them, consistent with their religious and moral beliefs and in consonance with the ideals of a democratic country;
+WHEREAS, Family Planning is a part of nationally mandated priority public health concerns to attain the country's national health and development goals and is a critical component of the Philippine Population Management Program, to achieve population levels conducive to the improvement of individual and family welfare and attainment of sustainable development for Philippines 2000;
+WHEREAS, the national government needs the full support and active involvement of the local government units to implement such a program nationwide;
+WHEREAS, Section 16 of the Local Government Code provides that the local government units be primarily responsible in promoting people's health and safety; Section 17 of the same further provides that the local government units shall be responsible for the provision of basic services and facilities, among which are health services, family planning services, and population development services;
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and R.A. 7160, do hereby direct local chief executives, specifically the governors as well as mayors of component cities and municipalities under their supervision, mayors of highly urbanized cities and independent component cities to:
