@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, appropriate technological development is vital to a more responsive and coordinated planning and implementation of development activities in the Philippines as in other developing countries in the region;
+WHEREAS, the provision of a system of monitoring, design, evaluation and dissemination of appropriate technology is a necessary support to the functions and activities of the production and service sectors;
+WHEREAS, improved effectiveness and efficiency of technical activities in the total development effort of the New Society is enhanced by the establishment of a network of technology and information institutions;
+WHEREAS, recent emphasis has been placed on such priority areas as production methods in agriculture and industry, population control and distribution, health care delivery systems, nutrition care, education, communication, energy research, science and technology transfer and utilization, environmental management, housing construction technology and approaches to urban development, natural disaster prediction, control and moderation, and planning management and decision-making;
+WHEREAS, adequate government action is necessary in these as well as in related areas, for the improvement of our people's livelihood and well-being; and
+WHEREAS, it is necessary to provide the appropriate institutional framework and adequate funds to meet these requirements;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby create and establish a body corporate to be known as the Technology Resource Center, which shall operate in accordance with the following provisions:
