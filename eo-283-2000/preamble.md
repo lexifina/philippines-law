@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Executive Order No. 395 dated January 24. 1997 created the Philippine Council for Productivity (PCP) to oversee the implementation of the National Action Agenda for Productivity to accelerate the country's program for global excellence and international competitiveness;
+WHEREAS, the Council is supported by a Joint Secretariat composed of the Department of Trade and Industry, Department of Labor and Employment/National Wages and Productivity Commission, and the Development Academy of the Philippines al1d headed by the National Economic Development Authority;
+WHEREAS, the Council through its Resolution No. I dated 21 March 1997, created a Technical Committee composed of Undersecretaries or Second-in-Rank officials whose function among others, is to implement and/or facilitate the implementation of policy and operational directives of the PCP;
+WHEREAS, the Council undertook the study entitled "Institutional Structure for Productivity" which recommends that the National Wages and Productivity Commission and the Development Academy of the Philippines comprise the full-time secretariat of the Council, and that an Executive Committee be created to facilitate prompt and more responsive decision making on PCP and other productivity-related matters, thus replacing the existing Technical Committee;
+WHEREAS, the Council approved the above-mentioned recommendations in its meeting last 24 February 2000;
+WHEREAS, there is a need to amend E.O. 395 to implement the above-mentioned changes in the PCP structure;
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by law, do hereby amend Executive Order No. 395, dated January 24. 1997, and order the following:
