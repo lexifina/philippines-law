@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, as provided for under Executive Order No. 574, the Cottage Industry Development Council and the Cottage Industry Development Enterprise were abolished and their functions and resources were transferred to the National Cottage Industries Development Authority;
+WHEREAS, under the same Executive Order, the National Cottage Industries Development Authority was transferred and attached to the Ministry of Industry for policy and program coordination;
+WHEREAS, as a result of these organizational changes, it has become necessary to reconstitute the Board of Directors of the National Cottage Industries Development Authority to provide a mechanism for greater and more effective coordination in terms of policy and program formulation between it and the Ministry of Industry; and
+WHEREAS, under Presidential Decree No. 1416, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416, do hereby order and ordain:
