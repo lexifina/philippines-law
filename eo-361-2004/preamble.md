@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, the Constitution declares as one of its policies that the State recognizes the vital role of the youth in nation-building and that it shall promote and protect their physical, moral, spiritual, intellectual, and social well-being; that the State shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs (Article II, Section 13);
+WHEREAS, the Constitution also declares that the State shall give priority to education in fostering patriotism and nationalism, accelerating social progress, and promoting total human liberation and development (Article II, Section 17);
+WHEREAS, the Constitution further declares that the State shall encourage non-governmental, community-based or sectoral organizations that promote the welfare of the nation (Article II, Section 23);
+WHEREAS, the concerted effort of the government and the non-governmental, community-based or sectoral organizations is necessary to promote, among the public in general and the youth in particular, respect of the rule of law and greater awareness and understanding of its importance as a platform for political reconciliation, economic progress, and national development;
+WHEREAS, promoting respect for and greater awareness and understanding of the rule of law substantially depends on the improvement of the educational system, particularly on the training of educators and on the adequacy of learning materials and resources;
+WHEREAS, the Department of Education fully supports the policies sought to be established herein;
+NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
