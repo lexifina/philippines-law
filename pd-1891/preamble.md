@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under the present economic crisis prevailing in the country, the thrust of government policy and activity is to promote and develop ventures and projects in agri-business;
+WHEREAS, the National Development Company is among the implementing agencies of this policy;
+WHEREAS, the ability of the National Development Company to effectively implement and pursue this policy has been hampered by a legal doubt as to whether the restrictions imposed under Commonwealth Act No. 141, as amended, otherwise known as the Public Land Act, on the acquisition, alienation, encumbrance, repurchase, and utilization of lands acquired under said Act apply as well to government institutions such as the National Development Company;
+WHEREAS, to clarify such legal doubt, it is imperative that the Revised Charter of the National Development Company be amended to enable it to acquire lands registered or applied for registration under the Public Land Act and to utilize the same in implementation of its delegated powers and duties;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution do hereby order and decree the following:
