@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, there is a need to ensure that the development, exploration and utilization of the natural resources of the country shall contribute to its overall development and that the benefits thereof shall accrue to and enhance the general welfare of the Filipino people;
+WHEREAS, in order to attain the above objective, it is necessary that all contracts entered into, concessions, licenses, permits, leases or similar privileges granted or issued by any government agency or instrumentality for the exploration, development exploitation or utilization of any of the natural resources of the country should contain provisions that shall guarantee close administrative supervision and control over their implementation;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:
