@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, criminal administration of justice against forestry law violators should be speedily dispensed with the "Revised Forestry Code of the Philippines" further strengthened by making it more responsive to present realities;
+WHEREAS, it is of common knowledge that only few criminal cases are being filed against violators of the forestry laws, rules and regulations because of the apparent lack of manpower in the prosecuting arm of the Bureau of Forestry Development which predicament could not be feasibly augmented due to the present economic situation of the country;
+WHEREAS, Section 80 of the "Revised Forestry Code of the Philippines", or any other law, rule and regulation does not authorize members of the Philippine Constabulary/Integrated National Police to file complaints against forestry law violators except-when they are lawfully deputized by the Minister of Agriculture and Natural Resources pursuant to the said Code;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the pothers vested in me by the Constitution, do hereby decree that:
