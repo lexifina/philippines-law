@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Republic Act No. 8180, otherwise known as the "Downstream Oil Industry Deregulation Act of 1996", provides for the deregulation of all activities of the downstream oil industry in the country to foster competitive market and achieve the social policy objectives of fair prices and adequate, continuous supply of environmentally-clean and high-quality petroleum products;
+WHEREAS, the effective and efficient administration of the deregulated local downstream oil industry involves the participation and coordination of various agencies as required under the Implementing Rules and Regulations of the Act;
+WHEREAS, there is need to provide an institutional framework for the administration of the industry in order to define and delineate the functions and responsibilities of these agencies.
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Republic of the Philippines, by the powers vested in me by law, do hereby establish the delineation of agency functions and responsibilities as the institutional framework for the administration of the deregulated local downstream oil industry;
