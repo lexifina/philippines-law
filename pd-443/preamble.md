@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Paragraph (a-1) of Section 6 of Republic Act Numbered 1789, as last amended by Presidential Decree No. 332, requires private applicant end-users to pay a cash down payment of ten (10%) percent of the value of the project applied for as one of the conditions for the issuance of procurement order;
+WHEREAS, the private applicant end-users find said ten (10%) percent cash down payment to be a big drain of their finances which are needed for the initial investment in the preparatory works for their projects, and have requested a reduction of said cash down payment; and
+WHEREAS, the requested reduction in the cash down payment would greatly help said applicant end-users in successfully putting up their projects which will eventually contribute to the national economy;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the amendment of Paragraph (a-l) of Section 6 of Republic Act No. 1789, as amended, as follows:
