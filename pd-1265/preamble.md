@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the national government is aware of the continuing deterioration of the traffic situation in Metro Manila brought about by rapid urbanization, increasing population thru migration and concentration of socio-economic activities;
+WHEREAS, the national government is cognizant of the fact that traffic problem in the area are at present being tackled, studied and resolved by a large number of national agencies/committees and local government authorities, each of which is charged with specific aspects of traffic administration;
+WHEREAS, the national government fully, realizes the fact that despite the avowed cooperation and coordination by the various agencies in carrying out their respective tasks, the emerging situation has led to some conflicting directions and overlapping functions;
+WHEREAS, the national leadership notes with deep concern the damaging impact of the problem to the inhabitants with the end result of impaired mobility and road safety within the area, not to mention the increased pollution, wasted efforts and resources and reduces productivity;
+WHEREAS, the overall complex situation renders it imperative for the national leadership to create a central traffic authority that will oversee, unify and integrate the planning, management, implementation and administration or urban traffic activities on roads and in public places in Metro Manila.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
