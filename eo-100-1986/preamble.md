@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, there is a need for an agency in government with a means to communicate with the people, and in turn for the people to vigorously express their opinions, views and beliefs to the President; and in the same manner, a need for efficient flow of public information required by the people to assist them in decision making to improve overall quality of life;
+WHEREAS, the media reach in the country is sorely limited to a small portion of the population concentrated in certain key cities, thereby limiting access of people to information;
+WHEREAS, the government in partnership with private media, can better meet the information needs of the people;
+WHEREAS, the public has a right to information and an agency should ensure that they have access to information;
+WHEREAS, basic information prior to February, 1986, focused more on the molding of public opinion toward the unquestioning acceptance of government thinking and that the flow of communication was predominantly one-way, from government to the people;
+WHEREAS, before little distinction was made between political and development oriented public information, hence resources for public information were often used for political purposes. In most instances, political information and/or political propaganda crowded/out development oriented public information;
+WHEREAS, a) there were no regular nationwide outlets where citizens could obtain government publications and materials, i.e. brochures, pamphlets; b) interministry coordination of public information efforts was not effective due to lack of appropriate mechanisms; c) people's participation in the planning and conduct of information programs was not encouraged;
+WHEREAS, the manipulative nature of government information leads to deterioration of its credibility even of its public information officers concerned with development oriented information;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, by virtue of the powers vested in me by the fundamental laws and the sovereign will of the people, do hereby order the following:
