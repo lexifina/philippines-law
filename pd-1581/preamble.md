@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, Presidential Decree No. 847, provided a compensation schedule for positions of Career Executive Service Officers in the government pursuant to the Constitutional provision for the standardization of compensation of government officials and employees;
+WHEREAS, the 1976 Salary Survey of the Budget Commission indicated a substantial upward trend in compensation, and in the implementation of this salary survey, the salaries of middle management officials and technical and professional personnel have been adjusted to the extent that their salaries are now higher than Career Executive Service Officers of Rank IV and V who are their superiors in the hierarchy;
+WHEREAS, the rates fixed in Presidential Decree No. 847 are now obsolete and that the government hierarchy should be adjusted so that no superior shall receive a salary less than his subordinate;
+WHEREAS, the salaries of the Cabinet Ministers have been increased and it is only proper that the salaries of Career Executive Service Officers who provide immediate support to the Ministers be also adjusted correspondingly;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:
