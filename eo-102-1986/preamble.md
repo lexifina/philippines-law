@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Social Security System was created pursuant to the policy declared under Republic Act No. 1161, as amended, in order to "[p]rovide to covered employees and their families protection against the hazards of disability, sickness, old age, and death, with a view to promoting their well-being in the spirit of social justice";
+WHEREAS, present economic conditions make it necessary that certain sections or provisions of the Social Security Law be further amended to upgrade the base of contributions and to adjust the benefit structure provided for thereunder so that the amounts of the benefits would be more meaningful and responsive to the needs of its members and their families;
+WHEREAS, it is also necessary to effect changes in the Social Security System and its operations considering that it performs an important role in the social and economic development programs of the government;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:
