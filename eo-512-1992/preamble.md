@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Government recognizes the urgent need to accelerate the growth and development of Mindanao through a wholistic and integrated manner;
+WHEREAS, the need exists to promote and strengthen interregional linkages to ensure the increased viability of the programs and projects in the four (4) administrative regions in Mindanao and the Autonomous Region in Muslim Mindanao;
+WHEREAS, with the enactment of the Local Government Code of 1991, more powers, functions and resources from the National Government have been devolved to the local government units as the frontline agencies to realize the development of specific geographical areas; and
+WHEREAS, Section 14, Article X of the 1987 Constitution states that: "The President shall provide for the regional development councils or other similar bodies composed of local government officials, regional heads of departments and other government officers, and representatives from non-governmental organizations within the regions for purposes of administrative decentralization to strengthen the autonomy of the units therein and to accelerate the economic and social growth and development of the units in the region;"
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
