@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Executive Order No. 79 dated 2 April 1993 was issued to implement the minimum fifty per centum (50%) Margin of Preference (MOP) on certain products included in the Brand-to-Brand Complementation (BBC) Schemes of Mitsubishi Motor Corporation, Nissan Motor Co., Ltd. and Toyota Motor Corporation;
+WHEREAS, after the issuance of aforementioned EO No. 79, a nomination for change in tariff classification of certain CKD component parts covered by said EO 79 was submitted by Toyota Motor Corporation to the ASEAN Secretariat on 24 September 1993 and was approved by the ASEAN Senior Economic Officials Meeting (SEOM) on 4 October 1993;
+WHEREAS, request for addition of new models and for amendments in part numbers of certain component parts covered by EO 79 were likewise submitted by Toyota Motor Corporation and were approved by the SEOM;
+WHEREAS, it has become necessary to amend EO 79 to effect the technical modifications on said certain component parts under the Toyota BBC Scheme;
+WHEREAS, it has become necessary as well to amend EO 79 to reflect the current nomenclature and rates of duty of certain component parts under the Mitsubishi, Nissan and Toyota BBC Schemes in accordance with EO 264, S. of 1995;
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, pursuant to the powers vested in me under Section 402 of the Tariff and Customs Code of 1978, as amended, do hereby order:
