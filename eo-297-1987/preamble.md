@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, the reorganization of the government is mandated expressly in Article II, Section 1 (a), and Article III of the Freedom Constitution;
+WHEREAS, pursuant to Executive Order No. 5 (1986), it is directed that necessary and proper changes in the organizational and functional structures of the government, its agencies and instrumentalities, be effected in order to promote efficiency and effectiveness in the delivery of public services;
+WHEREAS, there exists a vital need to create awareness and inform the public about the actions of government and the national leadership in its task of rebuilding a strong and dynamic nation;
+WHEREAS, the national leadership, which has committed to the ideals of press freedom, has seen fit not to abdicate its share of voice in the formulation of public opinion;
+WHEREAS, it is incumbent upon the national leadership to provide true and correct information to the public and to utilize and consolidate as much of its information resources as possible to ensure an effective and efficient information role;
+WHEREAS, realizing that the Office of the Press Secretary was precisely created by Memorandum Order No. 32, dated September 1, 1986 and Executive Order No. 92, dated December 17, 1986, to ensure that the government's point of view is communicated to the public especially on issues affecting the nation's welfare, it is necessary that the mandate, powers and functions of this Office be redefined to avoid overlapping and to fix responsibilities therein;
+WHEREAS, Article XVIII, Section 16 of the 1987 Constitution recognizes that the reorganization of the government shall be continued even after the ratification of the Constitution;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, by virtue of the powers vested in me by the sovereign will of the Filipino people and the Constitution, do hereby order:
