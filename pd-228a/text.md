@@ -1,0 +1,4 @@
+# Text
+WHEREAS, initial reports indicate that there is widespread demand among Barangay members for an additional referendum day, aside from July 27, 1973, to enable them to discuss and resolve vital issues affecting their general interest;
+NOW THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that Tuesday, July 24, 1973 be an additional referendum day, aside from July 27, 1973, to enable all the Barangays to discuss and resolve vital issues affecting their general interest.
+This Decree shall take effect immediately.
