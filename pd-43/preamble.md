@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, fish is one of the major and cheapest sources of protein in the diet of the Filipino people;
+WHEREAS, 2.2 million Filipinos depend directly on the fishing industry for their livelihood;
+WHEREAS, the Philippines continues to import fish and fishery products in substantial quantities because of the insufficiency of domestic production;
+WHEREAS, in the New Society, there is a compelling need to bring fish prices down to the lowest possible level in order to benefit the lower-income groups in the society;
+WHEREAS, the most effective method of bringing down fish prices is to increase production of both marine and the inland fish;
+WHEREAS, the vast fishery resources of the Philippines have remained largely untapped due to unnecessary constraints brought about by law or by regulations and by the failure to provide an integrated development program and the appropriate incentives;
+WHEREAS, there was pending before Congress prior to the promulgation of Proclamation No. 1081, dated September 21, 1972, a proposed bill entitled "AN ACT TO ACCELERATE THE INTEGRATED DEVELOPMENT OF THE PHILIPPINE FISHERY INDUSTRY AND FOR OTHER PURPOSES" designed to develop the industry in all its aspects and which had been duly certified by me as one of the priority measures needed for the national economic program of the Government;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, in order to effect the desired changes and reforms in the social, economic and political structure of our society, do hereby order and decree that the following Fishery Industry Development Decree of 1972 be adopted and made part of the law of the land;
