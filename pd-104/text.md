@@ -1,0 +1,4 @@
+# Text
+By virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972. I, FERDINAND E. MARCOS, President of the Philippines, do hereby authorize mining operations in the offshore areas of the municipalities of Agoo and Sto. Tomas, Province of La Union, subject to existing rules and regulations.
+Section 2. of Republic Act No. 4570 is hereby repealed.
+This Decree is hereby made part of the law of the land and shall take effect immediately.
