@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, root crops have gained attention as an important source of food, feed, and industrial products in view of their versatility in uses, high yield potential, and adaptability to various cropping systems;
+WHEREAS, it is difficult to maintain production of traditional crops such as rice and corn sufficient to keep up with our rapidly increasing population and the demands of our expanding livestock industry, especially because of frequent adverse climatic conditions and the recurrent outbreaks of destructive pests and diseases;
+WHEREAS, Filipinos consume root crops as major substitutes or supplementary energy food to our traditional staple crops;
+WHEREAS, there is great potential for expanded production and export of root crops for feed and industrial uses, provided the quality of the products, by proper processing, handling and storage so important in international commerce, is improved;
+WHEREAS, root crops have not been given priority attention on a national scale and scientific studies on root crops have been carried out so far only on a piecemeal and uncoordinated basis;
+WHEREAS, the country must organize a comprehensive and integrated root crop research program to develop high yielding varieties and improved cultural management, post-harvest handling, processing and utilization practices;
+WHEREAS, the foregoing considerations require the services of highly competent, full-time teams of agricultural scientists, amply supported with facilities, funds, staff and working conditions conducive to the development of improved varieties and production and utilization techniques in the shortest time possible;
+WHEREAS, the Philippine Council for Agriculture and Resources Research (PCARR) has recommended the establishment of a National Root Crops Research Center at the Visayas State College of Agriculture (VISCA) in Baybay, Leyte, and Mt. Province State College in Trinidad, Benguet.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:
