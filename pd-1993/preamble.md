@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, over the past few years, the government share in casino earnings has financed the construction and establishment of various infrastructure and socio-civic projects throughout the Philippines which have contributed to the improvement in the quality of life of the people;
+WHEREAS, the adverse economic conditions obtaining in the country during the last two years markedly affected the government's capability to raise adequate revenues to fund its operations and meet its obligation commitments;
+WHEREAS, in order to support the government's economic recovery program that is now in place, there is an urgent need to prime the economy by allocating more funds to complete and finish priority infrastructure development projects which are necessary ingredients to insure the success of the program;
+WHEREAS, the government share from casino operations can be utilized as a source of funds to finance the priority infrastructure development projects and to finance the restoration of damaged or destroyed facilities due to calamities.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
