@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the functions, responsibilities and coverage of the Department of Agriculture as created under Presidential Decree No. 461 are concentrated on agriculture and food production;
+WHEREAS, the general organizational pattern for executive departments in the Integrated Reorganization Plan, which involves integrated implementation of related field programs through department-wide regional directors, would be more effective and economical for the Department considering the closely related functions of its bureaus;
+WHEREAS, such an organizational pattern will allow the effective decentralization of functions to field offices, establish direct communications between the department head and implementors of food crop production programs in the field, and thus effect faster and more direct services to the people;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby amend Presidential Decree No. 461, as follows:
