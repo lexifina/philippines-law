@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, the enclosed coves of Puerto Galera protected by Medio Island abound with spectacular scenic and underwater natural beauty; potential for aquatic sports; and regulated tourism (principally that of viewing marine life);
+WHEREAS, these natural marine resources offer great potential and tremendous advantage: (1) as a source of sustenance to hundreds of fisherfolk during the rainy season, and (2) as an irreplaceable attraction in the backyard tourism directly benefiting the economic welfare of the people of Puerto Galera;
+WHEREAS, the Puerto Galera enclosed coves require the concentrated efforts of both the government and private sectors in the realization of its true tourism value as a regulated venue for the recognition, learning and appreciation of the unique range of Philippine marine life within this zone's protected area;
+WHEREAS, the enclosed coves of Puerto Galera serve as the natural shelter and nursery of exotic and game fish because of its spectacular corals, mangrove stands, and its naturally protected bay (by Medio Island);
+WHEREAS, because of its delicate ecological balance, the enclosed coves of Puerto Galera are unable to withstand the pollution and devastating effects of barges, tugboats, motorboat traffic, and the ever increasing semi-permanent docking of large watercraft causing oil spills and sewage dumping;
+WHEREAS, studies of the University of the Philippines Marine Biological Station show that given the above conditions, visually appreciable marine life will continue to disappear as it has virtually disappeared from Muelle Bay; and
+WHEREAS, it is necessary to protect and preserve the marine resources of Puerto Galera from destruction;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
