@@ -1,0 +1,7 @@
+# Text
+WHEREAS, the Government is vigorously pursuing the population program to assure greater opportunity for each Filipino to reach his full potential and to attain his individual dignity;
+WHEREAS, the magnitude of the task requires collaboration and coordination between the Government and private entities organized for the purpose of assisting in the implementation of the national population policy;
+WHEREAS, the Population Center Foundation, Inc. as the primary grant-making institution of the private sector, has initiated, sponsored, assisted and financed population programs and projects which have contributed substantially to social reform and economic development; and
+WHEREAS, the Population Center Foundation, Inc. merits assistance in carrying out its objectives;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby authorize the Philippine Charity Sweepstakes Office to hold in February/March 1977, and every year thereafter, a lottery draw the proceeds of which shall, after deducting the payment of the prizes and expenses, as provided in Republic Act No. 1169, be turned over the Population Center Foundation, Inc. to constitute a special fund to help maintain and support its various ongoing projects and to finance future similar projects.
+This Decree shall take effect immediately.
