@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, the Constitution of the Philippines describes the national territory as comprising all the territory ceded to the United States by the Treaty of Paris concluded between the United States and Spain on December 10, 1898, the limits of which are set forth in Article III of said treaty, together with all the islands embraced in the treaty concluded at Washington, between the United States and Spain on November 7, 1900, and in the treaty concluded between the United States and Great Britain on January 2, 1930, and all the territory over which the Government of the Philippine Islands exercised jurisdiction at the time of the adoption of the Constitution;
+WHEREAS, all the waters within the limits set forth in the above-mentioned treaties have always been regarded as part of the territory of the Philippine Islands;
+WHEREAS, all the waters around, between and connecting the various islands of the Philippines archipelago, irrespective of their width or dimension, have always been considered as necessary appurtenances of the land territory, forming part of the inland or internal waters of the Philippines;
+WHEREAS, all the water's beyond the outermost islands of the archipelago but within the limits of the boundaries set forth in the aforementioned treaties comprise the territo­rial sea of the Philippines;
+WHEREAS, the baselines from which the territorial sea of the Philippines is determined consist of straight lines joining appropriate points of the outermost islands of the archipelago; and
+WHEREAS, the said baselines should be clarified and specifically defined and described for the information of all concerned; Now, therefore,
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
