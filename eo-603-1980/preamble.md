@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the economic growth, stability and security of the Nation require an efficient, adequate, economical, safe, convenient, and dependable transportation system that shall truly be responsive to the demands of the populace consistent with the total scope of metropolitan needs;
+WHEREAS, Metropolitan Manila, as the premier metropolis of the country, requires an efficient mass transportation system which can provide its people with safe, fast and reliable mobility;
+WHEREAS, a Metropolitan Manila transportation, land use and development planning study was conducted to guide transportation investments and operations, and such study indicates that a light rail transit system is recommended, among others, to alleviate the worsening traffic and transportation situation in Metropolitan Manila, within the context of a rational land use pattern;
+WHEREAS, it is imperative to provide an organizational structure that will oversee the effective implementation of the light rail transit project, including the construction and operation thereof;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of powers vested in me by Presidential Decree No. 1416, do hereby order the creation and organization of a Light Rail Transit Authority.
