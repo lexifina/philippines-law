@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Executive Order No. 86, series of 1999, constituted the National Food Security Council under the chairmanship of the President of the Philippines to act as the overall coordinating body in the formulation of policy guidelines and masterplans and programs, as well as in the implementation of projects that will ensure the attainment of the national vision, mission, goals, objectives and targets of a workable and sustainable Food Security Program;
+WHEREAS, Section 2, Chapter I, Title IV, Book IV of the Administrative Code of 1987 mandates the Department of Agriculture to plan, formulate, execute, regulate, and monitor programs and activities relating to agriculture, food production and supply; and
+WHEREAS, Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987 vests upon the President of the Philippines the continuing authority to reorganize his Office.
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
