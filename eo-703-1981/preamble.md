@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Constitution as amended, authorizes the establishment of a modified form of parliamentary government with a President as head of State and Chief Executive of the Republic of the Philippines and a Prime Minister to be nominated by him who shall run the day to day affairs of the Government;
+WHEREAS, pursuant to said provisions of the Constitution, a presidential election was held on June 16, 1981 with the people voting overwhelming for the incumbent president;
+WHEREAS, one of the major programs of the new government is to undertake a top-to-bottom reorganization to avoid duplication of work, eliminate red tape and corruption, and generate savings and to channel these savings for the improvement of the livelihood of the people; and
+WHEREAS, the President is granted under Presidential Decree No. 1416 a continuing authority to reorganize the national government.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by Presidential Decree No. 1416, do hereby create a committee to undertake the reorganization of the national government for the purpose of effecting simplicity, economy and efficiency in government operations.
