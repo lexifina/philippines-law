@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under the provisions of Presidential Decree No. 752, local governments have been provided access to other credit facilities in order that they may raise additional funds for priority community projects;
+WHEREAS, local governments have amply demonstrated the technical capability to undertake self-liquidating and/or income producing development projects;
+WHEREAS, with the implementation of Presidential Decree No. 752, most governments have demonstrated the technical capability to regularly and promptly meet loan repayments to various government lending institutions such that in most cases, the mandatory provisions requiring the guarantee of the National Government for domestic loans have not been found to be necessary;
+WHEREAS, to enable the local governments to meet the capital requirements of development projects which may be funded from the proceeds of bonds and other long-term securities, there is also an immediate need to increase the ceiling of one-half of one percent of the total assessed value of taxable properties prescribed under Presidential Decree No. 752 which delimits the aggregate amount of such bonds and securities that the local governments may issue at any one time;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order:
