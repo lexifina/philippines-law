@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, it is desirable that the participation of government corporations, both collectively and individually, in the development process be clarified and rationalized, taking into consideration inter alia the significant primary role of private enterpise in the various economic sectors, and therefore the importance of maintaining conditions of effective competition;
+WHEREAS, the Supreme Court has recently ruled that under the Constitution, government-owned or controlled corporations include those created by special laws as well as those through the Corporation Code;
+WHEREAS, the identification of which government entities shall be considered as government-owned or controlled corporations should now be undertaken on a consistent and identical basis, so that the appropriate service-wide supervisory agencies may be so guided;
+WHEREAS, there is need to assure the flexibility of such government corporations consistent with the need of public accountability by providing for differential treatment for government corporations; and
+WHEREAS, it is now necessary to promulgate an integrated general statement of national policies on government-owned or controlled corporations for purposes of providing the necessary conceptual and operational guidelines on the appropriate role of the government corporate sector as a whole;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
