@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Section 24 of Presidential Decree No. 66, authorizes the President of the Philippines to transfer certain parcels of land described in Proclamation Nos. 629, series of 1969; 740, series of 1970; 939, 899 and 900, all series of 1971, to the Export Processing Zone Authority, the Government Service Insurance System and/or the Social Security System;
+WHEREAS, said Decree does not define the limitation by which the Authority may dispose of said lands; and
+WHEREAS, it is felt that in order that the Government shall maintain ownership over said parcels of land, it is necessary in the interest of the public, that if the same are mortgaged by the Authority to any lending institution and the latter fails to redeem said lands, the Government shall be given the right to repurchase the same;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby order and decree:
