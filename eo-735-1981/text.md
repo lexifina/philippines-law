@@ -1,0 +1,6 @@
+# Text
+WHEREAS, Presidential Decree No. 880 dated January 23, 1976, authorizes a subsistence allowance of not more than EIGHT PESOS (P8.00) per day for each military patient when confined or hospitalized in AFP hospitals;
+WHEREAS, the present rate of hospital subsistence allowance is no longer adequate to meet the quality and quantity of food deemed appropriate for military personnel confined or hospitalized in AFP hospitals, in view of the increasing prices of food stuff; and
+WHEREAS, it is now necessary to increase the rate of hospital subsistence allowance in order to enhance and keep at a high level the morale and efficiency of the officers and enlisted personnel of the Armed Forces of the Philippines.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and direct the increase in the rate of subsistence allowance of patients confined or hospitalized in AFP hospitals and dispensaries to TWELVE PESOS (P12.00) per day.
+This Executive Order shall take effect upon approval.
