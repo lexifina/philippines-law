@@ -1,0 +1,2 @@
+# Article XIII, Section 9
+SECTION 9. The State shall, by law, and for the common good, undertake, in cooperation with the private sector, a continuing program of urban land reform and housing which will make available at affordable cost decent housing and basic services to underprivileged and homeless citizens in urban centers and resettlements areas. It shall also promote adequate employment opportunities to such citizens. In the implementation of such program the State shall respect the rights of small property owners.

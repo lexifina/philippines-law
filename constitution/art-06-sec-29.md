@@ -1,0 +1,4 @@
+# Article VI, Section 29
+SECTION 29. (1) No money shall be paid out of the Treasury except in pursuance of an appropriation made by law.
+(2) No public money or property shall be appropriated, applied, paid, or employed, directly or indirectly, for the use, benefit, or support of any sect, church, denomination, sectarian institution, or system of religion, or of any priest, preacher, minister, or other religious teacher, or dignitary as such, except when such priest, preacher, minister, or dignitary is assigned to the armed forces, or to any penal institution, or government orphanage or leprosarium.
+(3) All money collected on any tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general funds of the Government.

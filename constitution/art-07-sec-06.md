@@ -1,0 +1,2 @@
+# Article VII, Section 6
+SECTION 6. The President shall have an official residence. The salaries of the President and Vice-President shall be determined by law and shall not be decreased during their tenure. No increase in said compensation shall take effect until after the expiration of the term of the incumbent during which such increase was approved. They shall not receive during their tenure any other emolument from the Government or any other source.

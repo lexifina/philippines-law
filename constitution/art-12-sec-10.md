@@ -1,0 +1,4 @@
+# Article XII, Section 10
+SECTION 10. The Congress shall, upon recommendation of the economic and planning agency, when the national interest dictates, reserve to citizens of the Philippines or to corporations or associations at least sixty per centum of whose capital is owned by such citizens, or such higher percentage as Congress may prescribe, certain areas of investments. The Congress shall enact measures that will encourage the formation and operation of enterprises whose capital is wholly owned by Filipinos.
+In the grant of rights, privileges, and concessions covering the national economy and patrimony, the State shall give preference to qualified Filipinos.
+The State shall regulate and exercise authority over foreign investments within its national jurisdiction and in accordance with its national goals and priorities.

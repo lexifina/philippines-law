@@ -1,0 +1,2 @@
+# Article X, Section 8
+SECTION 8. The term of office of elective local officials, except barangay officials, which shall be determined by law, shall be three years and no such official shall serve for more than three consecutive terms. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected.
