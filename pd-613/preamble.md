@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, figures compiled by the National Accounting Service of the Budget Commission and as reconciled with those of the Commission on Audit, show that as of fiscal year 1971-72 ended June 30, 1972, there was a deficit of P335,412,694.71 in the General Fund;
+WHEREAS, pursuant to the provisions of Republic Act No. 992, otherwise known as the Revised Budget Act, a quarterly allotment system was established and designed to forestal deficit by keeping expenditures within the income;
+WHEREAS, following the allotment system the collections at the beginning of the ensuing fiscal year will have to be applied first to wipe out the deficit of the previous fiscal year which, in effect, would paralyze the essential activities of the Government during the first quarter of the new fiscal year;
+WHEREAS, it is clearly in the public interest that the said deficit of P335,412,694.71 incurred during the fiscal year 1972 which ended June 30, 1972, should be blocked to enable the Government to use the collections during the initial period of fiscal year 1973 to cover the expenditures previously authorized by law instead of applying the said collections to wipe out the deficit of the previous year;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following:
