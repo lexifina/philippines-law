@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, there exists a territorial dispute between the Municipality of Taguig and the City of Makati over certain areas in the former Fort Bonifacio docketed as Civil Case No. 63896 and pending before the Regional Trial Court of Pasig, Branch 153 since 1993;
+WHEREAS, the territorial dispute relates to the correct delineation of the common territorial boundary of the Municipality of Taguig and City of Makati;
+WHEREAS, Sections 2 and 55 of Republic Act No. 7854 (Charter of the City of Makati), as supported by the Supreme Court in "Mariano vs. Comelec" (242 SCRA 211), expressly provide that it is the courts that shall resolve the territorial disputes between City of Makati and any adjoining government unit;
+WHEREAS, when Special Patent No. 3596 dated 7 February 1995 was issued to convey unto Fort Bonifacio Development Corporation the tracts of land subject thereof, no reference to the City of Makati was made while a reference to the Municipality of Taguig was expressly made therein;
+WHEREAS, pending final resolution in the courts of the territorial dispute between the Municipality of Taguig and the City of Makati, there is a question as to the correct description of the location of the subject tracts of land and said Special Patent No. 3596 was not meant to intrude into or affect any judicial processes relating thereto;
+NOW, THEREFORE I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
