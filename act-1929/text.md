@@ -1,0 +1,5 @@
+# Text
+By authority of the United States, be it enacted by the Philippine Legislature, that:
+SECTION 1 Beginning with the year nineteen hundred and ten and thereafter, the annual session of the Philippine Legislature shall commence on the sixteenth day of October, or if the sixteenth day of October be a legal holiday, then on the first day following which is not a legal holiday: Provided, however, That if the Congress of the United States, at the close of its session on the fourth day of March, nineteen hundred and eleven, shall not have passed a law providing that the term of office of the Delegates to the Philippine Assembly elected for the next Legislature shall end on the fourth day of March, nineteen hundred and twelve, the session of the Philippine Legislature for the year nineteen hundred and eleven and in succeeding years shall begin on the first Monday of September, unless the first Monday of September is a legal holiday, then on the day following which is not a legal holiday.
+SEC. 2. This Act shall take effect on its passage.
+Enacted, May 20, 1909.
