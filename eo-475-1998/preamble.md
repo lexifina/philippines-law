@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Philippine Coast Guard (PCG) is an agency created and established as a major unit of the Philippine Navy pursuant to Republic Act No. 5173;
+WHEREAS, the mandate of the PCG and the program of government to rationalize Philippine maritime administration could be better pursued, and coordination with the private sector and the different departments and agencies of government which require the services of the PCG could be properly managed, if the PCG is placed under the Office of the President;
+WHEREAS, the PCG remains a major subordinate unit of the Philippine Navy by virtue of Sec. 54, Chapter 8, Subtitle II, Title VIII, Book IV of EO 292 dated 25 July 1987, otherwise known as the "Administrative Code of 1987", and assigned functions pertaining to the promotion of safety of life at sea and the protection of the marine environment;
+WHEREAS, Sec. 31, Chapter 10, Title III, Book III of EO 292 grants the President the continuing authority to reorganize the Office of the President by, among others, transferring any agency or function to the Office of the President;
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order that:
