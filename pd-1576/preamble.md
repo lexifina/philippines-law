@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Section 9, Article XVII of the Constitution authorized officials and employees of the Government to continue in office "until otherwise provided by law or decreed by the incumbent President of the Philippines;"
+WHEREAS, in the referendum held on February 27, 1975, the people expressed their desire that, instead of calling an election upon the expiration of the term of office of local elective officials on December 31, 1975, the incumbent President of the Philippines appoint their successors; and
+WHEREAS, it is necessary that the manner of appointment and the grounds and procedure for the removal or suspension from office of local elective officials during the transition period or until the regular National Assembly is convened should be provided by law;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following rules and guidelines for the appointment, removal or suspension from office of local elective officials during the transition period:
