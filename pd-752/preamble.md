@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, it is an essential feature of the overall development strategy to sustain socio-economic growth through, among others, the timely execution of select priority projects at the local government levels;
+WHEREAS, the financial resources now available to the local governments although augmented by increased national allotments and broader taxing powers are deemed still insufficient to finance the immediate prosecution of physical infrastructure and other socio-economic projects that require massive capital investments;
+WHEREAS, it has become necessary and opportune as a matter of fiscal policy to extend greater credit facilities to the local governments in order that through reasonable and moderate borrowings they may raise additional funds to meet the capital outlay requirements of priority developmental projects;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby adopt and promulgate as part of the law of the land, this Decree, the full text of which follows:
