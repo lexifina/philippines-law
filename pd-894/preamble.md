@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is necessary for our national economic development that every effort is exerted by all to save and conserve our foreign exchange reserves;
+WHEREAS, payment of transportation fares to foreign airlines and shipping lines, even if made in Philippine Currency, constitutes a heavy drain to our foreign exchange reserves in view of the fact that such foreign airlines and shipping lines remit abroad their receipts in excess of their local expenses;
+WHEREAS, the Philippine flag air carrier and shipping lines operating international transportation perform transportation services of vital importance to the foreign commerce and trade of the Philippines including its balance of payments, to the Postal Service, and to the national security and defense;
+WHEREAS, in most countries of the World, the policy and practice of granting preference to the national flag air carrier and shipping lines over foreign air carriers and shipping lines with respect to transportation of Government financed passengers and property has either been adopted and implemented or is in the process of being adopted and implemented;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows;
