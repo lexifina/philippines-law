@@ -1,0 +1,2 @@
+# Preamble
+By virtue of the powers vested in me by Section 4 of Republic Act No. 1168, entitled "AN ACT TO PROVIDE FOR THE FIXING UNDER CERTAIN CONDITIONS, OF THE MAXIMUM SELLING PRICES OF COMMODITIES IN SHORT SUPPLY, CREATING THE PRICE CONTROL OFFICE, AND FOR OTHER PURPOSES," and upon the recommendation of the General Manager and the Board of Directors of the Price Stabilization Corporation, I, RAMON MAGSAYSAY, President of the Philippines, do hereby order:
