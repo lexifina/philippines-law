@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, in spite of the planned accelerated power development program using indigenous resources and the planned institution of conservation measures, the country will still he highly dependent on oil for a considerable length of time;
+WHEREAS, it is imperative for the Government to take a more active role in assuring adequate supply of oil by reducing the clement of uncertainty on sources of crude oil supply;
+WHEREAS, international political development in 1973 which led to an oil situation of crisis proportions have emphasized the need for such government activity; and
+WHEREAS, there is a compelling need for the Government to embark on measures which will help insure a stable supply of petroleum products in order to sustain the growth of the economy and of the social well-being of the nation;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree, as part of the law of the land, the following:
