@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Section 79 (D) of the Revised Administrative Code vests in the Ministry Head the power to appoint all subordinate officers and employees whose appointment is not expressly vested by law in the President of the Philippines;
+WHEREAS, pursuant to Presidential Decree No. 1 dated 24 September 1972, as implemented by Section 24, Letter of Implementation No. 19 dated 31 December 1972, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) then Weather Bureau was placed under the jurisdiction of the Ministry of National Defense;
+WHEREAS, PAGASA having been placed under the jurisdiction of the Ministry of National Defense, all administrative matters to include approval of appointments must be within the competence of the Ministry Head for effective supervision and control;
+WHEREAS, under Section 5 of PD No. 78 as amended by PD No. 1149, all, subordinate personnel of PAGASA below the rank of Director shall be appointed by the Director General upon recommendation of the respective Director of office; and
+WHEREAS, to attain uniformity of action on the matter of appointments of all subordinate officials and employees in the Ministry of National Defense, all appointments in PAGASA shall be elevated to the Ministry Head for approval;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
