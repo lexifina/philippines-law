@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, pursuant to the powers granted it under Proclamation No. 1366, promulgated on December 31, 1974, the Commission on Elections has resolved to recommend the questions to be resolved and determined by the members of barangays (citizens assemblies) in the National Referendum on January 30, 1975;
+WHEREAS, I am satisfied that these questions were formulated by the Commission on Elections after due and extensive consultations with the people on a nationwide scale and has taken steps through other various ways to ascertain the issues uppermost in the mind of the nation;
+WHEREAS, in order to enable the barangay members to cast their votes intelligently and with full understanding of the issues involved, it is urgent to wage in all areas an effective, intensive, massive educational and information campaign particularly in the urban and rural communities:
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:
