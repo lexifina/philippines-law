@@ -1,0 +1,5 @@
+# Text
+WHEREAS, the Commission on Audit has requested that auditors be excluded from the composition of the Appraisal Committees provided under Executive Order No. 132, S. of 1937, as amended, and Executive Order No. 329, S. of 1988, as amended, to maintain the independence of the Commission in reviewing the decisions made by the Committees in the course of audit;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby reconstitute the membership of the Appraisal Committees created under Executive Order No. 132 dated December 27, 1937, as amended, and Executive Order No. 329 dated July 11, 1988, as amended, by replacing the Provincial, City and Municipal Auditors in the Appraisal Committees with the Provincial, City and Municipal Treasurers.
+Executive Order No. 132, S. of 1937, as amended, and Executive Order No. 329, S. of 1988, as amended, are hereby further amended accordingly.
+This Executive Order shall take effect immediately.
