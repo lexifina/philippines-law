@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, government-owned or controlled corporations including their subsidiaries have consistently expanded their activities and multiplied in number through the years, with total resources reaching billions of pesos;
+WHEREAS, the Office of the Government Corporate Counsel, as the principal law office of government-owned or controlled corporations, plays an important role in safeguarding the legal interests of and in the successful discharge of the functions, duties and responsibilities of government-owned or controlled corporations including their subsidiaries;
+WHEREAS, the increase in number and broadening of fields or scope of activities of government-owned or controlled corporations have resulted in corresponding increase in volume, complexity and importance of the work of the Office of the Government Corporate Counsel;
+WHEREAS, there is an imperative need to integrate and strengthen the existing legal provision affecting the Office of the Government Corporate Counsel, to make them more responsive to the legal assistance needed by government-owned or controlled corporations;
+WHEREAS, increase in personnel and adjustments in their compensation, are necessary to maintain the effectiveness of the Office of the Government Corporate Counsel as the principal law office of all government-owned or controlled corporations.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order:
