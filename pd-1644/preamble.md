@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the economic well-being of a major sector of the entire population depends, to a large extent, on the viability of the coconut industry;
+WHEREAS, in recognition of this economic reality, it is the declared policy of the State to promote the rapid integrated development and growth of the coconut and other palm oils industry in all its aspects and to insure that the coconut farmers become direct participants in, and beneficiaries of, such growth and developments;
+WHEREAS, to insure the viability, growth and development of the coconut industry, the State has undertaken a program to rationalize the coconut oil milling industry and thereby assure the coconut farmers a fair price for their copra and the consuming countries an adequate and continuous supply of copra, coconut oil and their by products at fair and competitive prices;
+WHEREAS, in order to further promote the rationalization of the coconut oil milling industry, it is necessary to grant the Philippine Coconut Authority additional, powers in respect of the marketing and export of copra, coconut oil and their by-products;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows:
