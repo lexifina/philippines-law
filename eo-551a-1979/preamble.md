@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS the President/Prime Minister, as chairman of the NEDA and presiding officer of all its meetings, has found very often that papers elevated to him are without benefit of proper staff study;
+WHEREAS, some Ministers are endorsing to the President/Prime Minister pending problems of their respective Ministries without recommendations, proposed solutions or presentation of options and alternatives, as well as the consequences of the action that may be taken thereon;
+WHEREAS, to relieve the President/Prime Minister of his multifarious functions, there is a necessity of creating an Executive Committee of the Cabinet to pass upon all papers and problems presented by the Ministers in their respective Ministries before they are finally brought to the President/Prime Minister for decision-making.
+WHEREAS, it is now desirable that possible successors in the Presidency be trained, and that this objective may be achieved to some extent by preparing certain members of the Cabinet to exercise such discretion and judgment as are proper to the highest office of the land;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby create an Executive Committee of the Cabinet, as follows:
