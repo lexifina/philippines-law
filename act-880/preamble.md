@@ -1,0 +1,4 @@
+# Preamble
+Whereas during the month of July, nineteen hundred, Captain Merrill E. Webb, Thirtieth Regiment, United States Volunteer Infantry, acting under orders from competent authority, sold a quantity of copra belonging to the municipality of Atimonan, in the present Province of Tayabas, and received therefor the sum of two thousand four hundred and forty-six pesos. Mexican currency, with the understanding that the money so received should be temporarily deposited in the insular Treasury at Manila, to be later returned and used by the municipality of Atimonan in the construction of a municipal school building; and
+Whereas the said money was so deposited, and the municipal council of the present municipality of Atimonan has requested that the money be returned, and the said request has been approved by the provincial board of the Province of Tayabas: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
