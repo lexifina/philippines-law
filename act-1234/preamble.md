@@ -1,0 +1,4 @@
+# Preamble
+Whereas it has been made to appear that during the recent activity of the pulajanes in the Province of Samar several residents engaged as volunteers in the defense of the municipalities of said province, and several pacific residents of said municipalities were wounded by said pulajanes, and it was deemed necessary by the local authorities that the persons so wounded should be cared for at the military hospital at Camp Council, Calbayog, and at the Constabulary hospital at Catbalogan, in said province; and
+Whereas the provincial board of the Province of Samar has requested authority to pay out of provincial funds, the necessary expenses incurred in the care of such wounded persons at the hospitals above mentioned: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
