@@ -1,0 +1,3 @@
+# Preamble
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+SECTION 1 There is hereby granted to Transport Contractors, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at Manila and at such places as the said corporation may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land-based and land-mobile radio stations for the reception and transmission of wireless messages on radio-telegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
