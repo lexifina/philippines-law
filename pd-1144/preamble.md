@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, it is a Government policy to provide adequate assistance to the agricultural sector in line with national objective of increasing food production;
+WHEREAS, fertilizer and pesticides as vital inputs in food production and must be supplied in adequate quantities at reasonable costs.
+WHEREAS, improper pesticide usage presents serious risks to users, handlers, and the public in general because of the inherent toxicity of these compounds which are, moreover, potential environmental contaminants;
+WHEREAS, there is a need to educate the agricultural sector on the benefits as well as the hazards of pesticide use so that it can utilized pesticides properly to promote human welfare while avoiding dangers to health and environmental pollution;
+WHEREAS, the fertilizer and pesticide industries have much in common in terms of clientele, distribution channels, system of application in farmers' fields, and technical supervision by the same farm management technicians under the government's food production program;
+WHEREAS, the foregoing considerations make it desirable to have one agency to regulate fertilizer importation, manufacture, formulation, distribution, delivery, sale, transport and storage as well as pesticide labeling, distribution, storage, transportation, use and disposal;
+WHEREAS, the Fertilizer Industry Authority was created by Presidential Decree No. 135, dated 22 February 1973, and amended by Presidential Decree Nos. 517 and 669, dated 19 July 1974 and 11 March 1975 respectively, in order to regulate, control and develop the fertilizer industry but does not include the pesticide industry in its jurisdiction;
+WHEREAS, there is an urgent need to create a technically-oriented government authority equipped with the required expertise to regulate, control and develop both the fertilizer and the pesticide industries;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:
