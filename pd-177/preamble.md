@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, on the 19th day of October, 1972, Presidential Decree No. 24, amended certain Sections of Republic Act No. 1161, as amended, otherwise known as "The Social Security Law"; and
+WHEREAS, in order to bring about a more effective implementation of the law and make the SSS even more responsive to the needs of its members, it is necessary to further amend the Social Security Law;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that the Social Security Law be amended to bring about a more effective implementation of the law and make the Social Security System more responsive to the needs of its members as follows:
