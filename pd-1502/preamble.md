@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Government has set among its goals the self-sufficiency of the country in its food requirements and the full development of its scientific resources;
+WHEREAS, through research in agriculture, natural resources, industry, science and technology, the means to achieve these goals could be best identified;
+WHEREAS, it is necessary that research in agriculture, natural resources, industry, science and technology, be afforded utmost encouragement and divorced from restraints; and
+WHEREAS, the more of scientific and technological research underscore the urgent need for administrative reforms and a system of incentives that will stimulate the country's scientists and technologists towards more creative, fruitful and satisfying research activities and thereby accelerate the attainment of self-sufficiency of the country's food requirements and the full development of its industrial potential.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
+SECTION l. Hiring of retired scientists and technical personnel. An employee retired under any existing law who, in the judgment of cither the governing board of a research agency or the research agency head, possesses technical qualifications and the capability to undertake specific scientific research activities, may be hired on contract basis without refunding the unexpired portion of the gratuity and accumulated leave benefits received by him from the government.
