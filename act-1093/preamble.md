@@ -1,0 +1,3 @@
+# Preamble
+Whereas if has been made to appear that by mistake the lists of assessment of land for the purpose of taxation in the municipality of Misamis, in the Province of Misamis as made by the board of tax revision were entered as old values, although the valuations had been made in Mexican money, so Unit the valuations are practically twice as large as intended by the board of tax revision, and it further appearing that there are numerous erroneous assessments in the1 municipality of Oroquieta in said province: Therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:
