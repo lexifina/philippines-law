@@ -1,0 +1,3 @@
+# Preamble
+By authority of the United States, be it enacted by the Philippine Commission, that:
+SECTIONS 1. The nine municipalities of the Province of Tarlac as established by Act Numbered Nine hundred and thirty, shall, in accordance with the provisions of this Act, be increased to ten, by separating the former municipality of La Paz and the barrio of Lauangcupang from the present municipality of Tarlac, and constituting, with their territories and that of the barrio of Bantug, in the present municipality of Concepcion, a new municipality which shall be known as La Paz, with the seat of municipal government at La Paz.
