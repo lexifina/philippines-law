@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Manila Gas Corporation and the Metropolitan Water District, as well as other private firms, are in dire need of galvanized iron pipes for their business operation;
+WHEREAS, there is at present no available local supply of galvanized iron pipes that may be acquired at existing ceiling prices of said article and it becomes necessary to import the same; and
+WHEREAS, upon investigation it was found that the present ceiling prices of galvanized iron pipes are lower than the landed cost thereof and unless said prices are increased, no importation of such article can be effected without the importers incurring pecuniary losses;
+NOW, THEREFORE, I, ELPIDIO QUIRINO, President of the Philippines, by virtue of the powers vested in me by Section 3 of Republic Act No. 509 entitled "AN ACT DECLARING NATIONAL POLICY, AUTHORIZING THE PRESIDENT OF THE PHILIPPINES FOR A LIMITED PERIOD TO FIX CEILING PRICES OF COMMODITIES AND TO PROMULGATE RULES AND REGULATIONS REGARDING PRICES OF COMMODITIES TO EFFECTUATE SUCH POLICY, AND AUTHORIZING THE APPROPRIATION OF A CERTAIN SUM FOR THE PURPOSE," and upon the recommendation of the price Administration Board, do hereby order:
+SECTION 1 Section six of Executive Order No. 440, dated May 6, 1951, is hereby amended by increasing and setting up new ceiling prices for Galvanized Steel pipes as follows:
