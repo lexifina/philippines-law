@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, pursuant to Presidential Decree No. 634 dated 7 January 1975, Manila International Port Terminals, Inc. (MIPTI) was granted a franchise to develop, operate and maintain modern container facilities at the International Port Complex, North Harbor, Manila Bay, Tondo District, Manila;
+WHEREAS, it has become necessary for the Philippine Ports Authority (PPA) to have the primary responsibility for the planning, development, and maintenance of the International Port Complex at the North Harbor in accordance with the declared objectives of the government under Presidential Decree No. 857;
+WHEREAS, due to the experience of Manila International Port Terminals, Inc. in port operations, its franchise shall cover the operations and management of the International Port Complex at North Harbor to ensure economy and efficiency of operations and in order not to burden the Philippine Ports Authority with day-to-day waterfront operations;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order as part of the law of the land, the following:
