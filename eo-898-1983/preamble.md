@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under Memorandum Order No. 395 dated 19 October 1973, there was created the Committee on Transportation Cooperatives in the Office of the President for the prime purpose of promoting and facilitating the early formation of transportation cooperatives;
+WHEREAS, under Executive Order No. 708 dated 27 July 1981, the Committee on Transportation Cooperatives was attached to the Ministry of Transportation and Communications to enhance the efficiency of government in the control and supervision of facilities and services related to transportation;
+WHEREAS, under the existing government organization, transportation cooperatives are now supervised by both the Ministry of Agriculture, through the Bureau of Cooperatives Development and the Ministry of Transportation and Communications, through the Committee on Transportation Cooperatives;
+WHEREAS, a single agency, the Ministry of Transportation and Communications, can more effectively coordinate the regulation and operations of transportation cooperatives, in line with the integration and rationalization of public transportation systems in the country;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and ordain:
