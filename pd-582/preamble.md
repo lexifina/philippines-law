@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, unlike other copra producing countries, the Philippines has not exerted concerted efforts towards the development and planting of an early-breeding and high-yielding hybrid variety of coconut trees capable of producing at least five (5) tons of copra per hectare per year compared to the present national average of less than one (1) ton per hectare;
+WHEREAS, to enable the country to compete in the international market of vegetable fats and oils and thereby ensure stable and better incomes for the coconut farmers, it is imperative that the country should pursue a vigorous program of replanting existing coconut farms and idle lands with superior hybrid coconut trees;
+WHEREAS, to attain that objectives the Government should channel part of what the coconut farmers are presently paying as coconut consumers stabilization levy to their ultimate direct benefit;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, in order to effect the desired changes and objectives, do hereby decree the further amendment of Presidential Decree No. 232, as follows:
