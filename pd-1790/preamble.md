@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, since 1974 as a result of the periodic rounds of quantum increases in the prices of imported crude oil, the President/Prime Minister has used his authority under the Constitution to grant the workers immediate relief from the impact of spiralling prices in consumer goods and services in the form of increases in wages, allowances or other wage-related benefits;
+WHEREAS, due to the continuous instability of wages and prices, brought about by external economic factor beyond the nation's control, causing abrupt and drastic erosion in the real income of the workers, it is imperative in the interest of social and economic stability, that the President/Prime Minister retain such powers; and
+WHEREAS, such stand-by powers can be effectively and immediately exercised thru the issuance of wage orders either upon the Recommendation of the National Wages Council created under Executive Order No. 614, or at the President/Prime Minister's own initiatives.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
