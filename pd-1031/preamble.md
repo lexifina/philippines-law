@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, the Batasang Bayan in first session assembled urged in Resolution No. 3, dated September 21, 1976, the promulgation of a Decree amending Presidential Decree No. 991 by Declaring the Provisions of Presidential Decree No. 229 entitled "Providing for the Manner of Voting and Canvass of Votes in Barangays (Citizens Assemblies)" Applicable to the National Referendum-Plebiscite of October 1976, and for other purposes in connection therewith;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, and in accordance with the recommendation of the Batasang Bayan, do hereby decree and order:
