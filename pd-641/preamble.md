@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, toward the implementation of Section 12, Article XV of the Constitution of the Philippines, the police and fire departments and jails in fifty-four provinces and fifty-seven cities have already been integrated pursuant to Presidential Decrees No. 421, dated March 21, 1974; No. 482, dated June 13, 1974; No. 531, dated August 8, 1974 and No. 585, dated November 18, 1974;
+WHEREAS, in order to attain fully the objectives of the aforecited Presidential Decrees, it is necessary that the police and fire departments and jails in the remaining eighteen provinces and four cities in the country be similarly integrated;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as part of the law of the land, the following:
