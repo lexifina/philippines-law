@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, the Philippine Atomic Energy Commission (PAEC) is the sole government agency in the country charged with the responsibility of promoting and advancing the peaceful uses of atomic energy;
+WHEREAS, in the discharge of these duties, the Philippine Atomic Energy Commission (PAEC) is directed to undertake the vital functions of protecting public health and property from the detrimental effects of nuclear radiations and safeguarding the health of the people through the exercise of its licensing and regulatory responsibilities;
+WHEREAS, the Commission is committed to the goals of national development particularly in the utilization of all available energy sources including nuclear power;
+WHEREAS, the government has embarked on a nuclear power program starting with the construction of the Philippine nuclear power plant;
+WHEREAS, there is already an increasing demand for the services of experienced and adequately trained nuclear scientists and technologists in the various projects and activities related to the nuclear power program;
+WHEREAS, there is a shortage of nuclear-trained personnel in the country and the Philippine Atomic Energy Commission has actually lost many of its scientific and technical personnel in view of the low salary being offered by the government;
+WHEREAS, in order to accelerate the implementation of the nuclear power program in the country it is necessary to augment the salaries of all professional, scientific and technical men of the Philippine Atomic Energy Commission actively engaged in the various phases of the nuclear power program in the form of monthly incentive allowance to meet the high cost of living; and
+WHEREAS, it is the duty of the government to provide sufficient incentives for government workers performing vital scientific and technical functions so as to encourage their stay in the service for the good of the country;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
