@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, Provisions of the Employees' Compensation and State Insurance Fund of the Labor Code of the Philippines must respond to dynamic changes in social-economic development in light of aspiraling cost of living; and that adjustments must be made to align such provisions with changes in social security of the country; and
+WHEREAS, the judicious management of the State Insurance Fund that the Social Security System and the Government Service Insurance System administer for the private sector and the public service, respectively, has resulted in accumulation of sufficient reserves to enable the Employees' Compensation Commission to further upgrade the benefit structure for covered employees, without requiring additional premium contributions from employers;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
