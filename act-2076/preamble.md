@@ -1,0 +1,6 @@
+# Preamble
+Whereas there has occurred a partial failure of the rice crop throughout the Orient, particularly in those countries which afford to the Philippine Islands the customary imported supply of this article of food, supplementary to the local product;
+Whereas, by reason of the apparent shortage o£ the customary supply of rice, the local retail price of this article is reported from many municipalities to have passed far above the highest price heretofore known for many years, with the result that this essential article of food passed beyond the financial means of the masses;
+Whereas, not only the industrial situation in the important centers of manufacture and population throughout the Archipelago but the maintenance of public order in many important districts was endangered by reason of the extraordinarily high cost of rice to the mass of consumers; and
+Whereas both official and private reports from the rice producing and consuming countries throughout the Orient indicate a probable great shortage in the world supply of rice until the new crop shall become available in considerable quantities which may not be expected before the month of February, nineteen hundred and twelve: Now, therefore,
+By authority of the United Stales, be it enacted by the Philippine Legislature, that:
