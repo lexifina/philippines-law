@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Republic of the Philippines, on January 16, 1968, became a signatory to the Agreement establishing the Southeast Asian Fisheries Development Center (SEAFDEC);
+WHEREAS, the SEAFDEC Council, at its Sixth Meeting held at Kuala Lumpur (Malaysia) on July 3-7, 1973, approved the formal establishment of its Aquaculture Department in the Province of Iloilo, Philippines;
+WHEREAS, the SEAFDEC Council of Directors, being aware of the vast potential of Southeast Asia and other regions for aquaculture development, and cognizant of the urgent need of the region and other parts of the world for highly trained manpower for aquaculture development, approved at its Tenth Meeting held in Manila on December 5-10, 1977, the development and implementation of the proposed Asian Institute of Aquaculture as a unit of the SEAFDEC Aquaculture Department of Iloilo, Philippines;
+WHEREAS, the establishment of the Asian Institute of Aquaculture will provide mechanisms for the development of technical and scientific manpower in aquaculture in Asia, particularly in SEAFDEC and ASEAN member-countries, to hasten the development of the aquaculture resources of the region;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
