@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, Sections 2 and 5 of Presidential Decree No. 651, requires unregistered births and deaths which occurred from January 1, 1974 up to the date when said decree becomes effective, to be registered in the Office of the Local Civil Registrar of the place where the event occurred within sixty (60) days or from March 16 to May 16, 1975, without fine or fee of any kind:
+WHEREAS, the same sections of said decree also provide that all births and deaths occurring after the effectivity of the said decree must be registered within thirty (30) days from date of occurrence, without fee or fine of any kind;
+WHEREAS, due to the present difficulties in the Mindanao area and the lack of facilities and communication the convey the relevance and importance of the registration to the births and deaths, there is a strong clamor for the extension, of the period for the registration of births and deaths beyond the period prescribed by P.D. 651;
+WHEREAS, the extension of the prescribed period of registration would give more time for complete registration of births and deaths and provides reliable sources of adequate vital statistics for the country.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
