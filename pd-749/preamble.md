@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, public office is a public trust: public officers are but servants of the people, whom they must serve with utmost fidelity and integrity;
+WHEREAS, it has heretofore been virtually impossible to secure the conviction and removal of dishonest public servants owing to the lack of witnesses: the bribe or gift givers being always reluctant to testify against the corrupt public officials and employees concerned for fear of being indicted and convicted themselves of bribery and corruption;
+WHEREAS, it is better by far and more socially desirable, as well as just, that the bribe or gift giver be granted immunity from prosecution so that he may freely testify as to the official corruption, than that the official who receives the bribe or gift should be allowed to go free, insolently remaining in public office, and continuing with his nefarious and corrupt practices, to the great detriment of the public service and the public interest.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order that:
