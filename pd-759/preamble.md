@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, Presidential Decree Nos. 3 and 475 provide appropriations for rehabilitation and reconstruction of damaged infrastructure facilities caused by calamities in 1972 and for additional development projects designed to further accelerate socio-economic development;
+WHEREAS, there is a need to increase the appropriations of some on-going and previously authorized projects to ensure their completion in view of increased construction costs brought about by circumstances beyond the control of the government and of changes in technical designs and requirements;
+WHEREAS, there is also a need to provide appropriations for new projects in support of priority programs of the government including the food production and distribution program;
+WHEREAS, it is necessary to provide adequate appropriations to cover the local counterpart funds of on-going and proposed foreign-financed projects in view of the country's increasing capability to absorb foreign assistance as demonstrated by the various loans and aids extended to Government projects;
+WHEREAS, there is a need to appropriate funds for these projects in adequate amounts to cover their total costs up to completion to assure continuity of their implementation.
+WHEREAS, there is need to synchronize all public works appropriations in the previous Public Works Acts to assure their relevance to current development objectives;
+WHEREAS, in order to make more effective the National Development Program, there is a need to provide sustained financial support to the Infrastructure Program;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and for sustained development of the country through complementary infrastructure facilities, do hereby decree and order as follows:
