@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Presidential Decree No. 1275 rationalized the allocation of positions of provincial and city fiscals according to workload of the respective offices of the provincial and city fiscals and/or the existing number of branches of the Courts of First Instance and City Courts;
+WHEREAS, Presidential Decree No. 1439, promulgated on June 10, 1978, created in certain provinces and cities additional branches of the Courts of First Instance and City Courts and new and additional Juvenile and Domestic Relations Courts;
+WHEREAS, there is a need to re-allocate the positions of provincial and city fiscals conformably to the increase in court salas under P.D. No. 1439 and in line with the objective of P.D. No. 1275 to rationalize the allocation of prosecution positions and functions in accordance with the requirements of the service;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree the following:
