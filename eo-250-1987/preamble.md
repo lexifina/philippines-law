@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, the Sangguniang Panlalawigan, Sangguniang Panlungsod, Sangguniang Bayan and Sangguniang Barangay provide grassroots participation of the citizenry in the affairs of the government;
+WHEREAS, under B.P. 337 otherwise known as the "Local Government Code", these officials are responsible for providing local support to national development by the enforcement of laws and directives and the maintenance of peace and order;
+WHEREAS, pursuant to the policy of promoting autonomy in the local government unit as provided under B.P. 337, the State must find the effectuate ways of enhancing their capabilities in discharging their responsibilities as effective partners in national development;
+WHEREAS, the State, in its declared policy of affording protection to labor has already granted under R.A. 4898, as amended, insurance benefits of Barangay Officials and has extended the beneficial mantle of said law to some local officials without any fixed salary or compensation, particularly the Kabataang Barangay Chairman thru P.D. 684 and the members of Sangguniang Panlalawigan, Sangguniang Panlungsod, and Suangguniang Bayan thru P.D. 1147;
+WHEREAS, the benefits provided for in R.A. 4898, as amended, have been found grossly insufficient for the needs of the covered officials and their families when contingencies occur in view of the increasing cost of living;
+WHEREAS, actuarial studies indicate that the premiums provided for in R.A. 4898, as amended, are very inadequate;
+WHEREAS, there is a need to increase the benefits and adjust the premiums as well as integrate and rationalize existing laws granting insurance benefits to these local government officials for effective administration;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, do hereby order:
