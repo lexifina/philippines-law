@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is our primordial objective to be self-reliant in our basic requirements for food and raw materials and in the implementation thereof also hasten our rural development and thus bring about a more equitable distribution of wealth for our people;
+WHEREAS, it is necessary that we attain a mutually reinforcing balance in the development of the agricultural and industrial sectors of our economy;
+WHEREAS, the accelerated development of the agricultural sector strengthens and stabilizes the economic, political, and social structure of the country by diffusing productive employment and income opportunities to the countryside while attaining self-sufficiency in basic food and raw materials, and increasing production of export crops and other products;
+WHEREAS, agricultural endeavors are generally of a higher risk nature than industrial or commercial undertakings due to its exposure to natural calamities and the vagaries of whether, and thus require more and different incentives;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution do hereby order and decree the extension of additional incentives to cultural endeavors, to wit:
