@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Article 42 of Presidential Decree No. 570-A introduces an appellate system which tends to hamper the administrative character of the labor relations system established under Book V of the Labor Code by limiting the freedom and authority of the President to deal effectively and expeditiously with labor disputes;
+WHEREAS, the national interest during a critical period of history requires the exercise of full jurisdiction by the President of the Philippines over such cases;
+WHEREAS, consistent with this policy, the Secretary of Labor should maintain the responsibility of passing upon such cases as the penultimate appellate level prior to final appeal to the President of the Philippines as originally provided for in Presidential Decree No. 21;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree that Sections 32 and 42 of Presidential Decree No. 570-A be further amended to read as follows:
