@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under Presidential Decree No. 492, dated 27 June 1974, as amended by Presidential Decree No. 860, and 1168, it has been declared to be the policy of the state to rationalize and integrate public transportation services;
+WHEREAS, to attain this objective, the Metro Manila Transit Corporation was created with a capital stock divided into Three Million (3,000,000) shares to be subscribed and paid for by the Government in the total sum of Ten Million Pesos (P10,000,000) while the remaining One Million (l,000,000) shares are to be sold to persons or entities operating public utility vehicles in Metro Manila;
+WHEREAS, the paid-in capital of Ten Million Pesos (P10,000,000), although increased by Fifteen Million Pesos (P15,000,000) under Presidential Decree No. 1168, representing the total subscription of the government to the capital stock of the corporation is still inadequate to enable the corporation to achieve the objectives for which it was created;
+WHEREAS, it is imperative that the corporation be provided with additional funds to continue operations and to carry out its mission;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:
