@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, a system of registration of all members of Barangays (Citizens Assemblies) has been established under Presidential Decree requires the declaration of a period of registration of qualified members of Barangays (Citizens Assemblies);
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and Pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby order and decree to be part of the laws of the land of the following:
