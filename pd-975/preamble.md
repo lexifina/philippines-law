@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under the Constitution of the Philippines, it is the declared policy of the State "to adhere to the policy of peace, equality, justice, freedom, cooperation, and amity with all nations"; "to preserve Filipino culture for the development of national identity"; and, "that customs, traditions, beliefs, and interests of national cultural communities shall be considered in the formulation and implementation of State policies";
+WHEREAS, in the pursuit of those policies, the Philippine Government has established diplomatic relations and maintains close ties of friendship and cooperation with member-states of the Islamic Conference and other nations in the world;
+WHEREAS, there still is a need to strengthen further political, economic, cultural, social and technical cooperation with Islamic States not only bilaterally but on a broader multilateral scale;
+WHEREAS, there is a need to undertake a unified and sustained Government action to maximize cooperation with Islamic States through an Office in the Department of Foreign Affairs;
+NOW, THEREFORE, I FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:
