@@ -1,0 +1,7 @@
+# Text
+WHEREAS, during the Eighth Special Session of the Seventh Congress, H. No. 5151 was enacted into law appropriating P13.5 million for the operation of the Constitutional Convention until January 31, 1973;
+WHEREAS, based on previous disbursements, the Constitutional Convention needs an additional of P4.2 million for its operation until January 31, 1973;
+WHEREAS, there was pending in Congress prior to the promulgation of Proclamation No. 1081, dated September 21, 1972, a deficiency bill (H. No. 5552) appropriating the amount of P4.2 million as additional operating expenses of the Constitutional Convention; and
+WHEREAS, there is an urgent necessity of appropriating the additional amount needed by the Constitutional Convention for its operation;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September A, 1972, and General Order No. 1, dated September 22, 1972, as amended, and upon the request of the Constitutional Convention delegates and officers, and the recommendation of the President thereof, do hereby decree that H. No. 5552 appropriating the additional amount of four million two hundred thousand pesos for the operation of the Constitutional Convention is hereby adopted, approved and made as part of the law of the land.
+This Decree shall take effect immediately.
