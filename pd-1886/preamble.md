@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the treacherous and vicious assassination of former Senator Benigno S. Aquino, Jr. on August 21, 1983, has to all Filipinos become a national tragedy and national shame specially because of the early distortions and exaggerations in both foreign and local media so that all right thinking and honest men desire to ventilate the truth through free, independent and dispassionate investigation by prestigious and free investigators;
+WHEREAS, to avoid any bias or partiality in the conduct of an investigation, there is a need to create an independent ad hoc fact-finding Board with plenary powers to determine the facts and circumstances surrounding the killing and to allow for a free, unlimited and exhaustive investigation into all the aspects of said tragedy;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, pursuant to the powers vested in me by the Constitution, do hereby order and decree:
