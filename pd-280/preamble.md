@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, to protect the public morals, health, safety and welfare, the State wages a relentless campaign against drug addiction and the vices and ills attendant thereto; and
+WHEREAS, some drug establishments contribute to the frustration of said campaign by selling or dispensing drugs, medicines and other similar substances in violation of Republic Acts Nos. 3720 and 6425, otherwise known as the Food, Drug, and Cosmetic Act, and the Dangerous Drugs Act of 1972, respectively, and other laws and the regulations issued thereunder;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby decree and order:
