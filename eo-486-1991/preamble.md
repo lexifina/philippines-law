@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, in line with the Reform Program for Government Corporations, the Government, through the Government Corporate Monitoring and Coordinating Committee (GCMCC), seeks to improve the financial and operating efficiency and effectiveness of government-owned or controlled corporations (GOCCs);
+WHEREAS, the establishment, development and implementation of an effective Performance Evaluation System as provided under Executive Order No. 236 dated 22 July 1987 constitute one of the most important elements of the Reform Program;
+WHEREAS, Presidential Decree No. 985, as amended by Presidential Decree No. 1597 and Republic Act No. 6758, authorizes the Department of Budget and Management to review on a continuing bases and to prepare, for the consideration and approval of the President, policies and levels of allowances and other fringe benefits applicable to government personnel;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
