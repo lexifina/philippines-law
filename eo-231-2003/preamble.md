@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, E.O. 153, series of 2002 mandated the creation of the National Task Force against Professional Squatters and Squatting Syndicates, with the following support agencies: Presidential Commission for the Urban Poor (PCUP), Philippine National Police (PNP) Department of Environment and Natural Resources (DENR), Department of Interior and Local Government (DILG), Land Registration Authority (LRA), Land Management Bureau (LMB) and Office of the Solicitor General (OSG).
+WHEREAS, the Public Attorneys' Office is the lead agency assisting in the filing of cases and in providing legal assistance to victims of professional squatters and squatting syndicates.
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
