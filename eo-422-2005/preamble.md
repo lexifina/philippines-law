@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, recognizing the need to establish a program to increase tax collections by providing taxpayers with incentives to voluntarily declare and pay higher taxes and reducing administrative costs from audits and investigations conducted by the Bureau of Internal Revenue, Executive Order No. 399 was issued on the 17th of January, 2005, instructing the Commissioner of Internal Revenue to establish a program to be known as the "No Audit Program" (NAP);
+WHEREAS, in order to attain the objectives set forth in the establishment of the NAP, there is a need to further enhance the conditions under which taxpayers liable for business income tax shall exempted from audit and/or investigation;
+WHEREAS, Executive power is vested in the President under Section 1, Article VII of the Constitution and under Section II, Chapter 3, Book II of Executive Order No. 292, otherwise known as the "Administrative Code of 1987;"
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
