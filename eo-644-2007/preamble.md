@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Presidential Decree No. 112 created the Toll Regulatory Board to closely supervise and regulate the collection of toll fees for the use of certain public improvements and the operation of toll facilities by the private sector viewed as an alternative source of financing to ensure the prosecution of infrastructure projects that complement the overall national development effort;
+WHEREAS, Section 23, Chapter 5, Title XV, Book IV Executive Order No. 292 placed TRB under the Department of Transportation and Communications as an attached agency;
+WHEREAS, in keeping with the policy of the government of enhancing efficiency and effectiveness in the implementation of government programs, the realignment of the assigned responsibilities with respect to attached agencies of some Departments is imperative;
+WHEREAS, Section 17, Article VII of the Constitution provides that the President shall have control of all executive departments, bureaus, and offices and shall ensure that all laws be faithfully executed;
+WHEREAS, the President of the Philippines has continuing authority to reorganize the administrative structure of the Office of the President by, among others, transferring any agency under the Office of the President to any other department or agency of the Government pursuant to paragraph 3, Section 31, Chapter 10, Title III, Book III of Executive Order No. 292;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
