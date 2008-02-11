@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the National Council for the Welfare of Disabled Persons (NCWDP) is the national government agency mandated to formulate policies and coordinate the activities of all agencies, whether public or private, concerning disability issues and concerns. As such, the NCWDP is the lead agency tasked to steer the course of program development for persons with disabilities and the delivery of services to the sector;
+WHEREAS, through the recommendation of Philippine non-government organizations (NGOs) concerned with intellectual disabilities, the Office of the President recognizes that there is a need to further strengthen the government programs for the welfare of disabled Filipinos;
+WHEREAS, in order to closely monitor and oversee the efficient and effective implementation of the Government's commitment in the special programs for persons with intellectual disabilities, there is a need to transfer the NCWDP from the DSWD to the Office of the President;
+WHEREAS, under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to reorganize the administrative structure of the Office of the President;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law and the Constitution, do hereby order:
