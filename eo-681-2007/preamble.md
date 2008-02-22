@@ -1,0 +1,26 @@
+# Preamble
+WHEREAS, the Department of Human Settlements was created under Presidential Decree No. 1396 dated June 2, 1978;
+WHEREAS, the Kilusang Kabuhayan at Kaunlaran (KKK) was created under Executive Order No. (EO) 715 dated September 29, 1981 as a priority program of the government;
+WHEREAS, the KKK was conceived to be the nationwide movement to mobilize the local resources for the establishment of viable productive enterprises that would provide sources of livelihood within the community;
+WHEREAS, under Letter of Instructions No. (LOI) 1161 the KKK was given national budgetary resources totaling one billion pesos (P1,000,000,000.00) initially set aside to fund the livelihood projects;
+WHEREAS, the KKK Processing Center Authority, later renamed Livelihood Corporation (LIVECOR) was created under EO 866 dated January 11, 1983 to implement the establishment, operation, maintenance and expansion of self-reliant and economically viable agro-industrial processing areas in various region of the Philippines under the KKK;
+WHEREAS, the LIVECOR Authority was governed by a Board of Trustees with the Minister of Human Settlements as Chairman;
+WHEREAS, the LIVECOR had a capitalization of one billion pesos (P1,000,000,000.00);
+WHEREAS, under LOI 144 dated September 22, 1983, the KKK National Secretariat was tasked to oversee the operations and administration of the Fund within the guidelines set forth therein;
+WHEREAS, under EO 85 dated December 12, 1986, the Ministry of Human Settlements was abolished;
+WHEREAS, LIVECOR was attached to the Presidential Management Staff by virtue of Executive Order No. 130, after the Ministry of Human Settlements was abolished in 1986;
+WHEREAS, under EO No. 238 dated July 22, 1987, the KKK/National Livelihood Support Fund (NLSF) capital and earnings were placed under the control and supervision of the Office of the President which shall be exclusively utilized for the promotion, generation and development of livelihood opportunities;
+WHEREAS, under Memorandum Order (MO) 71 dated February 18, 1987, the payment of separation benefits to officials and employees of the Ministry of Human Settlements and other agencies abolished under EO 85 was ordered;
+WHEREAS, under MO 85 dated April 30, 1987, the head of the Presidential Management Staff (PMS) was ordered to oversee the orderly abolition of the Ministry of Human Settlements to include the administration of separation benefits to those who will be separated from the service;
+WHEREAS, under EO 327 dated June 9, 1988, the Bagong KKK (BKKK) Secretariat was created to (i) implement the objectives and thrusts of the BKKK, (ii) carry out the consolidation of all KKK/NLSF capital funds and the collection of unpaid loans; and (iii) conceptualize, evaluate, market and monitor BKKK as a Fund and its role in the delivery of livelihood opportunities and services to the disadvantaged sectors of the society;
+WHEREAS, under Section 37 of the Republic Act (RA) No. 6657, otherwise known as "An act Instituting Agrarian Reform Program to Promote Justice and Industrialization, Providing the Mechanism for its Implementation and for Other Purposes", the BKKK Secretariat was transferred and attached to the Land Bank of the Philippines (LBP) for its supervision including all its applicable and existing funds, personnel, properties, equipment and records;
+WHEREAS, under Administrative Order (AO) No. 75 dated August 6, 1993, the BKKK Secretariat, including the BKKK Capital Funds/NLSF was directed to be transferred and attached to the LBP in accordance with Section 37 of RA 6657 and shall be supervised through an Executive Committee led by the President of the LBP as its Chairman;
+WHEREAS, under EO 21 dated August 27, 1998, the LIVECOR was attached to the Office of the Executive Secretary;
+WHEREAS, under EO 75 dated February 19, 1999, the BKKK Secretariat was abolished and a Management Committee was created in its place, led by the President of the LBP as Chairman and the Executive Director of the NLSF as Vice-Chairman. The newly created Management Committee was formed as the policy making body through which the LBP shall exercise supervision over the Fund;
+WHEREAS, while the Management Committee of the NLSF created under EO 75 is endowed with certain specific corporate powers, it lacks a formal creation into a corporation with separate and distinct corporate personality;
+WHEREAS, under EO 233 dated April 26, 2000, the attachment of LIVECOR and all its subsidiaries was transferred to the Department of Agriculture;
+WHEREAS, to be able to professionalize the handling and management of the Fund and for the efficient collection of the previous loans granted under the KKK and LIVECOR, there is a need to formalize the creation of the NLSF Management Committee by providing it with a corporate personality;
+WHEREAS, the Medium Term Philippine Development Plan (MTPDP) discourages the creation of new government corporations;
+WHEREAS, LIVECOR is no longer self-reliant and economically viable;
+WHEREAS, Section 31, Title III, Book III of the 1987 Administrative Code vests in the President the continuing authority to recognize the Office of the President;
+NOW, THERFORE, I, GLORIA M. ARROYO, President of the Philippines, by virtue of the power vested in me by the Constitution and the law, do hereby order:
