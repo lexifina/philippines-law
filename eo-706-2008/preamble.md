@@ -1,0 +1,11 @@
+# Preamble
+WHEREAS, Presidential Decree No. (PD) 564 of October 2, 1974 charged and vested the Philippine Tourism Authority (PTA) with functions and powers of tourism zone administration and control;
+WHEREAS, Proclamation No. 1801 of November 10, 1978 declared Boracay Island Aklan as a tourist zone under the administration and control of the PTA pursuant to PD 564;
+WHEREAS, Letter of Instructions No. (LOI) 1298 of February 26, 1983 constituted the Chairman, PTA, the Chief of Constabulary (now Director General of the Philippine National Police), the Commissioner of Immigration and Deportation, the Commanding Officer (now Commandant), Philippine Coast Guard and the Provincial Health Officer into an Inter-Agency Committee with the PTA as lead agency, to coordinate in enforcing the pertinent laws and regulations and to take action within their respective jurisdiction to prevent the proliferation of all illicit activities which would degrade the ecosystem and destroy the natural attractions of Boracay Island;
+WHEREAS, LOI 1298 instructed the Mayor of Malay to suspend issuance of building permits for any structure on Boracay Island pending the promulgation of a development plan for the Island by the PTA;
+WHEREAS, Executive Order No. (EO) 6 of August 7, 1998 established the Aklan Provincial Tourism Special Development Task Force (Task Force) under the Office of the President which shall be responsible for the overall coordination and supervision of the implementation of the Aklan Provincial Tourism Master Plan;
+WHEREAS, EO 6 mandated the Task Force to plan, conceptualize and draft the Aklan Province Tourism Master Plan in the context of ensuring the sustainable development of the Province of Aklan and the Island of Boracay;
+WHEREAS, EO 377 of October 22, 2004 authorized an Eminent Persons Group to oversee the sustainable development of Boracay tourism;
+WHEREAS, Memorandum Order No. 214 of April 18, 2006 mandated the PTA to exercise administration and control over Boracay Island;
+WHEREAS, the Secretary of Tourism is the Chairman of PTA;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
