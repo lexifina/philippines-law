@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Executive Order (EO) No. 269, series of 2004, which created the Commission on Information and Communications Technology (CICT), placed the Telecommunications Office (TELOF) and all other operating units then existing in DOTC that directly support communications, including the Telecommunications Policy and Planning Office, under the direct supervision and control of the CICT;
+WHEREAS, EO No. 603, series of 2007, transferred the direct supervision and control of the TELOF and all other operating units directly supporting CICT to the Department of Transportation and Communications (DOTC);
+WHEREAS, transferring the direct supervision and control of the TELOF and all other operating units directly supporting communications to the CICT will enhance the effectivity and promote faster, more efficient and reliable networks of communication system and services;
+WHEREAS, the National Telecommunications Commission (NTC) was attached to the Department of Transportation and Communications before it was transferred to the Commission on Information and Communications Technology pursuant to Executive Order No. 648, series of 2007;
+WHEREAS, Section 31, Chapter 10, Book III of the Administrative Code of 1987 grants the President the continuing authority to reorganize the Executive Branch of government.
+NOW, THEREFORE, I, GLORIA MACAPAGAL ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
