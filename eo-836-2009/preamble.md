@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the present Risk Management Group (RMG) of the Bureau of Customs (BOC) reviews and updates the bureau's Selectivity Screens, which establishes a viable system of setting and changing parameters in the bureau's Selectivity System in line with the implementation of the E2M IAS (Electronic to Mobile Import Assessment System);
+WHEREAS, the RMG ensures an efficient and secure pipeline of information from all sources, conducts a continuing study/profile of importers, exporters and customs brokers in compliance with the principles of the World Customs Organization (WCO), and maintains a database of all smuggling cases and related data;
+WHEREAS, through the years, the responsibility of the RMG expanded from merely drafting the risk management policy of the BOC to risk assessment and risk profiling, which greatly contributes to the efforts of the BOC in combating smuggling;
+WHEREAS, in order to make BOC at par with other customs administrations all over the world, there is a need to institutionalize the RMG and enhance its powers and functions by transforming it into Risk Management Office (RMO), which shall be placed directly under the Office of the Commissioner;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order
