@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, transparency, accountability and prudence in government spending are among the core governance policies being adopted by this administration;
+WHEREAS, while Government Owned and Controlled Corporations (GOCCs) and Government Financial Institutions (GFIs), by the nature of their operations, are accorded greater flexibility to function properly and efficiently under a market environment, such flexibility shall nevertheless be consistent with the precept of public accountability;
+WHEREAS, there is a need to strengthen the supervision over the compensation levels of GOCCs and GFIs, in order to control the grant of excessive salaries, allowances, incentives and other benefits;
+WHEREAS, under Item (9) of the Senate and House of Representatives Joint Resolution (J.R.) No. 4, s. 2009, agencies exempted from Republic Act (R.A.) No. 6758, as amended, shall observe the policies, parameters and guidelines governing position classification, salary rates, categories and rates of allowances, benefits, and incentives prescribed by the President;
+NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by the Constitution, Presidential Decree No. 985, Presidential Decree No. 1597, R.A. No. 6758, as amended by the J.R. Nos. 1, s. 1994, and 4, s. 2009, do hereby order and direct:
