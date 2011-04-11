@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Land Registration Authority (LRA) was transferred to the Department of Environment and Natural Resources (DENR) pursuant to Executive Order No. 690, dated December 28, 2007;
+WHEREAS, the government is committed to pursue a more responsive and efficient bureaucracy by adopting homogenous grouping of functionally related government agencies;
+WHEREAS, with due regard to the quasi-judicial functions being performed by the LRA in land registration cases, and given the present mandate, organizational capability, expertise and experience of the LRA and its Registries of Deeds throughout the country, it is more appropriate that the LRA and its Registries of Deeds continue to perform its land registration functions under the Department of Justice (DOJ);
+WHEREAS, Section 31, Chapter 10, Title Ill, Book Ill of Executive Order No. 292, series of 1987, otherwise known as the "Administrative Code of 1987?, provides that the President, subject to the policy in the Executive Office and in order to achieve simplicity, economy and efficiency, shall have continuing authority to reorganize the administrative structure of the Office of the President.
+NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
