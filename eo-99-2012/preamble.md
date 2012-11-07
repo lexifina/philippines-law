@@ -1,0 +1,11 @@
+# Preamble
+WHEREAS, Section 1, Article VII of the 1987 Constitution vests executive power in the President of the Philippines;
+WHEREAS, the President's executive power includes the power of control of all the executive departments, bureaus and offices as provided under Section 17, Article VII of the 1987 Constitution;
+WHEREAS, the post of Cabinet Secretary was created on 22 December 1986, with the rank and emolument of a Member of the Cabinet, to provide support for the President, facilitate the exchange of information, as well as the discussion and resolution of issues, and act as a coordinator and integrator of the initiatives of the President;
+WHEREAS, the Administration is committed to the implementation of the President's Social Contract with the Filipino People, a sixteen-point agenda that lays down the vision of government in the different priority areas of development;
+WHEREAS, the Philippine Development Plan (PDP) 2011-2016, grounded on the Social Contract, translated our administration's medium-term priorities into specific goals, strategies, programs and projects;
+WHEREAS, Executive Order (EO) No. 43 (s. 2011) reorganized the Cabinet Clusters to orient and direct its programs, projects, and activities around key result areas of the Social Contract towards the attainment of priority development goals,
+WHEREAS, Administrative Order (AO) No. 25 (s. 2011) established an Inter-Agency Task Force to provide oversight and integrate the Results Based Performance Management System (RBPMS) across all agencies within the Executive Branch of government;
+WHEREAS, there is a need to operationalize the outputs of the Inter-Agency Task Force created under AO 25 to strengthen and more closely monitor the delivery of the identified targets to ensure that these translate into outcomes that directly and positively impact on the lives of the Filipino people;
+WHEREAS, Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987 provides that the President shall have continuing authority to reorganize the administrative structure of the Office of the President.
+NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by the Constitution and law, do hereby order the following:
