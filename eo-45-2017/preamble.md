@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, it is the policy of the Philippine Government to bring public services closer to the Filipino;
+WHEREAS, during the last ten (10) years, the Department of Foreign Affairs (DFA) has experienced an unprecedented surge in passport applications, with fourteen (14) million Filipinos currently holding valid passports;
+WHEREAS, in accordance with this Administration's goal of promoting a people-centered, clean, efficient and effective governance, including seamless service delivery, there is a need to open additional consular offices in strategic places to ensure faster processing of passports and minimize inconvenience to the DFA's clientele;
+WHEREAS, Executive Order (EO) No. 292 (s. 1987), or the Administrative Code of 1987, provides for the mandate of the DFA Office of Consular Affairs (OCA) to efficiently and effectively deliver passport, visa and authentication services;
+WHEREAS, Republic Act No. 8239, or the Philippine Passport Act of 1998, grants the Secretary of Foreign Affairs (SFA)'or any of his authorized consular officers the authority to issue passports to qualified Filipino citizens;
+WHEREAS, EO No. 253 (s. 1995) upgraded the ten (10) existing Field Offices of DFA- OCA, then known as Passport Extension Offices, into Regional Consular Offices (RCOs), and EO No. 748 (s. 2008) created six (6) more RCOs to ensure that consular services were made available to more people in areas outside the National Capital Region (NCR);
+WHEREAS, the DFA, desirous of providing consular services to the widest possible area, has established more Field Offices consisting of Satellite Offices (SOs) within the NCR and RCOs in other parts of the country;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order;
