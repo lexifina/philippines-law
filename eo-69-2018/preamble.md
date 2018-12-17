@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Section 18, Article VII of the Constitution provides that the President shall be the Commander-in-Chief of all armed forces of the Philippines;
+WHEREAS, Section 4, Article II of the Constitution states that the Government may call upon the people to defend the State and require citizens to render personal military service, under conditions provided by law;
+WHEREAS, Executive Order No. 264 (s. 1987) created the Citizen Armed Forces Geographical Unit (CAFGU) which, through the mobilization of CAFGU Active Auxiliary (CAA) units, shall complement and support the regular forces of the Armed Forces of the Philippines (AFP) in dealing with internal and external security threats;
+WHEREAS, CAA units support the AFP by providing vital military intelligence, joining traditional and non-traditional military operations, securing conflict-affected communities, and acting as first responders during natural disasters; and
+WHEREAS, there is a need to provide financial support to members of the CAA units, in recognition of the invaluable assistance they provide to the AFP in dealing with security threats, their indispensable service in maintaining local peace and order and meeting local insurgencies, and the faithful performance of their duties, which they carry out at great risk to themselves and their families;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
