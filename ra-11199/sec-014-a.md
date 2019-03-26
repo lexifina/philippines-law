@@ -1,0 +1,8 @@
+# Section 14-A
+SEC. 14-A. Maternity Leave Benefit. — A female member who has paid at least three (3) monthly contributions in the twelve-month period immediately preceding the semester of her childbirth or miscarriage shall be paid a daily maternity benefit equivalent to one hundred percent (100%) of her average daily salary credit for sixty (60) days or seventy-eight (78) days in case of caesarian delivery, subject to the following conditions:
+(a) That the employee shall have notified her employer of her pregnancy and the probable date of her childbirth, which notice shall be transmitted to the SSS in accordance with the rules and regulations it may provide;
+(b) The full payment shall be advanced by the employer within thirty (30) days from the filing of the maternity leave application;
+(c) That payment of daily maternity benefits shall be a bar to the recovery of sickness benefits provided by this Act for the same period for which daily maternity benefits have been received;
+(d) That the maternity benefits provided under this section shall be paid only for the first four (4) deliveries or miscarriages;
+(e) That the SSS shall immediately reimburse the employer of one hundred percent (100%) of the amount of maternity benefits advanced to the employee by the employer upon receipt of satisfactory proof of such payment and legality thereof: and
+(f) That if an employee member should give birth or suffer miscarriage without the required contributions having been remitted for her by her employer to the SSS, or without the latter having been previously notified by the employer of the -time of the pregnancy, the employer shall pay to the SSS damages equivalent to the benefits which said employee member would otherwise have been entitled to.
