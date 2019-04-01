@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, the Philippine Aerospace Development Corporation (PADC) is a government-owned or -controlled corporation (GOCC) created by virtue of Presidential Decree (PD) No. 286 (s. 1973), as amended, for the purpose of maximizing the national utility of the aviation and aerospace industry, and is empowered to engage in the design, manufacture and sale of all forms of aircraft and aerospace devices, equipment or contraptions, and to develop local capabilities in the maintenance, repair and modification of aviation equipment;
+WHEREAS, by virtue of Executive Order (EO) No. 546 (s. 1979), the PADC was attached to the Department of Transportation (DOTr), then the Ministry of Transportation and Communications;
+WHEREAS, the aerospace sector is one of the industry priorities under the Philippine Development Plan (PDP) 2017-2022 in view of the emerging local industry and its capability to leverage on the competitive advantages of Philippine industries;
+WHEREAS, there is a need to address emerging internal and external threats, achieve self-reliance as regards defense equipment, and promote the transfer of technology from neighboring countries;
+WHEREAS, the attainment of the objectives of the PDP 2017-2022 requires that the government ensure the effective, efficient and economical management of the operations of relevant agencies and instrumentalities, as well as the coordination of programs and policies; and
+WHEREAS, under Section 17, Article VII of the 1987 Constitution, the President shall have control of all the executive departments, bureaus and offices;
+NOW, THEREFORE I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
