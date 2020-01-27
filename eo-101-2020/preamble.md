@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Section 11, Article XIII of the Constitution provides that the State shall adopt an integrated and comprehensive approach to health development, which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost;
+WHEREAS, Paragraph 2, Article 11 of the Internatiohal Covenant on Economic, Social and Cultural Rights provides that States Parties recognize the fundamental right of everyone to be free from hunger, and shall take, individually and through international cooperation, measures to improve methods of production, conservation and distribution of food;
+WHEREAS, the United Nations 2030 Agenda for Sustainable Development identifies as Sustainable Development Goal No. 2, the objective of ending hunger, achieving food security and improved nutrition, and promoting sustainable agriculture;
+WHEREAS, involuntary hunger, food security, undemutrition, and child wasting, stunting and mortality, continue to be serious concerns in the country;
+WHEREAS, there is a need to carefully coordinate, rationalize, monitor and assess the efforts of concerned government agencies and instrumentalities to ensure a whole-of-government approach to eradicating hunger and achieving food security; and
+WHEREAS, Section 17, Article VII of the Constitution provides that the President shall have control of all executive departments, bureaus and offices, and shall ensure that the laws are faithfully executed;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
