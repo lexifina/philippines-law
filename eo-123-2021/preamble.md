@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Executive Order (EO) No. 82 (s. 2019) reduced the rates of duty on mechanically deboned meat of chicken and turkey, among others, to 5%, until 31 December 2020;
+WHEREAS, in view of the continuing crisis brought about by the COVID-19 pandemic, there is an urgent need to adopt measures aimed towards mitigating the adverse impacts of the current situation on the lives and livelihoods of Filipinos;
+WHEREAS, it is necessary for the Government to provide an enabling environment that ensures the continued supply of essential food products at stable prices, helps businesses recover and sustain their operations, and preserves and creates employment opportunities, all for the purpose of supporting the economy in bouncing back and resuming its growth momentum;
+WHEREAS, Section 1608 of Republic Act (RA) No. 10863 authorizes the President, in the interest of general welfare and national security, and upon the recommendation of the National Economic and Development Authority (NEDA), to increase, reduce or remove existing rates of import duty; and
+WHEREAS, the NEDA Board recommends maintaining the tariff rates under EO No. 82 for mechanically deboned meat of chicken falling under AHTN 2017 subheading 0207.14.91, and mechanically deboned meat of turkey falling under AHTN 2017 subheadings 0207.27.91A and 0207.27.91B;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:
