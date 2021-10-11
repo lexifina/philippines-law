@@ -1,0 +1,12 @@
+# Preamble
+WHEREAS, Section 16, Article XII of the Constitution provides that government-owned or -controlled corporations (GOCCs) may be established in the interest of the common good, subject to the test of economic viability;
+WHEREAS, Section 5, Article IX-B of the Constitution mandates that Congress shall standardize the compensation of government officials and employees, including those in GOCCs with original charters, taking into account the nature of their responsibilities, and the qualifications required for their positions;
+WHEREAS, under Republic Act (RA) No. 10149 or the "GOCC Governance Act of 2011," the Governance Commission for GOCCs (GCG) is mandated to:
+a. Classify GOCCs, as may be necessary, to guide it in exercising its powers and functions;
+b. Conduct compensation studies, develop and recommend to the President a competitive compensation and remuneration system which shall attract and retain talent, while allowing the GOCC to be financially sound and sustainable; and
+c. Develop a CPCS which shall apply to all officers and employees of GOCCs whether under the Salary Standardization Law or exempt therefrom, and shall consist of classes of positions grouped into such categories as the GCG may determine, subject to approval of the President;
+WHEREAS, Section 9 of RA No. 10149 provides that, notwithstanding any law to the contrary, no GOCC shall be exempt from the coverage of the CPCS developed by the GCG under said Act;
+WHEREAS, Executive Order (EO) No. 203 (s. 2016) titled, "Adopting the Compensation and Position Classification System (CPCS) and a General Index of Occupational Services (IOS) for the GOCC Sector Covered by Republic Act No. 10149, and for Other Purposes," was approved by the President on 22 March 2016;
+WHEREAS, EO No. 36 (s. 2017) suspended the CPCS under EO No. 203 in light of the need to further study and review the compensation of GOCCs, to eliminate any excessive, unauthorized, illegal and/or unconscionable allowances, incentives and benefits, as well as rationalize rigorous requirements that hamper implementability of the System; and
+WHEREAS, the GCG En Banc, after having conducted the requisite consultation with stakeholders, review and compensation study, has developed the new CPCS for GOCCs and submitted the same to the President for approval;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and by existing laws, do hereby order:
