@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, Section 18, Article II of the Constitution declares it a policy of the State to affirm labor as a primary social economic force, protect the rights of workers, and promote their welfare;
+WHEREAS, Section 2 of Republic Act (RA) No. 8042 or the "Migrant Workers and Overseas Filipinos Act of 1995," as amended, provides that the State shall provide adequate and timely social, economic and legal services to Filipino migrant workers;
+WHEREAS, Section 6 of RA No. 10801 or the "Overseas Workers Welfare Administration (OWWA) Act," provides that the OWWA shall develop, support and finance specific projects for the welfare of member-OFWs and their families;
+WHEREAS, Section 2 of RA No. 11223 or the "Universal Health Care Act," provides that the State shall adopt a people-oriented approach for the delivery of health services that is centered on people's needs and well-being, and cognizant of the differences in cultures, values and beliefs;
+WHEREAS, OFWs are the unsung modern-day heroes of the Philippines as they brave living and working in a foreign land to support their families back home, and their regular remittances have contributed to the stability and growth of the Philippine economy;
+WHEREAS, the establishment of a specialty government hospital primarily devoted to OFWs will recognize the valuable contribution of Filipino migrant workers, and alleviate their health problems and concerns; and
+WHEREAS, Section 17, Article VII of the Constitution provides that the President shall have control of all the executive departments, bureaus and offices, and that he shall ensure the faithful execution of laws;
+NOW THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
