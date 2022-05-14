@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Section 1, Chapter 1, Title X, Book IV of Executive Order (EO) No. 292 (s. 1987) or the "Administrative Code of 1987,: provides for the protection of Filipino enterprises against unfair trade practices, and recognizes the importance of pursuing a trade policy that serves the general welfare, and utilizes all forms and arrangements of exchange on the basis of equality and reciprocity;
+WHEREAS, Section 2, Chapter 1, Title X, Book IV of the EO No. 292 mandates the Department of Trade and Industry (DTI) to formulate and implement policies, plans, and programs relative to the development, expansion, promotion and regulation of trade, industry and investments;
+WHEREAS, Section 2 of Republic Act (RA) No. 6977, as amended by RA No. 9501, or the "Magna Carta for Micro, Small and Medium Enterprises (MSMEs)," declares it a policy of the State to promote, support, strengthen and encourage the growth and development of MSMEs in all productive sectors of the economy;
+WHEREAS, according to the Philippine Statistics Authority 2019 Update of the List of Establishments, 99.5% of businesses in the Philippines are MSMEs, 68% of which are into franchising;
+WHEREAS, the franchising industry plays a crucial role in sustaining the country's economy by creating job opportunities, boosting consumption, and promoting tourism; and
+WHEREAS, there is a need to intensify government efforts to strengthen the franchising industry to help businesses, especially MSMEs, by developing a transparent and business-friendly environment, and promoting fair and equitable practices;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
