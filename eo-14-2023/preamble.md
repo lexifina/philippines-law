@@ -1,0 +1,11 @@
+# Preamble
+WHEREAS, Executive Order (EO) No. 5 (s. 2016) adopted the long-term vision entitled AmBisyon Natin 2040 as a guide for development planning from 2016 to 2040 to enable Filipinos to attain a "matatag, maginhawa at panatag na buhay;"
+WHEREAS, the United Nations General Assembly, of which the Philippines is a member, adopted the Resolution No. 70/1 on 25 September 2015, laying down seventeen (17) Sustainable Development Goals that aim to eradicate poverty and promote inclusive and sustainable growth for all, as part of the 2030 Agenda for Sustainable Development;
+WHEREAS, the President's 8-Point Socioeconomic Agenda seeks to reinvigorate job creation and accelerate poverty reduction while addressing the issues brought by the COVID-19 pandemic;
+WHEREAS, the 2022-2028 Medium-Term Fiscal Framework (MTFF) aims to attain short-term macro-fiscal stability while remaining supportive of economic recovery, and promote medium-term fiscal sustainability by consolidating and utilizing government resources to gain maximum benefit for the economy;
+WHEREAS, to ensure the achievement of the goals stated in AmBisyon Natin 2040, the 2030 Agenda for Sustainable Development, the President's 8-Point Socioeconomic Agenda, and the 2022-2028 MTFF, coherent strategies and policies were incorporated in the Philippine Development Plan (PDP) 2023-2028;
+WHEREAS, the PDP 2023-2028, as the second medium-term plan anchored on AmBisyon Natin 2040, aims to bring back the country to a high-growth trajectory and more importantly, enable economic and social transformation for a prosperous, inclusive and resilient society;
+WHEREAS, the PDP 2023-2028 was approved by the National Economic and Development Authority (NEDA) Board on 16 December 2022, following a series of Cabinet-level and technical inter-agency discussions and stakeholders consultations;
+WHEREAS, to support the PDP, there is a need to identify the priority programs and projects that will be carried out by agencies for the period 2023-2028, embodied in the Public Investment Program (PIP) 2023-2028; and
+WHEREAS, the successful implementation of the PDP and the PIP rests on the support of all the stakeholders;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
