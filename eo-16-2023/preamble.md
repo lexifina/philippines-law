@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus and offices, and the mandate to ensure the faithful executions of laws;
+WHEREAS, Section 31, Chapter 10, Title III of Executive Order (EO) No. 292 of the "Administrative Code of 1987," provides that the President, in order to achieve simplicity, economy and efficiency, shall have the continuing authority to reorganize the administrative structure of the Office of the President (OP);
+WHEREAS, EO No. 2, (s. 2022) reorganized the communications agencies and offices, in view of the need to rationalize and consolidate the communications arms of the Administration for a more efficient delivery of public service;
+WHEREAS, EO No. 11 (s. 2022), which further streamlined the administrative structure of the OP, renamed the Office of the Press Secretary as the Presidential Communications Office (PCO), and placed the same under the direct control and supervision of the President;
+WHEREAS, under EO No. 11, the PCO shall be responsible for crafting, formulating, developing, enhancing, and coordinating the messaging system of the Executive branch and the OP; and
+WHEREAS, there is a need to reorganize the PCO to ensure rationalization of its organizational structure, functions and staffing pattern, consistent with the Administration's continuing efforts towards efficiency and responsiveness in the delivery of critical mandates to the Filipino people;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
