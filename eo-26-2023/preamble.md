@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Section 15, Article XIV of the Constitution mandates the State to conserve, promote, and popularize the nation's historical and cultural heritage and resources, as well as artistic creations;
+WHEREAS, Republic Act (RA) No. 10086 or the "Strengthening Peoples' Nationalism Through Philippine History Act," declares it a policy of the State to strengthen people's nationalism, love of country, respect for its heroes and priced for the people's accomplishments by reinforcing the importance of Philippine national and local history, with the end in view of enhancing programs for the protection, preservation, and conservation of historical relics and memorabilia, monuments, sites, and other historical resources;
+WHEREAS, the Kalayaan Museum and other government assets under the management and maintenance of the Office of the President (OP) have witnessed the rich and invaluable history of the Philippine Government;
+WHEREAS, there is a need to maintain, preserve, and utilize the aforementioned properties in recognition of its potential to promote the country's history and culture; and
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus and offices, and the mandate to ensure the faithful execution of laws;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
