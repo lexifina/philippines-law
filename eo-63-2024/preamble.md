@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Section 2, Article IX-B of the Constitution provides that appointments in the civil service shall be made only according to merit and fitness to be determined, as far as practicable, and except to positions which are policy-determining, primarily confidential, or highly technical, by competitive examination;
+WHEREAS, Presidential Decree No. 1 (s. 1972) mandated to Career Executive Service Board to promulgate rules, standards and procedures on the selection, classification, compensation and career development of members of the Career Executive Service;
+WHEREAS, Section 8, Chapter II, Book V of Executive Order (EO) No. 292 or the "Administrative Code of 1987" states that the entrance to the third level (Career Executive Service [CES]) positions shall be prescribed by the Career Executive Service Board (CESB);
+WHEREAS, pursuant to Memorandum Circular (MC) No. 35 (s. 2023), on 22 February 2024, the CESB recommended to revoke the policy of granting CES ranks to the graduates of MNSA Program of the NDCP to synchronize the standards and procedures for the conferment of CES ranks; and
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all Executive departments, bureaus and offices, and the mandate to ensure the faithful execution of laws;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
