@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Memorandum Order (MO) No. 75 (s. 1993), as amended by Executive Order (EO) No. 138 (s. 2002), created the Office of the Presidential Consultant on Police Affairs, later renamed as the Office of the Presidential Adviser on Police Affairs, to expedite coordination in the handling of police matters and provide police staff assistance within the Office of the President (OP);
+WHEREAS, MO No. 40 (s. 1998) established the Office of the Presidential Adviser on Military Affairs to provide military staff assistance within the OP, as well as to facilitate policy formulation and decision making on national security concerns and military affairs;
+WHEREAS, under EO No. 1 (s. 2022), there shall be an Office of the Presidential Adviser on Military and Police Affairs (OPAMPA) under the administration of the Office of the Special Assistant to the President;
+WHEREAS, it is imperative to revisit the need for a separate office in charge of military and police affairs within the OP, consistent with the streamlining and rightsizing policy of the Administration;
+WHEREAS, Section 31, Chapter 10, Title III, Book III, of EO No. 292 or the "Administrative Code of 1987," provides that the President, in order to achieve simplicity, economy, and efficiency, shall have the continuing authority to reorganize the administrative structure of the OP; and
+WHEREAS, Section 17, Article VII of the 1987 Constitution vests in the President the power of control over all Executive departments, bureaus, and offices, and the mandate to ensure the faithful execution of laws;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:
