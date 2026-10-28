@@ -1,0 +1,33 @@
+{
+ "country": "PH",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "1987 Const.",
+   "title": "The Constitution of the Republic of the Philippines (1987)",
+   "url": "https://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+   "versions": [
+    {
+     "from": "1987-02-02",
+     "units": 307,
+     "source_url": "https://web.archive.org/web/20231009121845id_/http://www.officialgazette.gov.ph/constitutions/1987-constitution/",
+     "sha256": "76104d05e83828ebcbfa0d1cac583a5ac2d2b71e1df5f5cd74cd167ba2df92e6"
+    }
+   ]
+  },
+  {
+   "slug": "data-privacy-act",
+   "short": "RA 10173",
+   "title": "Data Privacy Act of 2012 (Republic Act No. 10173)",
+   "url": "https://www.officialgazette.gov.ph/2012/08/15/republic-act-no-10173/",
+   "versions": [
+    {
+     "from": "2012-09-08",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20230930155155id_/http://www.officialgazette.gov.ph/2012/08/15/republic-act-no-10173/",
+     "sha256": "d239c7522d58167bcc823be0b18882637e7efe290a4cf9698045a23b2a7d0928"
+    }
+   ]
+  }
+ ]
+}
