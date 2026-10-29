@@ -133,7 +133,7 @@ def ra_10173():
     for c, line in bl:
         if line.startswith('Approved,'):
             break
-        sm = re.match(r'(?:SECTION|SEC\.) (\d+)\s*\.', line)
+        sm = re.match(r'(?:SECTION|SEC\.?) (\d+)\s*\.', line)  # s. 22 is printed "SEC 22."
         if sm and not c:
             n = int(sm.group(1))
             key = f'sec-{n:02d}'
