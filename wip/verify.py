@@ -42,7 +42,8 @@ def get(url: str) -> bytes:
 
 def words(s: str) -> list[str]:
     s = s.replace('’', "'").replace('‘', "'").replace('“', '"').replace('”', '"')
-    return re.findall(r"[a-z0-9]+(?:'[a-z]+)?", s.lower())
+    # Item numbers ("(1)", "a.") are typeset differently on the two sites, so bare numbers and single letters drop out.
+    return [w for w in re.findall(r"[a-z0-9]+(?:'[a-z]+)?", s.lower()) if not w.isdigit() and len(w) > 1]
 
 
 def main() -> int:
