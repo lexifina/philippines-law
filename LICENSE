@@ -1,0 +1,13 @@
+The legal texts are laws of the Republic of the Philippines as published in the Official Gazette
+(https://www.officialgazette.gov.ph), whose site states: "All content is in the public domain unless otherwise
+stated." Under Republic Act No. 8293 (Intellectual Property Code), section 176, no copyright subsists in any work
+of the Government of the Philippines.
+
+Changes made by Lexifina: each law was converted to one Markdown file per provision, one paragraph per line;
+chapter and article headings were left out of the units; five evident transcription errors in the Official
+Gazette's page of the Constitution were corrected. The versions were arranged as git commits.
+Lexifina does not claim the Official Gazette endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
