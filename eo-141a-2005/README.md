@@ -1,0 +1,7 @@
+# Executive Order No. 141A (2005): AMENDING EXECUTIVE ORDER NO. 141 DATED 24 OCTOBER 2002 ON THE APPOINTMENT OR DESIGNATION OF THE REPRESENTATIVE OF THE OFFICE OF THE PRESIDENT AND THE DESIGNATION OF THE REPRESENTATIVES OF THE DEPARTMENTS OF FINANCE (DOF) AND BUDGET AND MANAGEMENT (DBM) AS MEMBERS OF THE CENTRAL BANK BOARD OF LIQUIDATORS
+
+EO 141A (2005) · 1 versions, from 2005-09-05 (latest in force: 2005-09-05) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/456>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |

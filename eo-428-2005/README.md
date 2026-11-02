@@ -1,0 +1,7 @@
+# Executive Order No. 428 (2005): DIRECTING DEPARTMENT, BUREAUS, OFFICES AND OTHER AGENCIES IN THE EXECUTIVE BRANCH, INCLUDING GOVERNMENT – OWNED AND CONTROLLED CORPORATIONS TO SIMPLIFY RULES AND REGULATIONS AND REDUCE REPORTORIAL REQUIREMENTS TO FACILITATE DOING BUSINESS AND ENCOURAGE MORE INVESTMENTS IN THE COUNTRY
+
+EO 428 (2005) · 1 versions, from 2005-06-20 (latest in force: 2005-06-20) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/438>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |

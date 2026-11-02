@@ -1,0 +1,10 @@
+# Act No. 1559: AN ACT AMENDING ACT NUMBERED FIFTEEN HUNDRED AND THIRTY-THREE, ENTITLED "AN ACT PROVIDING FOR THE DIMINUTION OF SENTENCES IMPOSED UPON PRISONERS CONVICTED OF ANY OFFENSE AND SENTENCED FOR A DEFINITE TERM OF MORE THAN THIRTY DAYS AND LESS THAN LIFE IN CONSIDERATION OF GOOD CONDUCT AND DILIGENCE," BY PRESCRIBING THAT THE APPLICATIONS OF DIMINUTION OF SENTENCES ALLOWED THEREUNDER SHALL BE MADE ON THE BASIS OF LEGAL MONTHS OF THIRTY DAYS
+
+Act 1559 · 1 versions, from 1906-11-06 (latest in force: 1906-11-06) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/21701>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |

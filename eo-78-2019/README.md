@@ -1,0 +1,10 @@
+# Executive Order No. 78 (2019): TRANSFERRING THE PHILIPPINE AEROSPACE DEVELOPMENT CORPORATION TO THE DEPARTMENT OF NATIONAL DEFENSE
+
+EO 78 (2019) · 1 versions, from 2019-04-01 (latest in force: 2019-04-01) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/86676>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
