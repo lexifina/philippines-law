@@ -1,0 +1,11 @@
+# Batas Pambansa Blg. 156: AN ACT CONVERTING THE BARCELONITA BARANGAY HIGH SCHOOL LOCATED AT THE MUNICIPALITY OF CABUSAO, PROVINCE OF CAMARINES SUR, INTO A FISHERIES SCHOOL TO BE KNOWN AS BARCELONITA FISHERIES SCHOOL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR
+
+BP 156 · 1 versions, from 1982-02-08 (latest in force: 1982-02-08) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/25/16564>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Section 5 | [sec-005.md](sec-005.md) | 0 |  |

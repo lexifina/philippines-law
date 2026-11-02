@@ -1,0 +1,9 @@
+# Presidential Decree No. 808: AMENDING PRESIDENTIAL DECREE NO. 393 BY APPROPRIATING THE BALANCE OF P18,761,828.58 OF THE FUNDS PREVIOUSLY APPROPRIATED FOR AMORTIZATION OF HEAVY EQUIPMENT PROCURED UNDER THE DEFERRED PAYMENT PLAN AND GUARANTEED BY THE PHILIPPINE NATIONAL BANK
+
+PD 808 · 1 versions, from 1975-10-13 (latest in force: 1975-10-13) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/19164>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
