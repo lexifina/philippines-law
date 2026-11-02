@@ -1,0 +1,9 @@
+# Republic Act No. 2386: AN ACT AUTHORIZING THE DURANO AND COMPANY, INC. AND THE UNIVERSAL CEMENT COMPANY, INC., TO WIDEN AND CONCRETE, AT THEIR OWN EXPENSE, THE NATIONAL HIGH-WAY FRONTING THEIR CEMENT PLANT IN THE MUNICIPALITY OF DANAO, PROVINCE OF CEBU, AND THE MUNICIPAL STREETS OF THE TOWNS OF DANAO, CARMEN AND CATMON, ALL IN THE PROVINCE OF CEBU, AND TO CONCRETE SUCH OTHER PUBLIC IMPROVEMENTS THEREIN AS MAY BE DESIGNATED BY THE MUNICIPAL COUNCILS THEREOF
+
+RA 2386 · 1 versions, from 1959-06-20 (latest in force: 1959-06-20) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/12786>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
