@@ -1,0 +1,9 @@
+# Republic Act No. 81: AN ACT TO AID THE MINING INDUSTRY BY PROVIDING FOR THE WAIVER OF, AND/OR EXTENSION OF THE PERIOD WITHIN WHICH TO PERFORM, ACCOMPLISH OR COMPLY WITH, ANY TERM, CONDITION, OR STIPULATION REQUIRED OF LOCATORS, HOLDERS, LESSEES, OR OPERATORS OF MINING CLAIMS OR CONCESSIONS, AND OF WATER RIGHTS AND TIMBER CONCESSIONS CONNECTED WITH THE MINING INDUSTRY, AND THE CONDONATION OF MINING, SPECIFIC AND REAL ESTATE TAXES, UNDER CERTAIN TERMS AND CONDITIONS
+
+RA 81 · 1 versions, from 1946-10-29 (latest in force: 1946-10-29) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/9611>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

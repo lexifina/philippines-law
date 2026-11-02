@@ -1,0 +1,11 @@
+# Presidential Decree No. 967: AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 477 ENTITLED "AN ACT TO PROVIDE FOR THE ADMINISTRATION AND DISPOSITION OF PROPERTIES INCLUDING THE PROCEEDS AND INCOME THEREOF TRANSFERRED TO THE REPUBLIC OF THE PHILIPPINES UNDER THE PHILIPPINES PROPERTY ACT OF 1946 AND OF REPUBLIC ACT NUMBER EIGHT, AND OF THE PUBLIC LANDS AND IMPROVEMENT THEREOF TRANSFERRED TO THE NATIONAL ABACA AND OTHER FIBERS CORPORATION UNDER THE PROVISIONS OF EXECUTIVE ORDER NO. 29, DATED OCTOBER 25 1946 AND OF EXECUTIVE ORDER NO. 99, DATED OCTOBER 22, 1947."
+
+PD 967 · 1 versions, from 1976-07-24 (latest in force: 1976-07-24) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/33968>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |
