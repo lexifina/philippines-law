@@ -72,6 +72,90 @@
    ]
   },
   {
+   "slug": "ra-11976",
+   "short": "RA 11976",
+   "title": "Republic Act No. 11976: AN ACT INTRODUCING ADMINISTRATIVE TAX REFORMS, AMENDING SECTIONS 21, 22, 51, 56, 57, 58, 76, 77, 81, 90, 91, 103, 106, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 128, 200, 204, 229, 235, 236, 237, 238, 241, 243, 245, 248, AND 169; AND REPEALING SECTION 34(K) OF THE NATIONAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96948",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 51,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96948",
+     "sha256": "6180e46d5db6ce6783c938038453de334b32473ca44f67f94b86490368cc33c2"
+    }
+   ]
+  },
+  {
+   "slug": "ra-11977",
+   "short": "RA 11977",
+   "title": "Republic Act No. 11977: AN ACT ESTABLISHING IN THE MUNICIPALITY OF FLORIDABLANCA, PROVINCE OF PAMPANGA, A CAMPUS OF THE PAMPANGA STATE UNIVERSITY, TO BE KNOWN AS THE \"PAMPANGA STATE UNIVERSITY-FLORIDABLANCA CAMPUS,\" AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96978",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96978",
+     "sha256": "9a6b13912ffba25bf11c01754a34c081fef7e136b3e2289b2b4027b596cab5d4"
+    }
+   ]
+  },
+  {
+   "slug": "ra-11978",
+   "short": "RA 11978",
+   "title": "Republic Act No. 11978: AN ACT ESTABLISHING A COLLEGE OF MEDICINE IN THE DON MARIANO MARCOS MEMORIAL STATE UNIVERSITY-SOUTH LA UNION CAMPUS LOCATED IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, TO BE KNOWN AS THE DON MARIANO MARCOS MEMORIAL STATE UNIVERSITY-SOUTH LA UNION CAMPUS-COLLEGE OF MEDICINE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96979",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96979",
+     "sha256": "0b70d855ced97d941debdef89cd6e63196477aeb8dcc06ac7153d3f6c148efda"
+    }
+   ]
+  },
+  {
+   "slug": "ra-11979",
+   "short": "RA 11979",
+   "title": "Republic Act No. 11979: AN ACT CONVERTING THE CAMPUS OF THE POLYTECHNIC UNIVERSITY OF THE PHILIPPINES LOCATED IN THE CITY OF PARAÑAQUE, INTO A REGULAR CAMPUS OF THE POLYTECHNIC UNIVERSITY OF THE PHILIPPINES, TO BE KNOWN AS THE POLYTECHNIC UNIVERSITY OF THE PHILIPPINES-PARAÑAQUE CITY CAMPUS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96980",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/96980",
+     "sha256": "6092a0e52219aeca7899b537231cba60fc5cd4ab65bc24956fcc2229ade9efc6"
+    }
+   ]
+  },
+  {
+   "slug": "ra-11981",
+   "short": "RA 11981",
+   "title": "Republic Act No. 11981: AN ACT MANDATING THE FORMULATION, FUNDING, IMPLEMENTATION, MONITORING, AND EVALUATION OF A COMPREHENSIVE AND MULTI-YEAR \"TATAK PINOY\" (PROUDLY FILIPINO) STRATEGY, ESTABLISHING A TATAK PINOY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/97010",
+   "versions": [
+    {
+     "from": "2024-03-17",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/97010",
+     "sha256": "1afcb22b408b2eeb20bb3d024b7a77d8fa75a935a49582f57260bb51bca3d050"
+    }
+   ]
+  },
+  {
+   "slug": "ra-11982",
+   "short": "RA 11982",
+   "title": "Republic Act No. 11982: AN ACT GRANTING BENEFITS TO FILIPINO OCTOGENARIANS AND NONAGENARIANS, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 10868, OTHERWISE KNOWN AS THE \"CENTENARIANS ACT OF 2016\", AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/97012",
+   "versions": [
+    {
+     "from": "2024-03-17",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/97012",
+     "sha256": "9c3842c7e4439ccefde6989a3f0d9e1f54bd244344d89c3f031b84d23c8c1397"
+    }
+   ]
+  },
+  {
    "slug": "ra-12117",
    "short": "RA 12117",
    "title": "Republic Act No. 12117: AN ACT RENAMING THE MINDANAO CENTRAL SANITARIUM IN PASOBOLONG, ZAMBOANGA CITY TO ZAMBOANGA REGIONAL MEDICAL CENTER",
@@ -166,6 +250,160 @@
      "units": 11,
      "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98483",
      "sha256": "269a0ff1e53f0dc264cb44d8d20ebd4e4019dd58e4a78174e379316f40873628"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12124",
+   "short": "RA 12124",
+   "title": "Republic Act No. 12124: AN ACT INSTITUTIONALIZING THE EXPANDED TERTIARY EDUCATION EQUIVALENCY AND ACCREDITATION PROGRAM AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98547",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98547",
+     "sha256": "3f7e9d7fa7cf2854821bc307df404905f2dff77ebeae46545c56057925d3a312"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12125",
+   "short": "RA 12125",
+   "title": "Republic Act No. 12125: AN ACT CONVERTING THE SINDANGAN EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) LOCATED IN THE MUNICIPALITY OF SINDANGAN, PROVINCE OF ZAMBOANGA DEL NORTE, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98711",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98711",
+     "sha256": "6bf9e06eed697499e1e52d11a3e3c2fe3151696e57c1d9e2e92c3b20a91ef077"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12126",
+   "short": "RA 12126",
+   "title": "Republic Act No. 12126: AN ACT ESTABLISHING A LAND TRANSPORTATION OFFICE (LTO) DISTRICT OFFICE IN THE MUNICIPALITY OF SULOP, PROVINCE OF DAVAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98713",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98713",
+     "sha256": "2ecc1c80ef197787488a36349d6fc77d938a0c8bedfb13b9c8c82f589f2c67e1"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12127",
+   "short": "RA 12127",
+   "title": "Republic Act No. 12127: AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE EXTENSION OFFICE IN THE MUNICIPALITY OF GATTARAN, PROVINCE OF CAGAYAN, INTO A REGULAR LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98714",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98714",
+     "sha256": "5c28dbc853cee593fdcfe5f452ff4ecfcee53eca96dc9bd1190f3da59e00f9a9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12128",
+   "short": "RA 12128",
+   "title": "Republic Act No. 12128: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TAAL, PROVINCE OF BATANGAS, INTO A DISTRICT OFFICE TO BE KNOWN AS THE TAAL LAND TRANSPORTATION OFFICE DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98715",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98715",
+     "sha256": "5000e42a297b9ffd3390c4540d38a539964322fea0aebfd6faa7d9a2589874cb"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12129",
+   "short": "RA 12129",
+   "title": "Republic Act No. 12129: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF DIGOS, PROVINCE OF DAVAO DEL SUR, FROM CLASS \"D\" TO CLASS \"C\" AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98723",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98723",
+     "sha256": "99ab1ee649e5c20010952c8974c077e9586394d35e9a51c014f53485b047773f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12130",
+   "short": "RA 12130",
+   "title": "Republic Act No. 12130: AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE URDANETA DISTRICT OFFICE INTO A CLASS \"A\" DISTRICT OFFICE, RENAMING THE SAME AS THE LAND TRANSPORTATION OFFICE BINALONAN DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98725",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98725",
+     "sha256": "1da528d2536b70d356eb38271138b6802c136493723040aeab61858ead80f47f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12131",
+   "short": "RA 12131",
+   "title": "Republic Act No. 12131: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN CANDON CITY, PROVINCE OF ILOCOS SUR, INTO A CLASS \"B\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98726",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98726",
+     "sha256": "3387f2e680fb09e1a0ca8b13e04c5bb9198a9c1157d2113ceec1307fc09dd28f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12132",
+   "short": "RA 12132",
+   "title": "Republic Act No. 12132: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN THE MUNICIPALITY OF LINGAYEN, PROVINCE OF PANGASINAN INTO A CLASS \"B\" DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98727",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98727",
+     "sha256": "887965465ba1314dd87c45bb91160eb96edef7c6253433bb40a840caa66135db"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12133",
+   "short": "RA 12133",
+   "title": "Republic Act No. 12133: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF NAGUILIAN, PROVINCE OF LA UNION, INTO A \"CLASS D\" DISTRICT OFFICE, TO BE KNOWN AS THE LTO DISTRICT OFFICE OF NAGUILIAN, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98728",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98728",
+     "sha256": "5e8d6c52b376ee2757ddaded9b4e7d4a2fd34a25bcdbbbf37520431afce9bd24"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12134",
+   "short": "RA 12134",
+   "title": "Republic Act No. 12134: AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF MAAYON, IN THE FIRST DISTRICT OF THE PROVINCE OF CAPIZ, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98730",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98730",
+     "sha256": "97123320af7743a96517f667f69e15c5e0ee1411471f143188fd5b57b4f9bc50"
     }
    ]
   },
@@ -278,6 +516,2218 @@
      "units": 3,
      "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98752",
      "sha256": "c4fef6070495454be8e93a13380ef8540d00ffc4592babe5084d75cfc89273ad"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12143",
+   "short": "RA 12143",
+   "title": "Republic Act No. 12143: AN ACT DECLARING MARCH 7 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF BASILAN, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY TO BE KNOWN AS \"ARAW NG BASILAN\", AND IN RECOGNITION OF THE \"TENNUN PAKARADJAAN\" AS THE OFFICIAL FESTIVAL OF THE PROVINCE OF BASILAN",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98753",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98753",
+     "sha256": "48544e07106fb3613c882f4c5025b5e39fd97fa6f2a4804bdc9a84829edf73f9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12144",
+   "short": "RA 12144",
+   "title": "Republic Act No. 12144: AN ACT INCLUDING TAGUM CITY, THE ISLAND GARDEN CITY OF SAMAL, AND THE MUNICIPALITIES OF ASUNCION, KAPALONG, NEW CORELLA, SAN ISIDRO, AND TALAINGOD IN THE PROVINCE OF DAVAO DEL NORTE, AND THE MUNICIPALITIES OF COMPOSTELA, LAAK, MABINI, MACO, MARAGUSAN, MAWAB MONKAYO, MONTEVISTA, NABUNTURAN, NEW BATAAN, AND PANTUKAN IN THE PROVINCE OF DAVAO DE ORO TO THE FRANCHISE AREA OF THE DAVAO LIGHT AND POWER COMPANY, INC., AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11515, ENTITLED \"AN ACT EXTENDING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO THE DAVAO LIGHT AND POWER COMPANY, INC., UNDER REPUBLIC ACT NO. 8960, ENTITLED 'AN ACT FURTHER EXTENDING THE TERM OF THE FRANCHISE GRANTED TO DAVAO LIGHT AND POWER COMPANY, INC. TO CONSTRUCT, OPERATE AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN DAVAO CITY AND THE MUNICIPALITIES OF CARMEN, PANABO, DUJALI, AND SANTO TOMAS, PROVINCE OF DAVAO DEL NORTE, FOR A PERIOD OF TWENTY-FIVE (25) YEARS AND FOR OTHER PURPOSES'\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98757",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98757",
+     "sha256": "00f78270554e536dd30469aba9c8d391a1a3a697e9bebf2c3c6a7a313a9baca6"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12147",
+   "short": "RA 12147",
+   "title": "Republic Act No. 12147: AN ACT ESTABLISHING A REGULAR CAMPUS OF THE DON HONORIO VENTURA STATE UNIVERSITY IN THE CITY OF SAN FERNANDO, PROVINCE OF PAMPANGA AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98855",
+   "versions": [
+    {
+     "from": "2025-04-26",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98855",
+     "sha256": "9f36318a408d58033ae1574308bcc0152d2a53f9f112024ef53ca3c33cb2706d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12149",
+   "short": "RA 12149",
+   "title": "Republic Act No. 12149: AN ACT GRANTING PHILIPPINE CITIZENSHIP TO BOOLES SHEMISHOO ASHOORIYAN",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98862",
+   "versions": [
+    {
+     "from": "2025-04-26",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98862",
+     "sha256": "78019e1f0ce65addfb2acbe971a65ddd9a686f06d7dd0bad17154fcb089dc63b"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12164",
+   "short": "RA 12164",
+   "title": "Republic Act No. 12164: AN ACT CONVERTING THE EXISTING LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE IN THE MUNICIPALITY OF PILI, PROVINCE OF CAMARINES SUR INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98881",
+   "versions": [
+    {
+     "from": "2025-04-26",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98881",
+     "sha256": "faabaf3c1b4f05e78cb4f259c62392c71cb67a23b893387431c00ad20bc110b6"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12145",
+   "short": "RA 12145",
+   "title": "Republic Act No. 12145: AN ACT REORGANIZING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY (NEDA) INTO THE DEPARTMENT OF ECONOMY, PLANNING AND DEVELOPMENT (DEPDEV), AND RECONSTITUTING THE NEDA BOARD INTO THE ECONOMY AND DEVELOPMENT COUNCIL, REPEALING FOR THE PURPOSE EXECUTIVE ORDER NO. 230, SERIES OF 1987, AND AMENDING EXECUTIVE ORDER NO. 292, SERIES OF 1987, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98843",
+   "versions": [
+    {
+     "from": "2025-04-27",
+     "units": 44,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98843",
+     "sha256": "f04484a987274d38e2fbccacca9a230b33567b157b3e45bee27f816547f7069c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12148",
+   "short": "RA 12148",
+   "title": "Republic Act No. 12148: AN ACT STRENGTHENING THE DON HONORIO VENTURA STATE UNIVERSITY BY RENAMING IT AS THE PAMPANGA STATE UNIVERSITY, EXPANDING ITS CURRICULAR OFFERINGS, AND THE COMPOSITION OF THE GOVERNING BOARD, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98861",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 31,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98861",
+     "sha256": "116d0cd9168567b959817c60503601305997c9e3f600003128490644f2150deb"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12150",
+   "short": "RA 12150",
+   "title": "Republic Act No. 12150: AN ACT GRANTING PHILIPPINE CITIZENSHIP TO STEPHEN DECATUR HAINES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98863",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98863",
+     "sha256": "9f7953259494b32bbf2f03a1361810350f6d3768a24c0bda0484efe1a4b81a3c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12151",
+   "short": "RA 12151",
+   "title": "Republic Act No. 12151: AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF POTOTAN IN THE THIRD LEGISLATIVE DISTRICT OF THE PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98864",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98864",
+     "sha256": "49b3cd8add5d1962a21da0e32c10b104f6099e5196d8b867e606162d0bf684b4"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12152",
+   "short": "RA 12152",
+   "title": "Republic Act No. 12152: AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98865",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98865",
+     "sha256": "50a48b1fc2fe94b36fe7ce2e5ce681350fbb7a940dd1f338cc6c5c7fda38b527"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12153",
+   "short": "RA 12153",
+   "title": "Republic Act No. 12153: AN ACT ESTABLISHING A LAND TRANSPORTATION OFFICE DISTRICT OFFICE IN THE MUNICIPALITY OF PADRE GARCIA, PROVINCE OF BATANGAS AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98867",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98867",
+     "sha256": "906047bbb9f9227d50fc63b1a91283526075d22d44a5331fb30a298d1e8f2afc"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12154",
+   "short": "RA 12154",
+   "title": "Republic Act No. 12154: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF CATANAUAN, PROVINCE OF QUEZON INTO A DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98868",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98868",
+     "sha256": "1d4d8936321400a3ccec44d9f2e6b5e776427662adca9acd87297ff6427d99d7"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12155",
+   "short": "RA 12155",
+   "title": "Republic Act No. 12155: AN ACT CONVERTING THE EXISTING LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE IN THE MUNICIPALITY OF SAN PASCUAL, PROVINCE OF BATANGAS INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98869",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98869",
+     "sha256": "3e50cc4c0615226c2f511fc6a28f857d5753432cd3c4e01ccea9dc8868dc0735"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12156",
+   "short": "RA 12156",
+   "title": "Republic Act No. 12156: AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE IN THE MUNICIPALITY OF BUUG, PROVINCE OF ZAMBOANGA SIBUGAY, INTO A REGULAR LTO DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98871",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98871",
+     "sha256": "7fd93f48d3168c5383c325c3667204a392619a864ab36ff04a55a6814ea7aa78"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12157",
+   "short": "RA 12157",
+   "title": "Republic Act No. 12157: AN ACT UPGRADING THE OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF LAMUT, PROVINCE OF IFUGAO INTO A CLASS \"C\" DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98872",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98872",
+     "sha256": "a4df44a0c8dd8a8bb0d9b1b3a3457b90b1a9e444f754762de5546e8ca435e189"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12158",
+   "short": "RA 12158",
+   "title": "Republic Act No. 12158: AN ACT DECLARING MARCH 21 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF CALAPAN, PROVINCE OF ORIENTAL MINDORO, IN COMMEMORATION OF ITS CHARTER ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98874",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98874",
+     "sha256": "9cccf3c5dcf0121f22dc8611c169b9c4b08d713a94f0a753cecec4953451c5ef"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12159",
+   "short": "RA 12159",
+   "title": "Republic Act No. 12159: AN ACT CHANGING THE NAME OF EASTERN BONTOC NATIONAL AGRICULTURAL AND VOCATIONAL HIGH SCHOOL IN BARANGAY LINGOY, MUNICIPALITY OF BARLIG, MOUNTAIN PROVINCE TO BARLIG NATIONAL AGRICULTURAL AND VOCATIONAL HIGH SCHOOL",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98876",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98876",
+     "sha256": "ab488e95f5ea0a0b1d71513462319ea822b67015fbad02b7576b5ac3b479f6ed"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12160",
+   "short": "RA 12160",
+   "title": "Republic Act No. 12160: AN ACT REQUIRING THE PROPER AND IMMEDIATE BURIAL OF MUSLIM CADAVERS IN ACCORDANCE WITH THE ISLAMIC RITES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98877",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98877",
+     "sha256": "2b8f191590dd3860c7766b30b08c61b61c1fb7090e9ae4582f19e29911a7c13c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12161",
+   "short": "RA 12161",
+   "title": "Republic Act No. 12161: AN ACT CREATING A CLASS \"D\" DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF NABUA, PROVINCE OF CAMRINES SUR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98878",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98878",
+     "sha256": "51088da2d86fe33a7a7696d04c2f8d7dbb701034ad7ef9e930311af3e0412566"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12162",
+   "short": "RA 12162",
+   "title": "Republic Act No. 12162: AN ACT CONVERTING THE EXISTING LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE IN THE MUNICIPALITY OF SAN MIGUEL IN THE SECOND DISTRICT, PROVINCE OF ILOILO INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98879",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98879",
+     "sha256": "32b296d948a8a894803342e62cc53c7473a41ac037ef18a8dc252dfe87071ec7"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12163",
+   "short": "RA 12163",
+   "title": "Republic Act No. 12163: AN ACT CONVERTING THE EXISTING LAND TRANSPORTATION OFFICE (LTO) EXTENSION OFFICE IN THE MUNICIPALITY OF DOLORES, PROVINCE OF EASTERN SAMAR, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98880",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98880",
+     "sha256": "7affe26a5559dff6c9923c0a46c56b0dea044828bc352554610adcd5c58ba935"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12165",
+   "short": "RA 12165",
+   "title": "Republic Act No. 12165: AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF KALAMANSIG, PROVINCE OF SULTAN KUDARAT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98882",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98882",
+     "sha256": "b56fd9ffe921f6beb871b5930607fc38338bbbef29887695723b197fe8eaff74"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12166",
+   "short": "RA 12166",
+   "title": "Republic Act No. 12166: AN ACT CONVERTING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN NAGA CITY, PROVINCE OF CAMARINES SUR INTO A REGULAR CLASS \"A\"DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98883",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98883",
+     "sha256": "e7c07b8a43268b7c272f0b8df444d2a676bac8d263ce1de98edecfaf585d8dce"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12167",
+   "short": "RA 12167",
+   "title": "Republic Act No. 12167: AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF ILOG, PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98885",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98885",
+     "sha256": "f8bc047409786be0dbadf60c4cfdf6f2d9b80a11d44431f827e79b00480ac737"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12168",
+   "short": "RA 12168",
+   "title": "Republic Act No. 12168: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN THE MUNICIPALITY OF RODRIGUEZ (MONTALBAN), PROVINCE OF RIZAL, INTO A DISTRICT OFFICE TO BE KNOWN AS THE LTO MONTALBAN DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98886",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98886",
+     "sha256": "42b0fb49c275224d6ec188d8d7acac5692e08e5ef62f4d1230b4ed50314ad815"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12169",
+   "short": "RA 12169",
+   "title": "Republic Act No. 12169: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, FROM A CLASS \"C\" TO A CLASS \"B\" DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98887",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98887",
+     "sha256": "b435001fed430c6c110015e644136c49a92b03efd3217c440d62570901be7137"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12170",
+   "short": "RA 12170",
+   "title": "Republic Act No. 12170: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF ALAMINOS, PROVINCE OF PANGASINAN, FROM A CLASS \"D\" TO A CLASS \"B\" DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98888",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98888",
+     "sha256": "70ffbe73bc4bb93ab4f1f8c8d486e988ac7ac969a3b4437cb6b37a3e30934b6c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12172",
+   "short": "RA 12172",
+   "title": "Republic Act No. 12172: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF NAIC, PROVINCE OF CAVITE, INTO A REGULAR DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98891",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98891",
+     "sha256": "e84419ad2bedc2253a2cdac57818e640dad4b595cbe7374915d418ad3b37ea53"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12173",
+   "short": "RA 12173",
+   "title": "Republic Act No. 12173: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF MATI, PROVINCE OF DAVAO ORIENTAL, FROM CLASS \"D\" TO CLASS \"C\" AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98892",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98892",
+     "sha256": "2c0e9587e4eef9a3a5da136e83f87d9a627d87b20c6a02336134da47311cc0c8"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12174",
+   "short": "RA 12174",
+   "title": "Republic Act No. 12174: AN ACT PROHIBITING THE DEVELOPMENT, PRODUCTION, STOCKPILING, AND USE OF CHEMICAL WEAPONS, PROVIDING FOR THEIR DESTRUCTION, IMPOSING PENALTIES FOR VIOLATIONS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98896",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 26,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98896",
+     "sha256": "5028719474212075a3b5a646211dfd024ce300bf81243c5ca3977bf3468cfc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12175",
+   "short": "RA 12175",
+   "title": "Republic Act No. 12175: AN ACT ESTABLISHING IN THE MUNICIPALITY OF SANTO TOMAS, PROVINCE OF DAVAO DEL NORTE, A MUNICIPAL HOSPITAL TO BE KNOWN AS THE SANTO TOMAS MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98908",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98908",
+     "sha256": "822f772c400a90726c6692df818b9f0131d210f628a97ba80c43618cbf9ce7c8"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12176",
+   "short": "RA 12176",
+   "title": "Republic Act No. 12176: AN ACT INCREASING THE BED CAPACITY OF THE TOMAS LACHICA DISTRICT HOSPITAL IN THE MUNICIPALITY OF JOSE ABAD SANTOS, PROVINCE OF DAVAO OCCIDENTAL, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUND THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98910",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98910",
+     "sha256": "31e29f701215d951c9d8e51d4f929e1bc690947d3aa6391dd39929e98efc517c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12177",
+   "short": "RA 12177",
+   "title": "Republic Act No. 12177: AN ACT PROVIDING LEGAL ASSISTANCE TO MILITARY AND UNIFORMED PERSONNEL FACING ANY CHARGE ARISING FROM INCIDENTS RELATED TO THE PERFORMANCE OF OFFICIAL DUTY, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98913",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 14,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98913",
+     "sha256": "274650662880f1b595b26372fc03fb843c3321f6438ee87ba5276b545db68b0d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12178",
+   "short": "RA 12178",
+   "title": "Republic Act No. 12178: AN ACT DECLARING THE SIXTEENTH DAY OF MAY OF EVERY YEAR A SPECIAL WORKING HOLIDAY TO BE KNOWN AS THE \"NATIONAL EDUCATION SUPPORT PERSONNEL DAY\", MANDATING THE DEPARTMENT OF EDUCATION AND THE COMMISSION ON HIGHER EDUCATION TO LEAD IN ITS OBSERVANCE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98917",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 10,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98917",
+     "sha256": "469b81702a3efae7822574c438decb3bc80dc41a51531eec67aae0056f76b902"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12179",
+   "short": "RA 12179",
+   "title": "Republic Act No. 12179: AN ACT AMENDING SECTION 50 OF REPUBLIC ACT NO. 9136, OTHERWISE KNOWN AS THE \"ELECTRIC POWER INDUSTRY REFORM ACT OF 2001\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98918",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98918",
+     "sha256": "e8858b19bc5e330832182c018cc4fe6a53efd2c7fae82e5f60d3423f9fae7142"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12180",
+   "short": "RA 12180",
+   "title": "Republic Act No. 12180: AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE INSTITUTE OF VOLCANOLOGY AND SEISMOLOGY (PHILVOLCS), AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98919",
+   "versions": [
+    {
+     "from": "2025-05-11",
+     "units": 25,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98919",
+     "sha256": "f98f38ed8af2a9be600ab08208257cb6bbd49633d111a004131a849af337b537"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12146",
+   "short": "RA 12146",
+   "title": "Republic Act No. 12146: AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO THE MANILA ELECTRIC COMPANY UNDER REPUBLIC ACT NO. 9209, ENTITLED \"AN ACT GRANTING THE MANILA ELECTRIC COMPANY A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN A DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE CITIES/MUNICIPALITIES OF METRO MANILA, BULACAN, CAVITE AND RIZAL, AND CERTAIN CITIES/MUNICIPALITIES/BARANGAYS IN BATANGAS, LAGUNA, QUEZON AND PAMPANGA\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98850",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 25,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98850",
+     "sha256": "fc6f9de1251791ae350add0e7adb983b95698074f317762d55ceb8c52fc4fc5d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12171",
+   "short": "RA 12171",
+   "title": "Republic Act No. 12171: AN ACT CONVERTING THE SATELLITE OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF SAN JACINTO, TICAO ISLAND, PROVINCE OF MASBATE, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98890",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98890",
+     "sha256": "88ed27864ee06a048cdc6053519c4580953690e30e6a4e58312600c10ef0d620"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12181",
+   "short": "RA 12181",
+   "title": "Republic Act No. 12181: AN ACT ADJUSTING THE MONTHLY BENEFITS OF THE RETIREES OF THE DEPARTMENT OF FOREIGN AFFAIRS",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98920",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 12,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98920",
+     "sha256": "509c7e64097063480a417535556d52c4e43ef4dd3800db111b9ba39b6d955484"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12182",
+   "short": "RA 12182",
+   "title": "Republic Act No. 12182: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CALABASA, ZAMBOANGA CITY TO BE KNOWN AS THE CALABASA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98921",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98921",
+     "sha256": "8cdd63e2e0fec103d92f00da240df45f7b63920e6dcdba6ec4b6214d94dd676c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12183",
+   "short": "RA 12183",
+   "title": "Republic Act No. 12183: AN ACT UPGRADING THE LAND TRANSPORTATION OFFICE (LTO) DAPA DISTRICT OFFICE INTO A CLASS \"C\" LTO DISTRICT OFFICE, RENAMING THE SAME AS SIARGAO LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98922",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98922",
+     "sha256": "172bb2b495f6b662eb5e30245fd378c506cf69b65e3b1cb689225cf32835e811"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12184",
+   "short": "RA 12184",
+   "title": "Republic Act No. 12184: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN TAGUIG CITY INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98923",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98923",
+     "sha256": "4314ff8f9a83ec1160d282a59e3685bdbbcea8bfd25f62c17648ad5d15cf9edb"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12185",
+   "short": "RA 12185",
+   "title": "Republic Act No. 12185: AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF UBAY, IN THE SECOND DISTRICT OF BOHOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98924",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98924",
+     "sha256": "199ac2857aa562e5a25f4246f522965759a01753264eb164f2dda446130ecf7a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12186",
+   "short": "RA 12186",
+   "title": "Republic Act No. 12186: AN ACT CONVERTING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN SAN CARLOS CITY, PROVINCE OF PANGASINAN, INTO A CLASS \"B\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98925",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98925",
+     "sha256": "66544c5cb24cf6b1d035f4ad6e9a88c03027c5d57dca04e3baabd8d015063092"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12187",
+   "short": "RA 12187",
+   "title": "Republic Act No. 12187: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TRENTO, PROVINCE OF AGUSAN DEL SUR, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98951",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98951",
+     "sha256": "373ab3afa4fbbe342fba840bbcfbe7b96f6fee0555a37d7eae22cbdbc5260734"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12188",
+   "short": "RA 12188",
+   "title": "Republic Act No. 12188: AN ACT CONVERTING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN SORSOGON CITY, PROVINCE OF SORSOGON, INTO A CLASS \"B\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98952",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98952",
+     "sha256": "7319624d3dd0229a5c38166443a60695a60a50ec2b2263b3a437b4595ff3434a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12189",
+   "short": "RA 12189",
+   "title": "Republic Act No. 12189: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF SANCHEZ MIRA, PROVINCE OF CAGAYAN, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98953",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98953",
+     "sha256": "f21c9a88717cc79ba32bf4d43048caa3c63ed8280df475eb0effc40c1136ffd2"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12190",
+   "short": "RA 12190",
+   "title": "Republic Act No. 12190: AN ACT UPGRADING THE CLASSIFICATION OF THE PARTIDO DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TIGAON, PROVINCE OF CAMARINES SUR, FROM CLASS \"D\" TO CLASS \"C\" AND APPROPRIATING FUND THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98954",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98954",
+     "sha256": "57b319a52b6fd629cde8b443076f682261c6b971529a1b205b4f07c2c18797f5"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12191",
+   "short": "RA 12191",
+   "title": "Republic Act No. 12191: AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF BAYAMBANG, PROVINCE OF PANGASINAN, INTO A CLASS \"C\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98955",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98955",
+     "sha256": "d352b410bc1ef357c8295126d1b75076e417df83b57f56917bf110c992b37965"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12192",
+   "short": "RA 12192",
+   "title": "Republic Act No. 12192: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN LAOAG CITY, PROVINCE OF ILOCOS NORTE, INTO A CLASS \"A\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98956",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98956",
+     "sha256": "0aedf9d48f32bab12808322d9e1ca88171297772f71da41554489ee98c857b3b"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12193",
+   "short": "RA 12193",
+   "title": "Republic Act No. 12193: AN ACT UPGRADING THE OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE CITY OF BAGUIO INTO A CLASS \"A\" DISTRICT OFFICE, PROVIDING POSITIONS THERETO, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98957",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98957",
+     "sha256": "8d6b0049bc0a76cc762207a8964c35d91c834f64e072a6743bea004256c9bad9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12194",
+   "short": "RA 12194",
+   "title": "Republic Act No. 12194: AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN LIGAO CITY, PROVINCE OF ALBAY, FROM A CLASS \"D\" TO A CLASS \"B\" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98959",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98959",
+     "sha256": "898e5e2d061dc13370c6c7b1bea02fd5dca244166ddf7b5164e9ddeaa557ef71"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12195",
+   "short": "RA 12195",
+   "title": "Republic Act No. 12195: AN ACT SEPARATING THE PASAY CITY NORTH HIGH SCHOOL - TRAMO CAMPUS IN BARANGAY 57, TRAMO, PASAY CITY, METRO MANILA FROM THE PASAY CITY NORTH HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE PASAY CITY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98988",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98988",
+     "sha256": "efe26e01ffde1fd222515621538c6bf3fd47d3bd3c5bdb4786f0d4de7099e88f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12196",
+   "short": "RA 12196",
+   "title": "Republic Act No. 12196: AN ACT SEPARATING THE VITALI NATIONAL HIGH SCHOOL - SINOROPAN ANNEX IN BARANGAY LICOMO, ZAMBOANGA CITY, FROM THE VITALI NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SINOROPAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98989",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98989",
+     "sha256": "ef6f3acc346a1506817813ce5d2ed988b466f65cbb8ef802027a0ebaa359e239"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12197",
+   "short": "RA 12197",
+   "title": "Republic Act No. 12197: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CURUAN, ZAMBOANGA CITY TO BE KNOWN AS THE SAPA MANOK CURUAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98990",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98990",
+     "sha256": "98105bf5f72f5ffcea0331bd9362dcdb870b687c7357773e4091144f798a006f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12198",
+   "short": "RA 12198",
+   "title": "Republic Act No. 12198: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY LATUAN, ZAMBOANGA CITY TO BE KNOWN AS THE LATUAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98991",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/98991",
+     "sha256": "005142eaf34fc12f7d5a951035af6922ad7d1eadb189d69411cdf275b85bcb69"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12199",
+   "short": "RA 12199",
+   "title": "Republic Act No. 12199: AN ACT FURTHER STRENGTHENING THE EARLY CHILDHOOD CARE AND DEVELOPMENT SYSTEM, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 10410, OTHERWISE KNOWN AS THE \"EARLY YEARS ACT (EYA) ACT OF 2013\", AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99023",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99023",
+     "sha256": "d6de68def0613450b497376d5ac30f2be0f947f07c2974b8d643d70f83782eb6"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12200",
+   "short": "RA 12200",
+   "title": "Republic Act No. 12200: AN ACT DECLARING NOVEMBER 12 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF VALENZUELA, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99024",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99024",
+     "sha256": "17858ea967cfb0702df0295b23a1a2ef935d4ab7940409869330da01c37848bf"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12203",
+   "short": "RA 12203",
+   "title": "Republic Act No. 12203: AN ACT INCREASING THE BED CAPACITY OF THE REGION 1 MEDICAL CENTER IN THE CITY OF DAGUPAN, PROVINCE OF PANGASINAN, FROM SIX HUNDRED (600) TO ONE THOUSAND FIVE HUNDRED (1,500) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99027",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99027",
+     "sha256": "083f037eb089333a82f77dfd21f2dd7159379e165ee36b833933f1c50c7b0e21"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12204",
+   "short": "RA 12204",
+   "title": "Republic Act No. 12204: AN ACT INCREASING THE BED CAPACITY OF THE AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER IN THE CITY OF MARIKINA, FROM FIVE HUNDRED (500) TO ONE THOUSAND (1,000) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99029",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99029",
+     "sha256": "8ceb64a5781cb4f5ea5c4a635652262452d6e668970d79d0dec65c8617b770b9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12205",
+   "short": "RA 12205",
+   "title": "Republic Act No. 12205: AN ACT INCREASING THE BED CAPACITY OF THE LAGUNA PROVINCIAL HOSPITAL - SAN PEDRO DISTRICT HOSPITAL IN THE CITY OF SAN PEDRO, PROVINCE OF LAGUNA, FROM FIFTEEN (15) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99030",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99030",
+     "sha256": "b66a6f5b43b8815f6abb4338eacdff7d8431ca7097a047635b38877073d24868"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12206",
+   "short": "RA 12206",
+   "title": "Republic Act No. 12206: AN ACT ESTABLISHING IN THE MUNICIPALITY OF RAMON MAGSAYSAY, PROVINCE OF ZAMBOANGA DEL SUR, A DISTRICT HOSPITAL TO BE KNOWN AS ZAMBOANGA DEL SUR FIRST DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99033",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99033",
+     "sha256": "4ea3f66cc2c99b75781258b4168824a308b6c065cef3f00b464154cfe969b1c4"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12207",
+   "short": "RA 12207",
+   "title": "Republic Act No. 12207: AN ACT INCREASING THE BED CAPACITY OF THE AMAI PAKPAK MEDICAL CENTER IN THE CITY OF MARAWI, PROVINCE OF LANAO DEL SUR FROM FOUR HUNDRED (400) TO EIGHT HUNDRED (800) BEDS AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99035",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99035",
+     "sha256": "ce7a567098febc9f4bf016db24619b21b6f835b8ddcb1a45a107d6f22ce5eaa3"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12208",
+   "short": "RA 12208",
+   "title": "Republic Act No. 12208: AN ACT ESTABLISHING IN THE CITY OF CALAMBA, PROVINCE OF LAGUNA, A GENERAL HOSPITAL TO BE KNOWN AS CALAMBA CITY GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99038",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99038",
+     "sha256": "7bb35451a9e872a592c974fad081e62bcfb4612251f6e9f7c6ae467ec40ded57"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12211",
+   "short": "RA 12211",
+   "title": "Republic Act No. 12211: AN ACT ESTABLISHING IN THE CITY OF LUCENA, PROVINCE OF QUEZON, A GENERAL HOSPITAL TO BE KNOWN AS THE LUCENA HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99062",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99062",
+     "sha256": "b6d30dfb8f1adc8d7dab1af1a47c9ea4cb689d29c157380364049261e622dec9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12212",
+   "short": "RA 12212",
+   "title": "Republic Act No. 12212: AN ACT INCREASING THE BED CAPACITY OF THE WAO DISTRICT HOSPITAL IN THE MUNICIPALITY OF WAO, PROVINCE OF LANAO DEL SUR, FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99066",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99066",
+     "sha256": "7dc4f731f4b5ccd895d7fb5c4ba72add11b270a3b0e574cbd0c4b1141b72036c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12213",
+   "short": "RA 12213",
+   "title": "Republic Act No. 12213: AN ACT INCREASING THE BED CAPACITY OF THE SOUTHERN TAGALOG REGIONAL HOSPITAL IN THE CITY OF BACOOR, PROVINCE OF CAVITE, FROM ONE HUNDRED (100) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99069",
+   "versions": [
+    {
+     "from": "2025-06-08",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99069",
+     "sha256": "29bba1816b8063d9479f17e5da826517b37de1588568bbd730734e5f868f53d5"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12210",
+   "short": "RA 12210",
+   "title": "Republic Act No. 12210: AN ACT INCREASING THE BED CAPACITY OF THE PHILIPPINE GENERAL HOSPITAL FROM ONE THOUSAND THREE HUNDRED THIRTY-FOUR (1,334) TO TWO THOUSAND TWO HUNDRED (2,200) BEDS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99059",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99059",
+     "sha256": "a31518836c05e6ad9ed3776832de05e1aa72cc30873c12fa3b1b77477daa802e"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12215",
+   "short": "RA 12215",
+   "title": "Republic Act No. 12215: AN ACT REGULATING THE PRACTICE OF THE AGRICULTURE PROFESSION IN THE PHILIPPINES, CREATING FOR THE PURPOSE A PROFESSIONAL REGULATORY BOARD FOR AGRICULTURISTS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99181",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 46,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99181",
+     "sha256": "a4f0963920d713cd95b9cc77eaf6920f98f978b6b8d2ad8c1e3c6bbafee4ae16"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12216",
+   "short": "RA 12216",
+   "title": "Republic Act No. 12216: AN ACT STRENGTHENING THE NATIONAL HOUSING AUTHORITY BY EXTENDING ITS CORPORATE TERM AND RATIONALIZING ITS POWERS, REPEALING PRESIDENTIAL DECREE NO. 757, SERIES OF 1975, AS AMENDED, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99208",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 30,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99208",
+     "sha256": "0db4b58b31aaea2aa3c6454086c03eece05f0d81eb2eaa3fac915e9d4379dc2d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12217",
+   "short": "RA 12217",
+   "title": "Republic Act No. 12217: AN ACT DECLARING SEPTEMBER 14 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF OCCIDENTAL MINDORO, IN CELEBRATION OF THE \"FEAST DAY OF THE HOLY CROSS\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99183",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99183",
+     "sha256": "fba7e02ac5a0c9424d14c2a07aaaab9781d93adfb1a6fad039ea4fd4f65ab853"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12218",
+   "short": "RA 12218",
+   "title": "Republic Act No. 12218: AN ACT DECLARING JANUARY 6 OF EVERY Y EAR A SPECIAL WORKING HOLIDAY IN QUEZON CITY, TO BE KNOWN AS \"TANDANG SORA DAY\", IN COMMEMORATION OF THE BIRTH ANNIVERSARY OF MECHORA AQUINO, ALSO KNOWN IN PHILIPPINE HISTORY AS THE \"MOTHER OF THE KATIPUNAN\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99184",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99184",
+     "sha256": "cb8925afaf66b5a57d89e8ce4ae9b866b569cf1bc175db441bc1567b357f3784"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12219",
+   "short": "RA 12219",
+   "title": "Republic Act No. 12219: AN ACT DECLARING OCTOBER 27 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE PROVINCE OF SARANGANI IN RECOGNITION OF THE UNIQUE CONTRIBUTION OF THE INDIGENOUS PEOPLES OF SARANGANI TO THE RICH AND DIVERSE CULTURAL HERITAGE OF THE PHILIPPINES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99185",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99185",
+     "sha256": "b63c555e13546eb1893e41c0bd4b8d756e20d2cf87a047e91e805a0f3a9f9412"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12220",
+   "short": "RA 12220",
+   "title": "Republic Act No. 12220: AN ACT DECLARING JULY 8 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE CITY OF ISABELA, PROVINCE OF BASILAN, IN CELEBRATION OF THE FEAST OF ST. ELIZABETH OF PORTUGAL, TO BE KNOWN AS FIESTA ALEGRIA DE ISABELA",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99186",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99186",
+     "sha256": "bf390d30e38e920a7e9c30bc4c021d26b87403db91ae378ec117b2130e565da8"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12214",
+   "short": "RA 12214",
+   "title": "Republic Act No. 12214: AN ACT AMENDING SECTIONS 22, 24, 25, 27, 28, 32, 34, 38, 39, 42, 51, 52, 56, 57, 127, 149, 174, 176, 179, 190, 199, AND 259 OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSE",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99213",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 30,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99213",
+     "sha256": "17835a8f53df533c7721b1d776828cfd9c722ed58acca9cc6ca5903cdf6dc2ba"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12221",
+   "short": "RA 12221",
+   "title": "Republic Act No. 12221: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PALUSAPIS, SCIENCE CITY OF MUÑOZ, PROVINCE OF NUEVA ECIJA TO BE KNOWN AS THE INDAY MELENCIO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99195",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99195",
+     "sha256": "f5613935107328f5bf69d61d1b3bf40c24e1e88c4517578b85a0e47537f6682f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12222",
+   "short": "RA 12222",
+   "title": "Republic Act No. 12222: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TUMITUS, ZAMBOANGA CITY TO BE KNOWN AS THE TUMITUS NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99196",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99196",
+     "sha256": "85a223db989d6a52d46742a737961e219df5b74cd91b78580f3e47c479e27093"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12223",
+   "short": "RA 12223",
+   "title": "Republic Act No. 12223: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY KASANYANGAN, ZAMBOANGA CITY TO BE KNOWN AS THE KASANYANGAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99197",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99197",
+     "sha256": "4b2ba3803b2d55440696453ccaf1af28fcc1e4330a7a35803e84f245641552c1"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12224",
+   "short": "RA 12224",
+   "title": "Republic Act No. 12224: AN ACT DECLARING THE FIRST DAY OF FEBRUARY OF EVERY YEAR AS THE NATIONAL DAY OF AWARENESS ON HIJAB AND OTHER TRADITIONAL GARMENTS AND ATTIRE",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99198",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99198",
+     "sha256": "e6ec56235c5942ad06262866bd96c63931c4ce68444dca6b5d93418e6be5d0a0"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12225",
+   "short": "RA 12225",
+   "title": "Republic Act No. 12225: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF NUEVA VALENCIA IN THE PROVINCE OF GUIMARAS, A PROTECTED AREA WITH THE CATEGORY OF NATURAL PARK UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE TAKLONG AND TANDOG GROUP OF ISLANDS NATURAL PARK, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99418",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 17,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99418",
+     "sha256": "60f287ab1343f125cc58f4d638117c9c586bc484700af94c00fe6eae38714588"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12226",
+   "short": "RA 12226",
+   "title": "Republic Act No. 12226: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF SAN ANDRES IN THE PROVINCE OF QUEZON, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE AND SEASCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE ALIBIJABAN PROTECTED LANDSCAPE AND SEASCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99433",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 17,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99433",
+     "sha256": "e92d96125162a1bdb05c407b0532f3298498003d983998cabfe6f20f136d9c5d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12227",
+   "short": "RA 12227",
+   "title": "Republic Act No. 12227: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITIES OF POLANGUI AND OAS, AND CITIES OF LIGAO AND TABACO, IN THE PROVINCE OF ALBAY, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE MT. MASARAGA PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99434",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 16,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99434",
+     "sha256": "4258c25cfdcb3abc45ce15fae2bc4e23ecd4824be7907c4fed26f2217afe553f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12228",
+   "short": "RA 12228",
+   "title": "Republic Act No. 12228: AN ACT DECLARING THE SEVENTH DAY OF NOVEMBER OF EVERY YEAR A SPECIAL NATIONAL WORKING HOLIDAY IN COMMEMORATION O THE ESTABLISHMENT OF THE FIRST PHILIPPINE MOSQUE AND THE INTRODUCTION OF ISLAM IN THE PHILIPPINES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99398",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99398",
+     "sha256": "c690d3002881224f211dd92ae2449ac6bf63231eb52b6bcfb2a5ecbcb18848b6"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12229",
+   "short": "RA 12229",
+   "title": "Republic Act No. 12229: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF SAN FRANCISCO IN THE PROVINCE OF QUEZON, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE SAN FRANCISCO PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99464",
+   "versions": [
+    {
+     "from": "2025-08-10",
+     "units": 17,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99464",
+     "sha256": "81062c8773e4b0a5d3b607d607f9fa6342e80eb92e4a6be64e4333c14c6c65a2"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12230",
+   "short": "RA 12230",
+   "title": "Republic Act No. 12230: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITY OF PAOAY IN THE PROVINCE OF ILOCOS NORTE, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE PAOAY LAKE PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99476",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 17,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99476",
+     "sha256": "f8930e588f2c75a23267481f3a709015a2bc2af725bb1db1d761aa6620b06d70"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12231",
+   "short": "RA 12231",
+   "title": "Republic Act No. 12231: AN ACT OPTIMIZING THE NATIONAL GOVERNMENT FOR EFFICIENT PUBLIC SERVICE DELIVERY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99481",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 28,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99481",
+     "sha256": "59322ccbf4e951e55887a7d9b4888a8f52a5c91e0478e4532dac30a7183a1698"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12232",
+   "short": "RA 12232",
+   "title": "Republic Act No. 12232: AN ACT SETTING THE TERM OF OFFICE OF THE BARANGAY OFFICIALS AND MEMBERS OF THE SANGGUNIANG KABATAAN, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99551",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 10,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99551",
+     "sha256": "2623f837c3bffe00d1b258f5a0aef6630435503531d9c33db77ae9ddaec593af"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12233",
+   "short": "RA 12233",
+   "title": "Republic Act No. 12233: AN ACT DEFINING THE SCOPE AND EXTENT OF THE FISCAL AUTONOMY OF THE JUDICIAL BRANCH OF THE GOVERNMENT AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99555",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 14,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99555",
+     "sha256": "f303cf4bf000bdacb73e8832a6528fadcfba9c47ac122822a13a8bd958be8d7b"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12255",
+   "short": "RA 12255",
+   "title": "Republic Act No. 12255: AN ACT DECLARING THE PHILIPPINE STATE COLLEGE OF AERONAUTICS AS THE NATIONAL PROFESSIONAL INSTITUTION FOR AVIATION RENAMING IT THE NATIONAL AVIATION ACADEMY OF THE PHILIPPINES, AND APPROPRIATING FUND THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99799",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 42,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99799",
+     "sha256": "ae462ead057ea118fc2fb78bdca6eab5e43f48d1427a990d327d38a9a1bcb220"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12235",
+   "short": "RA 12235",
+   "title": "Republic Act No. 12235: AN ACT AMENDING SECTIONS 134 AND 168 OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99624",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99624",
+     "sha256": "e707b134e14bff7632f42e0440906101cb1ba2a5b812b07f4f7680bb6f7574e0"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12236",
+   "short": "RA 12236",
+   "title": "Republic Act No. 12236: AN ACT DECLARING MAASIN CITY AND THE MUNICIPALITIES OF MALITBOG AND PADRE BURGOS, ALL IN THE PROVINCE OF SOUTHERN LEYTE, AS TOURISM ZONES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99653",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99653",
+     "sha256": "c76ec306aef619ecf82cf705f7f390cf34901b70effe564807f9b4e67af3150f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12237",
+   "short": "RA 12237",
+   "title": "Republic Act No. 12237: AN ACT DECLARING A PARCEL OF LAND LOCATED IN THE MUNICIPALITIES OF MAYANTOC AND SAN JOSE IN THE PROVINCE OF TARLAC, A PROTECTED AREA WITH THE CATEGORY OF PROTECTED LANDSCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE MT. SAWTOOTH PROTECTED LANDSCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99699",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 15,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99699",
+     "sha256": "032499f1ebe6d2970c1401259f02acba7be462718948e82c1814e211adbd8582"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12238",
+   "short": "RA 12238",
+   "title": "Republic Act No. 12238: AN ACT DECLARING THE WATERS SURROUNDING PANAON ISLAND SITUATED IN THE PROVINCE OF SOUTHERN LEYTE, A PROTECTED SEASCAPE UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM, TO BE REFERRED TO AS THE PANAON ISLAND PROTECTED SEASCAPE, PROVIDING FOR ITS MANAGEMENT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99706",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 16,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99706",
+     "sha256": "18e83c49f964e95938b87708df4af914976f310c807378845980908a0bc3c8f3"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12239",
+   "short": "RA 12239",
+   "title": "Republic Act No. 12239: AN ACT ESTABLISHING A HIGH SCHOOL FOR SPORTS IN THE MUNICIPALITY OF BAGAC, PROVINCE OF BATAAN TO BE KNOWN AS THE BATAAN HIGH SCHOOL FOR SPORTS, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99656",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99656",
+     "sha256": "519ae76b6175d4f8542090cc86cee72dbdf8f13ff9852a3b536bee7520e48b35"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12240",
+   "short": "RA 12240",
+   "title": "Republic Act No. 12240: AN ACT ESTABLISHING IN THE MUNICIPALITY OF BALER, PROVINCE OF AURORA, A LEVEL III GENERAL HOSPITAL, TO BE KNOWN AS THE AURORA MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99654",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 6,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99654",
+     "sha256": "8d0199c1eddc14d0b4550fedb23a717564d1b444de85fb309292f8f2c61a98d3"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12241",
+   "short": "RA 12241",
+   "title": "Republic Act No. 12241: AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SEVENTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF MOALBOAL, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(H) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99655",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99655",
+     "sha256": "a8164a6e658144e0e3c8b64cc3421becb5f77a312e7b6b5c4f2f5e208950964c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12242",
+   "short": "RA 12242",
+   "title": "Republic Act No. 12242: AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SECOND JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF ALICIA, PROVINCE OF ISABELA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(B) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99659",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99659",
+     "sha256": "e1516228dd5eacc73fcb6f592e028a32d5d983cc996fffebf3214d744fbad24a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12243",
+   "short": "RA 12243",
+   "title": "Republic Act No. 12243: AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF MATI, PROVINCE OF DAVAO ORIENTAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(L) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99666",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99666",
+     "sha256": "6d69fb41cdd319ccbf7e51b8e23000a2900621fb61889debcaa30dc81de1927d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12244",
+   "short": "RA 12244",
+   "title": "Republic Act No. 12244: AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF TAGUM, PROVINCE OF DAVAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99667",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99667",
+     "sha256": "254bf27e759df25864a26d1b3dfeecce5976948d4bb8d1c2c0998f9ed9fbf7ab"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12245",
+   "short": "RA 12245",
+   "title": "Republic Act No. 12245: AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE SECOND JUDICIAL REGION TO BE STATIONED IN THE CITY OF ILAGAN AND IN THE MUNICIPALITY OF TUMAUINI, PROVINCE OF ISABELA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(B) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99668",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99668",
+     "sha256": "96ee6ff880bc865e738088cd26b0bf69112c4e87219d7b34d6a1eb64bccd2317"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12246",
+   "short": "RA 12246",
+   "title": "Republic Act No. 12246: AN ACT DECLARING MARCH 7 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE ISLAND GARDEN CITY OF SAMAL, PROVINCE OF DAVAO DEL NORTE, IN COMMEMORATION OF ITS FOUNDATION DAY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99669",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99669",
+     "sha256": "e0c95a5e358174e73dd6a9aba4dc0919950f508718b51ffce1a46856e82ccb02"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12247",
+   "short": "RA 12247",
+   "title": "Republic Act No. 12247: AN ACT DECLARING SEPTEMBER 18 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99670",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99670",
+     "sha256": "4d98edf702c9b1d395c72591be84bc9a9e2917bd8319a8bf362a5aa80f0722c5"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12248",
+   "short": "RA 12248",
+   "title": "Republic Act No. 12248: AN ACT DECLARING JUNE 15 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF GENERAL SANTOS CITY IN COMMEMORATION OF ITS CHARTER ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99671",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99671",
+     "sha256": "31677c7c56372a97c721804f9718c1cade9c0ac70e7bc1a268e5927b62cd07de"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12249",
+   "short": "RA 12249",
+   "title": "Republic Act No. 12249: AN ACT DECLARING JUNE 24 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF BALAYAN, PROVINCE OF BATANGAS, IN CELEBRATION OF THE \"PARADA NG LECHON\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99672",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99672",
+     "sha256": "6b3acd89ba45ce1615a823f47134fe6aa2a4b60e326d662dc5ec850aedbfb099"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12250",
+   "short": "RA 12250",
+   "title": "Republic Act No. 12250: AN ACT DECLARING AUGUST 30 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE CITY OF SAN JUAN, TO BE KNOWN AS \"ARAW NG PINAGLABANAN\", IN COMMEMORATION OF THE BATTLE OF PINAGLABANAN, WHICH OCCURED ON AUGUST 30, 1996",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99673",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99673",
+     "sha256": "e1c3d81c04255cfd01d0a6a3818262a30c19ed80d7ef1f514adb47cc540ce79a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12251",
+   "short": "RA 12251",
+   "title": "Republic Act No. 12251: AN ACT DECLARING SEPTEMBER 21 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF SAN MATEO, PROVINCE OF RIZAL, TO BE KNOWN AS \"ARAW NG BAYAN NG SAN MATEO\", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99674",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99674",
+     "sha256": "275869dc6d9dc323daa8bfcad04a4c24ed3701b05ec84025c842a3448b6b5f33"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12252",
+   "short": "RA 12252",
+   "title": "Republic Act No. 12252: AN ACT LIBERALIZING THE LEASE OF PRIVATE LANDS BY FOREIGN INVESTORS, ESTABLISHING THE STABILITY OF LONG-TERM LEASE CONTRACTS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7652, OTHERWISE KNOWN AS THE \"INVESTORS' LEASE ACT\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99676",
+   "versions": [
+    {
+     "from": "2025-09-20",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99676",
+     "sha256": "368a99bcd3d14e75ac322fd567cb6cd963c6d6fa5ce5c2cb0fe1cc99b5a1995d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12253",
+   "short": "RA 12253",
+   "title": "Republic Act No. 12253: AN ACT ENHANCING THE FISCAL REGIME FOR THE LARGE-SCALE METALLIC MINING INDUSTRY, AMENDING FOR THE PURPOSE SECTIONS 34(B), 287, AND THE SUBJECTS OF TITLE VI AND CHAPTER VII THEREOF, AND CREATING NEW SECTIONS 151-A, 151-B, 151-C, 151-D, AND 287-A, ALL UNDER REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99695",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 21,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99695",
+     "sha256": "bacbd2456b6dd709bcd7adf60989ed414695aa7a2ed654eef44ecb73d6699524"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12254",
+   "short": "RA 12254",
+   "title": "Republic Act No. 12254: AN ACT INSTITUTIONALIZING THE TRANSITION OF THE GOVERNMENT TO E-GOVERNANCE, STRENGTHENING THE ICT ACADEMY, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99787",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 40,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99787",
+     "sha256": "c89fd5e2a20f892051745fc648fcf6a921fd7f4b44652d6a24b19b8ce708403a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12256",
+   "short": "RA 12256",
+   "title": "Republic Act No. 12256: AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY DOOS DEL NORTE, MUNICIPALITY OF HINDANG, PROVINCE OF LEYTE TO BE KNOWN AS THE DOOS DEL NORTE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99740",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99740",
+     "sha256": "66c1e531425df2206be0a0c96f074ba29c1d77beb881d1ffda4ec6e8b9dc9364"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12257",
+   "short": "RA 12257",
+   "title": "Republic Act No. 12257: AN ACT CONVERTING THE ALEGRIA ELEMENTARY SCHOOL IN BARANGAY ALEGRIA, MUNICIPALITY OF BARCELONA, PROVINCE OF SORSOGON, INTO AN INTEGRATED SCHOOL TO BE KNOWN AS THE ALEGRIA INTEGRATED SCHOOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99742",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 6,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99742",
+     "sha256": "d01797cdae5d0758ebeba5e6292d5f4d9e88c643fa5e14ddcf6c7458d02ef2bc"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12258",
+   "short": "RA 12258",
+   "title": "Republic Act No. 12258: AN ACT ESTABLISHING A NATIONAL SCIENCE HIGH SCHOOL IN THE MUNICIPALITY OF TANAY, PROVINCE OF RIZAL, TO BE KNOWN AS THE TANAY NATIONAL SCIENCE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99744",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99744",
+     "sha256": "0e0e7969690d2337fae051b7f04842de397dd99584c10ee41ad748c02e6cfec0"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12259",
+   "short": "RA 12259",
+   "title": "Republic Act No. 12259: AN ACT CONVERTING THE PATAG ELEMENTARY SCHOOL IN BARANGAY PATAG, MUNICIPALITY OF IROSIN, PROVINCE OF SORSOGON INTO AN INTEGRATED SCHOOL TO BE KNOWN AS THE PATAG INTEGRATED SCHOOL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99745",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 6,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99745",
+     "sha256": "e1d1a1aeb1deb1b6808f74c789f3ab3f007163a12e1e9e65c68bbac58ef427b7"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12260",
+   "short": "RA 12260",
+   "title": "Republic Act No. 12260: AN ACT ESTABLISHING IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL DUR, A DISTRICT HOSPITAL TO BE KNOWN AS THE ZAMBOANGA DEL SUR SECOND DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99748",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99748",
+     "sha256": "aaa2e067d378766b96f1dc5993eaa4f884d52c7a0aacab0ad0a3485fd7001843"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12261",
+   "short": "RA 12261",
+   "title": "Republic Act No. 12261: AN ACT ESTABLISHING IN THE MUNICIPALITY OF LILOY, PROVINCE OF ZAMBOANGA DEL NORTE, A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS THE LILOY GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99749",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 6,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99749",
+     "sha256": "3f8a81f0eaae7ec3100aa7342cc8b0009c41be9c28c625b7d13bb33d6e0270ef"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12262",
+   "short": "RA 12262",
+   "title": "Republic Act No. 12262: AN ACT RECOGNIZING SINGAPORE SCHOOL CEBU AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER, AND GRANTING CERTAIN PREROGATIVES CONDUCIVE TO ITS DEVELOPMENT AND GROWTH",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99751",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99751",
+     "sha256": "a3952e3a9ca810c08ba0d81b37afe3bfa258843d59fa05ad7d9514d2fea6457e"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12263",
+   "short": "RA 12263",
+   "title": "Republic Act No. 12263: AN ACT RECOGNIZING SINGAPORE SCHOOL CLARK AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER, AND GRANTING CERTAIN PREROGATIVES CONDUCIVE TO ITS DEVELOPMENT AND GROWTH",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99756",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99756",
+     "sha256": "9480a58dafd31c50a83faf0ea1394599d1851729e37b0e12146b7f3822ded28d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12264",
+   "short": "RA 12264",
+   "title": "Republic Act No. 12264: AN ACT RECOGNIZING SINGAPORE SCHOOL MANILA AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER, AND GRANTING CERTAIN PREROGATIVES CONDUCIVE TO ITS DEVELOPMENT AND GROWTH",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99759",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99759",
+     "sha256": "6b0826bc5b308a383b3a484286e1970fa79382e111c102b21cdf669cf0a1a3fe"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12266",
+   "short": "RA 12266",
+   "title": "Republic Act No. 12266: AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF LABASON, PROVINCE OF ZAMBOANGA DEL NORTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS \"THE JUDICIARY REORGANIZATION ACT OF 1980\", AS AMENDED",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99763",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 7,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99763",
+     "sha256": "3d341f0daeea5c385061f747cf5041b3090cdd8f361e3f125cd45edefa343c11"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12268",
+   "short": "RA 12268",
+   "title": "Republic Act No. 12268: AN ACT DECLARING JUNE 18 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF KIBLAWAN, PROVINCE OF DAVAO DEL SUR, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99767",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99767",
+     "sha256": "44ae3d1e8cc9131997d93149425a85d6af1e9bc793d8affda1df571c43e11df9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12269",
+   "short": "RA 12269",
+   "title": "Republic Act No. 12269: AN ACT DECLARING MAY OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF MALALAG, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS \"ARAW NG MALALAG\", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99768",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99768",
+     "sha256": "4ae2503fbcc2f28e3f25d67c8643f725664578c1fa6315c4e3c040a088138c5a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12270",
+   "short": "RA 12270",
+   "title": "Republic Act No. 12270: AN ACT DECLARING JUNE 22 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF MATANAO, PROVINCE OF DAVAO DEL SUR, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99769",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99769",
+     "sha256": "6ac596968609c07853513c6ba512659fe4be693f9a7db95ac87f3ebf4f95be59"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12271",
+   "short": "RA 12271",
+   "title": "Republic Act No. 12271: AN ACT DECLARING JANUARY 16 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF NAVOTAS, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99770",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99770",
+     "sha256": "0bf86ab35572e9b1b5484b8f4a19801e4be664f1ead7ae0383767692e1deeb3f"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12272",
+   "short": "RA 12272",
+   "title": "Republic Act No. 12272: AN ACT DECLARING OCTOBER 5 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS \"ARAW NG STA. CRUZ\", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99771",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99771",
+     "sha256": "70b5c636cd08c3e69c6f999e47cc78f9bb67de253ce5d2051689b3ae94780abe"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12273",
+   "short": "RA 12273",
+   "title": "Republic Act No. 12273: AN ACT DECLARING APRIL 24 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF SULOP, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS \"ARAW NG SULOP\", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99772",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99772",
+     "sha256": "d8a823c2fd294a121a7aff828e0f1aae4bafff36f88f4d9ef5aba365cee4b351"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12274",
+   "short": "RA 12274",
+   "title": "Republic Act No. 12274: AN ACT DECLARING APRIL 1 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF OCCIDENTAL MINDORO, TO BE KNOWN AS \"ARAW NG STA. CRUZ\", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99773",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99773",
+     "sha256": "0465ee760b29ad6509350de0e2cd8197de66dc36401df3678e199914dd73c97d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12275",
+   "short": "RA 12275",
+   "title": "Republic Act No. 12275: AN ACT DECLARING THE KUYAMIS FESTIVAL AS THE OFFICIAL FESTIVAL OF THE PROVINCE OF MISAMIS ORIENTAL",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99774",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 5,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99774",
+     "sha256": "720e228c27f773e7fb3833f4c34515b46cb215bfd86a55e69346c5f6524573f2"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12276",
+   "short": "RA 12276",
+   "title": "Republic Act No. 12276: AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO PEC BROADCASTING CORPORATION UNDER REPUBLIC ACT NO. 8685, ENTITLED \"AN ACT GRANTING TO PEC BROADCASTING CORPORATION, A FRANCHISE TO CONSTRUCT, ESTABLISH, INSTALL, MAINTAIN AND OPERATE RADIO AND TELEVISION STATIONS IN THE PHILIPPINES\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99805",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99805",
+     "sha256": "a5dc3ccc69cd59c56d4957e318728ffd4762e8fb0edfd10da6b73384b8e7e866"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12277",
+   "short": "RA 12277",
+   "title": "Republic Act No. 12277: AN ACT GRANTING THE CAMARINES SUR IV ELECTRIC COOPERATIVE, INC. (CASURECO IV) A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, OWN, MANAGE AND MAINTAIN DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE MUNICIPALITIES OF OCAMPO, TIGAON, SAGÑAY, GOA, SAN JOSE, LAGONOY, PRESENTACION, GARCHITORENA, AND CARAMOAN, IN THE PROVINCE OF CAMARINES SUR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99808",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99808",
+     "sha256": "4f584452043dcfa2d2996b744f79b0889873cdcd0a018ff828417f304b5ec1e8"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12278",
+   "short": "RA 12278",
+   "title": "Republic Act No. 12278: AN ACT GRANTING A FRANCHISE TO FIRST LAGUNA ELECTRIC COOPERATIVE, INC. (FLECO) TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, OWN, MANAGE, AND MAINTAIN DISTRIBUTION SYSTEMS FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE MUNICIPALITIES OF CAVINTI, PAGSANJAN, LUMBAN, KALAYAAN, PAETE, PAKIL, PANGIL, SINOLOAN, FAMY, MABITAC, AND STA. MARIA, PROVINCE OF LAGUNA",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99810",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99810",
+     "sha256": "dee43cfd5e7cecdc376509823e5ab2f53218ed7155b0a54db7d29af17bbe6eba"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12279",
+   "short": "RA 12279",
+   "title": "Republic Act No. 12279: AN ACT CREATING A BARANGAY IN THE MUNICIPALITY OF NORZAGARAY, PROVINCE OF BULACAN TO BE KNOWN AS BARANGAY FRIENDSHIP VILLAGE RESOURCES OR BARANGAY FVR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99813",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99813",
+     "sha256": "f76cd77aff6fc7da859537bb0f5c41c483d0b284dc200906ba5de53852442dce"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12280",
+   "short": "RA 12280",
+   "title": "Republic Act No. 12280: AN ACT CREATING A BARANGAY IN THE CITY OF SAN FERNANDO, PROVINCE OF PAMPANGA, TO BE KNOWN AS BARANGAY PULUNG BULU",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99815",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99815",
+     "sha256": "ca959655aea2ac2139a657cefa313138d4bc759615f42022a5995d7a99bc6164"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12281",
+   "short": "RA 12281",
+   "title": "Republic Act No. 12281: AN ACT RENAMING BARANGAY NEW ALABANG VILLAGE IN THE CITY OF MUNTINLUPA AS BARANGAY AYALA ALABANG",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99816",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 4,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99816",
+     "sha256": "92b33617da66110b0c04578867e95f07a78670da29e0f5d95bb622f3628eb26e"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12283",
+   "short": "RA 12283",
+   "title": "Republic Act No. 12283: AN ACT ESTABLISHING A COLLEGE OF MEDICINE IN THE SULTAN KUDARAT STATE UNIVERSITY IN THE CITY OF TACURONG, PROVINCE OF SULTAN KUDARAT, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99820",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99820",
+     "sha256": "828f6ab2f3725f9d595b3d4ac2683f0853cf1e8f25db8aff0797b9392f19207c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12284",
+   "short": "RA 12284",
+   "title": "Republic Act No. 12284: AN ACT CONVERTING THE EXTENSION CAMPUS OF THE CEBU NORMAL UNIVERSITY IN THE MUNICIPALITY OF MEDELLIN, PROVINCE OF CEBU INTO A REGULAR CAMPUS AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99821",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99821",
+     "sha256": "d9b30a304d10f401671af4557abedd5d5dd2bea99cf39502a8e931c809c421ed"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12285",
+   "short": "RA 12285",
+   "title": "Republic Act No. 12285: AN ACT CONVERTING THE EXTENSION CAMPUS OF THE CEBU NORMAL UNIVERSITY IN THE MUNICIPALITY OF BALAMBAN, PROVINCE OF CEBU INTO A REGULAR CAMPUS AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99822",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99822",
+     "sha256": "e04d81de1e78525d2cda9abc77b1b9c47a4bd98ed2b134d27a01ab04d31df45b"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12286",
+   "short": "RA 12286",
+   "title": "Republic Act No. 12286: AN ACT CONVERTING THE GUIMARAS STATE UNIVERSITY MOSQUEDA AND BATERNA EXTENSION CAMPUSES LOCATED IN THE MUNICIPALITIES OF JORDAN AND SAN LORENZO, RESPECTIVELY, BOTH IN THE PROVINCE OF GUIMARAS INTO REGULAR CAMPUSES AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99823",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99823",
+     "sha256": "dcb2f49c4fe3a913c9d8aaf4c4a02e08817871b64ad7347f447bf6f646bbd330"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12234",
+   "short": "RA 12234",
+   "title": "Republic Act No. 12234: AN ACT ESTABLISHING A COMPREHENSIVE AND INCLUSIVE DATA TRANSMISSION AND CONNECTIVITY FRAMEWORK FOR THE PHILIPPINES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99600",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 36,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99600",
+     "sha256": "6106ec0dc3cfb2314368a9954cde6be25c8ff78935db75e389504177c3cc80cc"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12287",
+   "short": "RA 12287",
+   "title": "Republic Act No. 12287: AN ACT ESTABLISHING A MECHANISM ON THE DECLARATION OF STATE OF IMMINENT DISASTER, PROVIDING THE CRITERIA FOR ITS DECLARATION AND LIFTING, ENABLING ANTICIPATORY MEASURES, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99824",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99824",
+     "sha256": "ef40d63c380df7df75f1c483a791ec1109bdcc2ea1364dcac1e8b60379586cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12288",
+   "short": "RA 12288",
+   "title": "Republic Act No. 12288: AN ACT INSTITUTIONALIZING THE CAREER PROGRESSION SYSTEM FOR PUBLIC SCHOOL TEACHERS AND SCHOOL LEADERS AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99832",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 16,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99832",
+     "sha256": "0335e987f7c576f4aea093dfcb662bebe8d29913479bc380990897d18b4de9c8"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12289",
+   "short": "RA 12289",
+   "title": "Republic Act No. 12289: AN ACT INSTITUTING REFORMS IN THE ACQUISITON OF RIGHT-OF-WAY FOR INFRASTRUCTURE PROJECTS BY THE NATIONAL GOVERNMENT AND BY PUBLIC SERVICE PROVIDERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10752, OTHERWISE KNOWN AS \"THE RIGHT-OF-WAY ACT\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99855",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 23,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99855",
+     "sha256": "2f791a642b23774626ada0c468bebdfebc0f2a5f7453ecbe31ba56b379489b5a"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12290",
+   "short": "RA 12290",
+   "title": "Republic Act No. 12290: AN ACT ESTABLISHING A COLLABORATIVE AND COMPLEMENTARY RESEARCH ND DEVELOPMENT SYSTEM ON VIROLOGY AND VACCINE, CREATING FOR THE PURPOSE THE VIROLOGY AND VACCINE INSTITUTE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99901",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 32,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99901",
+     "sha256": "f9d959a9c4e198062ec54fc71b8235977a4e47c5c38d7b04027f1703bf785762"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12293",
+   "short": "RA 12293",
+   "title": "Republic Act No. 12293: AN ACT UPGRADING THE QUIRINO PROVINCE MEDICAL CENTER IN THE MUNICIPALITY OF CABARROGUIS, PROVINCE OF QUIRINO, INTO A LEVEL III GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99858",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 11,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99858",
+     "sha256": "f573f93a6aafa89a859837f2261a6c1997810c595e1e5d7ef77a294f2570ed66"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12295",
+   "short": "RA 12295",
+   "title": "Republic Act No. 12295: AN ACT CONVERTING THE J.H. CERILLES STATE COLLEGE LOCATED IN BARANGAY MATI, MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL SUR INTO A STATE UNIVERSITY TO BE KNOWN AS THE ZAMBOANGA DEL SUR STATE UNIVERSITY AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99864",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 31,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99864",
+     "sha256": "4417a8ae8ff73dc20e9acc0a67c32b9e57e3bb2ae6ccc3aa2b3ea7c2d0a529d9"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12297",
+   "short": "RA 12297",
+   "title": "Republic Act No. 12297: AN ACT ESTABLISHING THE BAYBAY CITY HIGH SCHOOL FOR SPORTS IN BAYBAY CITY, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99869",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 13,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99869",
+     "sha256": "32ef96ef7fe1901b56da51d44f40d6114c7b5c1e12ac0c1efdc726722fbb63cc"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12302",
+   "short": "RA 12302",
+   "title": "Republic Act No. 12302: AN ACT GRANTING THE AKLAN ELECTRIC COOPERATIVE (AKELCO), INC. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, OWN, MANAGE AND MAINTAIN A DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE SEVENTEEN (17) MUNICIPALITIES OF THE PROVINCE OF AKLAN; THE MUNICIPALITIES OF PANDAN AND LIBERATED OF THE PROVINCE OF ANTIQUE; AND IN BARANGAY DAMAYAN, MUNICIPALITY OF SAPIAN, PROVINCE OF CAPIZ",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99889",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99889",
+     "sha256": "f5fd0eddb23cf3a76a9e827beff617ce63f8c2537973929408baa574523396ec"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12303",
+   "short": "RA 12303",
+   "title": "Republic Act No. 12303: AN ACT GRANTING THE BENGUET ELECTRIC COOPERATIVE (BENECO), INC. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, OWN, MANAGE AND MAINTAIN A DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THE MUNICIPALITIES OF ATOK, BAKUN, BOKOD, BUGUIAS, ITOGON, KABAYAN, KAPANGAN, KIBUNGAN, LA TRINIDAD, MANKAYAN, SABLAN, TUBA, AND TUBLAY, PROVINCE OF BENGUET; AND IN BAGUIO CITY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99892",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99892",
+     "sha256": "b2573b827d0f209a46ddb817f8ac2fbedac974c46191a2190c7fe2dd9d220d9c"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12265",
+   "short": "RA 12265",
+   "title": "Republic Act No. 12265: AN ACT RECOGNIZING SINGAPORE SCHOOL MANILA GREEN CAMPUS AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER, AND GRANTING CERTAIN PREROGATIVES CONDUCIVE TO ITS DEVELOPMENT AND GROWTH",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99760",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 8,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99760",
+     "sha256": "e72ae777357981bf5a3253a80b97ccb59fad9e89c0e87e170f1354ec1ef4dc76"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12304",
+   "short": "RA 12304",
+   "title": "Republic Act No. 12304: AN ACT PROVIDING FOR EQUITABLE ACCESS TO SHARI'AH COURTS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9997, OTHERWISE KNOWN AS THE \"NATIONAL COMMISSION IN MUSLIM FILIPINOS ACT OF 2009\"",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99894",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 9,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99894",
+     "sha256": "7fecf25144aee04b2f379b5739af9971fa1285e50bd7883f770efbccbee52b07"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12305",
+   "short": "RA 12305",
+   "title": "Republic Act No. 12305: AN ACT PROVIDING FOR A COMPREHENSIVE LEGAL FRAMEWORK FOR NUCLEAR SAFETY, SECURITY, AND SAFEGUARDS IN THE PEACEFUL UTILIZATION OF NUCLEAR ENERGY IN THE PHILIPPINES, ESTABLISHING THE PHILIPPINE ATOMIC ENERGY REGULATORY AUTHORITY, AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99921",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 56,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99921",
+     "sha256": "536d78c5cc2d34b1ecb9281018c06895d05bb16c81496c6357efd0748e9a28a7"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12306",
+   "short": "RA 12306",
+   "title": "Republic Act No. 12306: AN ACT GRANTING THE PAMPANGA RURAL ELECTRIC SERVICE COOPERATIVE (PRESCCO), INC. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE, OWN, MANAGE AND MAINTAIN A DISTRIBUTION SYSTEM FOR THE CONVEYANCE OF ELECTRIC POWER TO THE END-USERS IN THIRTY-FOUR (34) BARANGAYS IN THE MUNICIPALITIES OF MEXICO, ARAYAT, STA. ANA, AND MAGALANG, PROVINCE OF PAMPANGA",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99896",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 24,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99896",
+     "sha256": "08a81ade4d9a14909c15aa9967130afa68f6d97f2277f5b33b4016eb8e1b54a0"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12301",
+   "short": "RA 12301",
+   "title": "Republic Act No. 12301: AN ACT DECLARING JUNE 17 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE MUNICIPALITY OF MAGSAYSAY, PROVINCE OF DAVAO DEL SUR, IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99887",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 3,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99887",
+     "sha256": "e0fcb7ba4ee72fa6fc1872c425000afeda34830497d27f3229c68ae266922c02"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12311",
+   "short": "RA 12311",
+   "title": "Republic Act No. 12311: AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO INTERCONTINENTAL BROADCASTING CORPORATION UNDER REPUBLIC ACT NO. 8954, ENTITLED \"AN ACT GRANTING THE INTERCONTINENTAL BROADCASTING CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99968",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99968",
+     "sha256": "525143b267501fe0097e372e106b50f505bddbbaafd568c7bfc6df22b2c2f2b1"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12308",
+   "short": "RA 12308",
+   "title": "Republic Act No. 12308: AN ACT ENHANCING ANIMAL INDUSTRY DEVELOPMENT AND COMPETITIVENESS, STRENGTHENING THE BUREAU OF ANIMAL INDUSTRY, AND CREATING FOR THE PURPOSE THE ANIMAL COMPETITIVENESS ENHANCEMENT FUND",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99966",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 33,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99966",
+     "sha256": "0155b598f55019ec0ed4685d3381649c961bf37015a0b9e8a8e5efc82f952314"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12309",
+   "short": "RA 12309",
+   "title": "Republic Act No. 12309: AN ACT GRANTING FREE FUNERAL SERVICES TO POOR FAMILIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99943",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 15,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99943",
+     "sha256": "98495ef2ea098c690a5ddb3a043abdad406f8d513579e80176a329a64aa2583d"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12310",
+   "short": "RA 12310",
+   "title": "Republic Act No. 12310: AN ACT EXPANDING THE PHILIPPINE SCIENCE HIGH SCHOOL (PSHS) SYSTEM, FURTHER STRENGTHENING ITS GOVERNANCE AND MANAGEMENT, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 8496 OR THE \"PHILIPPINE SCIENCE HIGH SCHOOL SYSTEM ACT OF 1997\", AND APPROPRIATING FUNDS THEREFOR",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99967",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 26,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/99967",
+     "sha256": "66f721ea5938ca4e87e91f59564ef3c4cc36a84701dd98bce5bb437656e10127"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12312",
+   "short": "RA 12312",
+   "title": "Republic Act No. 12312: AN ACT BANNING AND DECLARING ILLEGAL OFFSHORE GAMING OPERATIONS IN THE PHILIPPINES AND OTHER OPERATIONS RELATED THERETO, REPEALING FOR THE PURPOSE REPUBLIC ACT NUMBERED ELEVEN THOUSAND FIVE HUNDRED NINETY. OTHERWISE KNOWN AS \"AN ACT TAXING PHILIPPINE OFFSHORE GAMING OPERATIONS\", AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/100174",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 21,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/100174",
+     "sha256": "1bf7529c9aae94d8a36a956b46ddbf513bc29d2f46009ab8f650e94f64087de7"
+    }
+   ]
+  },
+  {
+   "slug": "ra-12313",
+   "short": "RA 12313",
+   "title": "Republic Act No. 12313: AN ACT INSTITUTIONALIZING THE LIFELONG LEARNING DEVELOPMENT FRAMEWORK, BROADENING THE MANDATE OF THE PHILIPPINE QUALIFICATIONS FRAMEWORK - NATIONAL COORDINATING COUNCIL (PGQ - NCC), AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10968, OTHERWISE KNOWN AS THE \"PQF ACT\", APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/100182",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 19,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/100182",
+     "sha256": "bec3694e2189672025c4f12c6478adf16d99a31e0f66f49e8642e162f70d2016"
     }
    ]
   },
