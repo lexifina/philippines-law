@@ -1,0 +1,10 @@
+# Republic Act No. 6088: AN ACT AMENDING SECTIONS TWENTY-FIVE AND TWENTY-SIX OF REPUBLIC ACT NUMBERED ONE HUNDRED EIGHTY-THREE, OTHERWISE KNOWN AS THE CHARTER OF PASAY CITY, AS AMENDED
+
+RA 6088 · 1 versions, from 1969-08-04 (latest in force: 1969-08-04) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/17804>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
