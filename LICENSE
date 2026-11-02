@@ -1,12 +1,25 @@
-The legal texts are laws of the Republic of the Philippines as published in the Official Gazette
-(https://www.officialgazette.gov.ph), whose site states: "All content is in the public domain unless otherwise
-stated." Under Republic Act No. 8293 (Intellectual Property Code), section 176, no copyright subsists in any work
-of the Government of the Philippines.
+The legal texts are laws of the Republic of the Philippines. They are copied from the Official Gazette of the
+Republic of the Philippines (https://www.officialgazette.gov.ph), whose site states: "All content is in the public
+domain unless otherwise stated", and from the Supreme Court E-Library (https://elibrary.judiciary.gov.ph).
+
+Republic Act No. 8293 (Intellectual Property Code of the Philippines), section 176.1, as printed by the Supreme
+Court E-Library:
+
+  "No copyright shall subsist in any work of the Government of the Philippines. However, prior approval of the
+  government agency or office wherein the work is created shall be necessary for exploitation of such work for
+  profit. Such agency or office may, among other things, impose as a condition the payment of royalties. No prior
+  approval or conditions shall be required for the use for any purpose of statutes, rules and regulations, and
+  speeches, lectures, sermons, addresses, and dissertations, pronounced, read or rendered in courts of justice,
+  before administrative agencies, in deliberative assemblies and in meetings of public character."
+
+The E-Library states that in case of conflict the text in the official printed copy of a law prevails over the text
+in the E-Library.
 
 Changes made by Lexifina: each law was converted to one Markdown file per provision, one paragraph per line;
-chapter and article headings were left out of the units; five evident transcription errors in the Official
-Gazette's page of the Constitution were corrected. The versions were arranged as git commits.
-Lexifina does not claim the Official Gazette endorses this repository.
+chapter and article headings, signature blocks and footnotes were left out of the units; the item numbers of
+numbered lists were written out; five evident transcription errors in the Official Gazette's page of the
+Constitution were corrected. The versions were arranged as git commits. Lexifina does not claim the Official
+Gazette or the Supreme Court endorses this repository.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:

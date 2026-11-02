@@ -28,6 +28,48 @@
      "sha256": "d239c7522d58167bcc823be0b18882637e7efe290a4cf9698045a23b2a7d0928"
     }
    ]
+  },
+  {
+   "slug": "revised-penal-code",
+   "short": "RPC",
+   "title": "The Revised Penal Code (Act No. 3815)",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/20426",
+   "versions": [
+    {
+     "from": "1932-01-01",
+     "units": 369,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/20426",
+     "sha256": "7989ce416ff977a3cdeb09737184cf53cbec8d8d8505bd191bf9663bc196ebb7"
+    }
+   ]
+  },
+  {
+   "slug": "labor-code",
+   "short": "Labor Code",
+   "title": "The Labor Code of the Philippines (Presidential Decree No. 442)",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/25306",
+   "versions": [
+    {
+     "from": "1974-11-01",
+     "units": 341,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/25306",
+     "sha256": "b02d73a84b2f7588b0a2d9f0c87892754dc52b5b0cb7e0e79188b0605c3a2272"
+    }
+   ]
+  },
+  {
+   "slug": "revised-corporation-code",
+   "short": "RCC",
+   "title": "The Revised Corporation Code of the Philippines (Republic Act No. 11232)",
+   "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/86463",
+   "versions": [
+    {
+     "from": "2019-02-23",
+     "units": 189,
+     "source_url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/86463",
+     "sha256": "16d70a60f11c23ce2bf1525c3bfc806cc632672ef1ba26054f28bb37f6bfc0db"
+    }
+   ]
   }
  ]
 }

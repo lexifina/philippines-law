@@ -7,15 +7,29 @@ The law of the Philippines as a git repository: one file per provision, one comm
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | The 1987 Constitution of the Republic of the Philippines | 1 | As ratified, in force 2 February 1987 |
+| `revised-penal-code/` | Act No. 3815, the Revised Penal Code | 1 | As enacted, in force 1 January 1932 |
+| `labor-code/` | Presidential Decree No. 442, the Labor Code | 1 | As promulgated, in force 1 November 1974 |
+| `revised-corporation-code/` | Republic Act No. 11232, the Revised Corporation Code | 1 | As enacted, in force 23 February 2019 |
 | `data-privacy-act/` | Republic Act No. 10173, the Data Privacy Act of 2012 | 1 | As enacted, in force 8 September 2012 |
+| `ra-*`, `pd-*`, `bp-*`, `ca-*`, `act-*`, `eo-*` | Other Republic Acts, Presidential Decrees, Batas Pambansa, Commonwealth Acts, Acts and Executive Orders | 1 each | As made, each on the day it took effect |
 
-**What it does not show.** The Official Gazette prints each law as enacted and publishes no consolidated or dated text, so there is one version of each. The Revised Penal Code and other core statutes are not built, because no official consolidation exists to check a rebuilt text against.
+`data/laws.csv` lists every law in the repository.
 
-**Source.** The Official Gazette of the Republic of the Philippines, read through Internet Archive copies of its pages. Chapter and article headings are left out of the units. Five evident transcription errors on the Gazette's Constitution page (Art. VIII s. 11, Art. IX-A s. 2, Art. X s. 11, Art. XIII ss. 7 and 9) were corrected where another publisher's copy and the sense of the sentence agree. About 35 other wording differences between the two copies, mostly typing errors in the other copy, keep the Gazette's wording.
+**What it does not show.** Each act is its text as made. Later amendments are not applied to the act they amend: an amending act appears as its own folder, but the amended act's files keep their original wording. The publishers print laws as enacted and publish no dated consolidations, so there is no official text to check a rebuilt one against. The Civil Code and the Family Code are not included yet, because the only full texts found online mix the original wording with some later amendments. An act is left out when the day it took effect cannot be worked out from its own text and the publication it cites.
+
+**Sources.** The Constitution and the Data Privacy Act come from the Official Gazette of the Republic of the Philippines, read through Internet Archive copies of its pages. Every other act comes from the Supreme Court E-Library. Chapter and article headings, signature blocks and footnotes are left out of the units. The texts keep the publishers' wording, including their typing errors. The one exception is five evident transcription errors on the Gazette's Constitution page (Art. VIII s. 11, Art. IX-A s. 2, Art. X s. 11, Art. XIII ss. 7 and 9), which were corrected where another publisher's copy and the sense of the sentence agree. The Revised Penal Code was compared word by word with the Official Gazette's copy: about 97% of the words agree, and most of the rest are headings, article labels and typing errors in one copy or the other.
 
 ## Dates
 
-Each commit is dated at noon, Asia/Manila, on the day the law took effect. The Constitution is dated by its ratification, 2 February 1987. Republic Act No. 10173 was approved on 15 August 2012 and published on 24 August 2012; under Executive Order No. 200 (1987) it took effect fifteen days after publication, on 8 September 2012.
+Each commit is dated at noon, Asia/Manila, on the day the law took effect, worked out from the law's own effectivity clause:
+
+- "upon approval" means the day it was approved;
+- "fifteen days after publication" means fifteen days after the publication the E-Library cites (in the Official Gazette or in newspapers, whichever the clause names);
+- a stated date, or a period after approval, means that day.
+
+From 29 December 1986, a law that takes effect "upon approval" is dated by its first publication, because the Supreme Court held in Tañada v. Tuvera that publication cannot be dispensed with.
+
+The Constitution is dated by its ratification, 2 February 1987.
 
 ## What "author" means
 
