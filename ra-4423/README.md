@@ -1,0 +1,11 @@
+# Republic Act No. 4423: AN ACT TO AMEND REPUBLIC ACT NUMBERED TWENTY-TWO HUNDRED SIXTY-EIGHT, ENTITLED "AN ACT GRANTING THE ARAS-ASAN TIMBER COMPANY, INC., A TEMPORARY PERMIT TO CONSTRUCT, ESTABLISH, MAINTAIN AND OPERATE PRIVATE FIXED POINT-TO-POINT AND PRIVATE SHIP-TO-SHORE RADIO STATIONS FOR THE RECEPTION AND TRANSMISSION OF RADIO COMMUNICATIONS WITHIN THE PHILIPPINES."
+
+RA 4423 · 1 versions, from 1965-06-19 (latest in force: 1965-06-19) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/6863>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |

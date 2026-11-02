@@ -1,0 +1,9 @@
+# Republic Act No. 4507: AN ACT REAPPROPRIATING FIVE THOUSAND PESOS APPROPRIATED IN REPUBLIC ACT NUMBERED TWENTY-SEVEN HUNDRED ONE, AND THE SUM OF FIVE THOUSAND PESOS APPROPRIATED IN REPUBLIC ACT NUMBERED THIRTY-ONE HUNDRED ONE, FOR THE MACROHON ELECTRIC PLANT IN THE MUNICIPALITY OF MACROHON, PROVINCE OF SOUTHERN LEYTE, AS AID TO THE SAID MUNICIPALITY, FOR THE CONSTRUCTION, REPAIR AND/OR IMPROVEMENT OF MUNICIPAL PROJECTS THEREIN
+
+RA 4507 · 1 versions, from 1965-06-19 (latest in force: 1965-06-19) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/7006>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

@@ -1,0 +1,7 @@
+# Republic Act No. 4361: AN ACT APPROPRIATING EIGHTY THOUSAND PESOS FOR OPERATIONAL EXPENSES AND OTHER INCIDENTAL EXPENSES OF THE EASTERN REGIONAL ORGANIZATION FOR PUBLIC ADMINISTRATION FOR ITS COMING CONSULTATIVE MEETING OF THE REPRESENTATIVES OF MEMBER NATIONS TO BE HELD IN MANILA, PHILIPPINES, IN SEPTEMBER, 1965
+
+RA 4361 · 1 versions, from 1965-06-19 (latest in force: 1965-06-19) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/22183>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
