@@ -1,0 +1,12 @@
+# Republic Act No. 11169: AN ACT RENAMING THE DON HONORIO VENTURA TECHNOLOGICAL STATE UNIVERSITY (DHVTSU) IN THE MUNICIPALITY OF BACOLOR, PROVINCE OF PAMPANGA AS THE DON HONORIO VENTURA STATE UNIVERSITY (DHVSU), AND EXPANDING ITS CURRICULAR OFFERINGS. AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9832, ENTITLED "AN ACT CONVERTING THE DON HONORIO VENTURA COLLEGE OF ARTS AND TRADES IN THE MUNICIPALITY OF BACOLOR. PROVINCE OF PAMPANGA INTO A STATE UNIVERSITY TO BE KNOWN AS THE DON HONORIO VENTURA TECHNOLOGICAL STATE UNIVERSITY (DHVTSU) AND APPROPRIATING FUNDS THEREFOR"
+
+RA 11169 · 1 versions, from 2019-02-15 (latest in force: 2019-02-15) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/86092>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Section 5 | [sec-005.md](sec-005.md) | 0 |  |
