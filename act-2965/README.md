@@ -1,0 +1,7 @@
+# Act No. 2965: AN ACT TO AMEND SUBSECTION (N) OF SECTION TWENTY-FOUR HUNDRED AND FORTY-FOUR OF ACT NUMBERED TWENTY-SEVEN HUNDRED AND ELEVEN, KNOWN AS THE ADMINISTRATIVE CODE, AS AMENDED BY ACT NUMBERED TWENTY-SEVEN HUNDRED AND SEVENTY-FOUR, EMPOWERING THE MUNICIPAL BOARD OF THE CITY OF MANILA TO ESTABLISH A TAX ON AUTOMOBILES
+
+Act 2965 · 1 versions, from 1921-02-28 (latest in force: 1921-02-28) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/36227>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |

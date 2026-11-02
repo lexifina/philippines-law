@@ -1,0 +1,10 @@
+# Act No. 3873: AN ACT TO AMEND SECTIONS FIVE AND SEVENTEEN OF ACT NUMBERED THIRTY-FOUR HUNDRED AND NINETY-FIVE, ENTITLED "AN ACT GRANTING TO THE ROBERT DOLLAR COMPANY, A CORPORATION ORGANIZED AND EXISTING UNDER THE LAWS OF THE STATE OF CALIFORNIA, UNITED STATES OF AMERICA, A FRANCHISE TO CONSTRUCT, MAINTAIN, AND OPERATE IN THE PHILIPPINE ISLANDS STATIONS FOR THE RECEPTION AND TRANSMISSION OF WIRELESS LONG DISTANCE AND PRESCRIBING THE CONDITION OF THE SAME."
+
+Act 3873 · 1 versions, from 1931-11-13 (latest in force: 1931-11-13) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/19487>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |

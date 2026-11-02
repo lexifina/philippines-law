@@ -1,0 +1,10 @@
+# Act No. 2304: AN ACT PROVIDING THAT ON AND AFTER THE FIRST DAY OF JANUARY, NINETEEN HUNDRED AND FOURTEEN, UNTIL OTHERWISE PROVIDED BY LAW, THE RATE OF COMPENSATION OF PUBLIC OFFICERS AND EMPLOYEES WHO SHALL BE ENTITLED TO RECEIVE PAY FROM THE GOVERNMENT OF THE PHILIPPINE ISLANDS FOR SERVICES RENDERED ON AND AFTER SAID DATE SHALL BE AS MAY BE PROVIDED IN THE GENERAL APPROPRIATION ACT NOW IN COURSE OF PREPARATION AND ENACTMENT BY THE PHILIPPINE LEGISLATURE
+
+Act 2304 · 1 versions, from 1913-12-19 (latest in force: 1913-12-19) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/34475>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
