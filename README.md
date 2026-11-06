@@ -1,5 +1,7 @@
 # Philippines: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Philippines' national law, which global-law reads at `philippines/national/acts/`.
+
 The law of the Philippines as a git repository: one file per provision, one commit per law on the day it took effect, and the law that made the text as the commit's author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ph/`.
 
 **What is in it now**
