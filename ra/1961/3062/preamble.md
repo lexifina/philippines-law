@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Philippine-American Cultural Foundation governed by a Board of Trustees composed of six- Filipinos and five Americans, under the chairmanship of a Filipino, is proposing to construct a two million five hundred thousand-peso (P2,500,000.00) Cultural Center in the Philippines to be financed by a three million twenty-one thousand nine hundred forty-six-peso (P3,021,946.00) donation from the United States of America;
+WHEREAS, the object of the Foundation is to help preserve, enrich and develop Philippine culture for the general well-being of the Filipino people; and to bind closer the ties of friendship between the United States of America and the Philippines; and
+WHEREAS, the proposed construction of this Foundation will not entail any obligation on the part of any Filipino citizen or any institution in this country, nor require any counterpart fund from the Republic of the Philippines: Now, therefore,
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

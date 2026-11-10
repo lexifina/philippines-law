@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, it is the policy of the government to continuously promote the Philippines as a center for education in the Asia Pacific Region by (i) encouraging foreign students to study in the country, (ii) developing awareness of the Philippine educational system among neighboring countries, and (iii) allowing duly accepted foreign students to avail of the facilities of the Philippine educational system;
+WHEREAS, an increasing number of foreign students has expressed the desire to enter and study in the Philippines, and graduate from Philippine schools, colleges and universities;
+WHEREAS, the Philippine government recognizes the importance of openness and vigilance in determining bona-fide foreign students who wish to avail themselves of education and training in the Philippine educational institutions and benefit from an enriched exchange of culture, ideas and goodwill among nations in the region;
+WHEREAS, studying in the Philippines will afford foreign students of Filipino descent excellent means and opportunity to appreciate and understand their roots and rich cultural heritage;
+WHEREAS, the government policy of attraction for foreign students to come to the country will help boost the nation's prospects to improve its economic environment;
+WHEREAS, there is a need to liberalize the procedures and requirements in the entry of foreign students without compromising national security by providing a systematic method in the processing and approval of their documents.
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the following:

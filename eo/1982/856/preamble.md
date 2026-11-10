@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the sub-standard living condition in Metro Manila jails caused by congestion/overcrowding of inmates in prison cells also exists in provincial/city jails of other regional areas;
+WHEREAS, such congestion/overcrowding in local jails can be attributed to slow disposition of cases and in certain instances, the inability of those apprehended to post bail to secure their provisional liberty; and
+WHEREAS, the Metro Manila experience on the creation of a Local Committee on Justice has shown the need to constitute a similar Committee on Justice in every province/ensure the speedy disposition of cases of detainees, particularly those involving the poor and indigent ones, thus alleviating jail congestion and improving local jail conditions;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order the creation of a Provincial/City Committee on Justice in every province/city in other regions of the country.

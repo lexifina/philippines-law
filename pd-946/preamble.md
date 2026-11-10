@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the present organizational, operational and procedural set-up of the Courts of Agrarian Relations is not conducive to the effective and efficient implementation of the objectives of the accelerated agrarian reform program;
-WHEREAS, the inferior economic, intellectual, social political and cultural position of the tenant-tillers require suitable changes in the structure, manner of operation and rules of procedure of Courts of Agrarian Relations as well as in the orientation of persons having anything to do with agrarian law and reform if they are to render justice and help attain the emancipation of the tenant-tillers as provided in the Constitution; and
-WHEREAS, there is, therefore, an imperative need to reorganize the Courts of Agrarian Relations and to streamline their procedures to achieve a just, expeditious and inexpensive disposition of agrarian cases, and to make the said Courts responsive to the goals of the New Society.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

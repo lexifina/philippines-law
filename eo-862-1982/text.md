@@ -1,5 +1,0 @@
-# Text
-WHEREAS, the sugar and molasses industries are, at present, in a distressed condition due to unfavorable market prices and escalating production costs;
-WHEREAS, in view of the depressed condition of the industries concerned, there are no windfall profits to be generated from the export of sugar and molasses;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by Section 515 of Presidential Decree No. 1464, as amended, and upon the recommendation of the National Economic and Development Authority, do hereby order and direct that the export duty and premium duty on centrifugal sugar and molasses be suspended.
-This Order shall take effect immediately.

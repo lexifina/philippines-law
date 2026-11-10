@@ -1,5 +1,0 @@
-# Preamble
-Whereas the buildings, including the lots on which they stand, constructed and used for a provincial jail and other provincial purposes under the Spanish regime, which buildings were erected with funds of the province during said regime, have been reserved for constabulary purposes by Executive Order Numbered Thirty, series of nineteen hundred and nine;
-Whereas said buildings have become and are the property of the Insular Government by virtue of a decree of the Court of Land Registration issued on July fifth, nineteen hundred and thirteen;
-And whereas the Province of Surigao, having been thus deprived of the use and ownership of said buildings, lacks at present a provincial jail sufficiently safe for the proper custody of the prisoners, and it is but just that it be provided with a suitable building for said purposes, inasmuch as the title and possession of the buildings set aside by the province for the purpose mentioned have been transferred to the Insular Government: Now, therefore,
-Be it enacted by the Senate and House of Representatives of the Philippines in Legislature assembled and by the authority of the same:

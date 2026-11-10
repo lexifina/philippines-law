@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under the Loan Agreement between the Philippine Government and the International Bank for the Reconstruction and Development for the purpose of funding the Third Urban Development Project, the Government undertook to enter into a Subsidiary Investment Agreement with the Technology Resource Center (TRC) whereby the Government shall infuse additional equity into TRC to enable TRC to carry out the Livelihood Component of the Urban Development Project;
-WHEREAS, the said Subsidiary Investment Agreement was signed on August 11, 1980 between TRC and the Ministry of Finance on behalf of the Government;
-WHEREAS, there is a need to increase TRC's authorized capital since the same is insufficient to accommodate this additional equity infusion and in order to enable TRC to implement the Livelihood Component of the Urban Development Project and other technology delivery projects utilizing foreign and/or domestically sourced funds;
-WHEREAS, under Presidential Decree No. 1416, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416, do hereby order and ordain:

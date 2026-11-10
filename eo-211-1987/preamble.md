@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the 1986 Constitution places the exploration, development and utilization of natural resources under the full control and supervision of the State and allows the State to undertake activities relative thereto or to enter into co-production, joint venture, or production sharing agreements with Filipino citizens or corporations or associations at least sixty per centum of those capital is owned by such citizens;
-WHEREAS, there are presently issued mining leases, licenses and/or permits or grants, as well as operating agreements and service contracts in relation to which the grantees, local foreign, have already made huge investments in terms or money and equipments;
-WHEREAS, there are pending new applications for such mining grants as well as applications for renewal of such grants and there will foreseeably be prospective applications for such grants;
-WHEREAS, the mining industry plays a pivotal role in the economic development of the country and is a vital tool in the government's thrust of accelerated economic recovery, hence, it is imperative to formulate procedures to ensure the continuity of mining operations and activities, and to hasten the development of mineral resources;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby direct and order:

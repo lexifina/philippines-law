@@ -1,2 +1,0 @@
-# Preamble
-As an emergency measure against the current international oil crisis, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order, decree and amend Presidential Decree No. 333, as amended by Presidential Decree No. 343 and Presidential Decree No. 368, as follows:

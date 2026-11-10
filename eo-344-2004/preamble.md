@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the task of enacting legislation, as well as coordinating political support for the Government's national agenda for growth, stability and good governance involves coordinating not only between the Legislative and Executive Branches of Government, but also between the Government and the various political parties, and between the Government and the various basic sectors of society and other relevant constituencies;
-WHEREAS, there is a need for an office in the Office of the President to coordinate and streamline the functional operations of the office of the agencies charged with legislative liaising, and party and constituency relations;
-WHEREAS, under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to recognize the administrative structure of the Office of the President;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the power vested I me by law and the Constitution, do hereby order:

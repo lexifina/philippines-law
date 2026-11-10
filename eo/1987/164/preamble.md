@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, as a consequence of the continued expansion of developmental projects and increased delivery of essential public services to the people, the volume and value of governmental contracts have substantially increased over the years;
+WHEREAS, in view of such increase in the contracting activities of the government and in line with the government's policy of decentralization and administrative delegation which is intended to expedite the implementation of projects, it is thus necessary that Secretaries and governing boards of government-owned or controlled corporations be provided with greater authority to approve contracts to implement projects falling within their respective jurisdiction;
+WHEREAS, to ensure that essential materials and services a needed by the government are procured at the most economical and advantageous terms, there is a need to expand the membership of the Prequalification, Bids and Awards Committees existing in every Department/Agency/Implementing Office so as to include representatives from the private sector as non-voting members;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

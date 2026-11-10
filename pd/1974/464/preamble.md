@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, this country cannot progress steadily if its local governments are not potent political subdivisions contributing their proportionate shares to national progress;
+WHEREAS, the past decade saw the passage of the Local Autonomy Act, the Barrio Charter, the Decentralization Act and other pieces of legislation intended to make local governments financially self-reliant and stable;
+WHEREAS, it is very apparent that in spite of all these laws, local governments still find difficulty in providing adequate funds with which to underwrite basic and essential public services within their respective areas of responsibility;
+WHEREAS, studies show that one of the main reasons behind this is the failure of local governments to fully tap the income potentialities of the real property tax;
+WHEREAS, to remedy the situation, there is an urgent and compelling need to upgrade assessment services by updating assessment techniques, procedures and practices and thereby bring about equitable distribution of the realty tax burden among real property owners throughout the country;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution do hereby adopt, promulgate and decree, as it is hereby adopted, promulgated and decreed, as part of the law of the land, this decree entitled "The Real Property Tax Code", the context of which follows:

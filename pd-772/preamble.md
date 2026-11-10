@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, it came to my knowledge that despite the issuance of Letter of Instructions No. 19 dated October 2, 1972, directing the Secretaries of National Defense, Public Works and Communications, Social Welfare and the Director of Public Works, the PHHC General Manager, the Presidential Assistant on Housing and Rehabilitation Agency, Governors, City and Municipal Mayors, and City and District Engineers, "to remove all illegal constructions including buildings on and along esteros and river banks, those along railroad tracks and those built without permits on public and private property, "squatting is still a major problem in urban communities all over the country;
-WHEREAS, many persons or entities found to have been unlawfully occupying public and private lands belong to the affluent class;
-WHEREAS, there is a need to further intensify the government's drive against this illegal and nefarious practice;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

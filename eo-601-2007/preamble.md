@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under Section 1 of Republic Act No. 7656, it is the declared policy of the state that in order for the National Government to realize additional revenues, government owned and/or controlled corporations, without impairing their viability and the purposes for which they have been established, shall share a substantial amount of their net earnings to the national Government;
-WHEREAS, Section 5 of Republic Act No. 7656 provides that "in the interest of national economy and general welfare, the percentage of annual net earnings that shall be declared by a government owned and/or controlled corporations may be adjusted by the President of the Philippines upon recommendation by the Secretary of Finance";
-WHEREAS, to support the viability and mandate of LBP, their liquidity, capital position, retained earnings and medium term plans and programs were considered in the determination of reasonable dividend rates; and
-WHEREAS, pursuant to Section 5 of Republic Act No. 7656, the Secretary of Finance recommended the adjustment on the percentage of dividend rates for 2003, 2004 and 2005 net earnings that shall be declared by LBP to the National Government, in the interest of national economy and general welfare.
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

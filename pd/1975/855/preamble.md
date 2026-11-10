@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, pursuant to Section 12, Article XV of the Constitution of the Philippines, Presidential Decree No. 765, dated August 8, 1975, has been promulgated to constitute the Integrated National Police under the Department of National Defense, with the Philippine Constabulary as the nucleus and the integrated police forces established by Presidential Decrees No. 421, No. 482, No. 531, No. 585, and No. 641, as components;
+WHEREAS, among the measures envisioned in the aforesaid Decrees for the attainment of an efficient and responsive police service is to provide for a standard rank and salary structures within the fiscal capability of the government for the members thereof;
+WHEREAS, it is imperative to provide a uniform salary rate structure among the members of the Integrated National Police who perform related functions and duties to enhance their discipline and efficiency;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as part of the law of the land the following:

@@ -1,2 +1,0 @@
-# Preamble
-By virtue of the powers vested in me by law, and in order to carry out the commitments of the Government of the Republic of the Philippines under the Trade and Financial Agreements and the Trade Plan between the Philippines and the Supreme Commander for the Allied Powers, which were signed at Tokyo, Occupied Japan on May 18, 1950, I, Elpidio Quirino, President of the Philippines do hereby order:

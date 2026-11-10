@@ -1,0 +1,2 @@
+# Article VI, Section 19
+SECTION 19. The Electoral Tribunals and the Commission on Appointments shall be constituted within thirty days after the Senate and the House of Representatives shall have been organized with the election of the President and the Speaker. The Commission on Appointments shall meet only while the Congress is in session, at the call of its Chairman or a majority of all its Members, to discharge such powers and functions as are herein conferred upon it.

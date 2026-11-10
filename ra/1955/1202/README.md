@@ -1,0 +1,9 @@
+# Republic Act No. 1202: AN ACT EXEMPTING FROM TECHNICAL EXAMINATION APPLICANTS FOR CERTIFICATES AS THIRD MATES AND FOURTH ENGINEERS WHO ARE FILIPINO GRADUATES OF THE UNITED STATES MERCHANT MARINE ACADEMY, KING'S POINT, NEW YORK, BY AMENDING SUBSECTION ( d ) OF SECTION ONE THOUSAND ONE HUNDRED AND NINETY-ONE, AS AMENDED BY REPUBLIC ACT NUMBERED NINETY-SEVEN, AND SUBSECTION ( d ) OF SECTION ONE THOUSAND ONE HUNDRED AND NINETY-TWO OF THE REVISED ADMINISTRATIVE CODE
+
+RA 1202 · 1 versions, from 1955-03-18 (latest in force: 1955-03-18) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/10752>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |

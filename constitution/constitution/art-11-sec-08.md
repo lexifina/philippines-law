@@ -1,0 +1,3 @@
+# Article XI, Section 8
+SECTION 8. The Ombudsman and his Deputies shall be natural-born citizens of the Philippines, and at the time of their appointment, at least forty years old, of recognized probity and independence, and members of the Philippine Bar, and must not have been candidates for any elective office in the immediately preceding election. The Ombudsman must have for ten years or more been a judge or engaged in the practice of law in the Philippines.
+During their tenure, they shall be subject to the same disqualifications and prohibitions as provided for in Section 2 of Article IX-A of this Constitution.

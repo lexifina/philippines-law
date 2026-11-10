@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the overseas employment program of the government has expanded by leaps and bounds to such an extent that it has not only provided meaningful and gainful employment to hundreds of thousands of Filipino workers in foreign countries but also earned considerable foreign exchange earnings for the country;
-WHEREAS, in the wake of this employment bounty, illegal recruiters have proliferated and taken advantage of the situation to victimize thousands upon thousands of unsuspecting and gullible workers who lose to these illegal recruiters through deceit and false pretenses not only their hard-earned savings and other worldly possessions but also often find themselves stranded and jobless on foreign soil;
-WHEREAS, this pernicious and oftentimes syndicated trade in human beings, which at once saps the economy and undermines national security, partakes a new form of economic sabotage and should, therefore, be considered and penalized as such;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

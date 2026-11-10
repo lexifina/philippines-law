@@ -1,0 +1,9 @@
+# Commonwealth Act No. 18: AN ACT TO AMEND SECTION THIRTEEN OF ACT NUMBERED FORTY-ONE HUNDRED AND NINETY-SEVEN, ENTITLED "AN ART TO FACILITATE AND PROMOTE THE OCCUPATION AND CULTIVATION OF PUBLIC LAND AT PRESENT UNOCCUPIED BY THE ESTABLISHMENT OF SETTLEMENT DISTRICTS, APPROPRIATE THE SUM OF ONE MIL LION PESOS FOR SAID PURPOSE, AND FOR OTHER PURPOSES," BY MAKING THE FUND THEREIN APPROPRIATED AVAILABLE FOR THE CONSTRUCTION AND MAINTENANCE OF ROADS AND BRIDGES
+
+CA 18 · 1 versions, from 1936-01-02 (latest in force: 1936-01-02) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/24451>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

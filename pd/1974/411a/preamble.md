@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Province of Cebu, excluding the cities of Cebu, Lapu-Lapu, Danao, Toledo and Mandaue, and the Province of Negros Occidental, excluding the cities of Bacolod, Silay, San Carlos, La Carlota, Bago and Cadiz, have a population of 1,758,212 and 1,821,000, respectively, giving rise to numerous juvenile cases and domestic problems;
+WHEREAS, a Juvenile and Domestic Relations Court is needed in the Provinces of Cebu and Negros Occidental to exclusively handle and resolve juvenile cases and domestic problems; and
+WHEREAS, Branch VIII of the Court of First Instance of Cebu and Branch VIII of the Court of First Instance of Negros Occidental have presently no presiding judges and their conversion into Juvenile and Domestic Relations Courts will not adversely affect the administration of justice;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1 972, as amended, do hereby order and decree:

@@ -1,0 +1,2 @@
+# Section 11-A
+SEC. 11-A. Effect of Interruption of Business or Professional Income. - If the self-employed member realizes no income in any given month, he shall not be required to pay contributions for that month. He may, however, be allowed to continue paying contributions under the same rules and regulations applicable to a separated employee member: Provided, That no retroactive payment of contributions shall be allowed other than as prescribed under Section 22-A hereof.

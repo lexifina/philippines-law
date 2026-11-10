@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, the State recognizes that the attainment of a just, comprehensive and lasting peace under the rule of law and in accordance with Constitutional processes is the basic foundation of economic development and national prosperity;
-WHEREAS, the Government implements a comprehensive peace process along the "Six Paths to Peace" that must be pursued simultaneously in a coordinated and integrated fashion, as provided for under Executive Order No. 3 issued on 28 February 2001;
-WHEREAS, the "third path" to peace is the Government's pursuit of a peaceful and negotiated settlement with the different rebel groups, including the Communist Party of the Philippines/New People's Army/National Democratic Front (CPP/NPA/NDF);
-WHEREAS, the Government recognizes that respect for human rights and international humanitarian law is of crucial importance and urgent necessity in laying the ground for a just and lasting peace;
-WHEREAS, the parties signed the Comprehensive Agreement on Respect for Human Rights and International Humanitarian Law (CARHRIHL) on 16 March 1998 in The Hague to guarantee the protection of human rights to all Filipinos under all circumstances by primarily addressing violations and abuses of human rights and the principles of international humanitarian law;
-WHEREAS, Part V of the CARHRIHL provides for the formation of a Joint Monitoring Committee (JMC) that shall monitor the implementation of this Agreement;
-WHEREAS, the parties signed the Operational Guidelines for the JMC on 14 February 2004 in Oslo which provided the manner by which to operationalize the JMC and monitor the implementation of and achieve the purposes of the CARHRIHL;
-NOW, THEREFORE, I, GLORIA MACAPAGAL – ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

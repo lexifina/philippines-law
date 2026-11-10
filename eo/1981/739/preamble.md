@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Joint Committee on Financial Management Improvement Program which was previously constituted as a Debt Clearing Committee under Executive Order No. 312, dated April 23, 1971, to undertake the settlement of inter-government obligations had been abolished;
+WHEREAS, receivable and payable accounts in the books of government agencies and instrumentalities have considerably increased and thus affected their financial operations;
+WHEREAS, there is an imperative need to continue the prompt and effective settlement of inter-government obligations, including indebtedness due to and from private individuals and corporations;
+WHEREAS, to insure the prompt and effective settlement of these accounts, it is necessary to maintain a close and continuing coordination among the government agencies, instrumentalities and the private sector concerned;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order the creation of a Debt Clearing Office under the administration of the Treasurer of the Philippines to effect the settlement of obligations subsisting between and among national government offices and instrumentalities, government-owned or controlled corporations, local government units and private individuals or corporations.

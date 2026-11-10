@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, certain lawless groups in our society are in open defiance against the duly constituted Government of the Republic of the Philippines;
+WHEREAS, the ICHDF has been called upon to assist in the suppression of such lawless elements and in the restoration of peace and order throughout the country to provide the necessary climate for the integrated economic development of the nation and promote the well-being of the people; and
+WHEREAS, it is necessary to recognize the valuable services of the ICHDF members and other civilian officials who have distinguished themselves in the peace and order campaign;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, Proclamation No. 1104, dated January 17, 1973, and General Order No. 1, dated September 22, 1972, do hereby decree and promulgate as part of the law of the land, the following:

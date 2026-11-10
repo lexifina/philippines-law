@@ -1,3 +1,0 @@
-# Preamble
-WHEREAS, there is imperative need to restructure the provisions of Presidential Decree No. 66 in order to make it more responsive to the requirements of investments in export processing zones, and to insure the effectiveness of the Export Processing Zone Authority in the performance of its duties and responsibilities and in the attainment of the national policy enunciated in the law;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and promulgate the following amendments to Presidential Decree No. 66 dated November 20, 1972, which are hereby approved, adopted and made part of the law of the land:

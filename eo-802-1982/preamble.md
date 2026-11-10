@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, cooperative development is a major concern of the Government, especially in the agriculture sector and all efforts at developing and maintaining the growth of cooperative leaders in the rural areas should be sustained;
-WHEREAS, a great number of these cooperative leaders throughout the country have been elected as barangay captain in the recent barangay elections;
-WHEREAS, in the event of their election as barangay captains, these cooperative leaders will be disqualified from holding any elective position in cooperatives under Regulation No. 33 (a) of Letter of Implementation No. 23, as amended, thus resulting in the possible depletion of the ranks of rural cooperative leaders who have been painstakingly developed and trained by the Government for almost a decade;
-WHEREAS, holding of an elective barangay position is not intrinsically in compatible with the holding of an elective position in cooperatives and, therefore, the disqualification imposed in the aforementioned Letter of Implementation is not necessary to preserve the integrity of cooperatives;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby ordain:

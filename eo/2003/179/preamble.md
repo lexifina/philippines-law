@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Metro Manila continues to be the center of employment opportunities, trade and commerce of the Greater Metro Manila area;
+WHEREAS, the traffic situation in Metro Manila has affected the adjacent provinces of Bulacan, Cavite, Laguna, and Rizal, owing to the continued movement of residents and industries to more affordable and economically viable locations in these provinces;
+WHEREAS, the Metropolitan Manila Development Authority (MMDA) is tasked to undertake measures to ease traffic congestion in Metro Manila and ensure the convenient and efficient travel of commuters within its jurisdiction;
+WHEREAS, a primary cause of traffic congestion in Metro Manila has been the numerous buses plying the streets that impedes the flow of vehicles and commuters due to the inefficient connectivity of the different transport modes;
+WHEREAS, the MMDA has recommended a plan to decongest traffic by eliminating the bus terminals now located along major Metro Manila thoroughfares and providing more convenient access to the mass transport system to the commuting public through the provision of mass transport terminal facilities that would integrate the existing transport modes, namely the buses, the rail-based systems of the LRT, MRT and PNR and to facilitate and ensure efficient travel through the improved connectivity of the different transport modes;
+WHEREAS, the national government must provide the necessary funding requirements to immediately implement and render operational these projects; and extend to MMDA such other assistance as may be warranted to ensure their expeditious prosecution.
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the primordial objective of Republic Acts Nos. 4852 and 6026 is the social and economic uplift of the dislocated families relocated from the Greater Manila Area to resettlement projects;
+WHEREAS, some provisions of Republic Acts Nos. 4852 and 6026 have been found to be unrealistic and inadequate particularly on matters affecting the disposition, utilization and administration of home lots and commercial and/or industrial areas in government resettlement projects;
+WHEREAS, in many instances, portions, if not the entire area, of the property acquired by the National Housing Authority or its predecessors-in-interest for resettlement and/or for housing development, have been placed under the operation of land transfer by the Department of Agrarian Reform to the prejudice of the housing development program of the government;
+WHEREAS, to insure and hasten the attainment of the objectives of the law, there is an imperative need to provide additional guidelines in the utilization, disposition and administration of housing and resettlement projects of the government;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree, the following:

@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, there have been conflicting interpretations as to whether Section 2-A of Commonwealth Act No. 108 as amended, otherwise known as the Anti-Dummy Law, allows aliens to become members of the board of directors or governing body of corporations or associations engaging in partially nationalized activities;
+WHEREAS, it is fair and equitable and in line with the constitutional policy expressed in Article XIV, Section 5 of the Constitution, that foreign investors be allowed limited representation in the governing board or body of corporations or associations in proportion to their allowable participation in the equity of the said entities;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

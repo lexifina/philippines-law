@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, under Presidential Decree No. 681, the Farm Systems Development Corporation has been created to bolster the government efforts to hasten rural development and to provide substantial opportunities to Filipino farmers to attain economic well-being and to lead a dignified life pursuant to the national policy declared under said Decree;
-WHEREAS, in order to effectively fulfill its purposes and to enable it to undertake and implement special projects in the pursuit of its objectives, it is imperative that the Farm Systems Development Corporation be endowed with certain powers and conferred with certain privileges to the end that its activities be undertaken with greater vigor, resources and direction:
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

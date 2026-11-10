@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree No. 51 provides that the National Intelligence and Security Authority (NISA) shall be the focal point of direction, coordination and integration of government activities involving national intelligence and security;
-WHEREAS, PD 1468 was promulgated creating the Finance Department Intelligence and Investigation Bureau (FDIIB) to provide efficient implementation and enforcement of revenue laws; gathering, collating and evaluating intelligence data relative to finance and economic functions and basis for counter-action and remedial legislations on smuggling, tax evasion and other related illegal activities, and cause the investigation of such cases;
-WHEREAS, to maintain the FDIIB as a continuingly effective intelligence arm, it should not be saddled with investigative functions;
-WHEREAS, in order to maintain integrated economic plans and programs, the NISA and the Finance Department Intelligence Bureau (FDIB) must be fully coordinated and supportive with each other in the pursuance of their objectives;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

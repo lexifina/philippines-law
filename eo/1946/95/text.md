@@ -1,0 +1,4 @@
+# Text
+WHEREAS, the payment of additional compensation to officers and employees of the National Government including those on the Boards of Management of Government-owned and controlled enterprises, was suspended by Executive Order No, 332, dated March 14, 1941 due to the circumstances then obtaining; and
+WHEREAS, conditions since that time have so changed as to require the revival of the payment of per diems to these officers and employees who, by the nature of their training, preparation, and position, are required to render extra services to the different hoards of government and semi-government entities;
+NOW, THEREFORE, I, SERGIO OSMEÑA, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws of the Philippines, do hereby revoke Executive Order No. 332 dated March 14, 1941. This Order shall take effect upon its approval.

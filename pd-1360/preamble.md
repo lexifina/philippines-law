@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the accelerated power expansion program of the National Power Corporation involving as it does the construction of generation facilities in Luzon, Visayas and Mindanao and the setting up of transmission line grids require a greater decree of corporate flexibility in the implementation of said power program as well as in corporate management;
-WHEREAS, in pursuing said accelerated power expansion program for generation and transmission facilities, the present capitalization of P8 Billion and the ceiling of foreign borrowing pegged at $4 Billion would be rendered insufficient by the year 1987 and, therefor, a corresponding increase thereon is necessary in order that such programs would be successfully completed;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows:

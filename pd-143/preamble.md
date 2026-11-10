@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, there is an urgent need to translate into meaningful reality, among other provisions of the New Constitution, Section 9, Article II, thereof; and
-WHEREAS, as a means of realizing this objective and at the same time the demands of national development, it is necessary to make legislation, particularly existing labor laws, effective instruments of full productivity and employment generation without sacrificing the rights of workers;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me under the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to the New Constitution, and Proclamation No. 1081, dated September 21, 1972, and General Orders Nos. 1 and 5, dated September 21, 1972, do hereby order and decree:

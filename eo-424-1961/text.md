@@ -1,6 +1,0 @@
-# Text
-WHEREAS, under Executive Order No. 366, dated December 7, 1959, the Community of Olongapo was created as an independent municipality known as the Municipality of Olongapo and segregated from the U.S. Naval Base at Subic Bay, Province of Zambales;
-WHEREAS, in view of the creation of the Municipality of Olongapo, the jurisdiction of the Justice of the Peace Court of Olongapo over cases from the U.S. Naval Base area ceased to exist, the court's jurisdiction being now confined to the territorial limits of said municipality; and
-WHEREAS, the filing of such cases with the Justice of the Peace of Olongapo is more conducive to the speedy administration of justice and convenient to the parties in view of its proximity and accessibility to the base;
-NOW, THEREFORE, I, Carlos P. Garcia, President of the Philippines, by virtue of the powers vested in me under sections 69 and 69 of the Judiciary Act of 1948, and upon the recommendation of the Secretary of Justice, do hereby extend the jurisdiction of the Justice of the Peace Court of Olongapo over that portion of the U.S. Naval Base Reservation, Subic Bay area, falling within the Province of Zambales.
-This Order shall take effect immediately.

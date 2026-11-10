@@ -1,6 +1,0 @@
-# Text
-WHEREAS, the above-named scientists have achieved international renown for their distinguished work in the highly specialized field of inventive science, space technology, and environmental study;
-WHEREAS, they are .recently invited by, and as guests of, the Philippine Government to organize seminars and conferences, and conduct lectures to Filipino scientists on human habitat, pollution and environmental control;
-WHEREAS, by means of said participation, they undoubtedly will enrich and broaden the knowledge of the indigenous scientists whose own expertise will ultimately redound to the benefit of our society;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby grant to Dr. Lee Arnold and Mrs. Lillian Berkman the right to exercise certain privileges appertaining to Philippine citizens, such as the practice cf their profession and those related to, or necessary for, the exercise thereof in and outside of the Philippines.
-This Decree shall take effect immediately.

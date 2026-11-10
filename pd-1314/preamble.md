@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, the government has adopted under Letters of Instructions Nos. 555 and 557 dated 11 June 1977 Slum Improvement and Resettlenent as a national policy and the strategy for dealing with slums and other blighted communities in urban areas;
-WHEREAS, the Tondo Foreshore Dagat-Dagatan Development Project is the first project of the government under its Slum Improvement and Resettlement (SIR) Program and is being utilized as the workshop for evolving concepts in the implementation of this Program.
-WHEREAS, Tondo Foreshore is a problem of longstanding where people have endured and suffered the deprivation and the degradation of having to live in a slum;
-WHEREAS, Republic Act No. 1595 dated 16 June 1956 prescribes P5.00 per square meter as the price at which land shall be sold to bonafide occupants but does not specify the development concept nor provide for the introduction of critically needed community facilities and services to eliminate the condition of slum in the area;
-WHEREAS, the government through the National Housing Authority has prepared a comprehensive and integrated development plan for the Project which shall provide the quality of life consistent with the dignity and aspirations of the people of the project area;
-WHEREAS, in line with the compassionate approach of the New Society, the government recognizes that the people is the focal point and the only beneficiary of development and therefore desires to resolve the land tenure issue in the project area in favor of the resident families;
-WHEREAS, the primary aspiration of the people of Tondo Foreshore is to own eventually the land that they occupy;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree.

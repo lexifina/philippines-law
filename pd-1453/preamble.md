@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, under Presidential Decree No. 1035, the authority of certain depository banks under Republic Act No. 6426, which have the necessary resources and managerial competence, was expanded to enable said banks to engage more actively in foreign exchange transactions;
-WHEREAS, the objectives behind the issuance of P.D. 1035 could be more readily achieved if said depository banks were allowed to freely engage in foreign exchange trading and other similar transactions without being unduly restricted by existing provisions of law, subject only to the regulatory authority of the Monetary Board;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree that Republic Act No. 6426, as amended, be further amended as follows:

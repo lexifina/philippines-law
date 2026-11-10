@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the huge financial requirements of the Government's development programs have made it necessary to seek out alternative sources of financing to ensure the prosecution of certain desirable infrastructure projects that complement the over-all national development effort;
+WHEREAS, the potential resources of the private sector could be tapped to the maximum benefit by the government dispensing to a great extent the availment of additional domestic and foreign borrowings as well as the utilization of government guarantee or security; and
+WHEREAS, in order to attract private sector investment in the government's infrastructure projects, the collection of toll fees for the use of certain public improvements, that would allow a reasonable rate of return on investments, should be authorized; Provided that, the collection of toll fees and operation of toll facilities by the private sector should be loosely supervised and regulated in the public interest;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, in the interest of economy, efficiency and effectivity in the delivery of services to the public, in general, and for the purpose of achieving uniformity in economic, cultural and social development policies and programs in Regions IX and XII, it is imperative that the existing Lupong Tagapagpaganap ng Pook in these two regions be merged into a single Executive Council;
-WHEREAS, it is the wish of the residents of Regions IX and XII, expressed through resolutions of the Sangguniang Pampook of the two regions that the two existing Lupong Tagapagpaganap ng Pook be merged into a single Executive Council for a more effective governance of the areas of autonomy;
-WHEREAS, Section 14 of Presidential Decree No. 1618 dated 25 July 1979 provides for a Lupong Tagapagpaganap ng Pook for the areas of autonomy;
-WHEREAS, in a joint communiqué issued by His Excellency, the President of the Philippines, and His Majesty, King Khalid Bin Abdul Aziz, on March 24, 1982 in Jeddah, Saudi Arabia, the President of the Philippines confirmed that steps will be taken to merge the two Executive Councils in Regions IX and XII into one Executive Council in implementation of the Tripoli Agreement;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order the following:

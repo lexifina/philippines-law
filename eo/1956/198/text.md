@@ -1,0 +1,3 @@
+# Text
+Upon the recommendation of the Provincial Board of Romblon and pursuant to the provisions of section sixty-eight of the Revised Administrative Code, there is hereby created in the municipality of Badajoz, province of Romblon, a barrio to be known as the barrio of Linao to consist of the sitios of Linao, Talisay, Caba-ong, Aguada, Guicab, Quino-ot, Cabebehan, and Guindawahan, all of the barrio of Calatrava of said municipality. The barrio of Calatrava shall have its present territory minus that comprised in the sitios included in the barrio of Linao.
+This Order shall take effect immediately.

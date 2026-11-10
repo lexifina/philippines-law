@@ -1,0 +1,5 @@
+# Article XIII, Section 3
+SECTION 3. The State shall afford full protection to labor, local and overseas, organized and unorganized, and promote full employment and equality of employment opportunities for all.
+It shall guarantee the rights of all workers to self-organization, collective bargaining and negotiations, and peaceful concerted activities, including the right to strike in accordance with law. They shall be entitled to security of tenure, humane conditions of work, and a living wage. They shall also participate in policy and decision-making processes affecting their rights and benefits as may be provided by law.
+The State shall promote the principle of shared responsibility between workers and employers and the preferential use of voluntary modes in settling disputes, including conciliation, and shall enforce their mutual compliance therewith to foster industrial peace.
+The State shall regulate the relations between workers and employers, recognizing the right of labor to its just share in the fruits of production and the right of enterprises to reasonable returns on investments, and to expansion and growth.

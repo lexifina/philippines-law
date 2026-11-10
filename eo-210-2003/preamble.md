@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, Section 7, Article XIV of the 1987 Constitution provides that for purposes of communication and instruction, the official languages of the Philippines are Filipino and, until otherwise provided by law, English;
-WHEREAS, it is a declared policy of the State to promote education as a means to achieve and maintain an accelerating rate of economic development and social progress;
-WHEREAS, there is a need to develop the aptitude, competence and proficiency of our students in the English language to maintain and improve their competitive edge in emerging and fast-growing local and international industries, particularly in the area of Information and Communications Technology [ICT];
-WHEREAS, strengthening the use of the English language as a medium of instruction also depends on the improvement of the entire educational system, particularly in the training of educators and the provision of learning materials and resources;
-WHEREAS, the Department of Education [DepEd], the Commission on Higher Education [CHED] and the Technical Education and Skills Development Authority [TESDA] fully support the policies sought to be established herein and have favorably endorsed the issuance of this Executive Order;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

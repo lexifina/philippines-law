@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree (PD) No. 474 (s. 1974) or the "Maritime Industry Decree of 1974," as amended, created the Maritime Industry Authority (MARINA) to accelerate the integrated development of the maritime industry of the Philippines;
-WHEREAS, Section 5 of PD No. 474 mandated the preparation and annual updating of a Ten (10)-Year Maritime Industry Development Program (MIDP) that contains a rational and integrated development plan of the maritime industry for submission to, and approval by, the President;
-WHEREAS, to fully realize our potential as a maritime nation, the country requires a clearly defined and coordinated roadmap that shall accelerate the integrated development of the Philippine Maritime Industry;
-WHEREAS, the MIDP envisions a strong and reliable Philippine Merchant Fleet that addresses the sea transport requirements of the archipelago in support of national development, consistent with the country's AmBisyon Nation 2040 of a strongly rooted, comfortable and secure life for all Filipinos;
-WHEREAS, the Administration's Eight (8)-Point Socioeconomic Agenda seeks to improve transportation and the Philippine Development Plan 2023-2028 aims to enhance inter-sectoral linkages by accelerating the development of a globally competitive maritime industry while positioning the country as a key aviation hub in Asia;
-WHEREAS, to ensure the effective implementation of the MIDP, it is imperative that all government agencies and instrumentalities align and harmonize their policies and courses of action with the 10-Year MIDP; and
-WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus, and offices, and the mandate to ensure the faithful execution of laws;
-NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

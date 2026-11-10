@@ -1,7 +1,0 @@
-# Executive Order No. 502 (1992): AMENDING LETTER OF INSTRUCTIONS NO. 911, AS AMENDED, AND LETTER OF INSTRUCTIONS NO. 1093, AS AMENDED, GOVERNING THE ADMISSION TO AND/OR STAY IN THE COUNTRY OF TEMPORARY VISITORS WHO ARE HOLDERS OF HONGKONG-BRITISH, MACAO-PORTUGUESE, PEOPLE'S REPUBLIC OF CHINA OR TAIPEI PASSPORTS OR CERTIFICATES OF IDENTITY
-
-EO 502 (1992) · 1 versions, from 1992-02-17 (latest in force: 1992-02-17) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/5930>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Text | [text.md](text.md) | 0 |  |

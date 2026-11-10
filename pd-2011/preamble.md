@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Constitution of the Philippines directs the State to establish and maintain a complete, adequate and integrated system of education relevant to the goarls of national development;
-WHEREAS, under Presidential Decree No. 6-A promulgated on September 29, 1972, it has been declared a policy of the government to reorient the educational system toward an accelerated national economic growth and meaningful social development; and
-WHEREAS, the conversion of the Partido National High School in the Municipality of Gao, Province of Camarines Sur, into a state college to be known as the Partido State College/providing for a Board of Trustees, broadening for this purpose its curricular offerings and redirecting its objectives would serve to better achieve the above goals and hasten the training and education in national development.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree to be part of the laws of the land the following:

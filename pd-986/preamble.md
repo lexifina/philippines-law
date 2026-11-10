@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, modern construction techniques fully recognize the imperative need to enforce quality control of materials incorporated in the project to ensure the stability and durability of the completed project;
-WHEREAS, in line with this modern trend of construction, the regional offices, which serve as the implementing arm of the Secretary in the regions, have been staffed with Soils and Materials Division to effect quality control materials in all projects in the regions;
-WHEREAS, to enable the Secretary to closely supervise, coordinate and strictly implement quality control of materials in the different regions and offices, it is imperative that the Soils and Materials Division be transferred from the Bureau of Construction and Maintenance to the Office of the Secretary, to be known as the Soils and Materials Quality Control Service;
-WHEREAS, this service shall be responsible for providing technical guidance, undertaking thorough inspection and coordinating the work of the Soils and Materials Division in the different regions to ensure strict and adequate quality control of materials incorporated in all projects; and
-WHEREAS, the service shall also be responsible for conducting investigations to determine the causes of failures in our highways and bridges and of undertaking continuing researches on the suitability of local materials for construction in order to reduce the project cost;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

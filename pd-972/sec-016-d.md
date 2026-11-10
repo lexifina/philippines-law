@@ -1,2 +1,0 @@
-# Section 16-D
-SECTION 16-D. Applicability of Certain Provisions of Presidential Decree No. 463. — The provisions of Chapter XIV (Penal Provisions) of Presidential Decree No. 463, otherwise known as the "Mineral Resources Development Decree of 1974" shall be applicable to the coal operations, Provided, That any reference therein to the Decree and to the Bureau Director of Mines shall mean Presidential Decree No. 972 and the Energy Development Board, respectively.

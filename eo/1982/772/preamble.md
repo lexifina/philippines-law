@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, under the New Republic, national economic development shall be pursued with renewed dedication and greater determination;
+WHEREAS, the Ministry of Natural Resources is primarily responsible for the coordination and monitoring of the implementation of the Integrated Fisheries Development Plan, including the acceleration of the efficient production and harvesting of fishery products that would ensure a steady and sufficient supply thereof to the consuming public;
+WHEREAS, the development, operation and maintenance of fishing port complexes constitutes an essential component of fisheries development, to provide adequate and essential facilities for the efficient and effective handling of the production and harvest of fishery operators;
+WHEREAS, pursuant to Presidential Decree No. 1770, it is the primary responsibility of the National Food Authority to formulate an integrated and more effective procurement and distribution system for fish as a basic food commodity in order to ensure adequate supply of the commodity at reasonable prices; and
+WHEREAS, under Presidential Decree No. 1416 as amended, the President is empowered to undertake such organization and related improvements as may be appropriate in the light of changing circumstances and new developments;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416 as amended, do hereby order and ordain:

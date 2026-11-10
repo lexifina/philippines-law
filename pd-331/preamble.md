@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Philippine forests are the patrimony of the Filipino people and as such they have to be developed, managed, and utilized in such a manner as to insure their perpetuity in productive condition for the benefit of all Filipinos, living or yet to be born;
-WHEREAS, the grandeur and productivity of our Philippine mountains, our vital watersheds, once verdant with forests and abundant with game and wildlife, have been despoiled and diminished by disregard of sound forestry principles and practices;
-WHEREAS, there is now an urgent need to develop, manage and utilize the Philippine forests scientifically by the application of sound technical forestry knowledge; and
-WHEREAS, Republic Act No. 6239 has professionalized the practice of forestry so as to provide the needed expertise in safeguarding public interest in the development, management, and utilization of Philippine forests;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree:

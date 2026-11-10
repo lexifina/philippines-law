@@ -1,5 +1,0 @@
-# Text
-WHEREAS, Presidential Decree No. 28 authorized the immediate establishment of regional prisons to effect meaningful penal reforms and promote the rehabilitation of national prisoners; and
-WHEREAS, the creation of another regional prison in Cebu which could receive prisoners coming from Antique, Capiz, lloilo, Cebu, the two Negros provinces and the cities in the area is necessary for the early attainment of the goals of said Decree;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that Presidential Decree No. 28 be amended, as it is hereby amended, by providing for the immediate establishment of an additional regional prison in the province of Cebu.
-This Decree shall take effect immediately.

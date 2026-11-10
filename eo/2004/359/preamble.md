@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, the River Basin and Watershed Management Project is a six-year project to be funded by a World Bank loan:
+WHEREAS, the Project has two major components. Namely: 1) Bicol River Basin Management Component; and 2) Water Resources Management Component;
+WHEREAS, the Bicol River Basin Management Component which will pilot the integrated water resources management approach on the ground is further subdivided into four components. These are: 1) Institutional Strengthening, 20 Watershed Development and Management to be led by the Department of Environment and Natural Resources and co-implemented by the Local Government Units (LGUs) within the Bicol River Basin; 3) Irrigation Management to be implemented by the National Irrigation Administration; and 4) Flood Mitigation to be implemented by the Department of Public Works and Highways:
+WHEREAS, the total project cost is estimated at $30 Million. Around $22 Million of which is expected to come from the World Bank:
+WHEREAS, there is a need to consult with provincial and municipal LGUs within the River Basin to confirm their willingness to spend for the Project and borrow resources for project activities which are considered devolved. e. g., communal forest development/management, livelihood and basic infrastructure including water system);
+WHEREAS, to coordinate and oversee the implementation of the Bicol River Basin Component as well as other activities within the region related to water resources management, the Regional Development Council of Region V agreed early in 2004 to propose to the President of the Philippines the creation of the Bicol River Basin Board;
+WHEREAS, a project management office with clear accountability is superior to a board;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the power vested in me by law, do hereby order the following:

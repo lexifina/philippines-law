@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, one of the goals of the New Society is to broaden the base of citizen participation in the democratic process and to afford ample opportunities for the citizenry to express their views on vital national issues;
-WHEREAS, one way of broadening the base of participatory democracy is to facilitate and maximize the registration of voters so as to assure that the results of any election, plebiscite or referendum shall truly reflect the will of the sovereign people;
-WHEREAS, notwithstanding the satisfactory registration of voters undertaken in accordance with Presidential Decrees No. 1099 (continuing system) and No. 1187 (precinct level), nevertheless the Commission on Elections, obviously desirous to maximize further the registration of voters and enable them to participate in the democratic exercise on December 17, 1977, has recommended that the method of instant registration be resorted to under certain conditions and safeguards;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution do hereby decree:

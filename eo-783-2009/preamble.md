@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the generation of employment and livelihood opportunities for targeted income groups is part of the country's best preparation in thwarting the creeping problems brought about the global economic crisis;
-WHEREAS, the Philippine Gross National Product growth of six percent (6%) in 2008 despite the recession in two-thirds of the world and the recent affirmation of the positive outlook for the Philippines by the credit rating agency Moody's should not divert our attention from putting in place an economic imperative -- the protection of the most vulnerable sectors of society through the generation of jobs and livelihood opportunities.
-WHEREAS, the cushion and lifeline provided by the emergency work programs of President Franklin Delano Roosevelt in the early 1930's and President Diosdado Macapagal in the early 1960's remain relevant today as the world is grappling with the severest economic downturn in decades.
-NOW, THEREFORE I, GLORIA M. ARROYO, President of the Philippines, by the powers vested in me by law, do hereby order:

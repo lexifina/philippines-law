@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, government development programs are now focused on countryside development, particularly on the improvement of the quality of life in our barangays;
+WHEREAS, the government and private sectors, in their dedication to provide basic health and nutrition services in all levels, have joined hands to solve the malnutrition problem of the country, with the entire efforts being coordinated by the National Nutrition Council;
+WHEREAS, the magnitude of the malnutrition problem in the country urgently needs greater involvement and participation of the people at the grassroots level;
+WHEREAS, while the nutrition program of the country has given priority support for continuing training programs for technicians and community workers through the cooperating agencies, and the manpower resources are not enough to cope with the increasing number of people, who still have to be effectively reached by nutrition intervention schemes in some 42,000 barangays;
+WHEREAS, the present task of coordinating and implementing the nutrition program relies heavily on agency workers as catalyzers, and that the program suffers because of the large area coverage of each worker limiting the time spent in each barangay; and
+WHEREAS, it is recognized that a selected individual from within the barangay who will be intensively trained would be in a better position to deliver nutrition and related services particularly to targetted critical families;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:

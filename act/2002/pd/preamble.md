@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, there is a need to further strengthen the government's efforts to stop blackmarketing and salting abroad of foreign exchange;
+WHEREAS, there are acts and activities constituting blackmarketing or salting abroad of foreign exchange which have not been clearly defined by existing laws, rules and regulations;
+WHEREAS, the prevailing economic conditions and developments as well as the economic crisis require that the authority, powers, functions and prerogatives of the Presidential Anti-Dollar Salting Task Force created under Executive Order No. 934, as amended by Presidential Decree No. 1936 be extended to enhance its effectiveness against blackmarketeers, the salters of foreign exchange abroad, and other economic saboteurs;
+WHEREAS, it is also necessary to reinforce, harmonize and realign the various laws, rules and regulations against blackmarketing and salting abroad of foreign exchange such as the reward system for informers under Letter of Instruction Nos. 1356 and 1445 and Central Bank Monetary Board Resolution dated February 9,1981;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

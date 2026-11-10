@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, to address the need for a new body to assist the President in the campaign against graft and corruption in the Executive Department, the President issued Executive Order No. 12 dated 16 April 2001 creating the Presidential Anti-Graft commission, hereinafter referred to as the "Commission;"
-WHEREAS, Section 2 of the said Executive Order provides, among others, that "all the members of the Commission shall serve on a full-time basis and a majority shall be members of the Philippine Bar;" WHEREAS, in order for the Commission to espouse a more holistic approach in dealing with the problem of graft and corruption in the Government, there is a need to appoint therein reputable individuals who represent other related fields or disciplines;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the power vested in me the Constitution and the laws, do hereby order:

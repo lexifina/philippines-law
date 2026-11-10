@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, barangay democracy derives its strength from the participation of as many qualified citizens as possible in referendums and/or consultations;
-WHEREAS, in the referendum of July 27, military personnel, government officials and employees, including those in government-owned or controlled corporations who are registered in the provinces may not have sufficient time to go there to cast their votes; and
-WHEREAS, provision must be made in the case of barrios or barangays where the conditions of peace and order are unsettled, to the end that the barangay members thereof be not deprived of their right to vote;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree to be part of the laws of the land the following:

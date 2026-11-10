@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, Executive Order No. 152, series of 2002, designated the Presidential Commission for the Urban Poor (PCUP) as the sole clearing house for the conduct of demolition and eviction activities involving the homeless and underprivileged citizens;
-WHEREAS, Executive Order No. 152, series of 2002, granted the Presidential Commission for the Urban Poor (PCUP) such powers to fulfill its mandate of ensuring strict compliance with the requirements of just and humane demolition and eviction under the Urban Development and Housing Act of 1992;
-WHEREAS, pursuant to the established policy of local autonomy and decentralization, there is a need to devolve the functions and mandate of the Presidential Commission for the Urban Poor (PCUP) to the respective Local Government Units (LGUs) in whose territorial jurisdiction the proposed demolition and eviction activities of all government agencies are to be undertaken.
-NOW, THEREFORE, I, GLORIA-MACAGAPAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

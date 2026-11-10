@@ -1,0 +1,2 @@
+# Article XIII, Section 11
+SECTION 11. The State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. There shall be priority for the needs of the underprivileged sick, elderly, disabled, women, and children. The State shall endeavor to provide free medical care to paupers.

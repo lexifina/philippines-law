@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, on July 23, 1987, the Secretary of Justice rendered an opinion relative to Section 13, Article VII in conjunction with Section 7, paragraph 2, Article IX-B of the Constitution, to the effect that if it is allowed by law or by the primary functions of their position, members of the Cabinet, undersecretaries and assistant secretaries may hold any other office or employment in the government, including government-owned or controlled corporations;
+WHEREAS, it is necessary to enact a law to comply with or implement the constitutional provision allowing appointive officials to hold offices or employment in the government, and to allow then to receive compensation therefore;
+WHEREAS, it is likewise necessary to regulate the number of positions that a member of the Cabinet, undersecretary or assistant secretary or other appointive officials may hold to ensure efficiency and to give meaning and effect toe the intent and spirit of the aforesaid constitutional provision; and
+WHEREAS, in order to safeguard the interests of the government in government-owned or controlled corporations, it is also necessary that some government officials be made members of the boards of such corporations.
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

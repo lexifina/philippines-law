@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Department of Transportation and Communications (DOTC) is the primary policy, planning, programming, coordinating, implementing, regulating agency of the Executive branch in the promotion, development and regulation of dependable and coordinated networks of transportation and communication systems;
-WHEREAS, the Air Transportation Office (ATO) was created by virtue of Executive Order No. 125 on 04 April 1987 with the responsibility of planning, designing and securing funds for the construction of airports within the country under the supervision and control of the Department of Transportation and Communications (DOTC);
-WHEREAS, the existing Iloilo airport will be replaced with a new facility in a new site, and for this purpose, the New Iloilo Airport Development Project (the "Project") funded with a loan from the Japan Bank for International Cooperation (JBIC), will be implemented by DOTC;
-WHEREAS, the DOTC and ATO deem it beneficial to consider and evaluate alternatives on the disposition of the existing airport/site to achieve its optimum value;
-NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

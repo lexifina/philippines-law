@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, under the present provisions of the Reparations Law (Republic Act No. 1789, as amended), the acquisition and use of reparations goods is limited to Filipino citizens or to entities at least seventy per centum of the capital stock outstanding and entitled to vote is owned and held by Filipino citizens;
+WHEREAS, certain Filipino-owned vessels thus acquired have passed their economic lives resulting in high operating costs and low operating efficiency and in turn adversely affecting the viability of the Philippine merchant fleet;
+WHEREAS, the said vessels may be resold in the world market at prices favorable to the owners, in particular; and the industry in general;
+WHEREAS, the sale of those vessels at the said advantageous prices shall generate substantial funds needed for the acquisition of more modern and efficient replacement vessel in line with the fleet modernization program of the Government;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order, and make as part of the law of the land the further amendment of Section 12 of Republic Act No. 1789, as amended as follows:

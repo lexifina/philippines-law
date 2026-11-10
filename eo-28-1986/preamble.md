@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, paragraph (c) of Sec. 4 of Republic Act No. 1161, as amended, authorizes the Social Security Commission to provide for the feasible increases in benefits and the addition of new ones under such rules and regulations as the Commission may adopt subject to the approval of the President, provided that the actuarial stability or solvency of the Reserve Fund shall be guaranteed, and provided further that such increases in benefits shall not require any increase in contribution;
-WHEREAS, the benefit structure for the low income group must constantly be upgraded to keep pace with the changing patterns of the Social Security System Reserve Fund;
-WHEREAS, an employer-member of the Social Security System who fails to remit the monthly contributions when they fall due is required to pay in addition to the contributions, a penalty of three percent (3%) per month from the date the contributions fall due, until they are paid;
-WHEREAS, the imposition of three percent (3%) penalty per month has added to the burden of the employers inasmuch as after sometime the amount of penalty could even be more than the contributions due;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

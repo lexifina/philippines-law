@@ -1,0 +1,9 @@
+# Text
+WHEREAS, Executive Order (EO) No. 46 dated September 4, 1986 granted authority to the Ministry of Tourism (now Department of Tourism or DOT) through the Philippine Tourism Authority (PTA) to establish and operate a duty and tax free merchandising system in the Philippines, and mandated in Section 3 thereof that all net profits from merchandising operations conducted pursuant thereto shall accrue to the Ministry of Tourism (now DOT), which shall allocate the same in accordance with existing policies and regulations;
+WHEREAS, EO No. 140 dated November 30, 1993 rationalize the Duty Free Stores/Outlets and other operations in the country, and specifically provided in Section 4 thereof that the Duty Free Philippines (DFP) shall remit to the National Government an amount equivalent to 1.5 percent of its net sales;
+WHEREAS, the remittance required from DFP by EO No. 140, series of 1993, is an additional burden to DFP in view of the fact that all of its net profits are already being remitted to the DOT pursuant to EO No. 46, series of 1986;
+WHEREAS, the DFP remittances to the DOT are used exclusively to finance vital government projects in the tourism sector, as well as to augment service facilities for tourists;
+WHEREAS, amending EO No. 140, series of 1993, by deleting Section 4 thereof would relieve DFP of its additional burden, as the remittance to DOT is tantamount to a remittance to the national government as well.
+NOW, THEREFORE, I, GLORIA MACAPAGAL ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby amend Executive Order No. 140, dated November 30, 1993, by deleting Section 4 thereof.
+All executive orders, rules and regulations and other issuances or parts thereof, which are inconsistent with this Executive Order, are hereby revoked, amended, or modified accordingly.
+This Executive Order shall take effect immediately.

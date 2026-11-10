@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the policy of the State to create every possible opportunity and enlarge every means to quicken the pace of progress, in every part of the country, with particular stress on those areas whose economic development had for one reason or another lagged behind the rest of the nation;
-WHEREAS, the island of Basilan has suffered from virtual geographic isolation and, like the islands of the Tawi-Tawi group, has long needed closer attention for the purpose of speedier growth;
-WHEREAS, the policy of speedy development for this part of the country can best be carried out by the creation of a local government which could, through faster administrative response to problems and better appreciation of its peculiar needs, provide more adequate service to the people of the area; and
-WHEREAS, such administrative machinery will redound to the economic, social and political progress of the people of Basilan;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated 21 September 1972, and General Order No. 1, dated 22 September 1972, do hereby order and decree:

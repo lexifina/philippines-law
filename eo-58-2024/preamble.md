@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, Section 24, Article II of the Constitution recognizes the vital role of communication and information in nation-building;
-WHEREAS, under Section 2 of Republic Act (RA) No. 10844 or the "Department of Information and Communications Technology (DICT) Act of 2015," the State shall ensure the provision of strategic, reliable, cost-efficient, and citizen-centric information and communications technology (ICT) infrastructure, systems, and resources as instruments of good governance and global competitiveness;
-WHEREAS, Executive Order (EO) No. 189 (s. 2015), as amended by EO No. 95 (s. 2019), established the National Cybersecurity Inter-Agency Committee (NCIAC) to assess the vulnerabilities and risks of the country's cybersecurity, and enhance existing mechanisms to detect cyber-attacks, minimize cyber risks and increase cyber resiliency;
-WHEREAS, the strengthening of security and resilience of the Philippine cyberspace is one of the key strategies to ensure safety and security in cyber and physical spaces under the Philippine Development Plan 2023-2028;
-WHEREAS, pursuant to its mandate under Section 15 of RA No. 10844, the DICT formulated the National Cybersecurity Plan (NCSP) 2023-2028, which outlines the country's policy direction and provides operational guidelines towards a trusted, secured, and resilient cyberspace for every Filipino;
-WHEREAS, it is imperative for all concerned national government agencies and instrumentalities, and local government units (LGUs) to support and cooperate towards the successful implementation of the NCSP 2023-2028; and
-WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all Executive departments, bureaus and offices, and the duty to ensure the faithful execution of laws;
-NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

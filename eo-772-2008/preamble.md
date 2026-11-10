@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Calauit Island in the Province of Palawan was declared as Calauit Game Preserve and Wildlife Sanctuary (CGPWS) by virtue of Presidential Proclamation No. 1578 dated August 31, 1976;
-WHEREAS, in 1979, the Government established the Calauit Project to: a) propagate African animals and Palawan endemic wildlife species, b) preserve the entire sanctuary, including coastal and marine resources, c) develop Calauit Island as an education and conservation center in Asia, and d) ultimate development of Calauit Island into self-sustaining operations;
-WHEREAS, on December 29, 1994, the Department of Environment and Natural Resources (DENR) and the Palawan Council for Sustainable Development (PCSD) executed a Memorandum of Agreement transferring the operation and management of the Calauit Project from the former to the latter effective January 1995;
-WHEREAS, it is the policy of the Government to strengthen the autonomy of the local government units and to accelerate their economic and social growth and development;
-WHEREAS, considering the resources, capital and vast experience of the Provincial Government of Palawan to maintain a balanced ecological system all over Palawan and in addressing its environmental concerns, it is appropriate that the operations and management of CGPWS and the Calauit Project be transferred to the Provincial Government of Palawan.
-NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

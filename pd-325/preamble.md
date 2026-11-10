@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Department of Local Government and Community Development (DLGCD) has been created under Presidential Decree No. 1 dated September 24, 1972 approving the Integrated Reorganization Plan;
-WHEREAS, the DLGCD has been entrusted the duty of supervising the administration of local government units; the plans and programs for community development and the execution thereof; and the creation, operation and maintenance of cooperatives throughout the land;
-WHEREAS, the duty above-mentioned is so complicated and detailed that direct communication to persons or entities situated even in remote barrios is required in proper cases; and
-WHEREAS, in the discharge thereof, the mail charge and other similar duties have reached prohibitive proportions causing an onerous burden on the limited finances of the DLGCD thereby hampering said Department from pursuing its programmed activities for lack of sufficient funds.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, as amended, do hereby order and decree to be part of the law of the land the following:

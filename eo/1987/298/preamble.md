@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, Executive Order No. 778, dated March 4, 1982, was issued creating the Manila International Airport Authority, a separate and autonomous body, for the purpose of providing, among others, high standards of accommodation and service comparable with the best airports in the world;
+WHEREAS, the amendment introduced by Executive Order No. 903 drastically reduced the capital of the Authority to be contributed by the National Government from ten billion ( P 10,000,000,000.00) Pesos to two and one-half billion ( P 2,500,000,000.00) Pesos. Considering the substantial increase in the value of the Authority's properties and assets said capitalization is no longer realistic;
+WHEREAS, Executive Order No. 903 mandated that sixty-five percentum (65%) of the annual gross operating income of the Authority shall revert to the General Fund in the National Treasury and to be used for the maintenance and operation of other international and domestic airports in the country;
+WHEREAS, Executive Order No. 903, as amended by Executive Order No. 909, increased the number of members of the Board of Directors to nine;
+WHEREAS, there is a need to modify the present composition of the MIA-Authority Board of Directors to afford the MIA-Authority better coordination;
+WHEREAS, there is a need for the services of the Solicitor General and/or the Government Corporate Counsel to assist the Authority's existing Legal Department in handling cases in order to meet the present exigencies;
+WHEREAS, in view of the multifarious requirements, functions and responsibilities of the Authority, there is a need to amend Sections 7, 10, 11 and 13 in order to ensure the viability and flexibility of the Authority in running and operating its affairs.
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution of the Philippines, do hereby order and decree the following:

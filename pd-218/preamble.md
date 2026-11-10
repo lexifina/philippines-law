@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, it would be desirable to make of the Philippines the business and financial capital of Southeast Asia, thereby hastening the economic and social development of the Philippines, which objective can be accomplished by attracting the regional or area headquarters of multinational companies to base their offices in the Philippines;
-WHEREAS, the said headquarters do not earn or derive any income from the host country and all their expenses are financed by their head offices or parent companies; and
-WHEREAS, the attainment of the aforesaid goal will mean additional foreign exchange receipts to the Philippines, a boost to air travel, new construction and real estate development, new job opportunities, increase in local tourism and potential investors;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree as follows:

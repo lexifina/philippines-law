@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, Executive Order (EO) No. 1 s. 1986 created the Presidential on Good Government (PCGG) as a body vested with authority to file recovery cases involving ill-gotten wealth, to undertake sequestration and preservation of ill-gotten wealth or properties, and to investigate and file, through the Office of the Ombudsman, cases for graft and corruption as may be assigned to it from time to time;
+WHEREAS, EO 2 s. 1986 likewise authorizes the PCGG to request and appeal to the foreign government to freeze and prevent the transfer, conveyance, encumbrance, concealment or liquidation of ill-gotten wealth or properties found within their respective jurisdictions, pending the outcome or the appropriate proceedings in the Philippines;
+WHEREAS, the authority of the PCGG to issue sequestration and freeze orders under Proclamation No. 3 s. 1986 has lapsed in accordance with Section 26, Article XVIII of the Constitution;
+WHEREAS, the functions of the PCGG are currently focused on the recovery and preservation of ill-gotten wealth, as well as the proper investigation and prosecution of cases involving the same;
+WHEREAS, there is a need to concentrate and enhance government efforts for the full and effective recovery of ill-gotten wealth and properties, including the efficient investigation and prosecution of cases relative thereto;
+WHEREAS, as the principal legal counsel and prosecution arm of the government under Section 3, Chapter 1, Title III, Book IV of the Administration Code of 1987, the Department of Justice (DOJ) is likewise involved in the matter requiring international legal cooperation;
+WHEREAS, Section 31 (3), Chapter 10, Title III, Book III, of Administrative Code of 1987, authorizes the President to transfer any agency under the Office of the President to any other department or agency.
+NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

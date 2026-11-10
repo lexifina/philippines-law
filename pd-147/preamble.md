@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, there are now existing in the Bureau of Public Highways and in its field offices throughout the country considerable quantity of unserviceable equipment and property deteriorating under the elements; and
-WHEREAS, a more expeditious disposal procedure of unserviceable equipment and property is necessary in order that these unserviceable equipment and property of the Bureau of Public Highways may be disposed of, while some parts or assembly thereof are still usable and of value so as to command a better price;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree:

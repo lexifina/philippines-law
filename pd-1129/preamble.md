@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Section 27(E) of PRESIDENTIAL DECREE No. 69, as amended, exempts for tax purposes, among others, corporations or associations organized and operated exclusively for charitable purposes;
-WHEREAS, Republic Act No. 3538, as amended, exempts the Ford Foundation, the Rockefeller Foundation, the Agricultural Development Council, Inc., and Foster Parents Plan, Inc., from the payment of gifts, franchise, specific percentage, real property taxes and the foreign personnel engaged by them from the payment of income taxes;
-WHEREAS, the American Kor-Asian Foundation, Inc., is likewise exempted from the payment of the abovementioned taxes pursuant to Section 27(E) of Presidential Decree No. 69, as amended; and
-WHEREAS, as a matter of policy non-Filipino personnel of foreign corporations or associations organized and operated exclusively for charitable purposes should be exempted from payment of income taxes on their salaries and stipends in dollars received by them by reason of their services rendered to said corporations or associations;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

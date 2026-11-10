@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, it has been determined that the realization of the Government's developmental goals will be hastened by involving the private sector in the construction, maintenance and operation of infrastructure toll facilities as enunciated in Presidential Decree No. 1112;
-WHEREAS, the construction of the Manila North and Manila South Expressways has spawned immense benefits to the country's economic development, serving as a main artery in the transportation of trade and commerce, that their continued maintenance and further extensions is necessary; and
-WHEREAS, the Construction and Development Corporation of the Philippines herein has proposed a scheme of operation which will tap private resources and enterprise in this undertaking and which will at the same time allow the government to redirect its own resources to other infrastructure projects;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

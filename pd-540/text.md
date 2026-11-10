@@ -1,5 +1,0 @@
-# Text
-WHEREAS, Republic Act No. 1635, which authorizes the semi-postal stamps for the support of the Philippine Tuberculosis Society has spawned problems of mail jam immediately before August 19 and after September 30 each year due to the onrush of mail mailers by the bulk and disposal of mail matter without semi-postal stamps which can not be returned to senders; and
-WHEREAS, Presidential Decree No. 283 dated August 31, 1973, already provides substantial funds to the Society by authorizing the holding of a lottery draw by the Philippine Charity Sweepstakes Office since March 11, 1974, and every year thereafter exclusively to finance the domiciliary service of the Philippine Tuberculosis Society, Inc;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby repeal Republic Act No. 1635; Provided, That any unsold anti-TB stamps at the time of the issuance of this decree may continue to be sold to the public but its use shall not be compulsory, the proceeds of the sale to accrue as income of the Bureau of Posts.
-This Decree shall take effect immediately.

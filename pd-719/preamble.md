@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Presidential Assistant on National Minorities (PANAMIN) has amply demonstrated sustained effectiveness in the implementation of the Government's policies directed towards the care and upliftment of the nation's cultural minorities;
-WHEREAS, Presidential Decree No. 690 transfers the powers, functions and duties of the defunct Commission on National Integration to the Southern Philippines Development Administration and the Department of Agrarian Reform;
-WHEREAS, in order not to disrupt the continuing activities and projects of the Government which have so far proven successful with regard to the non-muslim hill tribes throughout the country and in order to consolidate the powers which have heretofore been dispered among several government agencies concerning these cultural minorities, it is necessary that said powers, functions and duties be transferred to and maintained in the PANAMIN;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and make part of the law of the land the following:

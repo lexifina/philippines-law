@@ -1,9 +1,0 @@
-# Act No. 2568: AN ACT AMENDING SECTION ONE OF ACT NUMBERED TWENTY-TWO HUNDRED AND TWENTY-EIGHT, ENTITLED "AN ACT AUTHORIZING THE USE, UNDER CERTAIN CONDITIONS, OF THE ROAD AND BRIDGE FUND OF THE PROVINCES ORGANIZED UNDER ACT NUMBERED EIGHTY-THREE, FOR SUBSIDIZING OR FOR THE ACQUISITION, OPERATION, AND MAINTENANCE OF WATER TRANSPORTATION," BY AUTHORIZING THE USE OF SAID FUND FOR THE ESTABLISHMENT AND OPERATION OF TELEPHONE SYSTEMS
-
-Act 2568 · 1 versions, from 1916-02-03 (latest in force: 1916-02-03) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/31808>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

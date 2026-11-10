@@ -1,0 +1,4 @@
+# Text
+I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby amend the first paragraph of Section 5 of Presidential Decree No. 487 dated 19 June 1974, to read as follows:
+"SEC. 5. All Philippine Government offices or agencies and private firms using the Center shall pay rent to the Board, Provided, that in consideration of their service to the Center, the Philippine Embassy or Consulate and service representatives attached to the Embassy or Consulate shall be exempt from the payment of rent during the Center's first two fiscal years of operation. Provided, further, that Philippine Government offices or agencies where the Philippine Centers earn income from rentals, commissions and other sources shall be free of rental payments chargeable against the net income earned by said Centers."
+This Decree shall take effect immediately.

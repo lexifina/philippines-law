@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, Section 27, Article II of the Constitution provides that the State shall maintain honesty and integrity in public service, and shall take positive and effective measures against graft and corruption;
+WHEREAS, Section 2 of Republic Act (RA) No. 9485 or the "Anti-Red Tape Act of 2007," as amended by RA No. 11032 or the "Ease of Doing Business and Efficient Government Service Delivery Act of 2018," declares it a policy of the State to take appropriate measures to promote transparency in each agency with regard to the manner of transacting with the public, which shall encompass initiating and maintaining a program for the adoption of simplified procedures that will reduce red tape and expedite business and non-business related transactions in government;
+WHEREAS, RA No. 8792 or the "Electronic Commerce Act" aims to promote the universal use of electronic transactions in the government;
+WHEREAS, under Section 3 of Executive Order (EO) No. 170 (s. 2022), all national government agencies (NGAs) are directed, and all local government units (LGUs) are encouraged, to adopt digital payments for their respective disbursements and collections;
+WHEREAS, the Philippine Development Plan 2023-2028 recognizes the need to expand and upgrade the country's infrastructure to achieve meaningful economic transformation;
+WHEREAS, there are currently 185 Infrastructure Flagship Projects (IFPs) that have been approved by the National Economic and Development Authority (NEDA) Board;
+WHEREAS, there is a need to further streamline the process for issuance of required licenses, clearances, permits, certifications or authorizations to expedite the implementation of IFPs, consistent with RA No. 9485, as amended; and
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all Executive departments, bureaus and offices, and the mandate to ensure the faithful execution of laws;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

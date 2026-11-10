@@ -1,8 +1,0 @@
-# Text
-WHEREAS, Section 3 of Article XIV of the 1935 Constitution of the Philippines provided that "until otherwise provided by law, English and Spanish shall continue as official languages";
-WHEREAS, Section 3(3) of Article XV of the new Constitution provides that "until otherwise provided by law, English and Pilipino shall be the official languages";
-WHEREAS, a sizeable part of documents in government files are written in the Spanish language and have not been officially translated into either English or Filipino language;
-WHEREAS, it is advisable to maintain the legal admissibility of important documents in government files which are written in the Spanish language pending their translation into either English or Pilipino language; and
-WHEREAS, Spanish language is a part of our priceless national heritage, which we share with the great Hispanic community of nations;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby order and decree that the Spanish language shall continue to be recognized as an official language in the Philippines while important documents in government files are in the Spanish language and not translated into either English or Pilipino language.
-This Decree shall form part of the law of the land and shall take effect immediately.

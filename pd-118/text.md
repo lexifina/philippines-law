@@ -1,5 +1,0 @@
-# Text
-WHEREAS, Republic Act No. 427, "An Act Prohibiting and Punishing the Possession and Exportation of Silver and/or Nickel Coins Under Certain Circumstances and Providing the Procedure for Prosecution Thereof," was enacted in 1950 to forestall a threatened coin shortage; and
-WHEREAS, the present fiduciary coinage system of the country allows the replenishment of the coin supply quite easily and economically thus assuring a constant and adequate supply of small change;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, and in order to effect the desired changes and reforms in the social, economic, and political structure of our society, do hereby order and decree the repeal of Republic Act No. 427.
-This Decree shall take effect immediately.

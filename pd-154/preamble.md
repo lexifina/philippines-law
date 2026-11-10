@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the rate of commission charged by brokers in the Manila Stock Exchange and the Makati Stock Exchange for each transaction is admittedly high, compared with other stock exchanges in some cities in developing countries of Southeast Asia;
-WHEREAS, the stockbrokerage business is lucrative especially when the stock market is bullish and the stock transaction is voluminous;
-WHEREAS, some forms of restraint or regulatory measures should be provided by the Government by reducing the current rate of brokers' commission from its present level to a more reasonable one in order to provide incentives to investors to participate more actively in the operation of stock markets, and thereby channel their savings to needed industries and enterprises; and
-WHEREAS, reduction of the current rate of brokers' commission is deemed necessary in the public interest;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of ail the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972 and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree:

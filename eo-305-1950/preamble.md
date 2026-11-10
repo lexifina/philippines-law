@@ -1,2 +1,0 @@
-# Preamble
-By virtue of the powers vested in me by the Constitution and laws of the Philippines, and in order to implement and carry into effect the commitments of the Government of the Republic of the Philippines under the International Wheat Agreement, which was duly accepted by the Government of the Republic of the Philippines on February 17, 1950, in accordance with its constitutional processes, I, Elpidio Quirino, President of the Philippines, do hereby order:

@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, in order to ensure prompt and effective execution and enforcement by the Oil Industry Commission of its decision, orders, rules and regulations, its power to punish summarily for contempt must be enlarged to include instances of willful failure or refusal, without just cause, to comply with its decisions, orders, rules and regulations;
+WHEREAS, for the abovementioned purpose, it is likewise necessary that the Commission be empowered to impose administrative fines for violations of its decisions, orders, rules and regulations, and to assess and collect surcharges on delinquent payments of fees;
+WHEREAS, a procedure for appeal from decisions or orders of the Commission in cases involving matters other than the fixing of prices of petroleum products has to be provided;
+WHEREAS, in view of the foregoing requisites, the charter of the Oil Industry Commission needs to be amended;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree, as part of the law of the land, the following amendments of Republic Act Numbered Six Thousand One Hundred Seventy-Three, as amended:

@@ -1,4 +1,0 @@
-# Text
-By virtue of the powers vested in me by Section One of Act No. 1959, as amended by Acts Nos. 2414 and 3542, I, RAMON MAGSAYSAY, President of the Philippines, do hereby amend the proviso of the first paragraph of Executive Order No. 34, dated May 20, 1954, to read as follows:
-Provided, That all motor vehicles of the Manila Railroad Company on the run from Baguio to Manila and return shall pay the regular toll charge as provided above, and that all its other motor vehicles on the run from Baguio to Damortis and to other lowland towns in the provinces immediately surrounding Baguio and return shall be subject to a flat annual payment of P10,000.00 as provided for in the contract of sale of the Benguet Auto Line between the Government of the Philippines and the Manila Railroad Company dated April 2, 1930.
-This Order shall take effect immediately.

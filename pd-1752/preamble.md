@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the Government, in pursuit of the Constitutional mandates on the promotion of public welfare through ample social services, as well as its humanist commitment to the interests of the working groups, in relation particularly to their need for decent shelter, has established the Home Development Mutual Fund, under Presidential Decree No. 1530, a system of employee-employer contributions for housing purposes; and
-WHEREAS, there is need to strengthen the Home Development Mutual Fund and make it more effective both as a savings generation and home-building program for the gainfully-employed members of the Philippine society;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

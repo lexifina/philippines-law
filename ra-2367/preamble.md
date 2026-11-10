@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, President Carlos P. Garcia has invited the International Union of Official Travel Organizations, a United Nations consultative organ, to hold the XIVth World Congress on Tourism in the Philippines in November, nineteen hundred fifty-nine and the Union has unanimously accepted the invitation.
-WHEREAS, this Congress, with a sixty-seven countries participating as members, besides international organizations actively promoting or engaged in the travel trade, will focus world attention on the unlimited potentials of the tourist industry which our government aims to exploit fully in the interest of a richer Philippine economy; and
-WHEREAS, it is desirable and essential that the World Congress on Tourism be afforded every modern convenience and service now normal to present- day international conferences in order to assure satisfaction to the participants and so as to place the Philippines, as host, in the most favorable light possible: Now, therefore,
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

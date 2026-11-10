@@ -1,0 +1,10 @@
+# Republic Act No. 6098: AN ACT AUTHORIZING MARCELINA S. AQUINO TO TRANSFER, ASSIGN, SELL OR MORTGAGE IN FAVOR OF ANY BANKING OR FINANCING INSTITUTION HER FRANCHISES UNDER REPUBLIC ACTS NUMBERED SIX HUNDRED NINETY-SEVEN AND SEVEN HUNDRED FIFTY-SEVEN, TO INSTALL, OPERATE AND MAINTAIN TELEPHONE SYSTEMS IN THE CITY OF BUTUAN AND IN THE PROVINCE OF AGUSAN AND THE MUNICIPALITIES AND MUNICIPAL DISTRICTS THEREOF, AND FURTHER MODIFYING THE PROVISIONS OF SAID FRANCHISES
+
+RA 6098 · 1 versions, from 1969-08-04 (latest in force: 1969-08-04) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/17868>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |

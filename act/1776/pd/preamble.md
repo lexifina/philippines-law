@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the important role of mass communications in national development necessitates the assumption by the government of an active role in promoting the development of mass media, consistent with the principle of press freedom and the need for social responsibility in its exercise;
+WHEREAS, the self-regulating print and broadcast media councils or bodies authorized to be organized under Presidential Decree No. 576 have succeeded by and large in self-regulation, internal discipline and maintenance of standards for professional conduct and excellence;
+WHEREAS, it is necessary to enhance the role of these councils or bodies not only in elevating the standards to excellence of mass media, but also in assisting the government in the enforcement of the laws, such as the nationality requirement in the Constitution, relating to mass media activities;
+WHEREAS, it is desirable that the registration of mass media should be exercised in such a manner as to avoid the possibility of oligopolistic self-regulation, and thus afford greater opportunity for participation in mass media activities; and
+WHEREAS, it is desirable to improve upon the membership in the regulatory council for each mass media group by including prominent citizens who will represent the viewpoint of the general public and provide greater balance in the deliberations of the council.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

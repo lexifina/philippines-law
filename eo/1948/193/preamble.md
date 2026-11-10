@@ -1,0 +1,2 @@
+# Preamble
+By virtue of the powers vested in me under Republic Act No. 330, entitled "An Act authorizing, the President of the Philippines to establish a system of import control by regulating imports of non-essential and luxury articles creating an import control board, authorizing the issuance of rules and regulations to carry into effect such control, and penalizing violations of this act," I, Elpidio Quirino, President of the Philippines, do hereby order:

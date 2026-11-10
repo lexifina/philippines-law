@@ -1,0 +1,11 @@
+# Text
+WHEREAS, the Provincial Board and the Mayors' League of Abra in a meeting held on February 8, 1974, adopted a resolution, the full text of which follows:
+"WHEREAS, the bridge that is being built across the Abra River at Barrio Bumagcat, Tayum and Barrio Mudiit, Dolores is about to be completed;
+"WHEREAS, this bridge, one of the longest in the Philippines, is a vital link in the Abra-Kalinga-Cagayan Valley national highway;
+"WHEREAS, this bridge plays an important role in the promotion of trade and commerce between Kalinga-Apayao and the Cagayan Valley, on one hand, and the Ilocos provinces on the other;
+"WHEREAS, this bridge symbolizes the unprecedented progress attained by the infrastructure program of His Excellency, President Ferdinand E. Marcos;
+"WHEREAS, the late Assemblyman Don Mariano Marcos of Ilocos Norte, while heading the pacification campaign in the Ilocos provinces during the early days of the Japanese Occupation won the hearts and admiration of the people of Abra through his timely intercession, his convincing pleas for unity in the face of a political crisis, and his pragmatic approach in extending the much needed material assistance to a downtrodden people, thereby fortifying their faith and bolstering their morale;
+"NOW, THEREFORE, be it resolved, as it is hereby resolved, by the Provincial Board and the Mayors' League of Abra in a joint meeting held at the Capitol Building, Bangued, Abra this eighth day of February 1974 and acting in behalf of the people of this province, to petition His Excellency, President Ferdinand E. Marcos, to name the new bridge, Don Mariano Marcos Bridge, in memory of the man who, during those critical days of the Japanese Occupation, saved a vanquished people from the mire of despair into which they were arbitrarily cast by their victors;" and
+WHEREAS, it will be more in compliance with the desire and sentiment of the provincial and local officials of the Province of Abra that said request be accommodated;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order that the bridge span across the Abra River linking the municipalities of Tayum and Dolores, Abra, be named the "Don Mariano Marcos Bridge."
+This Decree shall take effect immediately.

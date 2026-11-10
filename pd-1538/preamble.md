@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under item No. 4 of General Records Schedule 3, General Circular No. 4 of the Secretary of General Services, dated October 11, 1963, it provides that Treasury Warrants shall be disposed of ten years after post audit, provided they are not needed for pending civil, criminal or administrative proceedings;
-WHEREAS, past experience has shown that compliance with the required ten years retention period results in the accumulation of large number of paid Treasury Warrants and PNB and PVB Checks chargeable against Treasury Checking Account for Agencies (TCAA) and the Bureau of the Treasury which is charged with the function of storing these documents may find itself continually saddled with storage and maintenance problems;
-WHEREAS, there is a felt need to decongest the existing storage facilities for these treasury warrants and checks issued by the government;
-WHEREAS, there is also a need to preserve the evidentiary value of these paid treasury warrants and TCAA checks as they may be the subject of present or future investigation and litigation;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

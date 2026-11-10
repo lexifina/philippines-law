@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Republic of the Philippines is a signatory to the 1951 Convention (and the 1967 Protocol) Relating to the Status of Refugees;
-WHEREAS, pursuant to Articles 27 and 28 of the 1951 Convention, the Philippines undertakes to issue identity papers to any refugee in the Philippines who does not possess a valid travel document, and to issue travel document to refugees lawfully staying in the Philippines to enable them to travel outside Philippine territory, unless compelling reasons of national security or public order otherwise require; and
-WHEREAS, under Article 35 (1) of the 1951 Convention, the Philippines undertakes to cooperate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of the said Convention;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, and in order to effect the needed assistance to refugees reaching the Philippines, do hereby order:

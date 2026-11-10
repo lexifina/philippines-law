@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the State is mandated to protect the right of all citizens to quality education at all levels at all levels and shall take appropriate steps to make education accessible to all, pursuant to Section 1, Article XIV of the1987 Constitution;
-WHEREAS, the State has the obligation to ensure and promote quality education through the proper supervision and regulation of the licensure examinations given through the various Boards of Examiners under the Professional Regulation Commission;
-WHEREAS, the lack of regulatory framework for the establishment and operation of review centers and similar entities, as shown in recent events, have adverse consequences and affect public interest and welfare;
-WHEREAS, the overriding necessity to protect the public against substandard review centers and unethical practices committed by some review centers demand that a regulatory framework for the establishment and operation of review centers and similar entities be immediately instituted;
-WHEREAS, Republic Act No. 7722, otherwise known as the Higher Education Act of1994, created the Commission on Higher Education, which is best equipped to carry out the provisions pertaining to the regulation, of the establishment and operation of review centers and similar entities.
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

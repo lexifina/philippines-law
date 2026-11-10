@@ -1,4 +1,0 @@
-# Preamble
-Whereas an action is pending in the Court of First Instance of the city of Manila between Frederick Garfield Waite, Luengo Martinez as administrator of the estate of Pedro Gruet and Juana Moreno, Jose Alemany y Gruet, Juan Atayde y Gruet, Julio Atayde y Gruet and Pedro Atayde y Gruet, plaintiffs, and the Insular government of the Philippine Islands, Frank A. Branagan, Treasuere of the Philippines Islands, and the Banco Bspañol-Filipino, defendants, to determine the ownership of certain shares of the capital stock of the Banco Español-Filipino, the certificates of which are in the possession of the Insular Treasurer: and
-Whereas it is desirable that the Government of the Philippine Islands be a party to said action in order that the same may be decided on its merits: Now, therefore,
-By authority of the United States, be it enacted by the Philippine Legislature, that:

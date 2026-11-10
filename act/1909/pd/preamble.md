@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, pursuant to Presidential Decree No. 361, the Armed Forces of the Philippines Retirement and Separation Benefits System (AFP-RSBS) was established for the purpose of providing a self-reliant funding- scheme which will guarantee continuous financial support to the AFP retirement plan;
+WHEREAS, under prevailing laws and implementing regulations, certain groups of retired military personnel, particularly those who retired prior to September 10, 1979,' are classified into various categories depending upon the respective dates of their retirement or separation from the active service, thereby inevitably resulting in inequities in the receipt of retirement pension;
+WHEREAS, there is a necessity to upgrade the pension of the above-mentioned retired military personnel to enable them to met the escalating cost of living and to equalize the entitlement to retirement pension of all military personnel and their beneficiaries;
+WHEREAS, the inclusion of the group of retired military personnel mentioned in the AFP-RSBS will facilitate the equalization of retirement benefits previously stifled by enormous budgetary or funding constraints;
+NOW, THEREFORE, I, FERDIANND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree:

@@ -1,0 +1,2 @@
+# Article XVI, Section 7
+SECTION 7. The State shall provide immediate and adequate care, benefits, and other forms of assistance to war veterans and veterans of military campaigns, their surviving spouses and orphans. Funds shall be provided therefor and due consideration shall be given them in the disposition of agricultural lands of the public domain and, in appropriate cases, in the utilization of natural resources.

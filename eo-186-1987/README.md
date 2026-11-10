@@ -1,9 +1,0 @@
-# Executive Order No. 186 (1987): FURTHER AMENDING SECTION 163, PARAGRAPH (2), OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED
-
-EO 186 (1987) · 1 versions, from 1987-07-07 (latest in force: 1987-07-07) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/6155>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

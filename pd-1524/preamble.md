@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Sub-section 1, Section 9, Article XV of the Constitution provides that the advancement of science and technology shall have priority in the national development and that all educational institutions shall develop scientific, technological and vocational efficiency;
-WHEREAS, the Eulogio Rodriguez Vocational School which was converted into Eulogio "Amang" Rodriguez Memorial School of Arts and Trades under Republic Act No. 5088 and later on renamed Eulogio "Amang" Rodriguez Institute of Science and Technology under Republic Act No. 6595, has grown into a much bigger institution serving an ever increasing student population, particularly of the City of Manila;
-WHEREAS, there is a need to extend greater opportunity to thousands of poor but bright students graduating from the 28 public secondary schools of the City of Manila seeking admission in courses designed to develop manpower skills required by industry;
-WHEREAS, with the continuing expansion of its curricular offerings and community extension services, and for purposes of relating more effectively its academic program to national development goals, the Institute needs the guidance of a policy-making body.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

@@ -1,0 +1,3 @@
+# Preamble
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+SECTION l. There is hereby granted to Mount Apo Science Foundation School, Inc. a temporary permit to construct, maintain and operate at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radio telegraph or radiotelephone, each station to be provided with radio transmitting apparatus and a radio receiving apparatus.

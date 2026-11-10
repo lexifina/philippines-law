@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, reports of graft and corruption in the Bureau of Internal Revenue and the Bureau of Customs have been identified as the perennial and major causes of revenue shortfalls, thereby compromising government's capacity to efficiently generate revenues for delivery of basic services and to fund developments objectives;
+WHEREAS, an unrelenting, systematic, and focused campaign to prevent graft and corruption in the revenue collecting agencies of government and to protect the integrity of revenues is imperative and is a top priority of the government;
+WHEREAS, being mandated by law to ensure the efficient generation and management of revenues and financial resources of government, the Secretary of Finance must take the lead in exercising powers of discipline over all officers and employees engaged in revenue collection;
+WHEREAS, the Administrative Code of 1987 empowers the President with the continuing authority to reorganize the Executive Department, allocate powers, functions and responsibilities, align resources and provide clear direction to specific government agencies and units;
+WHEREAS, the creation of an anti-graft investigate body in the Department of Finance to be known as the Revenue Integrity Protection Service is an important step to battle corruption in said agency;
+NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

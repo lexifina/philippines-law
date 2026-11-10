@@ -1,0 +1,3 @@
+# Preamble
+Whereas the changes made by the board of tax revision of the Province of Nueva Ecija in the tax lists thereof, rendering necessary many changes in the books of the provincial treasurer, the employment of temporary clerks to perform the work, which was of such a character that it could not well be done except by clerks of experience and skill not easily procurable, and other unforeseen causes have made the collection of the land tax for the year nineteen hundred and three in said province within the time designated by law impossible: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Government is committed to provide a comprehensive financing and guarantee support system for the country's agricultural sector to jumpstart employment generation and enterprise, livelihood and income opportunities, and the growth and development of rural productivity;
-WHEREAS, in line with the Government's commitment, the Land Bank of the Philippines (LDP), created by virtue of Republic Act No. 3844 approved on August 8, 1963, as amended by Republic Act No. 7907 approved on February 23, 1995, has included in its institutional priority agenda, the expansion of its loan portfolio for priority sectors, particularly to small farmers and fishersfolk, small and medium enterprises (SMEs) and micro-enterprises, agri-business and other agri-related projects;
-WHEREAS, there is a need to reorganize the Governing Board of the LBP for greater coordination and supervision to ensure the effective implementation of the Government's commitment to jump start the country's agricultural sector;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

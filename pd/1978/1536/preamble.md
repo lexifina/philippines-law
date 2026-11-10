@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, while other professions are protected from the influx of foreign practitioners, metallurgical engineers have been left to compete on their own ways with foreign metallurgical engineers and non-metallurgical engineers practising metallurgical tasks;
+WHEREAS, there is a need to regulate the practice of the metallurgical engineering profession in the country and to protect the metal industry from unscrupulous practitioners; and
+WHEREAS, in order to give justice to the men who have pioneered in this profession and to enhance the development of our metal industry, it is now high time for the government to create the Board of Metallurgical Engineering which will be responsible for the promotion, development and implementation of the rules and regulations of the discipline in order to sustain the need of one of the fastest growing industries in the Philippines today, the metal industry;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:

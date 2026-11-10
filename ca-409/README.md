@@ -1,9 +1,0 @@
-# Commonwealth Act No. 409: AN ACT TO DESIGNATE THE PROVINCIAL FISCALS OF PROVINCES WHOSE CAPITALS HAVE BEEN CONVERTED INTO CITIES, CITY ATTORNEYS EX OFFICIO THEREOF, WITH ADDITIONAL COMPENSATION, AND TO PROVIDE FOR THE APPOINTMENT OF ASSISTANT CITY ATTORNEYS THEREAT
-
-CA 409 · 1 versions, from 1938-09-14 (latest in force: 1938-09-14) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/32284>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

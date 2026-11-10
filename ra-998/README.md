@@ -1,7 +1,0 @@
-# Republic Act No. 998: AN ACT APPROPRIATING THE SUM OF TWO HUNDRED THOUSAND PESOS FOR THE ESTABLISHMENT, MAINTENANCE AND OPERATION OF THE MINDANAO INSTITUTE OF TECHNOLOGY, CREATED BY REPUBLIC ACT NUMBERED SEVEN HUNDRED AND SIXTY-THREE FOR THE SCHOOL YEAR NINETEEN HUNDRED AND FIFTY-FOUR TO NINETEEN HUNDRED AND FIFTY-FIVE
-
-RA 998 · 1 versions, from 1954-06-10 (latest in force: 1954-06-10) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/10296>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Text | [text.md](text.md) | 0 |  |

@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, there is no distinct government office or agency authorized to control the use of diagnostic X-Ray units, high energy machines or any radiation apparatus in medicine, industry, agriculture, research and other fields of activity except those units with radio-active sources which are controlled by the Philippine Atomic Energy Commission;
+WHEREAS, the use of radiation, although beneficial to the development of the country, carries with it certain hazards and, therefore, should be properly regulated;
+WHEREAS, the danger to public health posed by ionizing radiation is similar in effect to other dangers to public health resulting from human activity; and
+WHEREAS, the Department of Health, being the government agency charged with the functions of safeguarding and promoting the people's health, should be assigned the responsibility to institute proper measures for the effective control of such radiation hazards.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, as amended, do hereby decree and order:

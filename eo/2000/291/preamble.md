@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, the Government fully appreciates the valuable role of government officials and employees in providing vital services to the population at large;
+WHEREAS, in recognition of this vital role, it is the policy of he Government to continuously look for the welfare of government officials and employees;
+WHEREAS, pursuant to this policy, the Government deems it proper to provide necessary additional funds to these officials and employees to finance the education, health or other emergency expenses of these officials and employees, or any member of their family by tax-free pursuant to Memorandum Circular No. 31, s. 1991 implementing Joint Civil Service Commission – Department of Budget and Management Circular No. 1, s. 1991 as amended by Joint CSC-DBM Circular No. 2-97, s. of 1997;
+WHEREAS, it has come to my attention that the Bureau of Internal Revenue had issued various rulings on the taxability of monetized leave credits, Section 2.78.1(A) (7), p. 24 of Revenue Regulation No. 2-98 dated April 17, 1998, being the latest, which rulings are in direct contrast to the CSC intent when the policy on monetization of leave credits tax-free was institutionalized in 1991 as per its Resolution No. 992630 dated December 2, 1999;
+WHEREAS, said rulings create confusion on the various government bodies whether or not said monetized leave credits are subject to income tax and withholding tax;
+WHEREAS, said rulings have discouraged the application for monetization of leave credits by many officials and employees despite urgent/emergency needs;
+WHEREAS, it is my concern and constitutional duty to be a watchman of this problem and provide solution for the same;
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and direct:

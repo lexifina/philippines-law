@@ -1,2 +1,0 @@
-# Preamble
-By virtue of the powers vested in me by ;the Constitution and of the Emergency Powers Law, and in order to secure an adequate supply at reasonable prices of articles that are vitally needed in the country and to fulfill the commitments of the Republic of the Philippines under the International Emergency Food Council and the Agreement between the Republic of the Philippines and the United States of America on surplus war property, I, Elpidio Quirino, President of the Philippines, do hereby order:

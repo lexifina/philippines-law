@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, it is the policy of the Government to promote regional development in order to spur and accelerate economic growth in the countryside and thereby, attain sustainable national development;
+WHEREAS, the designation and development of Regional Center in every region does nor only foster efficient and effective delivery of government services, but likewise facilitate the establishment of new center of government thereat that can induce economic activities and jumpstart the growth and development in the countryside;
+WHEREAS, there is an urgent need to designate a Regional Center for Region IV-B otherwise known as the MIMAROPA Region, to foster better coordination and promote efficiency in the delivery of the services by the Regional Offices of the area, and allow the development of a new government center in the region.
+WHEREAS, the Regional Development Council IV-B, in its Resolution dated 30 August 2007, has favorably endorsed the designation of Calapan City as the Regional Center of the MIMAROPA Region;
+WHEREAS, the President under Administrative Code of 1987 and other existing laws, has the authority to designate the Regional Center for every region under her continuing authority to reorganize the administrative structure of the Executive Branch;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

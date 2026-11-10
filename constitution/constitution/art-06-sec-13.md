@@ -1,0 +1,2 @@
+# Article VI, Section 13
+SECTION 13. No Senator or Member of the House of Representatives may hold any other office or employment in the Government, or any subdivision, agency, or instrumentality thereof, including government-owned or controlled corporations or their subsidiaries, during his term without forfeiting his seat. Neither shall he be appointed to any office which may have been created or the emoluments thereof increased during the term for which he was elected.

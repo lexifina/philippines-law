@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the fundamental aim of the government is to provide every possible opportunity and facility to accelerate the pace of progress throughout the country not only in areas where economic development lagged out but likewise in places where political reasons, among others, constitute a stumbling block toward the early realization of the ideals of the New Society;
+WHEREAS, the necessity is felt, in order to maximize the efficacy of law and order and to expedite optimum development in the proposed municipality as same would enhance the progress and development of the localities involved for, in this regard, government projects would be subjected to closer attention of local officials;
+WHEREAS, the creation of the proposed municipality will redound and contribute greatly to the maintenance of peace and order and to the pacification drive to restore normalcy in the area; and
+WHEREAS, the proposed municipality will become a self-reliant community once intensified government projects are made in line with the declared policy of the government to uplift the socio-economic well-being of the residents therein;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vsted by the Constitution do hereby order and decree as part of the law of the land, the following:

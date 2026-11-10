@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the rural banking system is an effective instrument that can be employed in the implementation of the agrarian reform program envisioned in Presidential Decree No. 27;
-WHEREAS, mobilization of funds from both the government and private sectors for agricultural credit through the rural banking system will speed up the attainment of widespread increased agricultural and industrial production and commercial activities in the countryside or rural areas;
-WHEREAS, existing capital inadequacy in the rural banking system impairs its active involvement in the current effort of the government to accelerate the implementation of the objectives outlined in the preceding paragraphs;
-WHEREAS, outstanding rediscounting obligations of the rural banks with the Central Bank of the Philippines can be utilized as additional capitalization of rural banks through conversion thereof into government counterpart investments in such rural banks under terms and conditions as may be prescribed by the Central Bank of the Philippines.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order that:

@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, sovereign nations confer honors to recognize distinguished achievements, acknowledge the accomplishments and services of patriotic citizens, enhance the prestige of a nation, and promote amity with other nations;
-WHEREAS, in the history of the Republic of the Philippines, various awards and decorations have been created in recognition of achievements and distinctions;
-WHEREAS, there is a need to rationalize the roster of civil awards and decorations of the Philippines to ensure consistency of criteria in conferring honors, preserve the integrity and prestige thereof, clarify and definitively establish their order of precedence, in conformity with internationally-accepted traditional and protocular norms and practices;
-WHEREAS, the issuance of this Executive Order is recommended by the Presidential Assistant for Historical Affairs, with the conformity of and/or in consultation with the Department of Foreign Affairs, the Department of National Defense, the National Commission for Culture and the Arts, and the National Historical Institute;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

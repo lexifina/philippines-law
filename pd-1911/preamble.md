@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, as a result of the government's unrelenting campaign against carnapping, several carnapped or stolen motor vehicles have been recovered by the different law enforcement agencies government;
-WHEREAS, some of these motor vehicles which are now impounded in the different impounding centers of the Philippine Constabulary/Integrated National Police have remained impounded and unclaimed for a length of time due to the absence of any claimant thereof;
-WHEREAS, the identification of these motor vehicles for the purpose of determining ownership thereof have become difficult, if not impossible, considering that the original numbers of the tampered engine and chasis numbers could no longer be determined and restored;
-WHEREAS, the maintenance of such impounded and abandoned vehicles is causing unnecessary expenses to the government, aside from the manpower involved in maintaining these motor vehicles, which could otherwise be channeled to and utilized for other purposes;
-WHEREAS, these impounded and unclaimed motor vehicles whose value run to millions of pesos, while thus remaining unclaimed, will progressively deteriorate and will ultimately become totally useless, time constituting economic wastage which should be avoided at all cost. Hence, it is imperative that said vehicles be appropriately and economically disposed of.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Insurance Commissioner is entrusted with the duty to see that all laws relating to insurance, insurance companies and other insurance matters are faithfully executed and to perform the duties imposed upon him by the Insurance Code;
-WHEREAS, considering the nature of insurance transactions which depend entirely on utmost good faith especially on the part of the insurer, and where an insurance company has become insolvent or cannot continue to resume business with safety to its policyholders and other creditors, its assets must be preserved to settle satisfactorily and expeditiously as possible its debts and accounts; and,
-WHEREAS, the action of the Insurance Commissioner in connection therewith should not be hampered unnecessarily by tedious and protracted court litigations;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the amendment of Presidential Decree No. 612, otherwise known as the Insurance Code, as follows:

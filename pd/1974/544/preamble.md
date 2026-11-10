@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, it is the policy of Government to increase food production as well as the income of agrarian reform beneficiaries;
+WHEREAS, agrarian reform beneficiaries are now being encouraged to engage in the production of multiple crop and in agricultural projects in order to maximize the utilization of their available land and labor resources;
+WHEREAS, rural banks, the Philippine National Bank and other financing institutions operating in rural areas are ideal outlets for the granting under supervised credit of the necessary loans to finance the multiple crops/projects of agrarian reform beneficiaries;
+WHEREAS, under supervised credit, the amount of loans granted by rural banks and other financing institutions to their borrowers is determined by the actual needs and viability of the projects to be financed and the repayment capacity of the borrowers; and
+WHEREAS, the P5,000 maximum loan that may be granted at any one time to a farmer-borrower as provided under Section 16 of Republic Act No. 6390, is no longer realistic in view of the rising cost of production inputs such as fertilizers, feeds, pesticides, medicines, etc.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, by virtue of the powers in me vested by the Constitution and in order to help effect the desired changes and reforms in the social and economic structure of our society, do hereby order and decree the amendment of Republic Act No. 6390, as amended, as follows:

@@ -1,4 +1,0 @@
-# Preamble
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
-SECTION 1 Section one of Republic Act Numbered Eight hundred eight is hereby amended as follows:
-"SECTION 1 There is hereby granted to 'The Eastern Extension Australasia and China Telegraph Company, Ltd.' its successors and assigns, hereinafter referred to as the 'Grantee' a franchise to land, construct, maintain and operate telecommunication systems by cable, or any other means now known to science or which in the future may be developed for the reception and transmission of messages between any point in the Philippines to points exterior thereto, including airplanes, airships or vessels even though such airplanes, airships or vessels may be located within territorial limits of the Philippines."

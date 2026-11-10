@@ -1,7 +1,0 @@
-# Text
-WHEREAS, the period granting amnesty to persons who are required by law to file income tax returns but failed to do so, will end on October 31, 1973;
-WHEREAS, the entire country has had inclement weather for the past few weeks brought about by three typhoons that have caused considerable damage to public and private properties, unexpected financial difficulties among the poorer sectors of the community and considerable delay in the campaign; and
-WHEREAS, there is still a considerable number of non-filers who desire to take advantage of the tax amnesty and may not be able to do so on account of lack of material time if the deadline is not extended;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that paragraph No. 3 of Presidential Decree No. 213 is hereby amended to read as follows:
-"3. The amount or amounts payable, as provided above, must be paid in full upon filing of the income tax return or returns which shall not be later than November 30, 1973, and such payment shall entitle the person making the return to all the immunities provided in Presidential Decree No. 23, as amended."
-This Decree shall take effect immediately.

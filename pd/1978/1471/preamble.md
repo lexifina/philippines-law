@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, in view of the magnitude of the task assigned for the total development of the Filipino youth through physical fitness and sports programs, there is an imperative need to revitalize and strengthen the organizational set-up of the Department of Youth and Sports Development (DYSD) to maximize its capabilities, further intensify and generate mass involvement and greater public participation in such programs;
+WHEREAS, This measure is necessary to accelerate the achievement of the objectives of Presidential Decree No. 604, dated December 10, 1974, for the inculcation of national discipline as an instrument of national progress;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the amendment of Presidential Decree No. 604, as follows:

@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the Department of Transportation and Communications (DOTC) under Section 4 of Executive Order No. 125, series of 1987 is mandated as the primary policy, planning, programming, coordinating, implementing, regulating and administrative entity of the Executive Branch of the government in the promotion, development and regulation of dependable and coordinated networks of transportation and communications systems, as well as in the fast, safe, efficient and reliable postal, transportation and communications services;
-WHEREAS, in line with the aforesaid mandate and the government thrust of rationalizing the transportation system in Metropolitan Manila, there is an imperative need to amend further the provisions of Section 5, Presidential Decree No. 492, as amended;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

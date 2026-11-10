@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the President of the Philippines, taking cognizance of the balance of payments deficits, issued Letter of Instructions No. 1307 dated April 11, 1983 and Letter of Instructions No. 1329 dated May 31, 1983, directing all agencies of the government to adopt all possible measures to maximize foreign exchange receipts and minimize their outflow;
-WHEREAS, notwithstanding efforts of the government to prevent and minimize the outflow of foreign exchange through means and methods contrary to existing laws and Central Bank rules and regulations, the outflow of foreign exchange continues unabated;
-WHEREAS, this situation calls for a clearer definition of what constitutes blackmarketing and salting of foreign exchange and for the imposition of heavier penalties on those who are engaging in these practices which are pernicious to the national economy;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

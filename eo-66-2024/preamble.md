@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, Section 11, Article XIII of the Constitution mandates the State to adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost;
-WHEREAS, Paragraph 2, Article 11 of the International Covenant on Economic, Social and Cultural Rights provides that States Parties, such as the Philippines, shall recognize the fundamental right of everyone to be free from hunger and undertake measures which are needed to improve methods of production, conservation and distribution of food, among others;
-WHEREAS, Executive Order (EO) No. 101 (s. 2020) established the Inter-Agency Task Force on Zero Hunger (Task Force on Zero Hunger) to, among others, ensure that government policies, initiatives and projects on attaining zero hunger shall be coordinated, responsive, and effective;
-WHEREAS, EO No. 101 provides that the Cabinet Secretary shall be the Chairperson of the Task Force on Zero Hunger;
-WHEREAS, in view of EO No. 1 (s. 2022) which abolished the Task Force on Zero Hunger to ensure the continuous and effective implementation of the Enhanced Partnership Against Hunger and Poverty Program which aims to institutionalize the government's efforts to mitigate hunger, and promote food and nutrition security;
-WHEREAS, the Philippine Development Plan 2023-2028 underscores the importance of a whole-of-government approach in achieving proper nutrition and food security; and
-WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus, and offices;
-NOW, THEREFORE, I, FERDINAND R, MARCOS, JR., President of the Philippines, by virtue vested in me by the Constitution and existing laws, do hereby order:

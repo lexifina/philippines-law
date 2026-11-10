@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, Republic Act No. 6657, Chapter VI, provides in part that:
+"SEC. 17. Determination of Just Compensation. – In determining just compensation, the cost of acquisition of the land, the current value of like properties, its nature, actual use and income, the sworn valuation by the owner, the tax declarations, and the assessment made by government assessors shall be considered. The social and economic benefits contributed by the farmers and the farm-workers and by the Government to the property as well as the non-payment of taxes or loans secured from any government financing institution as additional factors to determine its valuation.

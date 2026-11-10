@@ -1,9 +1,0 @@
-# Act No. 3905: AN ACT TO AMEND SECTION TWENTY-ONE HUNDRED AND SIX OF THE ADMINISTRATIVE CODE, BY GRANTING PROVINCIAL BOARDS THE AUTHORITY TO EXTEND LOANS TO RURAL BANKS OR TO RURAL CREDIT ASSOCIATIONS ORGANIZED UNDER ACTS NUMBERED THIRTY-EIGHT HUNDRED AND NINETY-SIX AND THIRTY-EIGHT HUNDRED AND NINETY-FIVE, RESPECTIVELY, FROM THE FIXED DEPOSITS OF THE PROVINCIAL GOVERNMENTS IN THE PHILIPPINE NATIONAL BANK
-
-Act 3905 · 1 versions, from 1931-11-18 (latest in force: 1931-11-18) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/19150>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

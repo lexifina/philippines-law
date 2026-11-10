@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, Executive Order No. 495, series of 1991, entitled "Converting the Philippine Shippers' Council, the Boy Scouts of the Philippines and the Girl Scouts of the Philippines into Private Corporations and For Other Purposes" was issued pursuant to Section 22 of Proclamation No. 50, series of 1986, which latter issuance "remains to be operative until it is amended, repealed or revoked by Congress" (Opinion No. 210, series of 1988, of the Secretary of Justice);
+WHEREAS, Republic Act No. 7181 extends the life of the Committee on Privatization and the Asset Privatization Trust and imposes additional conditions in the disposition of government assets provided under Proclamation No. 50;
+WHEREAS, the Secretary of Justice, in Opinion No. 16 dated 19 February 1992, states that Republic Act No. 7181 "has not revoked or modified the authority of the President under Proc. No. 50 to amend the charters of government corporations so as to terminate their corporate existence;" and
+WHEREAS, supervening developments require the amendment of Executive Order No. 495;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

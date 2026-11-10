@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, it is the primary goal of the state to accelerate the pace of progress throughout the land, not only in areas where economic development lagged but likewise in places where political reasons, among others, constitute a serious impediment toward the realization of the aims and purposes of the New Society;
+WHEREAS, the primordial aim of development and rehabilitation in the province of Tawi-Tawi can be best achieved by the creation of local government units which could, through faster administrative response, provide prompt and adequate assistance to the social, cultural and economic needs of its residents;
+WHEREAS, the creation of the proposed municipality will redound and contribute greatly to the maintenance of peace and order and to the pacification drive to restore normalcy in the area;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree, as part of the law of the land, the following:

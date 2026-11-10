@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the value of Philippine coin and currency affects public interest and is subject to regulation by the Congress of the Philippines; and
-WHEREAS, it has been disclosed that the provisions of certain obligations contracted in the Philippines purport to give the obligee the right to require payment in gold or in a particular kind of coin or currency or in an amount in money of the Philippines measured thereby, thus obstructing the power of the Congress to regulate the value of the money of the Philippines and contravening the policy of the Congress, here declared, to maintain at all times the equal and stable power of every peso coined or issued by the Philippines, in the markets and in the payment of debts; Now, therefore,
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

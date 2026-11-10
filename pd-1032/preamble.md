@@ -1,3 +1,0 @@
-# Preamble
-WHEREAS, the Batasang Bayan in first session assembled, urged in Resolution No. 4, dated September 21, 1976, the promulgation of the Decree setting September 21, 1976 to October 7, 1976, as the period for the registration of barangay voters fAor the October 1976 Referendum-Plebiscite, prescribing the rules and regulations for said registration, and for other purposes in connection therewith.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, and in accordance with the recommendation of the Batasang Bayan, do hereby decree and order:

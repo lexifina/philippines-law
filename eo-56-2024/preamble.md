@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, Executive Order (EO) No. 400 (s. 2005, as amended, authorizes the assignment and issuance of low-numbered (protocol) license plates to motor vehicles used by high-ranking govenrment officials;
-WHEREAS, it has been observed that complaints about the proliferation and unauthorized use of protocol license plates continue to increase over the years, threatening public safety and undermining the integrity of the vehicle registration system;
-WHEREAS, Section 1, Article XI of the Constitution provides that public office is a public trust, and public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives;
-WHEREAS, Republic Act (RA) No. 6713 or the "Code of Conduct and Ethical Standards for Public Officials and Employees" declares it a policy of the State to promote high standard of ethics in public service;
-WHEREAS, under RA No. 4136 or the "Land Transportation and Traffic Code," no person shall falsely or fraudulently represent as valid and in force any driver's license, badge, certificate, plate, tag, or permit which is delinquent and/or has been revoked or suspended;
-WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus and offices, and the mandate to ensure faithful execution of laws;
-NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

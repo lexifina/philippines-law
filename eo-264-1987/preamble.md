@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Section 4, Article XVI, of the 1987 Constitution provides that: "The Armed Forces of the Philippines shall be composed of a citizen armed force which shall undergo military training and serve, as may be provided by law. It shall keep a regular force necessary for the security of the State"; and
-WHEREAS, Section 4, Article II, of the 1987 Constitution mandates that: "The prime duty of the Government is to serve and protect the people. The Government may call upon the people to defend the State and, in the fulfillment thereof, all citizens may be required, under conditions provided by law, to render personal military or civil service";
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

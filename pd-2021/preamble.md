@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Philippines is committed to a future which is closely tied with the future of Asia, and is annually attracting tens of thousands of international students of the region to its institutions of higher learning;
-WHEREAS, the Seventh-day Adventist Church, after seven decades of operating educational institutions from the elementary to the graduate level in the Philippines, is taking the steps to establish a non-stock, non-profit educational institution under existing laws of the Philippines, for the purpose of offering high quality education at the graduate level uniquely designed to meet the rapidly growing needs of the Church for highly qualified personnel in all of the Asia-Pacific area;
-WHEREAS, since 1967 the Seventh-day Adventist Church has been offering graduate level education with the proper authorization from the Philippine government, and has served with some limitations the needs of the Philippines and some other countries from the Asia-Pacific area, thereby gaining invaluable international education;
-WHEREAS, the Seventh-day Adventist Church wishes at this time to operate in the Philippines and educational institution of full international character and dimension that would enable it to more effectively meet; its growing needs in all the Asia-Pacific area, under the name of "Adventist International Institute of Advance Studies, Inc." (AIIAS);
-NOW, THEREFORE, I, FERDINAND E. MARCOS, president of
-the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

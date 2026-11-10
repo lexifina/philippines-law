@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Filipino veterans and ex-servicemen, have consistently demonstrated their devotion to, and their willingness to sacrifice their lives and fortune for, their motherland and countrymen;
-WHEREAS, the Filipino people recognizes the wants and needs of the veterans, ex-servicemen, their widows, orphans and dependents;
-WHEREAS, the renewed interest of the Government to provide broader avenues of assistance to these veterans, ex-servicemen, their widows, orphans and dependents can best be directed through the Philippine Veterans Assistance Commission created under Presidential Decree No. 244 dated July 12, 1973;
-WHEREAS, the Philippine Veterans Assistance Commission is charged with establishing, maintaining and making available for this significant sector of our society all such services necessary to provide for employment, medical care, education and related services;
-WHEREAS, in order to carry out this mission, the Philippine Veterans Assistance Commission has been authorized to solicit funds and now actually receiving contributions, donations, gifts and other valuable properties from private persons and government agencies or institutions;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, do hereby order and decree:

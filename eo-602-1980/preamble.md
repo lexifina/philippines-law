@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, the Metals Industry Research and Development Center was created under Republic Act No. 4724, as amended, to assist in the development and expansion of the metals industry;
-WHEREAS, the Metals, Engineering, and Allied Industries Sub-sector has been designated as a high-priority area under the Five-Year Philippine Development Plan, hence, the rapid and systematic growth of this sector of the economy is considered critical to the overall development program of the country;
-WHEREAS, Presidential Decree No. 1, as amended, provides that the Metals Industry Research and Development Center shall be attached to the National Science Development Board for policy and program coordination;
-WHEREAS, there is now the need to reorient the program thrust of the Metals Industry Research and Development Center from research and development to direct assistance to the metals industry to enhance, among others, the transfer of technology into the metals and allied industries as well as the provision of its services to industrial establishments;
-WHEREAS, to enable the Metals Industry Research and Development Center to fully and effectively provide such assistance and establish direct linkage with the metals industry sector, it must be organizationally located within the Ministry of Industry which is primarily responsible for the promotion and development of industries in the country;
-WHEREAS, under Presidential Decree No. 1416, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

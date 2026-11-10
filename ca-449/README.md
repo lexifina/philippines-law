@@ -1,9 +1,0 @@
-# Commonwealth Act No. 449: AN ACT AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO CONDUCT NEGOTIATIONS FOR THE ACQUISITION, MANAGEMENT AND OPERATION BY THE GOVERNMENT OF THE PHILIPPINES, OF THE MANILA ELECTRIC COMPANY, THE MANILA GAS CORPORATION, THE PHILIPPINE LONG DISTANCE TELEPHONE COMPANY, AND ANY OTHER PUBLIC UTILITY CONCERN WHOSE MANAGEMENT AND OPERATION BY THE GOVERNMENT ARE, HIS JUDGMENT, REQUIRED BY PUBLIC INTEREST
-
-CA 449 · 1 versions, from 1939-06-08 (latest in force: 1939-06-08) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/33410>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

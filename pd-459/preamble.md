@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Section 10 (b) of Republic Act No. 5979 provides for the mechanism whereby the contract amounts for public works may be readjusted for causes occurring after the perfection of and during the effectivity of the contracts therefor;
-WHEREAS, recent developments have caused the escalation of prices of construction materials to a point where contractors stand to lose tremendously were they to proceed with their respective public works contracts;
-WHEREAS, the escalation of prices of construction materials may not be necessarily due to any action by the Government enumerated in said Section 10 (b) of Republic Act No. 5979; and therefore, it is only fair and just that certain adjustment be made in the law to provide for such contingencies; and
-WHEREAS, it is likewise necessary that the membership of the Committee created thereunder be revised so as to reflect recent changes in our laws, as well as for a better coordination of the economic and fiscal policies involved in any price adjustments for public works contracts.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Construction, do hereby decree and order:

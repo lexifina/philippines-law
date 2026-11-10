@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, pursuant to Republic Act No. 8180, tariff duties of three percent (3%) and seven percent (7%) shall be imposed and collected on imported crude oil and refined petroleum products, respectively, except fuel oil and LPG, the rate of which shall be the same as that for imported crude oil;
+WHEREAS, it is imperative that a presidential order is issued to implement the specific objective of Republic Act No. 8180 of maintaining a four percent (4%) tariff differential between the tariff rate on crude oil and refined petroleum products as well as to effectively guide the Bureau of Customs in imposing and collecting the correct customs duties on the specific petroleum products covered by the Act;
+WHEREAS, in the process of tax restructuring and the de-regulation of the oil industry the specific levy imposed on petroleum products shall be abolished and henceforth absorbed by the new specific taxes under Republic Act No. 8184;
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

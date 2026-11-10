@@ -1,0 +1,10 @@
+# Republic Act No. 1957: AN ACT TO CONVERT THE PABLO BORBON MEMORIAL TRADE SCHOOL IN THE MUNICIPALITY OF BATANGAS, PROVINCE OF BATANGAS, INTO A REGIONAL SCHOOL OF ARTS AND TRADES TO BE KNOWN AS THE PABLO BORBON MEMORIAL REGIONAL SCHOOL OF ARTS AND TRADES, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR
+
+RA 1957 · 1 versions, from 1957-06-22 (latest in force: 1957-06-22) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1497>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |

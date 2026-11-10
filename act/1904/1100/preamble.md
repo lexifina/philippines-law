@@ -1,0 +1,6 @@
+# Preamble
+Whereas the land-tax assessment lists in the Province of Surigao are not in proper form, in that they are not arranged by barrios, or in alphabetical order, and in some instances contain no description of the property assessed, such lists being thereby rendered of little or no value for reference or statistical purposes; and
+Whereas great many parcels of land have been omitted altogether from the tax-assessment lists of said province, and it is believed that in many other instances parcels of land have not been assessed at their true values; and
+Whereas the valuations placed on lands and improvements at the lime of the original assessment were expressed in local currency and have not since been reduced to money of the United States, as provided in section six of Act Numbered Five hundred and eighty-two, as amended; and
+Whereas the above-mentioned errors, omissions, and inequalities were not remedied by the board of tax revision appointed under the provisions of Act Numbered Five hundred and eighty-two, no complaints having been presented to it, either by landowners or government officials: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:

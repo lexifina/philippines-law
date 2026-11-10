@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the Confederation of Philippine Exporters, Inc., (COPE) a non-stock, non-profit association of individuals, corporations, associations, partnerships, cooperatives and other institutions engaged in the export business or in servicing or financing of exports, is the only voluntary organization in the Philippines which integrates the private sector into a single corporate body in order to perform the vital function of assisting the Government in the development, promotion and expansion of the country's export trade; and
+WHEREAS, in order to assist the Confederation of Philippine Exporters, Inc. in accomplishing its important role, it is necessary for the government to recognize it as a private entity dedicated to a public purpose, and to extend every possible assistance to insure its success;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

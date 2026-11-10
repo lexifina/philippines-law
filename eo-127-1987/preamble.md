@@ -1,5 +1,0 @@
-# Preamble
-RECALLING that the reorganization of the government is mandated expressly in Article II, Section 1 (a) and Article III of the Freedom Constitution;
-HAVING IN MIND that pursuant to Executive Order No. 5 (1986), it is directed that the necessary and proper changes in the organizational and functional structures of the government, its agencies and instrumentalities, be effected in order to promote efficiency and effectiveness in the deliver of public services;
-BELIEVING that it is necessary to reorganize the Ministry of Finance to make it more capable and responsive, organizationally and functionally, in its primary mandate of judiciously generating and efficiently managing the financial resources of the Government, its subdivisions and instrumentalities in order to attain the socio-economic objectives of the national development programs.
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the sovereign will of the Filipino People and the Freedom Constitution, do hereby order:

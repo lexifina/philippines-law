@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, Republic Act (RA) No. 8371 or the "Indigenous Peoples' Rights Act of 1997" created the National Commission on Indigenous Peoples (NCIP) as the primary govenrment responsible for the formulation and implementation of policies, plans and programs to promote and protect the rights and well-being of Indigenous Cultural Communities (ICCs) and/or Indigenous Peoples (IPs), including the recognition of their ancestral domains and their rights thereto;
-WHEREAS, pursuant to Executive Order (EO) No. 67 (s. 2018), the NCIP was placed under the supervision of the Department of Social Welfare and Development;
-WHEREAS, EO No. 72 (s. 2002) provides that an agency shall be placed under or attached to the Office of the President )OP) only if its mandate or functional concerns require the immediate attention of the President;
-WHEREAS, consistent with the State policy to further promote and recognize the rights of ICCs/IPs within the framework of national unity and development, the NCIP may be transferred to OP;
-WHEREAS, under Section 31, Chapter 10, Title III, Book III of EO No. 292 or the "Administrative Code of 1987," authorized the President to recognize the administrative structure of the OP in order to achieve simplicity, economy and efficiency; and
-WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all Executive departments, bureaus and offices, and the mandate to ensure the faithful execution of laws;
-NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

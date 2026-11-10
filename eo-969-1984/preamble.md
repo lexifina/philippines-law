@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under the New Republic, national development shall be pursued with renewed dedication and greater determination through a more efficient, effective and economical government;
-WHEREAS, the circumstances of the times demand a more vigorous pursuit' of the Constitutional mandate that the State shall consider the customs, traditions, beliefs and interests of national cultural communities in the formulation and implementation of state policies;
-WHEREAS, in furtherance of the Constitutional mandate, it is desirable to combine those agencies engaged in allied and complementary operations and activities relative to the development of the cultural communities in order to achieve better coordination, increased effectiveness, and unanimity of purpose in terms of ultimate results; and
-WHEREAS, under Presidential Decree No. 1416 as amended, the President is empowered to undertake such organizational and related improvements as may be appropriate in the light of changing circumstances and new developments;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and the authority vested in me by Presidential Decree No. 1416 as amended, do hereby order and ordain:

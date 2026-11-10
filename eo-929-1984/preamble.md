@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, a Palarong Pilipino should be held as a substitute of the Palarong Pambansa to discover new talents in various discipline of sports, effect a well planned and organized national games patterned after the Southeast Asian Games and the Asian Games, encourage promotion of sports and recreation, create sports interest and enthusiasm among the people on a countrywide basis and to stage a sports festival which will be considered as the actual national games of the Philippines which will serve as the principal aim of every young Filipino who joins competitive sports; and
-WHEREAS, it is necessary that a committee be created to organize, implement, coordinate all activities related to the holding of the Palarong Pilipino;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order and ordain:

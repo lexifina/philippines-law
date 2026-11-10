@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Board of Governors of the International Finance Corporation (IFC), a World Bank affiliate, has approved the increase in the Corporation's authorized capital from US$110,000,000 to US$650,000,000 to meet IFC's loan and equity commitments which have grown rapidly in recent years and to provide funds for the planned level of operations to further the economic development of member countries;
+WHEREAS, the IFC offered for subscription to member countries the newly created 540,000 shares having a par value of US$1,000 each, of which the Philippines is proportionately allocated additional 3,081 shares involving a total amount of US$3,081,000 at US$1,000 per share;
+WHEREAS, since its establishment in 1956 IFC has been extending financial assistance in the form of loans and investment in capital shares and technical assistance to productive private enterprises in the Philippines;
+WHEREAS, it is the policy of the Philippine Government to pursue its international commitments on multilateral agreements aimed to promote economic growth and development;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows:

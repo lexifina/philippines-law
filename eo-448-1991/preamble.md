@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Executive Order No. 407, series of 1990, directs, among others, all government agencies and instrumentalities, including government-owned or controlled corporations to transfer ownership of all lands suitable for agriculture to the Department of Agrarian Reform for distribution under the Comprehensive Agrarian Reform Program;
-WHEREAS, to further accelerate the acquisition and distribution of all lands of the public domain suitable for agriculture, it is necessary to include within the coverage of Executive Order No. 407, Series of 1990, all government reservations or portions thereof which are suitable for agriculture and no longer needed for the purposes for which the reservations are established;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

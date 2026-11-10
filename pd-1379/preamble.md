@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, pursuant to Letters of Instructions Nos. 270 and 491 applications for naturalization by decree were received by the Special Committee on Naturalization created under LOI 270 for processing and evaluation;
-WHEREAS, while a substantial number of applications thus filed have already been passed upon resulting in the naturalization of 16,399 alien applicants, there remain 22,439 more applicants whose applications are still pending consideration;
-WHEREAS, on the basis of its performance resulting in the approval of its recommendations with respect to alien applicants whose application for naturalization should be granted there is ground to entrust the approval of the remaining applications for naturalization to the Special Committee on Naturalization under the guidelines provided in LOI 270 and 491;
-WHEREAS, it is necessary to grant naturalization to such alien applicants as may be found by the Special Committee on Naturalization to possess the qualifications and not suffering from any disqualifications to obviate the need of approving separate recommendations by the Committee and promulgating the corresponding decree as has heretofore been done;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby provide as follows:

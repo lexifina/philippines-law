@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is the policy of the government to provide integrated basic economic and social services and facilities in all areas, particularly the underdeveloped or resettlement sites in order to solidify the economic and social structure of our society;
+WHEREAS, an integrated rural development, in the form of the Ministry of Human Settlements' Bagong Lipunan Sites and Services (BLISS) Program has been adopted for the development of the Sacobia area;
+WHEREAS, the successful provision of integrated, rationalized, basic services and facilities to the Sacobia community requires that the planning, implementation, and management of the area be comprehensive, decentralized and framed within regional, national plans and overall strategy for the BLISS Program;
+WHEREAS, there is an urgent need to enhance the organizational framework, systems capacity and streamlining of developmental efforts, for planning, implementing, and managing the programs in the Sacobia Development Plan, to maximize benefits not only for Sacobia, but for the nation as a whole;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution in order to ensure the success of the project, do hereby order the following:

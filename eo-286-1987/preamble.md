@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the policy of the State to recover ill-gotten wealth amassed by the leaders and close associates of the previous regime and to protect the interest of the people through orders of sequestration;
-WHEREAS, by virtue of Executive Order No. 1, the Presidential Commission on Good Government (PCGG) was created, to assist the Philippine government in the recovery of the said ill-gotten wealth;
-WHEREAS, Executive Order No. 1 further provides that the PCGG shall provisionally takeover the business or corporations, enterprises and properties amassed by the leaders and close associates of the previous regime until the transactions leading to such acquisition by the latter, are declared to be illegal by a court of law with competent jurisdiction;
-WHEREAS, there is an urgent need for an entity to oversee the disposition of assets and properties recovered by the Government, by virtue of a decision of a court of law, pursuant to Section 26, Article XVIII of the 1987 Constitution and those voluntarily surrendered to the PCGG
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the sovereign will of the Filipino people and the Constitution do hereby order;

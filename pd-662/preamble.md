@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, there were many taxpayers who were not able to file the amnesty return and pay the tax due thereon under Presidential Decree No. 631 on the last day for filing and payment of the tax inasmuch as the last day fell on the date immediately following the National Referendum and the long holiday period;
-WHEREAS, the proximity of the last day for paying the amnesty tax almost coincides with the deadlines for paying income tax for 1974, as well as with other payments of other governmental fees during the first quarter of 1975 which may upset the financial plans of taxpayers, thereby making it difficult for them to comply promptly with the various requirements of their obligations to the government within the short interval of time;
-WHEREAS, there are many Filipinos residing abroad who may want to avail of the benefits provided for by Presidential Decree No. 631 which grants ultimate tax amnesty but were unable to do so due to lack of adequate information.
-WHEREAS, in view of the short time from the date of issuance of the decree to the last clay for filing not all those who may want to avail of the amnesty were informed.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution do hereby decree and order:

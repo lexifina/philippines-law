@@ -1,0 +1,13 @@
+# Text
+WHEREAS, statistics show that there are about 350,000 pending cases in the different courts of the country;
+WHEREAS, there is urgent and compelling need to adopt measures that may relieve the courts of docket congestion; and
+WHEREAS, the amicable settlement of disputes among family and barangay members at the barangay level, without judicial intervention, is a time-honored tradition antedating the Spanish era which must be preserved and officially recognized for the maintenance of peace and harmony among them;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree as follows:
+1. There is hereby created a Katarungan Pambarangay Commission charged with the duty of studying the feasibility of instituting a system of resolving disputes among family and barangay members at the barangay level, without recourse to the courts.
+2. The Commission shall be composed of the Chief Justice of the Supreme Court as Chairman, and the Secretary of Justice, the Secretary of National Defense, the Secretary of Local Government and Community Development, the Secretary of Education and Culture, the President of the Integrated Bar of the Philippines, and the Director of the U.P. Law Center, as Members.
+3. In the performance of its task, the Commission shall give due consideration to the customs and traditions of the Filipino people.
+4. The Commission is hereby empowered to organize s Staff which will provide it with technical and administrative support.
+5. The Chairman and the Members of the Commission shall not receive any additional compensation for their attendance at meetings of or for their work in the Commission.
+6. The Commission shall submit its report and recommendations to the President of the Philippines or Prime Minister not later than December 31, 1978.
+7. To carry out the purposes of this Decree, such amounts as are necessary for the operations of the Commission shall be chargeable against the unexpended appropriations of the Judiciary.
+This Decree shall take effect immediately.

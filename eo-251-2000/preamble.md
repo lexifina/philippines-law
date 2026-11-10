@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Executive Order No. 211 s. 2000 "Transferring Supervision of Certain Government Financial Institutions form the Office of the President to the Department of Finance" transferred the Development Bank of the Philippines, Government Service Insurance System, Land Bank of the Philippines and Social Security Insurance System, hereinafter referred to as the GFIs, from the Office of the President to the Department of Finance for administrative supervision and program coordination;
-WHEREAS, it is proper and desirable to further define the administrative relationship between the Department of Finance and these GFIs in accordance with the provisions of Section 38, Chapter 7, Book IV, of the Administrative Code of 1987;
-NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

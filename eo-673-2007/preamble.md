@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, Executive Order No. 340 series of 2004, reorganized the Board of Directors of the Subic Bay Metropolitan Authority (SBMA) and defined the powers, functions and duties of the Chairman of the Board of Directors and the SBMA Administrator;
-WHEREAS, in view of the multifarious requirements, functions, duties and responsibilities of the Administrator of the SBMA, Executive Order No. 340, series of 2004, reorganized the SBMA Board and provided for the position of Chairman of the SBMA Board separate and distinct from that of the Administrator;
-WHEREAS, while Executive Order No. 340 series of 2004 defined and provided for the position of the Chairman of the SBMA Board separate and distinct from that of the Administrator, the aforementioned Order did not provide for the compensation of the Chairman;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

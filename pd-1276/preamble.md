@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Central Bank of the Philippines has, since 1956, been implementing a reward system for information leading to the confiscation and forfeiture, in favor of the National Government, of gold, foreign exchange and Philippine currency held in violation of existing laws and regulations;
-WHEREAS, the successful implementation of said reward system has brought direct benefits to the national economy in the form of millions in foreign exchange forfeited in favor of the National Government and, therefore, it would be for the further interest of the national economy for the Central Bank to continue implementing such reward system;
-WHEREAS, except by implication from existing laws, there appears to be no law or regulation clearly and expressly authorizing the Central Bank to pay rewards out of proceeds of foreign exchange forfeited in favor of the National Government;
-WHEREAS, considering the attendant risks to informers specially in cases involving foreign-based smuggling syndicates, it is necessary that the reward payable to such informers be commensurate to such risks and attractive enough to provide incentives for informers to cooperate with national police agencies.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following:

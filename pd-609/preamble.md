@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Constitution of the Philippines prescribes that all educational institutions shall aim to develop scientific technological and vocational efficiency;
-WHEREAS, Presidential Decree No. 6-A (Educational Decree of 1972) declared it a policy that educational objectives shall be attained through the undertaking of educational development projects by expansion of agricultural and higher education programs and agricultural extension activities to meet the demands and needs of the New Society;
-WHEREAS, it is imperative that agricultural institutions, particularly agricultural schools, cooperate to the maximum in the massive land reform programs of the government to uplift the tenant-farmer from lethargy and ignorance and to release him from the bondage of tenancy;
-WHEREAS, the Tarlac College of Agriculture can carry out with greater strength its goals, agricultural programs and its vital role in national economic development effectively and efficiently if granted complete autonomy.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1 dated September 22, 1972, as amended, do hereby decree and order the following:

@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, knowledge and awareness on the part of our citizens of our country's various natural, historical and cultural heritage can make a significant contribution to the nation's goals of national integration and overall socio-economic, cultural, and educational development;
-WHEREAS, such knowledge and awareness can be achieved through an intensive and sustained promotion and development of national or domestic tourism by which the country's diverse inhabitants can get to know more one another thru direct contact and realize that dissimilarities in their customs and traditions form part of a whole which is the nation, with common aspirations and goals.
-WHEREAS, this interaction will enhance the rediscovery of our country's cultural and sociological heritage and strengthen our people's sense of oneness and patriotism.
-WHEREAS, it is important that workers of all levels, both public and private, be made realize the value of enjoying their vacation in accordance with the universally and scientifically accepted principle that a periodic respite from work and change in environment, is essential for one's physical and mental health, and promotes his efficiency as well;
-WHEREAS, tourism also serves to stimulate the continuance and development of local crafts or industries as they create employment and additional sources of income for our people;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines by virtue of the powers vested in me by the Constitution do hereby order:

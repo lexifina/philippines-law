@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree Numbered Eleven Hundred and Eighty Pour, otherwise known as the Integrated National Police Personnel Professionalization Law of 1977, promulgated on 26 August 1977, has established the Philippine National Police Academy as a service facility for the training and education of the members of the Integrated National Police with the view of professionalizing the personnel in every level of command thereof;
-WHEREAS, it is imperative that the Philippine National Police Academy be provided with an academic charter in order to enhance its organizational growth and development and to better achieve the goals of professionalization of the Integrated National Police;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree to be part of the laws of the land, the following:

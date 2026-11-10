@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, a considerable number of Filipino professionals have, with the passage of time, gone to other countries to pursue further studies and/or take up specialized studies in their chosen fields of endeavor while others emigrated to other lands in search of better job opportunities;
-WHEREAS, since their departure from the Philippines some of these professionals have become naturalized citizens of their host countries so that they are now barred from the practice of their profession in our country;
-WHEREAS, a considerable number of these erstwhile Filipino professionals are now desirous to come home under the Balikbayan Program and, while here, would like to serve our people or share their advanced knowledge and expertise with their local professional colleagues;
-WHEREAS, for the sake of faster national development our government is now trying to attract these erstwhile Filipino professionals to return and reside permanently in the Philippines so that they can provide the talent and expertise urgently needed by the homeland;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:

@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, it is the avowed policy of this administration to ensure transparency and full and appropriate disclosure of policies, programs, official activities, and achievements of the Office of the President and Executive Branch which are of public concern;
-WHEREAS, the task of informing and communicating to the Filipino people the policies, programs, official activities, and achievements of the Office of the President and the Executive Branch presently involves, aside from the Office of the Press Secretary, several offices and agencies, the functions of some of which overlap;
-WHEREAS, there is a vital need to re-organize and effect functional changes within the Office of the Press Secretary and create an office to systemize, rationalize and complement the existing structure to achieve a more efficient and systematic interaction between the people, the Office of the President, and the Executive Branch;
-WHEREAS, it is likewise imperative that government re-defines its efforts to integrate and harmonize its message conceptualization, formulation and development policies and programs in order to fully utilize the opportunities arising from the rapid development of existing and emerging media;
-WHEREAS, under Section 31, Chapter 20, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to reorganize the administrative structure of the Office of the President.
-NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

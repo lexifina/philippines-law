@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under Presidential Decree No. 684, the Pambansang Katipunan ng Kabataang Barangay ng Pilipinas was created in order to clearly define the role of the youth in the task of young people ample opportunity to express their views, aspirations and hope;
-WHEREAS, the Filipino youth, mobilized and directed by the Kabataang Barangay, have demonstrated their awareness of the country's problems and development programs and their effectiveness in helping solve these problems and implement these development programs;
-WHEREAS, there is a need to streamline and strengthen the organizational structure of the Kabataang Barangay, making it more autonomous, and vesting it with attributes and power of a corporation, to ensure the enthusiastic continuing participation of the Filipino youth in the affairs of the nation;
-WHEREAS, the leaders and members of the Kabataang Barangay have demonstrated their capability to administer their affairs, activities and projects;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby promulgate the following Charter of the Pambansang Katipunan ng Kabataang Barangay ng Pilipinas.

@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Executive Order No. 738 dated 3 October 1981 created the Cabinet Committee on the Treaty on the Law of the Sea, "[w]hich shall be responsible for the implementation of the Treaty on the Law of the Sea with respect to political, economic, strategic, security and other implications, with the Ministry (now Department) of Foreign Affairs as the coordinating agency in all matters relating thereto";
+WHEREAS, the Philippines signed the United Nations Convention on the Law of the Sea on 10 December 1982 and ratified the same;
+WHEREAS, the Secretariat of the Cabinet Committee was located in the Ministry of Foreign Affairs under Executive Order No. 738 and was transferred to the Secretary-General, Office of the Prime Minister, under Executive Order No. 1034 dated 25 June 1985;
+WHEREAS, Executive Order No. 1034 transferred the Chairmanship of the Cabinet Committee on the Law of the Sea from the Minister for Foreign Affairs to the Prime Minister;
+WHEREAS, Executive Order No. 239 dated 24 July 1987, "Reorganizing the Department of Foreign Affairs And For Other Purposes" transferred the Law of the Sea Secretariat from the defunct Office of the Prime Minister to the Department of Foreign Affairs;
+WHEREAS, there is an imperative need to reconstitute the Cabinet Committee on the Law of the Sea with representation from the government agencies to undertake studies concerning the implementation of the United Nations Convention on the Law of the Sea and the harmonization of domestic laws and regulations with the Convention, in preparation for its entry into force;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

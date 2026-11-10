@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the avowed policy of the Government to assist landless tenants, whether Christian or Muslim, in acquiring full ownership of the lands occupied or cultivated by them;
-WHEREAS, tenants in agricultural lands primarily devoted to rice and corn production have been granted the fullest opportunity to own the land tilled by them in the easiest possible way and under terms less burdensome to them;
-WHEREAS, under the New Society, the social justice programs arc given top priority, and in furtherance thereof a greater portion of the resources of the Government have been channeled to them; and
-WHEREAS, in order to give greater substance to these social justice programs and the endeavors to bring forth equality for all citizen of this Republic, it is required that landless Muslims and members of other cultural minority groups shall be given the same opportunity to own the lands occupied and cultivated by them, which lands were likewise occupied and cultivated by their ancestors;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby decree and other:

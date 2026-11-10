@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, the last paragraph of Article 243, Chapter III, Book V of P.D. 442 otherwise known as the Labor Code of the Philippines as amended, provides as one of the basic rights of the legitimate labor organizations, that "the income and properties of legitimate labor organizations shall be free from taxes, duties, and other assessments including gifts, donations they may receive from fraternal and similar organizations, local and foreign;"
+WHEREAS, rural workers organizations registered by the Ministry of Labor and Employment, through the Bureau of Rural Workers, pursuant to PDs 1365 and 1367 are considered as legitimate labor organizations;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers and authority vested in me by the Constitution, do hereby order and ordain;

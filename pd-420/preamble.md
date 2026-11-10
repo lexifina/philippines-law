@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, horse racing should be given the impetus for development so as to fully take advantage of its revenue-earning and employment-giving aspects;
-WHEREAS, the continued growth of horse racing will inevitably result in the development of related industries which at present are nonexistent and/or not fully exploited;
-WHEREAS, it is necessary to restore integrity to the sport to make it compatible with the ideals of sports development under the New Society;
-WHEREAS, horse racing as one of the oldest and universally popular diversions of man has become highly specialized and sophisticated so as to necessitate more attention of the Government; and
-WHEREAS, it is imperative that a specialized body be created which shall have a thorough and closer supervision and control of all aspects of the sport in order to insure public benefit;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081,dated September2l, 1972, as amended by Proclamation No. 1104, dated January 17, 1973, and General Order No. 1, dated September 22, 1972, as amended, in order to effect the desired and necessary changes and reforms in the social and economic structure of our society, do hereby order and decree and make as part of the law of the land the following:

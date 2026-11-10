@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Philippine Government has adopted the modified Salary Schedule for civilian personnel and the Base Pay Schedule for military and uniformed personnel as authorized in the Senate and House of Representatives Joint Resolution No. 4 (s. 2009) which shall be implemented in four (4) yearly tranches for personnel in national government agencies (NGAs);
+WHEREAS, for personnel in government-owned or controlled corporations (GOCCs), government financial institutions (GFIs), and local government units (LGUs), the implementation of the modified Salary Schedule shall be in at least four (4) years depending on their financial capabilities, pursuant to item (13) of the Joint Resolution;
+WHEREAS, the first tranche of the modified Salary Schedule and Base Pay Schedule have been implemented effective 1 July 2009 for personnel in NGAs, GOCCs, and GFIs, and effective 1 January 2010 for personnel in LGUs;
+WHEREAS, the second tranche of the modified Salary Schedule and Base Pay Schedule have been implemented effective 24 June 2010 for personnel in NGAs, GOCCs, and GFIs, and effective 1 January 2011 for personnel in LGUs; and
+WHEREAS, Republic Act (RA) No. 10147, the FY 2011 General Appropriations Act (GAA), provides appropriations under the Miscellaneous Personnel Benefits Fund (MPBF) for the implementation of the third tranche of the modified Salary Schedule and Base Pay Schedule for personnel in NGAs;
+NOW, THEREFORE, I, BENIGNO S. AQUINO III, President of the Philippines, by virtue of the powers vested in me by, do hereby order:

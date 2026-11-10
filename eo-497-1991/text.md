@@ -1,7 +1,0 @@
-# Text
-WHEREAS, by virtue of Executive Order No. 85, series of 1986, the Ministry of Human Settlements (MHS) had been abolished and final disposition and/or organizational alignment of its programs and projects, agencies, corporations and councils had been effected through subsequent enactments;
-WHEREAS, the Nayong Pilipino Foundation created pursuant to Presidential Decree No. 37 dated 6 November 1972 is one of the MHS attached agencies that had been transferred to the Presidential Management Staff (PMS), Office of the President, by virtue of Memorandum Order No. 85, series of 1987;
-WHEREAS, it is necessary to transfer the Nayong Pilipino Foundation from the Presidential Management Staff to the Department of Tourism; and
-WHEREAS, under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President of the Philippines has continuing authority to reorganize the administrative structure of the Office of the President by, among others, transferring any agency under the Office of the President to any other department or agency of the Government;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me under the provisions of Section 31, Chapter 10, Title III, Book III of the 1987 Administrative Code, do hereby transfer the Nayong Pilipino Foundation from the Presidential Management Staff, Office of the President, to the Department of Tourism.
-This Executive Order shall take effect immediately.

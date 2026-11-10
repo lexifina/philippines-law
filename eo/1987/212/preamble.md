@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Presidential Decree No. 169 requires medical practitioners to report the treatment of patients for serious and less serious physical injuries as defined in Articles 262, 263, 264, and 265 of the Revised Penal Code to the nearest Philippine Constabulary unit either personally or by the fastest means possible, under pain of penal and administrative sanctions;
+WHEREAS, the said requirement was imposed during martial law to enable law enforcement agencies to keep track of all violent crimes, conduct timely investigation thereon and effect the immediate arrest of the perpetrators thereof;
+WHEREAS, Presidential Decree No. 169, being premised on the existence of martial law, must yield to the people's mandate to restore democracy and to maintain the supremacy of civilian authority over the military;
+WHEREAS, the duty to maintain peace and order in the community principally belongs to the law enforcement agencies, and although the cooperation of the citizenry, particularly medical practitioners, may be enlisted for the common good, it would encroach upon their freedoms to compel them, under pain of penal and administrative sanctions, to make certain reports to the Philippine Constabulary, an entity that has no functional or administrative control or supervision or even regulatory powers over them;
+WHEREAS, a requirement to report such treatment, but no civilian authorities, is needed to keep track of violent crimes;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

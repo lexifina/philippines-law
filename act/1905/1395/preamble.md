@@ -1,0 +1,5 @@
+# Preamble
+Whereas, owing to an unprecedented drought in the Province of Cebu during the present year, the crops of that province have suffered such destruction as to entail great hardship upon the inhabitants of the province, other than in the municipality of Cebu; and
+Whereas, owing to the delay in the preparation of the plan for improving the "burnt area" in the municipality of Cebu, which has been authorized by Act Numbered Thirteen hundred and ninety-three, the owners of property included in said "burnt area" have been prohibited from improving their property by rebuilding, and have been thus deprived of the use of same for a considerable period; and
+Whereas, due to the above reasons, exceptional conditions now prevail in the Province of Cebu, except in that portion of the municipality of Cebu outside of said "burnt area," which render the collection of the land tax for the year nineteen hundred and five inadvisable: Now, therefore,
+By authority of the United States, be it enacted by the Philippine Commission, that:

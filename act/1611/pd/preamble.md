@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Development Bank of the Philippines is the owner of the Iligan Steel Mill, together with the buildings, equipment and machineries, presently leased to the National Steel Corporation.
+WHEREAS, Section 14 of Presidential Decree No. 1402 creating the Philippine National Iron and Steel Corporation directs the Development Bank of the Philippines to transfer, assign and convey the said steel mill to the Philippine National Iron and Steel Corporation;
+WHEREAS, it is the policy of the Government to encourage the private sector to actively participate in its efforts towards the promotion of the national welfare, economic program and industrialization;
+WHEREAS, in order to enable the Development Bank of the Philippine to comply with its commitments with the World Bank and the Asian Development Bank and at the same time to dispose of its steel mill to any qualified person or groups of persons, corporations or other business establishments, engaged or are about to engage in the iron and steel industry or any activity related to iron and steel operations it is necessary to remove the limitation in the disposition thereof.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following:

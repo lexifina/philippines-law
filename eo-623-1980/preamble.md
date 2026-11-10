@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Virginia tobacco industry and domestic markets are presently confronted by acute fuelwood shortage, and it is imperative that the forest resources of the areas producing said tobacco should be properly managed, conserved and developed in line with the policy of the government to tap indigenous and renewable sources of energy and promote ecological balance.
-WHEREAS, Letter of Instruction No. 866 dated May 23, 1979 directed the Philippine Virginia Tobacco Administration and the Ministry of Natural Resources to vigorously pursue the implementation of the Ilocos Region Fuelwood Development Program (IRFDP).
-WHEREAS, it is imperative to strengthen the Program to improve its organizational capability to facilitate the attainment of its objectives.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution of the Philippines, in order to effect the desired changes and progress in the social, economic and political structure of our Society do hereby order, direct and make as part of the law of the land, the following:

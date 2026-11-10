@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, pursuant to the provisions of Executive Order No. 85, series of 1986, the former Ministry of Human Settlements (MHS) had been abolished and the final disposition and the organizational alignment of its programs and projects, agencies, corporations and councils had been made subject of subsequent issuances;
-WHEREAS, the Bagong Pagkain ng Bayan Program established pursuant to the provisions of Presidential Decree No. 262, as amended - a program under the former Ministry of Human Settlements - had been placed under the Office of the President through Executive Order No. 10, series of 1986;
-WHEREAS, it is necessary to transfer the Bagong Pagkain ng Bayan Program from the Office of the President to the Technology Resource Center; and
-WHEREAS, the President of the Philippines has continuing authority to reorganize the administrative structure of the Office of the President by, among others, transferring any function under the Office of the President to any other department or agency of the Government pursuant to Section 31, Chapter 10, Title III, Book III of the 1987 Administrative Code;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

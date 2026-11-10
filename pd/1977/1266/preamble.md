@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, current trends in development administration require the establishment of closer coordination and linkages between national departments and agencies in carrying out national plans and programs at the regional and local levels;
+WHEREAS, under existing laws, the Department of Finance exercises general supervision over the financial affairs of the local governments and is vested, among others, with the responsibility of adopting and enforcing the necessary policies and measures that will improve local treasury and assessment operations;
+WHEREAS, the Department of Finance has accordingly an important role to play in operationalizing the concepts of regional planning for development in terms of an effective financial management of local funds and resources;
+WHEREAS, to carry out its responsibility in helping attain regional development, it is imperative for the Department of Finance to establish its own regional office in each region of the country for purposes of providing a regional orientation and direction in the exercise of its power of direct supervision over local treasury and assessment offices;
+WHEREAS, it is necessary to provide appropriations for the establishment, operations and maintenance of the regional offices of the Department of Finance, effective immediately;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order, as part of the law of the land, the following provisions:

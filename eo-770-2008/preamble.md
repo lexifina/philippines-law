@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, LOI 1350 institutionalized land use and physical planning in the country and created the National Land Use Committee (NLUC) on 02 August 1983;
-WHEREAS, there is a need to amend LOI 1350 to strengthen the NLUC by elevating it into a National Economic and Development Authority (NEDA) Board Committee;
-WHEREAS, the NLUC, as a NEDA Board Committee, can advise the President and the NEDA Board on all matters concerning land use and physical planning; and decide and resolve land use policy conflicts between or among national government agencies;
-WHEREAS, there is a need to provide for rational utilization and management of the country's land and other physical resources to ensure their optimum use consistent with the principles of sustainable development;
-WHEREAS, the existing national laws on land uses, such as agrarian reform, protected areas, ancestral domain, fisheries, forestry, agricultural modernization, mining and housing, are sector specific and do not address cross-cutting land use issues;
-WHEREAS, population growth and numerous development priorities, such as food security, settlements development, industry and development, environmental protection and infrastructure continue to compete for limited land resources; and
-WHEREAS, pursuant to Executive Order (EO) No. 230, the NEDA is primarily responsible for the coordination of development planning and formulation of continuing, coordinated and fully integrated social and economic policies, plans and programs both at the national and regional levels toward the achievement of sustainable economic growth coupled with an equitable distribution of income and wealth.
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

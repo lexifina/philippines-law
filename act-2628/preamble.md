@@ -1,4 +1,0 @@
-# Preamble
-Whereas in consequence of the great distress from time to time caused among the people by storms, inundations, volcanic eruptions, earthquakes, fires, epidemics, and other events with similar effects, relief committees have occasionally been organized and funds raised, appeal being made in the majority of cases to private charity;
-Whereas it is from every point of view advisable that there be an organization always ready for the relief of the distress of the sufferers in such cases; that the losses' suffered by the persons affected be investigated and as much as possible prevented and mitigated; that private charity be guided and organized, and that public confidence be maintained: Now, therefore,
-By authority of the United States, be it enacted by the Philippine Legislature, that:

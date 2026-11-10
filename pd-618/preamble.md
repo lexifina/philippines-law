@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, under the present provisions of the Reparations Law (Republic Act No. 1789, as amended), the acquisition and use of reparations goods is limited to Filipino citizens and entities wholly owned by Filipino citizens;
-WHEREAS, the same law provides that groups, associations and corporations which are recipient of reparations goods shall not permit a subsequent change in ownership or control as shall at any time thereafter, change the control or ownership wholly held therein by Filipino citizens;
-WHEREAS, entities that have fully paid for their reparations goods are included in, and subject to the above restriction, and cannot, therefore, avail of foreign investments for purposes of expansion and development;
-WHEREAS, due to the scarcity or non-availability of financing from local sources, and in line with the declared policy of the State of encourage foreign investments in certain areas of business activity in order to accelerate the economic development of the country, there is a need to amend the Reparations Law, in order to allow foreign investments in certain cases;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order, and make as part of the law of the land the amendment of Section 12 of Republic Act No. 1789, as amended, as follows:

@@ -1,0 +1,5 @@
+# Article VIII, Section 15
+SECTION 15. (1) All cases or matters filed after the effectivity of this Constitution must be decided or resolved within twenty-four months from date of submission for the Supreme Court, and, unless reduced by the Supreme Court, twelve months for all lower collegiate courts, and three months for all other lower courts.
+(2) A case or matter shall be deemed submitted for decision or resolution upon the filing of the last pending, brief, or memorandum required by the Rules of Court or by the court itself.
+(3) Upon the expiration of the corresponding period, a certification to this effect signed by the Chief Justice or the presiding judge shall forthwith be issued and a copy thereof attached to the record of the case or matter, and served upon the parties. The certification shall state why a decision or resolution has not been rendered or issued within said period.
+(4) Despite the expiration of the applicable mandatory period, the court, without prejudice to such responsibility as may have been incurred in consequence thereof, shall decide or resolve the case or matter submitted thereto for determination, without further delay.

@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, under the amendatory Presidential Decree No. 426, all existing tax ordinances of provinces, cities, municipalities and barrios shall be deemed ipso facto nullified on June 30, 1974 and that the said tax ordinances will be revised or changed entirely to conform with the provisions of the Local Tax Code, as amended;
-WHEREAS, there is an urgent need for a highly qualified and competent body to assist the Secretary of Finance in the review of the new or revised ordinances; and to handle or decide cases of protests or complaints of taxpayers, requests for advice, proper interpretation of certain codal provisions and other related matters;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me under the Constitution, do hereby decree and order the following as part of the law of the land:

@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Philippines is a Contracting Party to the Basic Agreement on the ASEAN Industrial Cooperation Scheme (AICO) signed in Singapore on 27 April 1996;
+WHEREAS, the Philippines is a participating country in the approved AICO Arrangement of Toyota Motor Philippines Corporation and Toyota Autoparts Philippines, Inc., along with Thailand;
+WHEREAS, under the Toyota AICO arrangement, the Philippines (Toyota Motor Philippines Corporation and Toyota Autoparts Philippines, Inc.) will import from Thailand (Toyota Motor Thailand Co. Ltd.) certain original equipment manufacture (OEM) automotive parts/components for Toyota Corolla and Camry passenger cars (HS 8703.90.10). In exchange, Thailand will import from the Philippines complementary parts/components for the OEM of Soluna;
+WHEREAS, AICO Certificate of Eligibility (COE) No. Toyota/2002/28 was issued on 19 December 2002, in favor of the participating companies in the Toyota AICO Arrangement;
+WHEREAS, in consonance with Article 5 and 7 of the Basic Agreement of the AICO Scheme, participating companies in the approved Toyota AICO Arrangement shall qualify for 0 - 5% preferential tariff rates to be extended by Thailand and the Philippines as participating countries;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, pursuant to the powers vested in me under Section 402 of the Tariff and Customs Code of 1978, as amended, do hereby order:

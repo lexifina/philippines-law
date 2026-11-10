@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, in line with the objective of rapid economic growth, it is necessary for the Government to provide massive credit financing for the development and expansion of industry and agriculture;
-WHEREAS, the Development Bank of the Philippines is the primary agency of the Government which provides credit facilities for economic development purposes;
-WHEREAS, under its Charter (Republic Act No. 2081, as amended) the Development Bank of the Philippines has an authorized capital of P3 billion fully subscribed by the Government, of which P1.8 billion has been paid and except for the conversion of 20% of the Bank's annual net income there is no provision for continuous payment of the Government's subscription;
-WHEREAS, the Development Bank of the Philippines is being called upon to meet the funding requirements of high priority economic development projects, specifically the tourist hotel expansion program and food production project;
-WHEREAS, the present provisions of the existing law governing the payment of the Government's subscription to the capital stock of the Bank is not sufficient to allow the Bank to increase its resources to meet the funding requirements of the aforesaid priority projects;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution and in order to effect the desired changes and reforms in the social, economic, and political structure of our Society, de hereby order and decree the further amendment of Republic Act No. 2081, as amended, as follows:

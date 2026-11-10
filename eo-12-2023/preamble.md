@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, Republic Act (RA) No. 11697 or the "Electric Vehicle Industry Development Act," declared it a policy of the State to ensure the country's energy security and independence by reducing reliance on imported fuel for the transportation sector;
-WHEREAS, under RA No. 11697, the State shall provide an enabling environment that permits the development of electric vehicles, including options for micro-mobility as an attractive and feasible mode of transportation;
-WHEREAS, the transportation sector is one of the largest sources of air pollution and energy-related greenhouse gas emissions in the country at 34%, with road transportation accounting for 80% of those emissions;
-WHEREAS, the State has the paramount obligation to protect the health and well-being of the people from the hazards of pollution and greenhouse gases;
-WHEREAS, temporarily modifying the rates of import duty on electric vehicles, and their parts and components, will help boost the electric vehicle market in the country, support the transition to emerging technologies, and encourage consumers to consider electric vehicles as a cleaner and greener transportation option;
-WHEREAS, Section 1608 of RA No. 10863 empowers the President, in the interest of general welfare and national security, and upon recommendation of the National Economic and Development Authority (NEDA), to increase, reduce or remove existing rates of import duty; and
-WHEREAS, on 24 November 2022, the NEDA Board endorsed the temporary reduction of the Most-Favoured Nation (MFN) tariff rates on certain electric vehicles, and their parts and components for a period of five (5) years;
-NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

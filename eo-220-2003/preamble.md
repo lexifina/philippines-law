@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, pursuant to Section 14, Article XII of the Constitution, "the sustained development of a reservoir of national talents consisting of Filipino scientist xxx professionals xxx high-level technical manpower xxx shall be promoted by the State.";(underscoring supplied)
-WHEREAS, good governance is one pillar of a strong republic;
-WHEREAS, by virtue of the provisions of Section 5 and 7(a) of Republic Act No. 8981, otherwise known as the PRC Modernization Act of 2000, the Professional Regulation Commission (PRC), hereinafter called the Commission, is empowered to adopt policies, such as professional standards and principles designed to enhance and maintain high professional, technical, and ethical standards in the practice of the professions;
-WHEREAS, the adoption of the Code of Good Governance will promote and establish ethical awareness and competency among Filipino professionals to make them accountable to their public liability and fully fulfill their professional obligation to their clients; and
-WHEREAS, the Code will empower professionals not only to upgrade or improve their technical and ethical proficiency but also to keep them abreast with modern trends and technology in their respective professions, thereby assuring the highly qualitative and globally-competitive professional services, and secure the safety and protection of the public.
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

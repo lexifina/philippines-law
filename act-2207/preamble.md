@@ -1,5 +1,0 @@
-# Preamble
-Whereas, by section one of Act Numbered Twelve hundred and eighty-eight, registers of deeds, or provincial treasurers performing the duties of register of deeds, were authorized and directed to perform the duties of commercial register, as defined in Title II of the Code of Commerce; and
-Whereas, notwithstanding this provision, Enrique Barrera y Caldes, who was then performing the duties of commercial register for the city of Manila, under the advice of his superior officers to the effect that such provision did not affect the commercial register for the city of Manila, continued to perform the duties of such commercial register, and in his absence substitutes were appointed in his place by the Executive Secretary; and
-Whereas, in view of the provisions of said section one of Act Numbered Twelve hundred and eighty-eight, doubts have arisen as to whether or not the acts performed by Enrique Barrera y Caldes, and by his substitutes as commercial register, were legal after the taking effect of said Act: Now therefore,
-By authority of the United States, be it enacted by the Philippine Legislature, that:

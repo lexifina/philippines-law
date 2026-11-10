@@ -1,0 +1,11 @@
+# Act No. 1614: AN ACT AMENDING SECTION ONE OF ACT NUMBERED THIRTEEN HUNDRED AND NINETY-THREE, ENTITLED "AN ACT PROVIDING FOR THE WIDENING OF THE STREETS AND THE ADJUSTMENT OF OWNERSHIP OF LAND LOCATED WITHIN CERTAIN SPECIFIED LIMITS IN THE MUNICIPALITY OF CEBU, PROVINCE OF CEBU," BY PROVIDING A CHANGE IN THE PERSONNEL OF THE COMMITTEE APPOINTED BY RESOLUTION OF THE PHILIPPINE COMMISSION OF MARCH TWENTY-FIRST, NINETEEN HUNDRED AND FIVE, AND INSERTING A NEW PARAGRAPH IN SAID ACT AUTHORIZING CLERICAL ASSISTANCE
+
+Act 1614 · 1 versions, from 1907-03-18 (latest in force: 1907-03-18) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/19967>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |

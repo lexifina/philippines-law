@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, among the export products of the Philippines, sugar has proven to be one of the biggest and most reliable sources of foreign exchange earnings, accounting for an industry average of US$450 million annually for the last ten years;
+WHEREAS, many of the obligations of the sugar mills, refineries and other sugar facilities acquired after the war at heavy financing cost to rehabilitate the damaged sugar industry remain unpaid and in arrears, creating an onerous burden not only to their owners but to the local financing institutions;
+WHEREAS, in view of their vital role in our economy, it is hereby declared as a governmental policy to continue assisting the sugar industry through a government corporation especially charged and empowered to design and implement a program for sugar mills, refineries and other sugar facilities;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, hereby order and decree:

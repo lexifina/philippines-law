@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the current rates of fees and other charges being collected by the Philippine Constabulary/Integrated National Police on firearms, explosives and explosives ingredients, security agencies and security guards are not sufficient to cover administrative costs and other expenses incurred for services rendered in connection therewith;
-WHEREAS, the revision of the rates of existing fees and other charges on firearms, explosives and explosives ingredient, security agencies and security guards and the imposition of new ones will provide the necessary financial support to meet the increasing cost of administrative services of, and regulation by the Philippine Constabulary/Integrated National Police;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

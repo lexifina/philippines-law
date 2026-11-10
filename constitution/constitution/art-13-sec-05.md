@@ -1,0 +1,2 @@
+# Article XIII, Section 5
+SECTION 5. The State shall recognize the right of farmers, farmworkers, and landowners, as well as cooperatives, and other independent farmers' organizations to participate in the planning, organization, and management of the program, and shall provide support to agriculture through appropriate technology and research, and adequate financial, production, marketing, and other support services.

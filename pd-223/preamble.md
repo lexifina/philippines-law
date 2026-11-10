@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the regulations of the various professions presently regulated by the Office of the Boards of Examiners is so extensive, practically covering all social and economic life of the country;
-WHEREAS, the existence of the Boards of Examiners is misconstrued for a number of years now as nothing more than an examining unit, though all the professional laws creating the various Boards have charged them with the supervision and regulation over the professional practice in the Philippines; and
-WHEREAS, to effectively enforce the laws regulating the various professions, there is an urgent need to create a three-man Commission to administer, implement, coordinate and supervise the various Boards of Examiners;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree:

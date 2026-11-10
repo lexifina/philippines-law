@@ -1,9 +1,0 @@
-# Act No. 1927: AN ACT MAKING AN ADDITION TO SECTION ONE OF ACT NUMBERED EIGHTEEN HUNDRED AND THIRTY-NINE, PROVIDING THAT THE THIRD MEMBERS OF PROVINCIAL BOARDS, CREATED BY ACT NUMBERED FIFTEEN HUNDRED AND FORTY-FIVE, SHALL BE REIMBURSED THEIR ACTUAL AND NECESSARY TRAVELING EXPENSES WHEN ATTENDING THE SESSIONS OF THE PROVINCIAL BOARD, IF SUCH MEMBERS RESIDE AT A PLACE OTHER THAN THE SEAT OF THE PROVINCIAL GOVERNMENT
-
-Act 1927 · 1 versions, from 1909-05-20 (latest in force: 1909-05-20) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/13306>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, in preparation for its participation in the United Nations General Assembly Special Session on the World Summit delineating the Goals for Children to be held on September 2001, there is a need for the Philippines to immediately hold a National Summit on Children, which shall take the form of a one-day consultative conference to be participated in by children and adult representatives from multi-sectoral governmental and non-governmental organizations from various regions of the country;
+WHEREAS, the above-mentioned National Summit will give the President of the Republic of the Philippines a suitable opportunity to launch the Philippine National Development Plan for Children (otherwise known as "Child 21") and to deliver his State of the Filipino Child address;
+WHEREAS, it is indeed appropriate for the above-mentioned National Summit to be held in October 2000, as the month of October is widely regarded as the month for children;
+WHEREAS, this Administration is committed to the protection, survival, and development of Filipino children;
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order the following:

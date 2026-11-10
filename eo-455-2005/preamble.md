@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, on 8 November 2004, the President issued Executive Order No. 386 placing the Philippine Charity Sweepstakes Office ('PCSO) under the control and supervision of the Department of Social Welfare and Development ("DSWD");
-WHEREAS, pursuant to its charter, the PCSO is the principal government agency in charge of raising and providing funds for health programs, medical assistance and services and charities of national character;
-WHEREAS, the Department of Health ("DOH") is primarily responsible for the formulation, planning, implementation and coordination of policies and programs in the field of health, with the primary function of promoting, protecting, preserving or restoring the health of the people through the provision and delivery of health services and through the regulation and encouragement of providers of health goods and services;
-WHEREAS, to facilitate coordination of policies and programs between these agencies with a few to ensuring the effective and aggressive implementation of the health programs of the government, it is necessary and practical to transfer control and supervision over the PCSO from DSWD to the DOH;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

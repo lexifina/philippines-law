@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Section 4 of Presidential Decree No. 971 directs the immediate preventive suspension of members of the Integrated National Police who are charged in court pending final decision by the court of their cases;
-WHEREAS, court records reveal that a significant number of criminal cases filed against members of the Integrated National Police resulted in the acquittal of the accused, fov the reason that a large number of these cases were filed for purposes of harassment or to obtain leverage for settlement;
-WHEREAS, the existing procedure has proven to be prejudicial to the public interest since the automatic preventive suspension of members of the Integrated National Police charged in court unduly deprives the police service of personnel who could otherwise perform their duties and responsibilities, and onerous to public finance, since upon acquittal, the accused are by law authorized to receive back salaries corresponding to the period of their preventive suspension; and
-WHEREAS, there is a need to adopt a judicious procedure in the issuance of suspension orders with the end in view of limiting preventive suspension only to cases where public interest so requires;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree the following:

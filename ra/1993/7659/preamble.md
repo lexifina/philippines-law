@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Constitution, specifically Article III, Section 19, paragraph (1) thereof, states "Excessive fines shall not be imposed nor cruel, degrading or inhuman punishment inflicted. Neither shall death penalty be imposed, unless, for compelling reasons involving heinous crimes, the Congress hereafter provides for it….";
+WHEREAS, the crimes punishable by death under this Act are heinous for being grievous, odious and hateful offenses and which, by reason of their inherent or manifest wickedness, viciousness, atrocity and perversity are repugnant and outrageous to the common standards and norms of decency and morality in a just, civilized and ordered society;
+WHEREAS, due to the alarming upsurge of such crimes which has resulted not only in the loss of human lives and wanton destruction of property but has also affected the nation's efforts towards sustainable economic development and prosperity while at the same time has undermined the people's faith in the Government and the latter's ability to maintain peace and order in the country;
+WHEREAS, the Congress, in the interest of justice, public order and the rule of law, and the need to rationalize and harmonize the penal sanctions for heinous crimes, finds compelling reasons to impose the death penalty for said crimes:
+Now, therefore,
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

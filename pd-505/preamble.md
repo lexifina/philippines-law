@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, a port is not only a vital link in the total transportation and trade system, but a major factor in harnessing the human and natural resources of a region in the total context of National Development;
-WHEREAS, harbors and the tributary areas have their own peculiar potentialities to be considered in port development;
-WHEREAS, the concept of port administration has in this country been focused on the traditional functions of revenue collection, harbor maintenance and cargo handling, to the exclusion of the port's fuller utilization and development as a spur for regional growth;
-WHEREAS, it is perceived that the broader role of ports goes beyond the function of serving as the hub of maritime trade but extends to the wider area of acting as a catalyst that may hasten the expansion of the economic development of an area;
-WHEREAS, there is need to integrate and coordinate port development at the national level and at the same time promote the growth of autonomous regional port development bodies responsive to the needs of their individual localities;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, in order to effect the desired changes and reforms in the social economic and political structure of our society, do hereby decree and order that the following be adopted and made part of the laws of the land;

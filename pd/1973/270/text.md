@@ -1,0 +1,7 @@
+# Text
+WHEREAS, many corporations which have surplus profits even in excess of 100% of the paid-up capital stock do not declare the same as dividends to stockholders;
+WHEREAS, this failure to declare dividends when corporations are able to do so stultifies investors interest in channelling their investible funds in equities even of productive industries and enterprises and thereby retards the economic growth and development of the country; and
+WHEREAS, a more favorable and healthier climate for investments would be promoted if stockholders are able to share in the profits of corporations whenever possible, the same not being subject to the absolute or arbitrary action of management on the matter;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972 and General Order No. 1, dated September 22, 1972, as amended do hereby order and decree as part of the law of the land the following:
+1. All corporations which have surplus profits in excess of necessary requirements for capital expansion and reserves shall declare and distribute the excess profits as dividends to stockholders, pursuant to such rules and regulations as the Securities and Exchange Commission, which is hereby authorized to promulgate, may issue with the approval of the Secretary of Trade.
+2. This Decree shall take effect immediately.

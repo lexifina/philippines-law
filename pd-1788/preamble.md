@@ -1,5 +1,0 @@
-# Preamble
-Amending and consolidating Republic Act Nos. 3470 and 5326 and Presidential Decree No. 817 and other related law, Decrees, Executive Orders, Letters of Instruction and Acts concerning the National Cottage Industries Development Authority and for other purposes.
-WHEREAS, cottage industry development and promotion is the appropriate vehicle along the thrust of developing the countryside because of its high labor intensity, low investment requirements and adaptability to Philippine conditions owing to our abundant raw materials and superior craftsmanship;
-WHEREAS, it is of strategic importance to further develop and vitalize the cottage industry sector to maintain the stability of our economy and to accelerate the pace of industrialization;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order the following to be the revised charter of the National Cottage Industries Development Authority:

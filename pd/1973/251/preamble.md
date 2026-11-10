@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, there is imperative need for immediate implementation of agrarian reform envisioned under Presidential Decree Nos. 27 and 85, dated October 21, 1972 and December 25, 1972, respectively;
+WHEREAS, the implementation of such a revolutionary program of rural change demands an effective administrative machinery financially and organizationally equipped to mobilize and harness properly all available government resources for the realization of desired agrarian reform; and
+WHEREAS, the Land Bank, the only financial institution established for agrarian reform, is presently deficient and inadequate both in capitalization and in organization structure to meet the implementation requirements of the agrarian reform program;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree:

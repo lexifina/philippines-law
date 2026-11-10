@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Republic of the Philippines, on January 16, 1968, became a signatory to the Agreement establishing the Southeast Asian Fisheries Development Center (SEAFDEC);
-WHEREAS, the SEAFDEC Council, at its Sixth Meeting held at Kuala Lumpur (Malaysia) on July 3-7, 1973, approved the formal establishment of its Aquaculture Department in the Province of Iloilo, Philippines;
-WHEREAS, the SEAFDEC Aquaculture Department is designed to promote research in aquaculture, especially in the production of prawns and shrimps, undertake the corresponding training programs for fisheries experts and technicians, and disseminate information on fisheries research and development for SEAFDEC member-countries in Southeast Asia; and
-WHEREAS, the establishment of the SEAFDEC Aquaculture Department in the Philippines will directly and immediately stimulate the development of the Fisheries industry in the country, as well as in neighboring nations in Southeast Asia;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, do hereby decree, order and make as part of the law of the land the following measure:

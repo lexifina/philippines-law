@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the San Pedro Tunasan Estate, now known as the Laguna Resettlement Project, located at San Pedro, Laguna, and containing an area of 850 hectares, more or less, was acquired on August 28, 1954 by the Government, through the National Resettlement and Rehabilitation Administration (NARRA), for redistribution and resale to, and agricultural development and cultivation by, the bonafide tenants/occupants therein;
-WHEREAS, in spite of years of occupation and cultivation, the Estate has remained unproductive because it is rocky, rolling and unirrigated and its thin layer of soil in certain areas is not conducive to agricultural development;
-WHEREAS, in studies made on land capability and use by the Department of Agrarian Reform and other agencies, it has been established that the Estate is more suitable to residential, commercial or industrial, or other non-agricultural uses;
-WHEREAS, around the Estate are urban development projects of various categories such as residential subdivisions, commercial and industrial establishments;
-WHEREAS, the rational utilization of the Estate for residential, commercial or industrial and other non-agricultural purposes will bring about decongestion of Metro Manila through the establishment of law-cost housing projects and the dispersal of industrial or commercial enterprises.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

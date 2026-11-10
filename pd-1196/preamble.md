@@ -1,3 +1,0 @@
-# Preamble
-WHEREAS, it has been the clamor of the residents of certain barangays in the municipalities of Angat, Norzagaray and San Miguel, Bulacan, with the conformity of prominent and ruling community leaders of the locality, as well as the local elective officials, to form their barangays into a new municipality, a human settlement that will have self-sufficient ability and viable capability to administer its own local affairs and render adequate services to its residents through a systematic protection and tapping of its reserves and resources;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitutions, do hereby order and decree, as part of the law of the land, the following:

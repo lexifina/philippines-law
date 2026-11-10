@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the 1976 Amendments to the Constitution abolished the interim National Assembly and in lieu there­ of created the interim Batasang Pambansa, the members of which "include the incumbent President of the Philip­ pines, representatives elected from the different regions of the nation, those who shall not be less than eighteen years of age elected by their respective sectors, and those chosen by the incumbent President from the members of the Cabinet";
-WHEREAS, the elective local officials whose terms of office expired on December 31, 1975 were allowed to con­ tinue in office, subject to the pleasure of the President;
-WHEREAS, elections to enable the people to choose the officials who shall manage the affairs of government in the national and local levels may now be held;
-WHEREAS, there is a need to promulgate a new election code to govern the conduct of elections under the 1973. Constitution and its amendments, codify the laws on the matter, repeal obsolete ones and ensure the holding of free, orderly and honest elections, in consonance with the theory and practice of the New Society;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, Presi­ dent of the Philippines, by virtue of the powers in me Tested by the Constitution, do hereby promulgate the following Decree as part of the law of the land:

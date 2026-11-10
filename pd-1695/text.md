@@ -1,7 +1,0 @@
-# Text
-WHEREAS, in view of its limited financial resources and lack of technical expertise, Mankayan Mineral Development Co., Inc. has not developed, utilized and exploited the area awarded to it under Presidential Decree No. 1213;
-WHEREAS, recognizing that mineral production is a major support of the national economy, the accelerated development and exploitation of the aforementioned area is urgently needed for national development;
-WHEREAS, Tirad Minerals, Inc., possessing firm commitments from local and foreign institution for the financial requirements and technical competence to put the area into immediate commercial production desires to take over its development and exploitation; and
-WHEREAS, it is felt that immediate mining operations can be undertaken thereon by Tirad Minerals, Inc. rather than have the same operated as a mineral reservation;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order that Presidential Decree No. 1213 is hereby amended in that the development, exploitation and utilization of the minerals found in the area embraced by Presidential Decree No. 1213 be undertaken by Tirad Minerals, Inc., subject to existing private rights, if any, and to existing policies, laws and rules and regulations pertinent thereto.
-This Decree shall take effect immediately.

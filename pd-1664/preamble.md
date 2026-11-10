@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Commission on Elections has reported the enthusiastic response of qualified voters to register in the voting center level registration held on January 19 and 20, 1980, especially from those who have newly qualified as voters;
-WHEREAS, under Section 8 of Batas Pambansa Blg. 52, registration of voters conducted by election registrars under the continuing system and by the Citizens' Election Committees both ended on January 20, 1980, so that unless additional days for registration are provided, many qualified voters may not be able to participate in the election and plebiscite;
-WHEREAS, the January 30, 1980 election for local officials will be the first to be held since 1971, there is need to maximize the registration of voters to assure that the results of the election and plebiscite will be truly reflective of the will of the people;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Philippine Reference System of 1992 (PRS 92) was adopted as the new standard reference of all surveying and mapping activities in the country pursuant to Executive Order No. 45, dated 5 January, 1993, due to the inability and inadequacy of the old system to meet the demands for highly accurate surveying and mapping programs of the government and to solve overlapping boundaries, land disputes/conflicts, and other land problem issues.
-WHEREAS, the new System was also envisioned to support sustainable management and development of Environment and Natural Resources, and to establish more accurate special positioning for infrastructure activities;
-WHEREAS, it is foreseen that the mandatory full implementation of the PRS 92 as standard reference of all surveying and mapping activities in the country by the year 2000 is impossible to attain due to some constraints.
-NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

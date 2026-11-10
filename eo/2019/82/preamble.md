@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, Executive Order No. 23 {s. 2017) extended the temporary reduced rate of duty on certain agricultural products under Republic Act (RA) No. 10863, otherwise known as the Customs Modernization and Tariff Act, relative to the commitments of the Philippines under the World Trade Organization (WTO) decision on waiver concerning the Special Treatment for rice of the country;
+WHEREAS, under EO No. 23, the reduced rates of duty on certain agricultural products, including mechanically deboned meat of chicken and turkey, and turkey meat and its offals, shall be applicable until 30 June 2020 or until such time that a law amending the provisions of RA No. 8178 on rice tariffication is enacted, whichever comes first;
+WHEREAS, RA No. 11203 otherwise known as the Rice Tariffication Law, which liberalized the trading of rice and lifted the quantitative restrictions f|n the same, was signed into law on 14 February 2019;
+WHEREAS, the present economic condition warrants the continued application of the reduced rate of duties on certain agricultural products to mitigate the impact of high prices of goods;
+WHEREAS, Section 1608 of RA No. 10863 authorizes the President of the Philippines, upon the recommendation of the National Economic and Development Authority (NEDA), to increase, reduce or remove existing rates of import duty; and
+WHEREAS, the NEDA Board recommends the maintenance of the tariff rates under EO No. 23 for mechanically deboned meat of chicken and turkey, and turkey meat and its offals;
+NOW, THEREFORE, I, RODRIGO ROADUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

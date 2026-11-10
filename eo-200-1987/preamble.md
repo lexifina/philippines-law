@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Article 2 of the Civil Code partly provides that "laws shall take effect after fifteen days following the completion of their publication in the Official Gazette, unless it is otherwise provided x x x;"
-WHEREAS, the requirement that for laws to be effective only a publication thereof in the Official Gazette will suffice has entailed some problems, a point recognized by the Supreme Court in Tañada, et. al. vs. Tuvera, et. al. (G.R. No. 63915, December 29, 1986) when it observed that "[t]here is much to be said of the view that the publication need not be made in the Official Gazette, considering its erratic release and limited readership";
-WHEREAS, it was likewise observed that "[u]ndoubtedly, newspapers of general circulation could better perform the function of communicating the laws to the people as such periodicals are more easily available, have a wider readership, and come out regularly"; and
-WHEREAS, in view of the foregoing premises Article 2 of the Civil Code should accordingly be amended so that laws to be effective must be published either in the Official Gazette or in a newspaper of general circulation in the country;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

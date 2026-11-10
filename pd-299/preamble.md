@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, barangays (citizens assemblies) have been created throughout the land to broaden the base of citizen participation in the democratic process and to afford ample opportunities for the citizenry to express their views on vital national issues;
-WHEREAS, the responsibility for the successful operation of the various barangays (citizens assemblies) has been reposed on the barrio captains and council members in municipal districts, municipalities or chartered cities where there are barrios or on the barangay chairman and barangay leaders where there are no barrios existing;
-WHEREAS, the barangay chairman and the barangay leaders as responsible officials of the barangay (citizens assembly) have been vested with same authority and/or responsibility as that of the barrio captain and the council members, respectively; and
-WHEREAS, there is a need to safeguard their persons against harm or injury as not to hamper their movement while in the prosecution of the objectives of the barangays (citizens assemblies);
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22,1972, as amended, and in order to effect the desired changes and reforms in the social, economic and political structure in our society, do hereby order and decree the amendment of Act No. 3815, as amended, as
-follows:

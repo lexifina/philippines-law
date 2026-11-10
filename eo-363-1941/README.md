@@ -1,7 +1,0 @@
-# Executive Order No. 363 (1941): ORDERING THE TRANSMISSION FREE OF CHARGE OVER ALL GOVERNMENT ELECTRICAL COMMUNICATION SYSTEMS FOR THE DURATION OF THE PRESENT EMERGENCY OF ALL MESSAGES CONCERNING WEATHER CONDITIONS AND THOSE RELATING TO THE ENFORCEMENT OF THE NEUTRALITY RULES AND REGULATIONS OF THE UNITED STATES
-
-EO 363 (1941) · 1 versions, from 1941-08-20 (latest in force: 1941-08-20) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/84428>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Text | [text.md](text.md) | 0 |  |

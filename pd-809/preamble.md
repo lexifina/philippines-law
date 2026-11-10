@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, pursuant to the provisions of Commonwealth Act No. 485, as amended, the land and improvements on which the court and stadium for Basque pelota are established shall, twenty-five years after the first game of Basque pelota was played with bets, become the property of the Government of the Philippines;
-WHEREAS, there is a need for continuity of the game of Basque pelota in view of its potentials in the field of sports development and tourism appeal;
-WHEREAS, to properly motivate the private sector to operate and maintain the court and facilities for the staging of Basque pelota which necessitates substantial investments involving a long-term risk exposure, the Government deems it necessary that the capable segments of the private sector be adequately assured of permanent tenure over the land where the court facilities and stadium are established;
-WHEREAS, to facilitate the disposition of said land including improvements thereon, there is a need to transfer ownership and title thereof to the National Development Company.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution of the Philippines, hereby decree as follows:

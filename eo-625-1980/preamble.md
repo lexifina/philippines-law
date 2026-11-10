@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the field of geological sciences assumes a prominent role in the country's urgent search for more energy and mineral resources as well as in the popular concern for environmental protection and conservation;
-WHEREAS, local efforts in the field of geological sciences are handled by several government agencies and institutions;
-WHEREAS, international programs and activities in the geological sciences involving Philippine participation require the unified planning and action by several government agencies and institutions concerned;
-WHEREAS, the creation of a coordinating body involving the government agencies and institutions concerned would provide a vehicle for the systematic planning and deliberation of national programs in the geological sciences as well as Philippine participation in international geological activities; eliminate undue duplication of efforts and expenditures; facilitate data exchange and monitoring; and provide government policy makers on advisory body concerning developments in the geological sciences;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and ordain the following:

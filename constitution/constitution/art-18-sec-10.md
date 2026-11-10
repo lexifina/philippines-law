@@ -1,0 +1,2 @@
+# Article XVIII, Section 10
+SECTION 10. All courts existing at the time of the ratification of this Constitution shall continue to exercise their jurisdiction, until otherwise provided by law. The provisions of the existing Rules of Court, judiciary acts, and procedural laws not inconsistent with this Constitution shall remain operative unless amended or repealed by the Supreme Court or the Congress.

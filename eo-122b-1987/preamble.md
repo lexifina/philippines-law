@@ -1,6 +1,0 @@
-# Preamble
-RECALLING that the reorganization of the government is mandated expressly in Article II, Section I (a), and Article III of the Freedom Constitution;
-HAVING IN MIND that, pursuant to Executive Order No. 5 (1986), it is directed that necessary and proper changes in the organizational and functional structures of the government, its agencies and instrumentalities, be effected in order to promote efficiency and effectiveness in the delivery of public services;
-BELIEVING that the new government is committed to formulate more vigorous policies, plans, programs and projects for Tribal Filipinos, otherwise known as Indigenous Cultural Communities, taking into consideration their communal aspirations, customs, traditions, beliefs and interest in order to promote and preserve their rich cultural heritage and insure their participation in the country's development for national unity;
-AFFIRMING that the creation of a specialized agency duly vested with appropriate powers and functions has become necessary to effectively implement such policies, plans, programs and projects;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtues of the powers vested in me by the sovereign will of the Filipino People and the Freedom Constitution, do hereby order:

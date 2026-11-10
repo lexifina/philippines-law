@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree No. 393 appropriated the sum of P185 Million out of the funds for rehabilitation, improvement and betterment of the Highways Special Fund for use exclusively for the liquidation of the obligation of the Bureau of Public Highways to the Philippine National Bank in connection with the purchase of heavy construction equipment under the Deferred Payment Plan;
-WHEREAS, after liquidating the obligation of the Bureau of Public Highways to the Philippine National Bank in connection with these purchases of construction equipment under the Deferred Payment Plan, there still remains a balance of P18,761,828.58 of the total amount previously appropriated;
-WHEREAS, aside from the obligation of the Bureau of Public Highways to the Philippine National Bank in connection with the purchase of heavy equipment under the Deferred Payment Plan, the Department of Public Highways has also other outstanding obligations with the Philippine National Bank;
-WHEREAS, in order to enable the Department of Public Highways to liquidate these other outstanding obligations, it is necessary to provide the necessary funds;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order:

@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, it is the declared policy of the Government to provide more protection and assistance to small settlers and landholders and members of cultural minorities in their struggle for recognition of their right to the land which they occupy;
+WHEREAS, social unrest, which sometimes precipitates clashes among our people, often results from long-drawn disputes between big landholders and poor, landless settlers, or between Christians and members of our cultural minorities;
+WHEREAS, there is an urgent need to direct and coordinate the activities, particularly the investigation work, of the various government agencies involved in land problems to ensure their speedy, peaceful and satisfactory solution;
+WHEREAS, the successful intercession of the PACLAP in many serious and critical land problems has proved the efficacy of an action-oriented approach to the solution of these problems, and the necessity of continuing its work in potential land-problem areas;
+WHEREAS, there is a need to reconstitute the membership of the PACLAP due to the implementation of the Integrated Reorganization Plan and the reorganization of the Department of Agricultural and Natural Resources into two departments;
+NOW, THEEEFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree to be part of the law of the land, the following:

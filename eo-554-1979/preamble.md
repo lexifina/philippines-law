@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, in accordance with simple humanity the Filipino people and their government are ready to render assistance in the processing of refugees specially from Vietnam;
-WHEREAS, as a responsible member of the United Nations, this country has supported UN efforts to assist refugees provided such support is consistent with international law and practice and the Philippines' national laws and interests;
-WHEREAS, the United Nations High Commission for Refugees has sought the cooperation of the Philippine government in the temporary lodging of such refugees prior to their final resettlement in other countries and the Philippines has agreed to set up such a processing center provided that costs shall not be borne by the Philippines and there will be no residual refugees left in such processing center;
-NOW, THEREFORE, I, FERDINAND, E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, and in order to effect the needed assistance to refugees reaching the Philippines, do hereby order:

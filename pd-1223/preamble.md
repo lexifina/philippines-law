@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, as provided under Presidential Decree No. 1187, the only government officials or employees who may qualify for appointment as chairmen and members of the Citizens' Registration Committee are public school teachers and members of the barangay council recommended by the barangay captain;
-WHEREAS, there is justification to broaden the field of choice from which to appoint the chairmen and members of the Citizens' Registration Committees so as to qualify therefor all other government officials and employees covered by Letter of Instructions No. 559 including members of the barangay council, the Buklod ng mga Kabataang Kawani of the Commission on Civil Service and the officials of the Kabataang Barangays;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested in the Constitution, hereby decree:

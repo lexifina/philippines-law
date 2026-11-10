@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the coconut farmers are perennially beset with credit problems which hinder the growth and development of the coconut industry;
-WHEREAS, under Presidential Decree No. 232, as amended, the Philippine Coconut Authority (PCA) is enjoined to formulate and recommend for adoption credit policies affecting production, marketing and processing of coconut and other palm oils;
-WHEREAS, in compliance with its prescribed duty, the Philippine Coconut Authority has ascertained, in response to the appeal of coconut farmers conveyed in a resolution of the Board of Directors of the Philippine Coconut Producers Federation dated May 17, 1975, that ownership by the coconut farmers of a commercial bank is a permanent solution to their perennial credit problems;
-WHEREAS, an operating commercial bank owned by the coconut farmers will accelerate the growth and development of the coconut industry and achieve a vertical integration thereof so that coconut farmers will become participants in, and beneficiaries of, such growth and development;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby decree and order as follows:

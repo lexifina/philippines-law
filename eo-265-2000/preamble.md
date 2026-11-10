@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the government is committed to carry out, in pursuance of "Angat Pinoy 2004", or the Medium-Term Philippine Development Plan, 1999-2004, wide-ranging administrative reforms to enhance government efficiency and effectiveness in government operations and in the delivery of basic services to the public;
-WHEREAS, these reforms are being pursued particularly in fiscal and financial management, procurement, education and manpower service delivery;
-WHEREAS, the wider use and application of information and communications technology offer tremendous opportunities for government to ensure the success of these reforms;
-WHEREAS, the National Information Technology Council (NITC), the policy advisory body on information and communications technology in the country, has formulated, in close consultation with concerned government agencies, the private sector, local government units, academe, and members of Congress, and accordingly endorsed a government information systems plan that will serve as blueprint for the computerization of vital government operations and key front-line services for more effective governance;
-WHEREAS, the NITC and the Electronic Commerce Promotion Council, created pursuant to Executive Order 468, dated 23 February 1998, have been merged into the Information Technology and Electronic Commerce Council (ITECC);
-NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Philippines, by virtue of the powers vested in me by law, do hereby order as follows:

@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the formulation and coordination of investment policies of government financial institutions should be closely linked with financial planning for major national projects so as to secure the optimum use of resources available from such institutions as well as those available from the national government and foreign sources within the context of approved development plans and programs;
-WHEREAS, there is a need to evaluate the fiscal, monetary and balance of payments implications of major national projects and recommend to the President the timetable of the implementation of these projects on a regular basis, particularly those that require foreign financing assistance;
-WHEREAS, there is a need to streamline and coordinate the existing organizational mechanisms for the performance of all these tasks in order to avoid unnecessary duplication of functions; and
-WHEREAS, there is also a need to institute a system of making the organizational structure of the various committees attached to the NEDA sufficiently flexible to cope with fast-changing developments in the areas of activities that the committees are responsible for.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the constitution, do hereby order and decree:

@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, under Section 9, Article II of the New Constitution, the State shall among other policies, afford protection to labor, promote full employment and equality in employment, ensure equal work opportunities regardless of sex, race, or creed, and regulate the relations between workers and employers;
+WHEREAS, there is an urgent need to translate these policies into meaningful reality consistent with the demands of national development particularly insofar as the employment of women and minors is concerned; and
+WHEREAS, to effect these objectives, it is necessary to amend further Republic Act No. 679, commonly known as the Woman and Child Labor Law;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby amend certain sections or provisions of R.A. No. 679, as amended, to wit:

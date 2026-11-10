@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Manila International Airport as the principal airport of the Philippines for both international and domestic air traffic, is required to provide standards of airport accommodation and service comparable with the best airports in the world;
-WHEREAS, domestic and other terminals, general aviation and other facilities, have to be upgraded to meet the current and future air traffic and other demands of aviation in Metro Manila;
-WHEREAS, a management and organization study has indicated that the objectives of providing high standards of accommodation and service within the context of a financially viable operation, will best be achieved by a separate and autonomous body;
-WHEREAS, under Presidential Decree No. 1416, as amended by Presidential Decree No. 1772, the President of the Philippines is given continuing authority to reorganize the National Government, which authority includes the creation of new entities, agencies and instrumentalities of the Government;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, and pursuant to the authority vested in me by Presidential Decree No. 1416, as amended, do hereby order:

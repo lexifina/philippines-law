@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, under Presidential Decree No. 907 I granted civil service eligibilities to honor graduates from schools, colleges and universities deemed to be in good standing by the Secretary of Education and Culture to encourage the accession of competent and qualified people into the civil service;
+WHEREAS, considering that this rationale would apply equally to other honor graduates, I have deemed it wise and proper to extend the benefits of the Decree to honor graduates of schoolyears previous to schoolyear 1972-73; Now, therefore, I, Ferdinand E. Marcos, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order that:

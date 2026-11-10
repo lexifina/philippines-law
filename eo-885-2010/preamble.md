@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, the Philippines is a signatory to the United Nations Educations, Scientific and Cultural Organization Florence Agreement;
-WHEREAS, the agreement aims to advance the mutual knowledge and understanding of people through all means of mass communication, promote the free flow of ideas by word and image and to achieve the widest possible dissemination of the diverse forms of self-expression;
-WHEREAS, the Philippines, as signatory to the Agreement, undertakes "not to apply customs duties or other charges on, or in connection with, the importation of (a) books, publications and documents, listed in Annex A to this Agreement; (b) educational, scientific and cultural materials, listed in Annexes B, C, D and E of this Agreement; which are the products of another Contracting State, subject to the conditions laid down in those annexes";
-WHEREAS, pursuant to RA 8047 (Book Publishing Industry Development Act), the continuing development of the book publishing industry is encouraged to ensure adequate supply of quality and affordable books;
-WHEREAS, the elimination of duty on books will promote and strengthen the development of education in the Philippines which is the key to a better life;
-WHEREAS, Section 401 of the Tariff and Customs Code of 1978 (Presidential Decree No. 1464), as amended, empowers the President of the Republic of the Philippines to increase, reduce or remove existing rates of import duty, as well as to modify the form of duty and tariff nomenclature, under Section 104 of the Code.
-NOW, THEREFORE, I, GLORIA-MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

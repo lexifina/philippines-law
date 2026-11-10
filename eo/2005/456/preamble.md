@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, Executive Order No. 364 dated 27 September 2004 transformed the Department of Agrarian Reform in the Department of Land Reform;
+WHEREAS, Republic Act No. 6657 otherwise known as the Comprehensive Agrarian Reform Law defines agrarian reform as the redistribution of lands, regardless of crops or fruits produced, to farmers and regular farm workers who are landless, irrespective of tenurial arrangement, to include the totality of factors and support services designed to lift the economic status of the beneficiaries and all other arrangements alternative to physical redistribution of lands, such as production or profit sharing, labor administration, and the distribution of shares of stocks, which will allow beneficiaries to receive a just share of the fruits of the lands they work;
+WHEREAS, the Comprehensive Agrarian Reform Law goes beyond just land reform but includes the totality of all factors and support services designed to lift the economic status of the beneficiaries;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

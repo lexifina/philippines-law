@@ -1,7 +1,0 @@
-# Presidential Decree No. 747: PROVIDING FOR THE CONVERSION OF THE LONG-TERM OBLIGATIONS OF THE NATIONAL DEVELOPMENT COMPANY WITH THE NATIONAL TREASURY AS ADDITIONAL SUBSCRIPTION OF THE NATIONAL GOVERNMENT TO THE INCREASED CAPITALIZATION OF THE NATIONAL DEVELOPMENT COMPANY AS PROVIDED FOR UNDER PRESIDENTIAL DECREE NO. 668
-
-PD 747 · 1 versions, from 1975-07-15 (latest in force: 1975-07-15) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/19624>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Text | [text.md](text.md) | 0 |  |

@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Section 1, Article XIV of the 1987 Constitution provides that the State shall protect and promote the right of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all;
-WHEREAS, it is a declared policy of the State to promote education as a means to achieve and maintain an accelerating rate of economic development and social progress;
-WHEREAS, the Hondagua National High School (HNHS) is a National High School under the supervision of the Department of Education (DepEd) which is currently situated in a real property leased from and owned by the Philippine National Railways (PNR) hereinafter, the "Hondagua Property");
-WHEREAS, in order for the DepEd to appropriate a budget and allocate funds for the development of the HNHS as a complete and adequate educational institution, particularly for the construction of school buildings, acquisition of equipment and other facilities, there is a need to transfer ownership over the Hondagua Property from the PNR to the HNHS;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

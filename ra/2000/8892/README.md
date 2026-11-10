@@ -1,0 +1,12 @@
+# Republic Act No. 8892: AN ACT SEPARATING THE JUAN R. LIWAG HIGH SCHOOL ANNEX II IN BARANGAY MARUHAT, GAPAN, NUEVA ECIJA FROM THE JUAN R. LIWAG HIGH SCHOOL AND CONVERTING THE SAME INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MARUHAT NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+RA 8892 · 1 versions, from 2001-03-19 (latest in force: 2001-03-19) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/5466>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Section 5 | [sec-005.md](sec-005.md) | 0 |  |

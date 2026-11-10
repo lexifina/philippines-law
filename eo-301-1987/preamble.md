@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the policy of the government to promote economy, efficiency and effectiveness in the delivery of public services;
-WHEREAS, under the present set-up, a centralized administrative system is provided for reviewing and approving negotiated contracts under Executive Order No. 298 (issued August 12, 1940), as amended; for determining the reasonableness of government lease contracts under Executive Order 290 (issued March 14, 1958), as amended; and for the disposal of government records under Executive Order No. 290, supra;
-WHEREAS, such centralized administrative system is not at all "facilitative" particularly in emergency situations, characterized as it is by red tape and too much delay in the processing and final approval of the required transaction or activity; and
-WHEREAS, for expeditious action, there is need to decentralize the processing and final approval of negotiated contracts, lease contracts and records disposal to the agencies concerned, subject to compliance with prescribed uniform standards or guidelines and to the review and audit jurisdiction of the Commission on Audit (COA) or its duly authorized representative;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

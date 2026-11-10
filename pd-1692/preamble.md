@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, Paragraph (e) of Article 177 of PD 442, as amended further by PD 1641, provides, among others, that the Employees Compensation Commission may upgrade benefits and add new ones, subject to approval of the President, provided that the actuarial stability of the State Insurance Fund shall be guaranteed, and that such increase in benefit shall not require any increase in contribution, except as provided for in paragraph (b) thereof;
-WHEREAS, income benefits for secondary beneficiaries have been found rather too low considering that the same are based on one lump sum payment, whereas primarily beneficiaries enjoy life pension; and
-WHEREAS, upgrading the benefit structure for secondary beneficiaries is necessary in the light of the gradual erosion of the value of the peso and in order to cushion the harsh effect of inflation;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President and Prime Minister of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

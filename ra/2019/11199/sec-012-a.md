@@ -1,0 +1,2 @@
+# Section 12-A
+SEC. 12-A. Dependents' Pension. - Where monthly pension is payable on account of death, permanent total disability or retirement, dependents' pension equivalent to ten percent (10%) of the monthly pension or Two hundred fifty pesos (P250.00), whichever is higher, shall also be paid for each dependent child conceived on or before the date of the contingency but not exceeding five (5), beginning- with the youngest and without substitution: Provided, That where there are legitimate and illegitimate children, the former shall be preferred.

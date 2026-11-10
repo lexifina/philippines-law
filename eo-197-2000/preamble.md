@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, pursuant to Sec. 54, Chapter 12, Book IV of Executive Order No. 292 (Administrative Code of 1987), heads of bureaus, offices or agencies, may, upon approval of the department head, charge and collect the cost of the services rendered by the bureau, office or agency concerned;
-WHEREAS, it is only proper that the persons receiving the services for which the fees and charges are imposed should be made to share the burden of the expenses incurred by the government;
-WHEREAS, despite Executive Order No. 159, series of 1994, directing all departments, bureaus, commissions, agencies and instrumentalities of the national government, including government-owned and controlled corporations, to adjust their fees and charges by just and reasonable rates sufficient to cover the full cost of services rendered, only very few agencies have complied;
-NOW, THEREFORE, I, JOSEPH E. ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by law, hereby order:

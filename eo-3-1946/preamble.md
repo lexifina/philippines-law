@@ -1,2 +1,0 @@
-# Preamble
-By the virtue of the powers vested in me under Commonwealth Act No. 728, entitled "An Act to prohibit certain exports from the Philippines, to authorize the President of the Philippines to regulate, control, curtail and prohibit said exports, to provide penalties for the violation of this Act and of regulations issued pursuant thereto, and for other purposes," I, Manuel Roxas, President of the Republic of the Philippines, do hereby order:

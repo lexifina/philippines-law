@@ -1,3 +1,0 @@
-# Text
-As an emergency measure against the current international oil crisis, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that the effectivity of Presidential Decree No. 333, as amended by Presidential Decree No. 343, be further extended to a period of ninety (90) days from and after the date of the effectivity of this Decree.
-This Decree shall take effect immediately.

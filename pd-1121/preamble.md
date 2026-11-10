@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the national government is aware of the continuing deterioration of the Philippine environment caused by rapid urbanization, industrial growth, population expansion, natural resources extractions, the use of modern technology and other socio-economic factors;
-WHEREAS, the national government is cognizant of the damaging and irreversible environmental impacts of these socio-economic activities on the stability of natural ecosystems and on human health and safety as well as on the natural resources of this country;
-WHEREAS, it is the desire of the national leadership to create, develop, maintain and improve conditions under which man and nature can thrive in productive and enjoyable harmony with each other, and thereby attain an environmental quality conducive to a life of dignity and well-being for our people;
-WHEREAS, the national leadership notes the dearth of a total environment protection program that deals with the entire spectrum of environment as well as the lack of coordinated system in the enforcement of existing environment-oriented laws;
-WHEREAS, the interaction of the above socio-economic forces render it imperative for the national leadership to create a central authority that will oversee, unify and integrate the planning, management and implementation of the government's environment program.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

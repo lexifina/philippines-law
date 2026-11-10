@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree (PD) No. 626 (s. 1974), as amended, provides that all employers from the public and private sectors are mandated to remit to the Employees Compensation System a percentage of an employee's monthly salary credit, which shall be paid in its entirety by the employer;
-WHEREAS, there is a need to continually improve benefits under the Employees' Compensation Program (ECP) to make them more responsive to the welfare and development needs of occupationally disabled workers;
-WHEREAS, the current Employees' Compensation (EC) Funeral Benefit for both the private and public sectors is no longer sufficient to cover ordinary funeral costs;
-WHEREAS, pursuant to Article 177 (e) of Presidential Decree No. 626 (s. 1974), as amended, the Employees' Compensation Commission (ECC) has the mandate to upgrade benefits for permanent disability or death, subject to the approval of the President, provided that the actuarial stability of the State Insurance Fund (SIF) shall be guaranteed and that such increases in benefits shall not require any increase in contributions;
-WHEREAS, the results of the actuarial studies of the Social Security System (SSS) and the Government Service Insurance System (GSIS) show that the SIF can finance the increase in funeral benefits without affecting the stability of the SIF and without requiring additional contributions; and
-WHEREAS, the ECC adopted Board Resolution Nos. 16-05-18 and 16-07-28 on 31 may 2016 and 28 July 2016, respectively, approving the increase in benefits herein set forth;
-NOW, THEREFORE I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in my by the Constitution and existing laws, do hereby order;

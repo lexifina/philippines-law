@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the Philippine Export and Foreign Loan Guarantee Corporation (Philguarantee) is a wholly owned government corporation entrusted with the task of providing guarantee coverage for approved foreign loans and service contractors to promote and facilitate the entry of these resources into the economy of the nation;
+WHEREAS, the Philippine Export and Foreign Loan Guarantee Corporation, in the pursuit of its objectives, extended and issued its guarantees and counterguarantees for accounts of various exporters and contractors which are presently encountering operational and financial difficulties due to the prevailing economic conditions in the country;
+WHEREAS, there is need to amend the Charter of the Philippine Export and Foreign Loan Guarantee Corporation to expand the powers of its Board of Directors to make it more responsive to the demands of the current economic circumstances;
+WHEREAS, the Government is willing to provide the necessary support and assistance in order to enable these exporters and contractors to operate viably under the prevailing economic and business conditions;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

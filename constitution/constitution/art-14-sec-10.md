@@ -1,0 +1,2 @@
+# Article XIV, Section 10
+SECTION 10. Science and technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation, and their utilization; and to science and technology education, training, and services. It shall support indigenous, appropriate, and self-reliant scientific and technological capabilities, and their application to the country's productive systems and national life.

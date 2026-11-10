@@ -1,2 +1,0 @@
-# Section 67-A
-SEC. 67-A. Income tax withheld from wages.—The net proceeds in every fiscal year representing the gross collection in the City of Caloocan of income tax withheld from wages under supplement (a) of title two of the National Internal Revenue Code, as amended by Republic Act Numbered five hundred ninety, minus the refund thereof authorized in the same fiscal year, shall be credited and remitted to the said City.

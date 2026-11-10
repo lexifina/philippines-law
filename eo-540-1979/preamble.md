@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, it is the policy and objective of the Philippine Government to encourage the growth of markets for Philippine products abroad;
-WHEREAS, the task of a foreign trade service differs in focus from that of the general run of a diplomatic service in that the mission of the foreign trade service, particularly for a developing country, is to get more of its exports sold to the rest of the world, while the usual mission of its diplomatic service is to get the country esteemed abroad; and
-WHEREAS, Executive Order No. 523 prescribes guidelines in the restructuring of the Foreign Service of the Philippines and in particular the definition of goals and objectives of diplomatic missions abroad on the promotion and expansion of Philippine exports, the attraction of foreign tourists to visit the Philippines and the promotion of investments in Philippine enterprises;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President and Prime Minister of the Philippines do hereby order the following:

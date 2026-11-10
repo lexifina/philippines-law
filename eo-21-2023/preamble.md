@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, Section 2, Article XII of the Constitution provides that all forces of potential energy and other natural resources within the Philippine territory belong to the State, and their exploration, development, and utilization shall be under the full control of the State;
-WHEREAS, Section 2 of Republic Act (RA) No. 9513 or the "Renewable Energy (RE) Act of 2008" declares it a policy of the State to accelerate the exploration and development, and increase the utilization of RE resources such as, but not limited to, biomass, solar, wind, hydropower, geothermal, and ocean energy resources, including hybrid systems;
-WHEREAS, the Philippine Energy Plan 2020-2040 targets to increase the RE contribution in the power generation mix from the current share of 22%, to 35% RE share by 2030, and 50% RE share by 2040;
-WHEREAS, the Philippine Offshore Wind Roadmap has identified a total technical potential capacity of 178 gigawatts that can be harnessed from Offshore Wind (OSW) resources;
-WHEREAS, OSW resources, if optimally developed, will play a major role in our country's goal for a low-carbon future, improved energy security, and reduced dependence on imported fossil fuels; and
-WHEREAS, there is a need to adopt a whole-of-government approach by streamlining and expediting the approval process by the Permitting Agencies for issuance of permits, licenses, and clearances for OSW Projects, and eliminate unnecessary delays in every stage of an OSW Project.
-NOW, THEREFOR, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

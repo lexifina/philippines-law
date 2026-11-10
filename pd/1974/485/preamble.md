@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, to further ensure the sound development of the national economy, it is imperative that certain provisions of R.A. No. 5186 ("Investment Incentives Act") and R.A. No. 6135 ("Export Incentives Act") be amended;
+WHEREAS, there are certain sectors of the industry, i.e., those engaged essentially in rendering services, such as public utilities, the growth of which is likewise indispensable to the sound development of the national economy;
+WHEREAS, under the present provisions of the Investment Incentives Act, service industries are not eligible for registration thereunder;
+WHEREAS, to encourage and hasten the establishment of facilities that are necessary for a balanced growth of the economy and the effective regional dispersal of industries, certain services to be listed in a Utilities Priorities Plan should be eligible for incentives upon registration with the Board of Investments;
+WHEREAS, there is further need to align the incentives and requirements of the Export Incentives Act with the Investment Incentives Act;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree amendments to Republic Act Numbered Fifty-One Hundred Eighty-Six, as amended, otherwise known as the Investment Incentives Act and Republic Act Numbered Sixty-One Hundred Thirty-Five, as amended, otherwise known as the Export Incentives Act, as follows:

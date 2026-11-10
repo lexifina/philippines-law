@@ -1,3 +1,0 @@
-# Preamble
-WHEREAS, it is necessary to further sustain the national economic growth through the Philippine International Trading Corporation by amending Presidential Decree No. 252, entitled "Authorizing the Creation of a Philippine International Trading Corporation, Appropriating Funds therefore, and for Other Purposes";
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that:

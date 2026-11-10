@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, our educational system should be oriented in order that the population of the Philippines, especially the youth could be equipped with skills that will make them productive;
-WHEREAS, a development oriented educational system could best be implemented through the establishment of vocational or polytechnic college throughout the country in order to reach as many young people as government resources can afford;
-WHEREAS, one such school is direly needed in Southern Leyte to be established in the capital town of Maasin, since the nearest vocational school is more than one hundred kilometers away from this municipality and is hardly accessible to the graduates of elementary schools who desire a vocational and technical education;
-WHEREAS, the training of the young population of Southern Leyte with skills in technology will enhance the development of the Province which is rich in natural resources and which have not been exploited because of the lack of knowledge and skills to convert them into useful products.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree, that:

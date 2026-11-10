@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, Presidential Decree (PD) No. 1508, as amended by Republic Act (RA) No. 7160 or the "Local Government Code of 1991," established the Katarungang Pambarangay as a system for the time-honored Filipino tradition of amicably settling interpersonal disputes in the community without judicial recourse;
+WHEREAS, Section 1 of PD No. 1508, as amended, created in every barangay a Lupong Tagapamayapa, which is tasked to mediate, conciliate, and/or arbitrate disputes between contending parties at the barangay level;
+WHEREAS, under Section 406(b) of RA No. 7160, the Department of the Interior and Local Government (DILG) is mandated to establish a system granting economic or other incentives to the Lupong Tagapamayapa or Lupon or their pangkat members who adequately demonstrate the ability to judiciously and expeditiously resolve cases referred to them;
+WHEREAS, pursuant to Executive Order (EO) No. 394 (s. 1997), the Lupong Tagapamayapa Incentives Award (LTIA) was established to recognize Lupon who exhibit exceptional and outstanding work in the performance of their duties, and award them with appropriate incentives;
+WHEREAS, over the years, more than a thousand Lupon have been recognized and awarded by the DILG under the LTIA;
+WHEREAS, to motivate more Lupon to extent similar exceptional and outstanding work, there is a need to enhance the LTIA System through measures that further promote it as a competitive, transparent, fair, and performance-based reward system; and
+WHEREAS, Section 17, Article VII of the Constitution vests in the President the power of control over all executive departments, bureaus, and offices and the mandate to ensure the faithful execution of laws;
+NOW, THEREFORE, I, FERDINAND R, MARCOS, JR., President of the Philippines, by virtue vested in me by the Constitution and existing laws, do hereby order:

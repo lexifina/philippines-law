@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, there is a need for the National Tobacco Administration (NTA) to adjust and strengthen its operations to enable the agency to effectively serve its mandate, address major and pressing concerns to meet the challenges in local tobacco industry as well as respond to the growing needs of international trade;
+WHEREAS, Section 29, Chapter V, Book V of Executive Order No. 292 (The Administrative Code of 1987) authorizes an agency to reduce its staff whenever it becomes necessary because of lack of funds due to the change in the scope or nature of an agency's program or as a result of reorganization;
+WHEREAS, under Section 78 of the General Provisions of Republic Act No. 8522 (General Appropriations Act for FY 1998), the President may direct changes in the organization and key positions in any department, bureau or agency;
+WHEREAS, as a consequence of financial constraints as well as to enable the agency to perform better and upon recommendation of the Department of Budget and Management (DBM), a streamlining plan for NTA has been approved.
+NOW, THEREFORE, I, JOSEPH E. ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested upon me by law, do hereby order the streamlining of the NTA:

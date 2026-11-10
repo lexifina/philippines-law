@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Republic Act (RA) No. 7042, otherwise known as the "Foreign Investments Act of 1991," as amended, mandates the formulation of a Regular Foreign Investment Negative List, covering investment areas or activities which are open to foreign investors and/or reserved to Filipino nationals; and
-WHEREAS, there is a need to formulate the Twelfth Regular Foreign Investment Negative List, replacing the Eleventh Regular Foreign Investment Negative List, to reflect changes to List A and List B, pursuant to existing laws, consistent with the policy to ease restrictions on foreign participation in certain investment areas or activities;
-NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

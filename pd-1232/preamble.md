@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, the Governor of Metropolitan Manila has organized the Barangay Community Brigades which have proven to be effective auxiliary groups for beautification, health, sanitation, peace and order, rescue and relief operations, traffic management, and other civic development programs which require barangay participation with the end in view of maintaining continued and effective partnership and rapport between government and people;
-WHEREAS, towards this ends, it is imperative to mobilize the massive productive manpower resources at the local level for national progress;
-WHEREAS, the Barangay Community Brigades have been conceived as the means for tapping the potential manpower of the country and involving them in Barangay affairs; and
-WHEREAS, in recognition of the active participation, fruitful contribution and constructive role played by the Barangay Community Brigades, it is deemed necessary to raise legal status and vest them with additional privileges be determined on the basis of Sections 1, 2 and 3 of Presidential Decree No. 144, as amended by Presidential Decree Nos. 659 and 898.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

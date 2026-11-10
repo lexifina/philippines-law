@@ -1,0 +1,3 @@
+# Section 91-K
+Sec. 91-K. Transitory provision.—The Municipal Board by ordinance shall organize and constitute the Juvenile and Domestic Relations Court, if and when the City shall have the necessary funds therefor, by providing funds for the salary and emoluments of the judge and other personnel of the court as well as for the consultative fees of specialists and the rental and other incidental expenses of the same.
+Upon the organization of said court, the Secretary of Justice shall cause all cases and proceedings pending be­fore the City Court and the Court of First Instance of the City of Caloocan properly cognizable by the court herein created to be transferred thereto.

@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, pursuant to Proclamation No. 10S1, dated September 21, 1972, and Proclamation No. 1104, dated January 17, 1973, Martial Law is in effect throughout the land;
-WHEREAS, it is to the best interest of the country that the welfare of those who serve in the Armed Forces of the Philippines after their retirement or honorable separation be insured;
-WHEREAS, since the enactment of Republic Act No. 340, which is the law providing for retirement and separation benefits for members of the Armed Forces of the Philippines and all the latter's amendments, no separate fund or scheme to insure payment of said benefits has ever been established resulting in complete reliance upon the yearly appropriations;
-WHEREAS, in the course of time since World War II, the ranks of retired servicemen have swelled, entailing a staggering sum every year which drains a substantial portion of the appropriations for the Armed Forces of the Philippines;
-WHEREAS, it is now that the funding system or scheme be established to guaranty the continuous financial support to the AFP military retirement system;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, in my capacity as Commander-in-Chief of all the Armed Forces of the Philippines, pursuant to Proclamation No. 1081, dated September 21, 1972, and Proclamation No. 1104, dated January 17, 1973, do hereby decree the creation of an Armed Forces Retirement and Separation Benefits System, in accordance with the following:

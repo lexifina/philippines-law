@@ -1,0 +1,10 @@
+# Preamble
+WHEREAS, Executive Order No. 174, Series of 1994, designated the Clark Special Economic Zone as the future site of a premier international airport;
+WHEREAS, Executive Order No. 193, Series of 2003, established Clark International Airport Corporation (CIAC), as a subsidiary of Clark Development Corporation (CDC), to operate and manage the Clark Civil Aviation Complex, including the Diosdado Macapagal International Airport (DMIA);
+WHEREAS, Section 5 (f) of Republic Act 722/ grants BCDA the authority to construct, own, lease, operate and maintain public utilities as well as infrastructure;
+WHEREAS, CIAC was granted by the Clark Development Corporation a fifty (50) year franchise to operate the Clark Civil Aviation Complex-Diosdado Macapagal International Airport (DMIA);
+WHEREAS, the development of Clark to be a globally competitive international service and logistics center in the Asia-Pacific Region has been declared as one of the 10-point legacy agenda of this Administration;
+WHEREAS, the Department of Transportation and Communications (DOTC) pursuant to Executive Order No. 125, as amended by Executive Order No. 125-A Series of 1987, is the primary policy, planning, programming, coordinating, implementing, regulating and administrative entity of the Executive Branch of the government in the promotion, development and regulation of dependable and coordinated networks of transportation and communication systems as well as in the fast, safe, efficient and reliable postal transportation and communications services;
+WHEREAS, there is a need to transform CIAC into a subsidiary of BCDA to ensure that the development of the Clark Civil Aviation Complex-DMIA is aligned to the conversion program of BCDA;
+WHEREAS, there is a need to clarify the functions and jurisdiction of CDC and CIAC in order to create synergy between the two corporations;
+NOW, THEREFORE, I, GLORIA-MACAPAGAl-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

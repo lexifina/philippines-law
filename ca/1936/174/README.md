@@ -1,0 +1,7 @@
+# Commonwealth Act No. 174: AN ACT TO AMEND PARAGRAPH SIX OF SUBSECTION TWO OF SECTION ONE OF ACTS NUMBERED FIFTEEN HUNDRED AND TEN, TWENTY-EIGHT HUNDRED AND THIRTY-SIX, AND THIRTY-THREE HUNDRED AND NINETY-NINE, TO AUTHORIZE THE MANILA RAILROAD COMPANY OT THE PHILIPPINE ISLANDS TO CONSTRUCT TOLL VIADUCTS, TOLL BRIDGES, AND TOLL TUNNELS
+
+CA 174 · 1 versions, from 1936-11-12 (latest in force: 1936-11-12) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/16226>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |

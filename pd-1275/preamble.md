@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, to improve the quality of prosecution services, it becomes imperative, in the public interest, to reorganize and restructure the entire prosecution system, in line with the general reorganization of the executive branch of the government which is a priority measure of the Administration;
-WHEREAS, there is a need to regionalize the prosecution service in line with the government policy of decentralization, to rationalize the allocation of prosecution positions and functions in accordance with the requirements of the service, and to upgrade the salaries of all prosecutors, and of provincial and city fiscals;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree the following:

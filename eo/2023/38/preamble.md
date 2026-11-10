@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Executive Order (EO) No. 9 (s. 2016) established the Strategic Action and Response (STAR) Office under the then Office of the Cabinet Secretary (OCS) to promote timely action and response to the concerns of the public, and strengthen the Presidential Action Cener (PACe) system in order to increase responsiveness of govenrment services;
+WHEREAS, under EO No. 9, the PACe (previously the Presidential Complaint Center) and the 8888 Citizens' Compliant Center established under EO No. 6 (s. 2016), are placed under the supervision and control of the STAR Office;
+WHEREAS, EO No. 67 (s. 2018) transferred the supervision and control of the STAR Office and its constituent offices from the then OCS to the Office of the Executive Secretary;
+WHEREAS, it is imperative to reorganize the STAR Office to ensure coherence of its organizational structure, functions, and staffing pattern with the Administration's continuing efforts towards efficiency and responsiveness in the delivery of critical mandates to the Filipino people; and
+WHEREAS, Section 31, Chapter 10, Title III of EO No. 292 or the "Administrative Code of 1987" provides that the President, in order to achieve simplicity, economy and efficiency, hall have the continuing authority to reorganize the administrative structure of the Office of the President;
+NOW, THEREFORE, I, FERDINAND R. MARCOS, JR., President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

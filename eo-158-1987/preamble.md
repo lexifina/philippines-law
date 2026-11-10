@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the National Government has embarked on a Rural-Based Employment Program to pump-prime the economy and to address without delay the critical problem of unemployment in the country;
-WHEREAS, while the Rural-Based Employment Program will be largely focused on immediate-impact projects in infrastructure and similar areas of relatively short duration, there is a need to provide for employment generation opportunities in productive activities on a continuing basis;
-WHEREAS, in line with the national employment-generation effort and in response to the need for generating continuing employment in productive activities, the Ministry of Trade and Industry has developed the "Tulong Sa Tao" Employment Generation Program, a funding of at least one hundred million pesos is needed as a revolving fund to provide credit facilities to as many beneficiaries as possible for the purpose of employment generation;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

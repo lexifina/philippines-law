@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Philippines, as a member of the United Nations, has actively contributed to and participated in the various initiatives of the UN Security Council aimed at providing assistance to Iraq as stipulated in UNSC Resolutions 661 (1990), 985 (1995), 1284 (1999), 1472 (2003) and other relevant resolutions;
+WHEREAS, the Philippines has contributed significantly to the United Nations initiatives for Iraq as evidenced by the deployment of elements of the Armed Forces for Iraq (UNGCI) for service as a humanitarian assistance protection force, as well as participation in the "Oil for Food" Program for Iraq;
+WHEREAS, there is a need to coordinate the Philippine Government's efforts aimed at contributing to the immediate humanitarian needs to the Iraqi people;
+NOW THEREFORE I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order the creation of an Inter-Agency Task Force for the Coordination of Philippine Humanitarian Assistance to Iraq.

@@ -1,0 +1,8 @@
+# Preamble
+WHEREAS, it is now the desire of the government to fully develop and exploit casino operations as a source of revenue to finance important infra-structure and socio-civic projects;
+WHEREAS, to achieve this goal, after the successful experiment conducted in the Floating Casino, "PHILIPPINE TOURIST I" during the year 1977, there is now the need to expand the areas of operations outside the Metropolitan Manila Area;
+WHEREAS, it is now the intention of the government to allocate and appropriate revenues generated from this newly developed source to fund priority infra-structure and/or socio-civic projects throughout the Philippines, as may be directed and authorized by the Office of the President;
+WHEREAS, to attain this objective, certain amendments have to be made to Presidential Decrees Nos. 1067-A and 1067-B;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:
+SECTION l. Section 5 of Presidential Decree No. 1067-A dated January 1, 1977, is hereby amended to read as follows:
+"SECTION 5. Board of Directors. The Corporation shall be governed and its activities be directed, controlled and managed by a Board of Directors that shall be composed of five (5) members, namely: (1) The Chairman of the National Development Corporation, who shall act as Chairman; (2) Government Corporate Counsel; (3) Office of the Executive Assistant, Office of the President, or their respective representatives; and two other members to be appointed by the President of the Philippines from the private sector."

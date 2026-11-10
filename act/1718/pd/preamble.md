@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Government promotes, encourages and assists the business sector in its active participation in development programs designed to implement prescribed policies of the State;
+WHEREAS, in pursuance of such programs and in order to achieve the desired goals and objectives, the Government has authorized certain activities, measures, and undertakings to be done by the private sector; and
+WHEREAS, the Government should provide protection to all persons and entities carrying out the economic development programs against the enforcement of certain requirements, orders and judgements of foreign authorities which operate to impose upon this nation their own economic policies, concepts and ideas; perpetuate the economic advantages of the industrial countries over the developing nations; favor foreign competitors; and embarrass, disrupt, or damage business carried on in the country;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

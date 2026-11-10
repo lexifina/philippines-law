@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the construction industry provides employment to a large segment of the national labor force and is a leading contributor to the gross national product;
+WHEREAS, it is of vital necessity that continued growth towards national goals shall not be hindered by problems arising from or connected with, the construction industry;
+WHEREAS, there is a need to establish an arbitral machinery to settle such disputes expeditiously in order to maintain and promote a healthy partnership between the government and the private sector in the furtherance of national development goals;
+WHEREAS, Presidentioal Decree No. 1746 created the Construction Industry Authority of the Philippines (CIAP) to exercise centralized authority for the optimum development of the construction industry and to enhance the growth of the local construction industry;
+WHEREAS, among the implementing agencies of the CIAP is the Philippine Domestic Construction Board (PDCB) which is specifically authorized by Presidential Decree No. 1746 to adjudicate and settle claims and disputes in the implementation of public and private construction contracts and for this purpose, formulate and adopt the necessary rules and regulations subject to the approval of the President";
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby authorize the creation of an arbitration machinery in the construction industry of the Philippines, and do hereby order and ordain:

@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, for the purpose of strengthening the policy-making body of the Philippine National Oil Company, it is necessary to increase the number of its directors; and
-WHEREAS, it is imperative that the Government give all the assistance and incentives to the Company in its venture to insure adequate supply of oil for the sustained growth of the economy;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines and pursuant to Proclamation No. 1081, dated September 21, 1972 and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree that certain provisions of Presidential Decree No. 334, dated November 9 1973, be amended:

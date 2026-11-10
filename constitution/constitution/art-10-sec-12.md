@@ -1,0 +1,2 @@
+# Article X, Section 12
+SECTION 12. Cities that are highly urbanized, as determined by law, and component cities whose charters prohibit their voters from voting for provincial elective officials, shall be independent of the province. The voters of component cities within a province, whose charters contain no such prohibition, shall not be deprived of their right to vote for elective provincial officials.

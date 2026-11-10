@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, under the present system of local government administration, the municipal governments are required to contribute eight per cent of their annual revenues for the conduct of field agricultural extension work and rural health and sanitation services by the provincial governments;
-WHEREAS, current trends in countryside development under-score the need for the direct involvement of the local officials in the planning and execution of mass-oriented and other relevant community projects;
-WHEREAS, in order to make available additional funds for priority projects of the municipal governments and enhance the effectiveness of the town mayors in promoting rural development, the compulsory allocation of municipal revenues for contributions to the agricultural and health services of the provincial governments has to be dispensed with;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

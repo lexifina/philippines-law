@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Philippine mining industry has always been dominated by large-scale mining operations; prevailing statutes, policies, incentives and financing are generally addressed to the large-scale sector of the industry; and capital intensity with high debt-equity ratio, mechanization and heavy energy requirements characterize such type of operations, whose main attraction is the attainment of economies of scale through low cost but large tonnage operations;
-WHEREAS, the advent of inflation, volatile commodity prices, multiple increases of oil and fuel prices, stringent environmental control measures and high cost of capital proved to be most disastrous for Philippine large-scale mines;
-WHEREAS, abundance of cheap labor in the Philippines, relative flexibility and simplicity of operations, minimum capital requirements, less fuel dependent operations and minimal effects on the environment are among the arguments that lend support to the development of small-scale mining;
-WHEREAS, there exist small mineral deposits that are being or could be worked profitably at small tonnages requiring minimal capital investments utilizing manual labor; and
-WHEREAS, the development of these small mineral deposits will generate more employment opportunities, thereby alleviating the living conditions in the rural areas and will contribute additional foreign exchange earnings;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order as follows:

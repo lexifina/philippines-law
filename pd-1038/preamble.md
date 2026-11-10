@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, I have received disturbing reports that owners of private agricultural lands, landholders, agricultural lessors, legal possessors, civil law lessees, usufructuaries, or those acting for and in their behalf planted to crops other than rice and/or corn, including but not limited to those primarily planted to abaca, banana, coconut, coffee, citrus, durian and other similar permanent trees, are harassing or ejecting or removing or ousting or excluding the tenant-tillers from their farmholdings in spite of the fact that existing laws, particularly Republic Acts Nos. 1199, as amended, and 3844, as amended, protect the security of tenure of these tenant-tillers;
-WHEREAS, these acts of the landowners are a threat to the peace and order condition in the rural areas; and
-WHEREAS, the tenant-tillers in such lands deserve the utmost attention and assistance of the government to strengthen their tenurial security by imposing stiffer penalties for violation of such security of tenure.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:

@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Constitution of the Philippines directs the State to establish and maintain a complete, adequate, and integrated system of education relevant to the goals of national development and further prescribes that all educational institutions shall aim to develop scientific, technological and vocational efficiency;
+WHEREAS, under Presidential Decree No. 6-A also known as the Educational Development Decree of 1972 promulgated on September 29, 1972, it had been declared a policy of the government to reorient the educational system toward an accelerated national economic growth and meaningful social development.
+WHEREAS, the conversion of the Ilocos Norte Institute of Technology into a state college to be known as Mariano Marcos Memorial College of Science and Technology, providing for its own charter, broadening for this purpose its curricular offerings and redirecting its objective would serve to better achieve the above national goals;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree to be part of the laws of the land the following:

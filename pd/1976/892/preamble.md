@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, fraudulent sales, transfers, and other forms of conveyances of large tracts of public and private lands to unsuspecting and unwary buyers appear to have been perpetrated by unscrupulous persons claiming ownership under Spanish titles or grants of dubious origin;
+WHEREAS, these fraudulent transactions have often resulted in conflicting claims and litigations between legitimate title holders, bona fide occupants or applicants of public lands, on the one hand, and the holders of, or persons claiming rights under, the said Spanish titles or grants, on the other, thus creating confusion and instability in property ownership and threatening the peace and order conditions in the areas affected;
+WHEREAS, statistics in the Land Registration Commission show that recording in the system of registration under the Spanish Mortgage Law is practically nil and that this system has become obsolete;
+WHEREAS, Spanish titles to lands which have not yet been brought under the operation of the Torrens system, being subject to prescription, are now ineffective to prove ownership unless accompanied by proof of actual possession;
+WHEREAS, there is an imperative need to discontinue the system of registration under the Spanish Mortgage Law and the use of Spanish titles as evidence in registration proceedings under the Torrens system;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

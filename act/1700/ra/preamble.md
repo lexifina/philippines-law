@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Communist Party of the Philippines, although purportedly a political party, is in fact an organized conspiracy to overthrow the Government of the Republic of the Philippines not only by force and violence but also by deceit, subversion and other illegal means, for the purpose of establishing in the Philippines a totalitarian regime subject to alien domination and control;
+WHEREAS, the continued existence and activities of the Communist Party of the Philippines constitutes a clear, present and grave danger to the security of the Philippines; and
+WHEREAS, in the face of the organized, systematic and persistent subversion, national in scope but international in direction, posed by the Communist Party of the Philippines and its activities, there is urgent need for special legislation to cope with this continuing menace to the freedom and security of the country: Now, therefore,
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

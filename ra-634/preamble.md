@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, the Honorable Millard E. Tydings, United States Senator from Maryland and the Honorable John McDuffie, former Member of the House of Representatives of the United States from the First District of Alabama, were the authors of the Act of the Congress of the United States of March 24, 1934, otherwise known as the Philippine Independence Act; and
-WHEREAS, for their unselfish service to human liberty and to the Filipino people, it is but proper that the Second Congress of the Republic of the Philippines, representing the Filipino people, should express the gratitude of said people to the Fathers of their independence by adopting them as sons of the Philippines and by conferring upon them all the rights, privileges, and prerogatives of Philippine citizenship; Now therefore,
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

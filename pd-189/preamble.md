@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, there is need to realign government efforts towards trade promotion and tourism development for greater effectiveness;
-WHEREAS, the tourist industry still represents an untapped resource base toward an accelerated socio-economic development of the Philippines;
-WHEREAS, the tourism program is subjected to various administrative and organizational problems; and
-WHEREAS, tourism properly deserves the Government's immediate and priority attention;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, as amended, and in order to effect desired changes and reforms in the social, economic, and political structures of our society do hereby adopt, approve, and make as part of the law of the land the amendment to the provisions of Part IX of the Integrated Reorganization Plan by renaming the Department of Trade and Tourism as the Department of Trade and creating the Department of Tourism with a Philippine Tourist Authority attached to it in lieu of the Philippine Tourist Commission.

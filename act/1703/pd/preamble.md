@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, it is the policy of the Government to foster and accelerate the balanced growth of the Southern Philippines (Mindanao, Sulum Basilan and Tawi-Tawi) for the national economic, social and political stability;
+WHEREAS, surveys and studies indicate a pressing need to accelerate the economic growth and development of the region to make it more responsive to the national plans and policies within the context of national solidarity with the leadership, support and total commitment os the government;
+WHEREAS, sustained development of the region will rely heavily on the capabilities of the people of the area to participate in the total effort in undertaking integrated development projects under one authoritative agency;
+WHEREAS, the Southern Philippine Development Administration has been created by Presidential Decree No. 690 to serve as the specifi agency of the Government which is responsible for the initiation and/or implementation of development projects in Southern Philippines; and
+WHEREAS, the Southern Philippines Development Administration in order to more effectively and vigorously promote and enhance the development of Mindanao and Sulu Archipelago, should be restructured and strengtherned;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree that Presidnetial Decree No. 690, otherwise known as the Southern Philippines Development Administration Charter, be amended to read as follows:

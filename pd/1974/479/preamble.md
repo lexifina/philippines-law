@@ -1,0 +1,9 @@
+# Preamble
+WHEREAS, R.A. No. 3478 as amended by R.A. No. 4128 provides an appropriation of Ten Million Pesos (P10,000,000.00) as aid to all provinces, municipalities and cities, except Manila and Quezon City, in the maintenance of public high schools;
+WHEREAS, R.A. No. 6054 enacted much later authorizes the establishment of barrio high schools funded mainly from tuition fees of students and from a very meager share of the realty tax collected on real property situated thereat;
+WHEREAS, the growth in the number of barrio high schools today has clearly demonstrated the concern of local officials with the educational welfare of the barrio youth in their thirst for secondary education;
+WHEREAS, said barrio high schools are part and parcel of the educational system but are not included within the coverage of the national aid annually allocated to public secondary schools under R.A. No. 3478;
+WHEREAS, due to inadequate fund resources as now authorized by law, most barrio high schools today are beset with financial problems for their continued operation and maintenance;
+WHEREAS, with improved funding of secondary schools including barrio high schools, the reorientation of the secondary curriculum towards increased emphasis on work-oriented programs particularly supervised training and allied activities can be better achieved;
+WHEREAS, the State, in assuming the obligation to give financial assistance to public institutions rendering service to a great number of people, is committed to the continuing program of human resource development, more particularly the youth who must be encouraged and provided the opportunity to strive for social and economic uplift, thereby enabling them to contribute more effectively to the development of their communities.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution do hereby decree and order the following:

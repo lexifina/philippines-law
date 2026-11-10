@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, there is a compelling need to create and maintain a healthy environment in human settlements by providing open spaces, roads, alleys and sidewalks as may be deemed suitable to enhance the quality of life of the residents therein;
-WHEREAS, such open spaces, roads, alleys and sidewalks in residential subdivision are for public use and are, therefore, beyond the commerce of men;
-WHEREAS, pursuant to Presidential Decree No. 953 at least thirty percent (30%) of the total area of a subdivision must be reserved, developed and maintained as open space for parks and recreational areas, the cost of which will ultimately be borne by the lot buyers which thereby increase the acquisition price of subdivision lots beyond the reach of the common mass;
-WHEREAS, thirty percent (30%) required open space can be reduced to a level that will make the subdivision industry viable and the price of residential lots within the means of the low income group and at the same time preserve the environmental and ecological balance through rational control of land use and proper design of space and facilities;
-WHEREAS, pursuant to Presidential Decree No. 757, government efforts in housing, including resources, functions and activities to maximize results have been concentrated into one single agency, namely, the National Housing Authority;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree:

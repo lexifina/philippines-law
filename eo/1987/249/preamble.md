@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the last reclassification of provinces, cities and municipalities took effect on July 1, 1982, and as provided for under existing law, the next general reclassification shall be effective July 1, 1986;
+WHEREAS, a review of the present classification scheme revealed that around eighty per cent (80%) of provinces, cities and municipalities will fall under the same class, thereby nullifying the very objectives and purposes of categorizing local government units;
+WHEREAS, the income classification of provinces, cities and municipalities serves, among other purposes, as basis for fixing the maximum tax ceilings imposable by the local governments for determining administrative and statutory aids, financial grants and other forms of assistance to local governments, and for the implementation of salary laws and administrative issuances on allowances and emoluments that local government officials and personnel may be entitled to;
+WHEREAS, there is an urgent need to prescribe a more realistic classification scheme that will effectively serve the aims and purposes of establishing income categories for the local government units;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the various islands comprising the Philippine archipelago need to be efficiently linked together through a seamless system of land and sea transport that forms an integral part of the national highway network;
+WHEREAS, Executive Order (EO) No. 170, dated January 22, 2003, promoted private sector participation and investment in the development and operation of the Road Roll-On/Roll-Off Terminal System (RRTS), whose coverage was expanded by EO 170-A, dated June 9, 2003;
+WHEREAS, there are only 115 public ports and about 30 private ports operating commercially in the country, while there are more than 350 private non-commercial ports throughout the country that can be converted into private commercial ports and made part of the RRTS network;
+WHEREAS, encouraging the conversion of private non-commercial ports into private commercial ports will expand the country's port system, reduce the investment requirements for building new ports, and entice greater private sector participation in the RRTS;
+WHEREAS, Administrative Order No. 123, dated July 4, 2005, authorized the Secretary of the Department of Transportation and Communications (DOTC) Secretary to perform all powers and functions necessary to connect the country through the development of transportation networks such as the RRTS.
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

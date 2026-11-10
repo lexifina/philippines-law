@@ -1,0 +1,9 @@
+# Act No. 3795: AN ACT GRANTING TO PIADOSA DOMINADO DE BUENAFLOR A FRANCHISE TO INSTALL, OPERATE, AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER PLANT IN THE MUNICIPALITIES OF BAROTAC NUEVO AND DUMANGAS, PROVINCE OF ILOILO, PHILIPPINE ISLANDS
+
+Act 3795 · 1 versions, from 1930-12-03 (latest in force: 1930-12-03) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/28/21599>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

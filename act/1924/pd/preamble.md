@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, the Constitution now mandates that the State "shall undertake urban land reform and social housing program to provide deserving landless, homeless and inadequately sheltered low-income resident citizens reasonable opportunity to acquire land and decent housing";
+WHEREAS, pursuant to Letters of Instructions Nos. 555 and 557 as amended by Letter of Instructions No. 68(3, the national government is implementing through the National Housing Authority the Slum Improvement and Resettlement (SIR) Program and the Sites and Services Projects Development Program which respond to the housing and related needs of the urban poor and implements the objectives of urban land reform and the provision of social housing program as provided in the Constitution;
+WHEREAS, there is a need to expand and accelerate these programs not only in Metro Manila but in other urban centers of the country;
+WHEREAS, the Ministry of Human Settlements h charged with the task of formulating a National Shelter Program which defines the housing objectives and targets of the national government;
+WHEREAS, the National Housing Authority, an agency under the Ministry of Human Settlements, is the designated lead agency in the implementation of housing program for marginal and low-income families;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, do hereby order and decree as follows:

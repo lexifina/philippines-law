@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Article X Section 14, of the 1987 Constitution states that: "The President shall provide for regional development councils or other similar bodies composed of local government officials, regional heads of departments and other government offices, and representatives from non-governmental organizations within the regions for purposes of administrative decentralization to strengthen the autonomy of the units therein and to accelerate the economic and social growth and development of the units in the region";
-WHEREAS, there is a need to reorganize and strengthen further the Regional Development Councils now existing in all the administrative regions of the country in order to make them more effective instruments for regional development, consistent with the aforesaid constitutional mandate;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

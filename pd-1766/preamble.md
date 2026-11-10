@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, there are priority projects that need to be undertaken in order to accelerate national economic development;
-WHEREAS, it is the declared policy of the State to promote overall economic development through assistance to commercial, industrial, agricultural, mining or other ventures, and for this purpose, it may, on its own or in joint venture with the private sector, undertake priority projects;
-WHEREAS, the National Development Company is a major corporate vehicle of the Government empowered to engage or invest in commercial, industrial, agricultural, mining, and other enterprises in which the private sector is unwilling or unable to come in due to the high capital requirements or due to the great risks involved, but which enterprises ire necessary or contributory to national economic development, or important to the public interest;
-WHEREAS, the National Development Company is empowered by law to hold all kinds of land, even in excess of areas permitted private corporations, associations, and persons by the Constitution and by the laws of the Philippines;
-WHEREAS, in order to ensure speedy implementation of the priority projects, it is necessary that lands of the public domain be readily made available to the National Development Company;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and make part of the law of the land the following:

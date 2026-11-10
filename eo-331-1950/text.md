@@ -1,4 +1,0 @@
-# Text
-By virtue of the powers vested in me by section 3 of Republic Act No. 509, entitled "An Act declaring national policy, authorizing the President of the Philippines for a limited period to fix ceiling prices of commodities and to promulgate rules and regulations regarding prices of commodities to effectuate such policy, and authorizing the appropriation of a certain sum for the purpose," and upon the recommendation of the Price Administration Board, I, Elpidio Quirino, President of the Philippines, do hereby order: SECTION. 1. The following essential commodities shall not be sold at more than the maximum selling prices for importers, wholesalers and retailers set opposite each:
-See image Message of the President, Book 6 Part 1, volume 4, page 348
-SEC 2. This Order shall take effect on July 10, 1950.

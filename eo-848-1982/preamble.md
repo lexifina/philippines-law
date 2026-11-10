@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Philippine Centers in the United States of America have been recognized as effective instruments in the effort to expand trade with and investments in the United States;
-WHEREAS, the Philippines-United States Business Development Council has been created to coordinate and integrate the trade and investment promotion efforts of Philippine government agencies and their establishments in the United States, to ensure effectiveness and avoid wasteful duplication;
-WHEREAS, the above-mentioned Council has been authorized to coordinate the activities of consular posts, service attaches, Philippine Centers, government-operated Philippine houses, trading centers, and all other government corporations and their subsidiaries operating in the United States, in the implementation of the said Council's trade and investments promotion program;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution and by Presidential Decree No. 1416, as amended, do hereby order:

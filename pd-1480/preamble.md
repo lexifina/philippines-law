@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, there exists a necessity to optimize the capabilities and potentials of computerization in the development process through the effective and efficient collection, processing and dissemination of information needed in planning, policy-formulation and decision-making;
-WHEREAS, there is a proliferation and under-utilization of computers in the national government resulting from the absence of a rational framework for the acquisition and utilization of Electronic Data Processing (EDP) facilities; and which makes imperative the development and implementation of a computer development strategy for the Government;
-WHEREAS, the establishment of the necessary environment is a precondition within which a responsive computer development strategy can best be carried out;
-WHEREAS, it is sound policy to maintain a self-reliant posture in the field of computer technology through the development of indigenous capabilities in the computer industry;
-WHEREAS, to achieve these ends, there is need to provide for the restructuring of the National Computer Center to order that if may effectively formulate policies and standards and coordinate all activities related to computerization in the country;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order the following as part of the law of the land:

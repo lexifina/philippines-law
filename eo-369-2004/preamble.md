@@ -1,8 +1,0 @@
-# Preamble
-WHEREAS, Lymphatic Filariasis is a parasitic disease primarily affecting children, women and men living in endemic remote areas;
-WHEREAS, Lymphatic Filariasis is a debilitating and disfiguring disease, comprising about 76% of cases living in 4th to 6th class municipalities in 36 established endemic areas out of the 48 probably endemic provinces in the country;
-WHEREAS, recent advances in the field of diagnosis and treatment make the disease one of the six eradicable diseases as declared by the International Task Force for Disease Eradication, as documented by endemic countries able to eradicate the disease such as Japan, Korea, etc;
-WHEREAS, Administrative Order No. 25-A, s. 1998 was issued by the Department of Health (DOH) spearheading the elimination of filariasis by formally shifting control to elimination strategies;
-WHEREAS, the main strategy to eliminate filariasis is through Mass Treatment using a combination of Diethylcarbamazine Citrate (DEC) and Albendazole annually for five years which has been pilot tested in 2000 and formally started in 2001 in selected municipalities/provinces; and
-WHEREAS, to facilitate program management, social mobilization, drug reapplication, distribution and to epidemiologically control the disease, the Global experts in consultation with regional coordinators, LGUs and other stakeholders, recommended that a month each year be concentrated for Mass Treatment for filariasis and other anti-filariasis activities.
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

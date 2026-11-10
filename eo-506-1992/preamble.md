@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, Executive Order No. 407, Series of 1990, directed, among others, all government-owned or controlled corporations to transfer ownership of all lands suitable for agriculture to the Department of Agrarian Reform Program;
-WHEREAS, Executive Order No. 448, Series of 1991, amended Executive Order No. 407, Series of 1990, including within its coverage all government reservations or portions thereof, which are suitable for agriculture and no longer needed for the purpose for which they are established, to further accelerate the acquisition and distribution of all lands of the public domain suitable for agriculture;
-WHEREAS, there is, at the same time, the need to conserve the biodiversity features and the life support system of the country, which are represented by areas of public domain inside protected areas;
-WHEREAS, the preservation of these protected area is a must, considering that these sites contain examples of diverse, unique and important Philippine flora and fauna, which, if properly and effectively managed, will ensure the conservation of biological resources of the country;
-WHEREAS, the Department of Environment and Natural Resources has an existing Integrated Protected Areas System Project concerned with determining what existing protected areas and those not yet established are qualified to be retained as a protected reserve under the National Integrated Protected Areas System;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the power vested in me by law, do hereby order:

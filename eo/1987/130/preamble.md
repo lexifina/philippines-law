@@ -1,0 +1,7 @@
+# Preamble
+RECALLING that the reorganization of the government is mandated expressly of the government is mandated expressly in Article II, Section 1 (a), and Article III of the Freedom Constitution;
+HAVING IN MIND that, pursuant to Executive Order No. 5 (1986), it is directed that necessary and proper changes in the organizational and functional structures of the government, its agencies an its instrumentalities, be effected in order to promote efficiency and effectiveness in the delivery of public services;
+REALIZING that the Presidential Management Staff has the primary function of providing the management and technical staff support to the Office of the President in the task of overseeing, coordinating and managing the development process;
+COGNIZANT of the importance of a Presidential support office that will undertake policy and program studies and strong technical support for the Office of the President and a development management office that will initiate, catalyze and demonstrate programs and projects by the different line ministries and agencies of government;
+REALIZING that it is the avowed policy of the new administration to prevent dissipation of public resources by streamlining government operations;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, by virtue of the powers vested in me by the sovereign will of the Filipino People and the Freedom Constitution, do hereby order:

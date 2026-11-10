@@ -1,0 +1,3 @@
+# Preamble
+WHEREAS, consistent with the State policies as enunciated in Article II Section 15 of the 1987 Constitution, that: "The State shall protect and promote the right to health of the people and instill health consciousness among them", and Article XIII, Section 12, that: "The State shall establish and maintain an effective food and drug regulatory and undertake appropriate health manpower development and research, responsive to the country's health needs and problems", the Pharmacy Law must be further amended to strengthen the legal basis of the regulation of drugs and devices;
+NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

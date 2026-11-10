@@ -1,3 +1,0 @@
-# Text
-By virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, I, FERDINAND E. MARCOS, President of the Philippines, do hereby extend the period for registration of reservists for this year up to August 31, 1973, to enable all reservists in the country as well as those who are abroad to register in accordance with Presidential Decree No. 183, dated May 6, 1973. No further extension shall be allowed after this and all those who fail to register shall be prosecuted and penalized accordingly.
-This Decree shall take effect immediately.

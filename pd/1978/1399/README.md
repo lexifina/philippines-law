@@ -1,0 +1,11 @@
+# Presidential Decree No. 1399: AMENDING CERTAIN SECTIONS OF PRESIDENTIAL DECREE NO. 1067-A DATED JANUARY 1, 1977, ENTITLED "CREATING THE PHILIPPINE AMUSEMENTS AND GAMING CORPORATION, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES," AND PRESIDENTIAL DECREE NO. 1067-B DATED JANUARY 1, 1977, ENTITLED, "GRANTING THE PHILIPPINE AMUSEMENTS AND GAMING CORPORATION A FRANCHISE TO ESTABLISH, OPERATE, AND MAINTAIN GAMBLING CASINOS ON LAND OR WATER WITHIN THE TERRITORIAL JURISDICTION OF THE REPUBLIC OF THE PHILIPPINES."
+
+PD 1399 · 1 versions, from 1978-06-02 (latest in force: 1978-06-02) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/16942>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |
+| Section 3 | [sec-003.md](sec-003.md) | 0 |  |
+| Section 4 | [sec-004.md](sec-004.md) | 0 |  |
+| Section 5 | [sec-005.md](sec-005.md) | 0 |  |

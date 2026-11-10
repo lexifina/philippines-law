@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, reports of law enforcement agencies reveal that activities of criminal elements in the country have become sophisticated, diversified and widespread;
-WHEREAS, these activities have resulted not only in the wanton destruction of lives and property, but have likewise weakened the Nation's economic stability, threatened its security and undermined the general welfare of its citizens;
-WHEREAS, crime continues to grow due to, among other reasons, the limited and inadequate system of evidence-gathering and the seeming apathy and reluctance of the citizenry in testifying against criminal elements for fear or reprisal;
-WHEREAS, it is imperative to provoke the total involvement of the citizenry in the campaign against these criminal elements by providing immunity from criminal prosecution to any witnesses who shall give vital information to the government concerning the existence, operation and activity of such criminal elements, and to provide for a compulsory process against uncooperative and recalcitrant witnesses;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the power in me vested by the constitution do hereby order and decree the following:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the purchase and sale of sizable block of securities require time if done only in one stock exchange, particularly if the market is not bullish. Moreover, it tends to weaken the price of the security;
-WHEREAS, the best interest of the seller and the buyer of securities will be served if more than one broker handle the transaction if the same is carried out in any or all the operating stock exchanges; and
-WHEREAS, to infuse more interest among investors in the stock market and help create a healthier investment climate, it is necessary that transactions affecting listed securities be spread out among as many people as could handle the same profitably with a view to promoting an active market and not dampen it;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby order and decree as part of the law of the land, the following:

@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, on January 16, 1984, the MECO (formerly ASECTAI), including its offices in Taiwan, was placed under the Office of the President pursuant to Executive Order No. 931;
+WHEREAS, on June 26, 1998, supervision over the principal office in Manila of the MECO and its branch offices in Taiwan was transferred from the Office of the President to the Department of Foreign Affairs pursuant to Executive Order No. 490;
+WHEREAS, owing to the Government's commitment to a One-China policy, the responsibilities entrusted to MECO of fostering people-to-people relations and facilitating unofficial contacts between the Philippines and Taiwan are too important and too sensitive duties that supervision and control over the principal office in Manila and its branch offices in Taiwan should remain under the Office of the President.
+NOW, THEREFORE, I, JOSEPH EJERCITO ESTRADA, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order:

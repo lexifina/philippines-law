@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Governments of the Republic of the Philippines and the United States of America have entered into an Investment Guarantee Agreement under the Exchange of Notes, dated February 18 and 19, 1952, as amended on February 25, 1965 and August 15, 1966, concerning investment guarantees for projects/investments made by United States nationals in the Philippines against political risks;
-WHEREAS, such political risk investment guarantees for United States investments in the Philippines are being issued by the Overseas Private Investment Corporation (OPIC), while Philippine Government approval of projects/investments for purposes of Overseas Private Investment Corporation (OPIC) investment guarantees, is presently granted by the National Economic and Development Authority (NEDA);
-WHEREAS, it is imperative that the existing procedures which require approval of projects/investments for Overseas Private Investment Corporation (OPIC) investment guarantees be simplified and streamlined;
-NOW, THEREFORE, I, CORAZON C. AQUINO, President of the Philippines, do hereby order:

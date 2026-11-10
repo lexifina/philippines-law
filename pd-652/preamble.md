@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, rapid changes in technology the world over have made it imperative to update the provisions of Republic Act No. 3099, creating the Bureau of Fiber Inspection Service, so as to maximize the returns of fiber producer's investments, establish a more equitable distribution of income and wealth; and impose stricter qualitative and quantitative control by the government of fibers both for export and for local consumption; and
-WHEREAS, in view of the expanding social amelioration and economic development programs being undertaken by the government, there is a pressing need for increasing government revenues through income-earning agencies and the expansion and rationalization of abaca and other fiber industries of the country;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree that Republic Act No. 3099 be so amended as to read as follows:

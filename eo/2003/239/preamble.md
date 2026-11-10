@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, the Local Government Code provides for inter-LGU collaboration wherein "local government units may group themselves, consolidate, or coordinate their efforts, services and resources for purposes commonly beneficial to them;"
+WHEREAS, the North Luzon Growth Quadrangle Area is an integrated region, composed of Region I, Region II and the Cordillera Administrative Region, established to stimulate trade, investment and tourism activities, generate jobs, expand businesses, and create export markets for local produce, thereby reducing the incidence of poverty in said regions;
+WHEREAS, the North Luzon Growth Quadrangle Area should be efficiently administered in line with the national government's goal of achieving a Strong Republic through effective governance, vigorous free enterprise economy, true and vigorous democratic representation, and a vibrant civil society;
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the perpetuation and official recognition of the time-honored tradition of amicably settling disputes among family and barangay members at the barangay level without judicial recourse would promote the speedy administration of justice and implement the constitutional mandate to preserve and develop Filipino culture and to strengthen the family as a basic social institution;
-WHEREAS, the indiscriminate filing of cases in the courts of justice contributes heavily and unjustifiably to the congestion of court dockets, thus causing a deterioration in the quality of justice;
-WHEREAS, in order to help relieve the courts of such docket congestion and thereby enhance the quality of justice dispensed by the courts, it is deemed desirable to formally organize and institutionalize a system of amicably settling disputes at the barangay level;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

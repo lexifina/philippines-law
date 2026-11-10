@@ -1,0 +1,9 @@
+# Commonwealth Act No. 642: AN ACT TO AMEND SECTIONS EIGHT AND TEN OF ACT NUMBERED THIRTY-TWO HUNDRED AND TWENTY-TWO, ENTITLED "AN ACT GRANTING AUTHORITY TO THE PROVINCE OF ILOILO AND CERTAIN MUNICIPALITIES THEREOF TO ISSUE BONDS FOR THE PURPOSE OF PROVIDING FUNDS FOR PERMANENT PUBLIC IMPROVEMENTS, AND AUTHORIZING THE ISSUE OF BONDS OF OF THE INSULAR GOVERNMENT SECURED BY BONDS OF SAID PROVINCE AND MUNICIPALITIES, AND FOR OTHER PURPOSES."
+
+CA 642 · 1 versions, from 1941-06-11 (latest in force: 1941-06-11) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/36863>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
+| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

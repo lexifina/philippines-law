@@ -1,0 +1,5 @@
+# Preamble
+WHEREAS, under Section 3513 of the Tariff and Customs Code, a cash reward of twenty percentum of the fair market value of the smuggled and confiscated goods is given to the officers and men and informers who are instrumental in the discovery and seizure of such goods in accordance with the rules and regulations to be issued by the Secretary of Finance;
+WHEREAS, the smuggling-out or illegal exportation of Philippine sugar is just as injurious and detrimental to the national economy and to the public interest as the smuggling-in of untaxed goods;
+WHEREAS, it is necessary and advisable to provide material incentives and encouragement to the public and law enforcement personnel to extend full cooperation and do their utmost to stamp-out the smuggling or illegal exportation of Philippine sugar, and also to provide a ready source of funds for the Government's anti-smuggling operations;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

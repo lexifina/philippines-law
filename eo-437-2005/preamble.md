@@ -1,9 +1,0 @@
-# Preamble
-WHEREAS, Section 11, Article XIII, of the 1987 Constitution, declares that "the State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. There shall be priority for the needs of the under-privileged sick, elderly, disabled, women and children. The State shall endeavor to provide free medical care to paupers";
-WHEREAS, Republic Act No. 7277, otherwise known as the Magna Carta for Drabled Persons, expressly provides that "people with disabilities shall be given rehabilitation, opportunities for self-development and self-reliance to prepare them for full integration into the mainstream of society";
-WHEREAS, Republic Act No. 8425, otherwise known as the Social Reform Act Provides for the poverty-alleviation of the basic sectors, including persons with disabilities;
-WHEREAS, the Biwako Millenium Framework which promotes a high-based, barrier-free and inclusive society for persons with disabilities is supported by Proclamation No. 240 "Declaring the period 2003-2012 as the Philippine Decade of Persons with Disabilities";
-WHEREAS, Republic Act No. 7160 known as the Local Government Code of 1991 mandates the devolution of services to the local government units (LGUs);
-WHEREAS, there is a need at the community level for an effective approach in providing comprehensive rehabilitation services and in promoting the rights and empowerment of person with disabilities;
-WHEREAS, the Community-Based approach has been successfully demonstrated as an appropriate way of providing comprehensive rehabilitation services to person with disabilities nationwide.
-NOW, THEREFORE, I GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

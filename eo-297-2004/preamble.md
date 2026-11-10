@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, smuggling and other acts contrary to customs law committed on a large scale o r by criminal syndicates pose a serious and direct threat to the national economy by depriving the government of much-needed revenues and unfairly competing with legitimate businesses and to the national security through the introduction into the country of dangerous drugs or prohibited articles;
-WHEREAS, to maximize the capability of law enforcement agencies and optimize the utilization of government resources in its campaign against smuggling, a Cabinet-level Presidential Adviser must orchestrate and oversee a consolidated anti-smuggling campaign;
-WHEREAS, under Section 31, Chapter 10, Title III, Book III of the Administrative Code of 1987, the President has the continuing authority to reorganize the administrative structure of the Office of the President.
-NOW, THEREFORE I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

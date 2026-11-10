@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, the reforms instituted in the Bureau of Internal Revenue has resulted in the unprecedented increase of income tax filers from 1,431,024 in 1971 to 4,257,094 in 3973 in accordance with the statistics available as of June 30, 1974;
+WHEREAS, revenue collections have also increased progressively during the last three (3) fiscal years beginning with fiscal year ended June 30, 1972 from P2,793,042,015.42 to P5,553,261,563.22, during fiscal year ended June 30, 1974 or an increase of P2,760,219,547.80 which is equivalent to 99%;
+WHEREAS, present conditions and recent developments necessitate changes in some features of the Integrated Reorganization Plan insofar as the Bureau of Internal Revenue is concerned to enable it to continue performing creditably its primordial function of assessment and collection of all internal revenue taxes due the Government; and
+WHEREAS, the continuing rise in the cost of living conditions due to inflation have made the present salaries of revenue officers and employees unrealistic so that there is an urgent need for an increase thereof.
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, the Constitution directs the State to establish and maintain a complete, adequate and integrated system of education relevant to the goals of national development and further prescribes that all educational institutions shall aim to develop scientific, technological and vocational efficiency;
-WHEREAS, under Presidential Decree No. 6-A also known as the Educational Development Decree of 1972 promulgated on September 29, 1972, it is the declared policy of the government to reorient the education system towards economic growth and social development;
-WHEREAS, the conversion of the Don Mariano Marcos Memorial College of Agriculture into a State College with a charter of its own, for the purpose of broadening its curricular offering and redirecting its objectives would hasten the development of the region, particularly the provinces of La Union, Pangasinan, Ilocos Sur and Benguet, and thereby contribute to the accomplishment of national goals;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the following:

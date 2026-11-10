@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, in order to implement fully the provisions of Presidential Decree No. 659, entitled "Penalizing the Illegal Trading and the Illegal Exportation of Philippine Sugar", it is necessary that a government agency be authorized to promulgate rules and regulations that would ensure the effectiveness of said Decree to the smallest details and as the occasion may require from time to time; and
-WHEREAS, it may be necessary to require the traders of sugar, especially the big ones, to submit periodic report as to the quantities of sugar being stored and/or traded by them in order to enable the Government to monitor the movements of sugar all over the country;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

@@ -1,0 +1,7 @@
+# Preamble
+WHEREAS, Article II, Section 9 of the Constitution provides that the State shall free the people from poverty through policies that provide adequate social services, promote full employment and improve the quality of life for all;
+WHEREAS, Section 2 of RA 8435, otherwise known as the Agriculture and Fisheries Modernization Act of 1997, declares/that the State shall enable those who belong to the agriculture and fisheries sector to participate and share in the fruits of development and growth, and that the State shall ensure the availability, adequacy, accessibility and affordability of food supplies for all times;
+WHEREAS, in the pursuit of the mandate provided by the Constitution and existing laws, the national government is committed to ensure the attainment of sustainable food security at all times;
+WHEREAS, Section 2, Chapter I, Title IV, Book IV of the Administrative Code of 1987 mandates the Department of Agriculture to plan, formulate, execute, regulate, and monitor programs and activities relating to agriculture, food production and supply;
+WHEREAS, Section 31, Chapter 10, Title III, Book III, of the Administrative Code of 1987 vests upon the President of the Philippines the continuing authority to reorganize her office.
+NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

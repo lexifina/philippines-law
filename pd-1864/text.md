@@ -1,7 +1,0 @@
-# Text
-WHEREAS, Christine Marie S. Jacob, a citizen of the United States of America, has for almost 15 years been a permanent resident of the Philippines and has from grade school studied here;
-WHEREAS, it has been her wish to make the Philippines her permanent home and has, in her letter-application, manifested her desire to be a Filipino that being a minor, her mother Rosemarie Sotto Jacob, has given full and wholehearted, consent, as expressed in her letter dated April 12, 1983;
-WHEREAS, during the entire period of her stay in the Philippines, she has mingled socially with our people and has embraced and practiced our traditions/customs and shared with us our aspirations;
-WHEREAS, she has associated herself with Filipino athletes and has been identified with them in various international swimming competitions, reaping distinct honors for the country;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby grant Philippine citizenship to Christine Marie S. Jacob with all the rights, privileges and prerogatives appurtenant thereto.
-This Decree shall take effect immediately.

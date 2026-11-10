@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, there is a need to modify the organizational structure of the NATIONAL POLLUTION CONTROL COMMISSION to make it more effective and efficient in the discharge of its functions and responsive to the demands of the times occasioned by the accelerative phase of the country's industrialisation program;
-WHEREAS, there is an imperative need to strengthen this Commission to best protect the people from the growing menace of environmental pollution; and Whereas, it is urgently necessary to maintain the role of the Commission as the primary agency responsible for the preventionand control of environmental pollution;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and decree the revision of Republic Act No. 3931, to be known as the "National Pollution Control Decree of 1D76," to read as follows:

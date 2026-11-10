@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the objective of the State to institute an improved national prison system which is conducive to the reformation and rehabilitation of inmates that will bring them back into the mainstream of society as useful citizens of the country;
-WHEREAS, the New Bilibid Prison Reservation in Muntinlupa City was established in 1935 as one of the seven (7) penal institutions run by the Bureau of Corrections of the Department of Justice;
-WHEREAS, there is a need to improve, expand and upgrade the facilities of the New Bilibid Prison and, at the same time, to relocate it to another site for practical purposes owing to the growing number of residential communities around the penal institution and the more strategic or higher developmental use planned by the government. for its current site;
-WHEREAS, Proclamation No. 1158, series of 2006, has reserved a parcel of land located in Barangay Cuyambay, Municipality of Tanay, Province of Rizal, with an area of Two Hundred Seventy (270) hectares, as the new site of the New Bilibid Prison;
-NOW, THEREFORE, I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, there is an urgent need to compile and collate statistical data on property ownership to determine the overall assets of the country; and
-WHEREAS, there is a necessity to establish a data bank for purposes of economic development planning and judicious allocation of natural resources and capital;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution as Commander-in-Chief of all the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081, dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, whereby I have assumed direction of the operations of the entire Government, do hereby order and decree:
-SECTION I. Who Must File. — Any provision of existing laws to the contrary notwithstanding, all persons, whether natural or juridical, having gross assets of P50,000 or more, as of December 31, 1973, regardless of the net worth, shall file a sworn statement of assets, liabilities and net worth.

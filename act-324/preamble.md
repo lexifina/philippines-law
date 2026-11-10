@@ -1,3 +1,0 @@
-# Preamble
-By authority of the President of the United States, be it enacted by the United States Philippine Commission, that:
-Whereas there is now in the hands of T. C. Woodbury, major, Nineteenth United States Infantry, commander of the subdistrict of Bohol, the sum of nine thousand six hundred and thirty-nine dollars and sixty and five-tenths cents. Mexican, collected by taxation within the territory now constituting the Province of Bohol, but collected for provincial purposes and prior to the organization of that province under the Provincial Government Act, and it is desired that the funds aforesaid should he devoted to the provincial uses for which they were originally collected:

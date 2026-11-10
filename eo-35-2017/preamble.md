@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, Executive Order (EO) No. 17 (s.2017) created the Order of Lapu-Lapu, which shall be awarded to officials and personnel of the government, as well as to private individuals, in recognition of their invaluable service in relation to a campaign or advocacy of the President;
-WHEREAS, the recent crisis in Marawi City, Lanao del Sur brought forth valiant and benevolent acts of civilians and members of the military to ensure the safety and security of Filipino citizens in Mindanao;
-WHEREAS, among these acts of valor and kindness are some that may be describe as extraordinary acts of service and exceptional contributions to the country, the proper recognition of which calls for the revision and expansion of the medals in the Order of Lapu-Lapu to more truly reflect the honor being bestowed on its recipients;
-WHEREAS, there is a need to amend EO No. 17 to ensure that the Order of Lapu-Lapu is conferred upon all who are deserving of merit and recognition and to more fully express the President's appreciation of the Filipino people's contributions to the success of the campaigns and programs of the Government;
-NOW, THEREFORE, I RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

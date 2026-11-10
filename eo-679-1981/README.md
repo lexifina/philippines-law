@@ -1,9 +1,0 @@
-# Executive Order No. 679 (1981): EXPANDING THE COMPOSITION OF THE BOARD OF DIRECTORS OF THE CONSTRUCTION INDUSTRY AUTHORITY OF THE PHILIPPINES
-
-EO 679 (1981) · 1 versions, from 1981-04-21 (latest in force: 1981-04-21) · <https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/88429>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Preamble | [preamble.md](preamble.md) | 0 |  |
-| Section 1 | [sec-001.md](sec-001.md) | 0 |  |
-| Section 2 | [sec-002.md](sec-002.md) | 0 |  |

@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Filipino Retailers' Fund (FRF) in the original amount of Twenty Million Pesos (P20,000,000.00) was created under Republic Act No. 1292 on June 15, 1955, to extend liberal credit facilities to bona fide Filipino retailers;
-WHEREAS, of said Twenty Million Pesos, there remains an amount of THREE MILLION NINETY THOUSAND EIGHT HUNDRED THIRTY EIGHT PESOS AND 27/100 (P3,090,838.27) now deposited with the Philippine National Bank under a current account aside from receivables and collectibles from borrowers;
-WHEREAS, it has been determined that it is no longer viable and economical to continue with the grant of loans to Filipino retailers and that the existing amount now on deposit with the Philippine National Bank will therefore remain dormant and unproductive unless transferred to another active subsisting fund;
-WHEREAS, the Filipino Retailers' Fund can be integrated into the Cottage Industry Guarantee and Loan Fund (CIGLF) which is owned by the National Cottage Industries Development Authority (NACIDA) and administered by the Central Bank of the Philippines;
-WHEREAS, the FRF amount now on deposit with the Philippine National Bank could be best utilized to augment the CIGLF to assist cottage industry producers in the country;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order the following:

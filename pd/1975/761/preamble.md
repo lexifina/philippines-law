@@ -1,0 +1,4 @@
+# Preamble
+WHEREAS, there is a dearth of coastwise vessels to satisfy the needs of the country both as public carriers and as support facilities of enterprises duly registered, operating and doing business under Philippine laws; and
+WHEREAS, the geographical conditions of the country make it imperative that the State give utmost encouragement and assistance to the expansion of shipping facilities and services hand-in-hand with its program of incentives to develop the other sectors of the country and other activities in order for it to attain and sustain the desired rate of growth towards economic self-sufficiency;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Republic of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree, as part of the law of the land, the following:

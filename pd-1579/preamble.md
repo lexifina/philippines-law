@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, a more cohesive, integrated, and responsive administrative machinery is essential to the accelerated and successful implementation of the agricultural development programs; and
-WHEREAS, as presently organized, the Ministry of Agriculture, the entity primarily responsible for the implementation of these programs, needs an improved organizational structure to operate in a unified and synchronized manner, and therefore should be restructured to enable it to attain in the most economical, efficient and effective means the national goal of increased production and self-sufficiency in basic foods.
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby amend Presidential Decree No. 461, as follows:

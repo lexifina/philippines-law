@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, Republic Act (RA) No. 7656 requires all government-owned or - controlled corporations (GOCCs) to declare and remit at least fifty percent (50%) of their annual net earnings as cash, stock or property dividends to the National Government;
+WHEREAS, RA No. 7656 provides that the President of the Philippines, upon the recommendation of the Secretary of Finance, may adjust the percentage of annual net earnings to be declared by a GOCC, in the interest of national economy and general welfare;
+WHEREAS, to support the viability and mandate of the Land Bank of the Philippines (LBP) and the Development Bank of the Philippines (DBP), their liquidity, capital position, medium-term plans and programs were considered in the determination of their respective reasonable dividend rates on net earnings for selected years; and
+WHEREAS, pursuant to RA No. 7656, the Secretary of Finance has recommended the downward adjustment of the percentage of the selected years' net earnings that shall be declared by the LBP and the DBP as dividends to the National Government, in the interest of national economy and general welfare;
+NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Philippines, by virtue of the powers vested in me by the Constitution and existing laws, do hereby order:

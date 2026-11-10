@@ -1,0 +1,6 @@
+# Article VIII, Section 8
+SECTION 8. (1) A Judicial and Bar Council is hereby created under the supervision of the Supreme Court composed of the Chief Justice as ex officio Chairman, the Secretary of Justice, and a representative of the Congress as ex officio Members, a representative of the Integrated Bar, a professor of law, a retired Member of the Supreme Court, and a representative of the private sector.
+(2) The regular Members of the Council shall be appointed by the President for a term of four years with the consent of the Commission on Appointments. Of the Members first appointed, the representative of the Integrated Bar shall serve for four years, the professor of law for three years, the retired Justice for two years, and the representative of the private sector for one year.
+(3) The Clerk of the Supreme Court shall be the Secretary ex officio of the Council and shall keep a record of its proceedings.
+(4) The regular Members of the Council shall receive such emoluments as may be determined by the Supreme Court. The Supreme Court shall provide in its annual budget the appropriations for the Council.
+(5) The Council shall have the principal function of recommending appointees to the Judiciary. It may exercise such other functions and duties as the Supreme Court may assign to it.

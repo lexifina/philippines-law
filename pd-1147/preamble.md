@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the Sangguniang Bayan, organized in the municipal, city, and provincial levels throughout the country pursuant to Presidential Decrees No. 824 and 826, provides grassroots participation of the citizenry in the affairs of the Government;
-WHEREAS, the members of the Sangguniang Bayan have proved to be strong pillars in the actual workings of our democratic processes, giving the people a great voice in the administration of their local affairs and a sound perception of social, economic, and political problems and the solutions thereof for the good of the common weal;
-WHEREAS, in the implementation of its declared policy to afford protection to labor, the State has already extended social-security and insurance benefits to practically all government workers;
-WHEREAS, some members of the Sangguniang Bayan who are unselfishly dedicating themselves to the service of the country and, therefore, are as deserving of such benefits, have not as yet been brought within the beneficial mantle of the Republic Act No. 4898, as amended:
-WHEREAS, it is only equitable and a recognition of their laudable work that members of the Sangguniang Bayan should enjoy at least the same benefits as are enjoyed by barangay captains at present;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby decree and order:

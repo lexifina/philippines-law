@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, due to an outbreak of Avian Influenza (AI), otherwise referred to as the Bird Flu virus, which has affected many countries in Asia, including the deaths of at least twelve people in Vietnam and Thailand, bold, preemptive, active and immediate measures must be taken by the Philippines in order to avert or minimize its grave effects;
-WHEREAS, in the event the epidemic can no longer be prevented and in order to confine, minimize, restrict, or regulate the further spread of the contagion, such measures and actions relative to fowl, poultry, other birds or animals and people, infected or suspected to be infected with the virus need to be implemented;
-WHEREAS, Article II, Section 15 of the Constitution provides that the State shall protect and promote the health of the people and instill health consciousness among them;
-WHEREAS, from past experiences with the SARS virus, effective prevention and containment procedures, guidelines, and strict implementation contributed to the success of the Philippines in minimizing the effects and mortality of said virus;
-NOW, THEREFORE I, GLORIA MACAPAGAL-ARROYO, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby direct and order that:

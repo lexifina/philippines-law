@@ -1,0 +1,2 @@
+# Article X, Section 14
+SECTION 14. The President shall provide for regional development councils or other similar bodies composed of local government officials, regional heads of departments and other government offices, and representatives from non-governmental organizations within the regions for purposes of administrative decentralization to strengthen the autonomy of the units therein and to accelerate the economic and social growth and development of the units in the region.

@@ -1,5 +1,0 @@
-# Preamble
-WHEREAS, in view of the tremendous demand of the services of experienced geologists, mining engineers, paleontologists and metallurgists by the expanding mining industry, many of the technical men of the Bureau of Mines are leaving the stable but low-paying government service for higher salaries and fringe benefits being offered by private enterprises;
-WHEREAS, the Bureau of Mines had actually lost many of its technical men in view of the low salary being offered by the Government;
-WHEREAS, in order to accelerate the development of the mining industry in the country, it is necessary to augment the salaries of all technical men of the Bureau of Mines in the form of monthly incentive allowance to meet the high cost of living;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution as Commander-in-Chief of the Armed Forces of the Philippines, and pursuant to Proclamation No. 1081 dated September 21, 1972, and General Order No. 1, dated September 22, 1972, as amended, do hereby decree and order:

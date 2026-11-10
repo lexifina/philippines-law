@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, savings and loan associations have proved to be effective instruments in encouraging the savings habit of the people, especially among the low- and middle-income groups and in providing additional credit facilities to households, consumers, small-scale entrepreneurs and homebuilders;
-WHEREAS, in addition to catering to the credit needs of households by providing personal finance and long-term financing for home building and development, stock savings and loan associations should also be harnessed to help in the financing of agricultural projects, as envisioned in the Land Reform Program;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, by virtue of the powers in me vested by the Constitution and in order to help effect the desired changes and reforms in the social and economic structure of our society, do hereby order and decree the amendment of Republic Act No. 3779, as amended, as follows:

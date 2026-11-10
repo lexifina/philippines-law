@@ -1,0 +1,6 @@
+# Preamble
+WHEREAS, it is the policy of the Government to further upgrade and develop government personnel to enable them to carry out more effectively and efficiently their duties and responsibilities thru a program of personnel training and development;
+WHEREAS, in order to implement this policy, the position of Assistant Secretary for Personnel Management and Development was created in all departments of the National Government;
+WHEREAS, to enable the Assistant Secretary for Personnel Management and Development to implement and pursue the Manpower Development Policy, it is necessary to create a Manpower Development Service to provide training services for the Department of Public Highways, including management training, as well as other training efforts required in the Department;
+WHEREAS, the immediate creation of this Manpower Development Service in the Department of Public Highways under the direction of the Assistant Secretary for Personnel Management and Development will redound to the improvement of the service, particularly in the Department of Public Highways;
+NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers in me vested by the Constitution, do hereby order and decree:

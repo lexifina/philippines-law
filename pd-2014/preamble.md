@@ -1,4 +1,0 @@
-# Preamble
-WHEREAS, Presidential Decree No. 1314 dated 20 March 1978 which defines the land tenure policies in the Tondo Foreshore Development Project, provides that project beneficiaries holding titles to land shall be charged a fee corresponding to the development cost of the project which is P0.95 per square meter per month;
-WHEREAS, the family beneficiaries of the Tondo Project who are holding Original and/or Transfer Certificates of Titles to their land have petitioned that they not be charged the development cost fee since at the time of implementation of the Tondo Project, they had on their own, caused the 'installation of essential services such as water, electricity and sewerage and therefore did not benefit as much as those beneficiaries who did not own the land at the start of the project;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution, do hereby order and direct:

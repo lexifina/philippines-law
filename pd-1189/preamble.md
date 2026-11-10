@@ -1,6 +1,0 @@
-# Preamble
-WHEREAS, it is the policy of the Government to promote and accelerate the integrated development of agriculture, natural resources, infrastructure and social services in underdeveloped areas in order to improve the existing physical, economic and social structure of Philippine society;
-WHEREAS, a Cabinet Coordinating Committtee on Integrated Rural Development Projects of the National Economic and Development Authority was organized under Letter of Instructions No. 99 later reconstituted under Presidential Decree No. 805 to act as the policy making and governing body of all integrated rural development projects;
-WHEREAS, as integrated rural development project has been adopted for the Cagayan Province as the third integrated rural development project of the Philippines under the direct supervision of the Cabinet Coordinating Committee on Integrated Rural Development Projects;
-WHEREAS, there is a need to create the machinery that will implement the Cagayan Integrated Agricultural Development Project;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitutio, in order to ensure the success of this project, do hereby order and decree the following:

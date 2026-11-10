@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, Section 1, Chapter 1, Title XV, Book IV of Executive Order (EO) No. 292 (s. 1987) or the "Administrative Code of 1987," espouses the Government's commitment to the maintenance and expansion of efficient, fast, safe and dependable transportation systems, which are effective instruments for national recovery and economic progress;
-WHEREAS, the transportation sector, which includes the railways industry, has been identified as a priority sector under Ambisyon Nation 2040, where investments should be complemented by appropriate human capital development;
-WHEREAS, the Department of Transportation (DOTr) is mandated under EO No. 292 to establish and prescribe rules and regulations for the inspection of land transportation facilities, specifically railways;
-WHEREAS, there is an urgent need to develop the human resource capacities of railways personnel to ensure their availability and competence, and guarantee their compliance with generally accepted standards of practice, as well as the rules and regulations pertaining to the safety, operation and maintenance of railways; and
-WHEREAS, Article VII, Section 17 of the Constitution provides that the President shall have control of all the executive departments, bureaus and offices, and shall ensure the faithful execution of the laws;
-NOW, THEREFORE, I, RODRIGO ROA DUTERTE, President of the Republic of the Philippines, by virtue of the powers vested in me by law, do hereby order:

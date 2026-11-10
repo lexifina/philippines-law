@@ -1,7 +1,0 @@
-# Preamble
-WHEREAS, the magnitude of the housing problem of the country has grown into such proportions that only a purposeful, determined, organized mass housing development program can meet the needs of Filipino families for decent dwellings;
-WHEREAS, recognizing the urgency of this problem, the new Constitution of the Philippines has provided in Article II, Section 7 that the "State shall establish, maintain, and ensure adequate social services in the field of * * * * housing * * * * * to guarantee the enjoyment of the people of a decent standard of living;
-WHEREAS, the attainment of this objective is highly dependent on the conservation and rationalization of urban land use as the instrument of urban land reform as well as on our ability to regulate housing financing and construction costs to bring housing to within the reach of the greater number of our people;
-WHEREAS, government efforts in housing are now proliferated among various agencies and there is an urgent need to concentrate such efforts, resources, functions and activities in a national housing agency to maximize results;
-WHEREAS, the effective implementation of housing programs will require the widest participation of the private sector in terms of capital expenditures, land, expertise, and other resources related to housing construction and land development;
-NOW, THEREFORE, I, FERDINAND E. MARCOS, President of the Philippines, by virtue of the powers vested in me by the Constitution do hereby order and decree, as part of the law of the land, the following:
