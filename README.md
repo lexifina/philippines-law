@@ -60,6 +60,7 @@ Each law's commit is credited to the law itself (`Presidential Decree No. 442`),
 - `tools/build.py` writes the history from one corpus file (its sha256 is in `data/corpus.sha256`), and the same corpus gives the same commit hashes; no second build has been compared yet.
 - The Revised Penal Code was compared word by word with the Official Gazette's copy: about 97% of the words agree, and most of the rest are headings, article labels and typing errors. Five evident transcription errors on the Gazette's page of the Constitution were corrected where another publisher's copy and the sense agree.
 - History is append-only (`tools/append.py`): new laws go on top, tags are never moved, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Philippine law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
