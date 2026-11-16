@@ -1,5 +1,9 @@
 # Philippines: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Philippine law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of the Philippines as a git history: one file per article or section, one commit per law on the day it took effect, and the law as the commit's author. `git blame` names the law behind every line; `git log` lists every change to a provision; picking a date gives the text the record holds for that day.
 
